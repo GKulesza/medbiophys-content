@@ -1,25 +1,52 @@
 # Kontakt
 
-Zakład Biofizyki Medycznej  
-Uniwersytet Medyczny w Białymstoku
+Zakład Biofizyki Medycznej znajduje się przy ul. Mickiewicza 2A w Białymstoku.
 
-## Godziny przyjęć
+## Jak do nas trafić?
 
-Poniedziałek–piątek: 8:00–15:00
+Poniższe zdjęcia przedstawiają drogę do Zakładu Biofizyki Medycznej oraz wejście do budynku.
 
-## E-mail
+![Dojście do Zakładu Biofizyki Medycznej](images/contact/location1.png)
 
-[biofizyka@umb.edu.pl](mailto:biofizyka@umb.edu.pl)
+![Dojście do Zakładu Biofizyki Medycznej](images/contact/location2.png)
 
-## Telefon
+![Dojście do Zakładu Biofizyki Medycznej](images/contact/location3.png)
 
-+48 85 748 54 20
+![Dojście do Zakładu Biofizyki Medycznej](images/contact/location4.png)
 
-## Adres
+![Dojście do Zakładu Biofizyki Medycznej](images/contact/location5.png)
 
-ul. Jana Kilińskiego 1  
-15-089 Białystok
+![Wejście do Zakładu Biofizyki Medycznej](images/contact/location6.png)
 
-## Mapa
+## Sekretariat
 
-[Strona zakładu](https://www.umb.edu.pl/wl/zaklad-biofizyki) · [Otwórz w Google Maps](https://www.google.com/maps/search/Uniwersytet+Medyczny+w+Białymstoku)
+Sekretariat Zakładu Biofizyki Medycznej obsługuje sprawy studenckie w następujących godzinach:
+
+* **Poniedziałek:** 9:00–15:00
+* **Wtorek:** nieczynne
+* **Środa:** nieczynne
+* **Czwartek:** 8:30–14:30
+* **Piątek:** nieczynne
+
+W sprawach pilnych poza wyznaczonymi godzinami prosimy o kontakt drogą mailową.
+
+**[biofizyk@umb.edu.pl](mailto:biofizyk@umb.edu.pl)**
+
+## Dane kontaktowe
+
+* **Adres:** ul. Mickiewicza 2A, 15-222 Białystok
+* **Telefon sekretariatu:** (85) 748 56 67
+* **E-mail:** [biofizyk@umb.edu.pl](mailto:biofizyk@umb.edu.pl)
+
+## Kierownik Zakładu
+
+**dr hab. Beata Modzelewska**
+
+* **Telefon:** (85) 748 56 70
+* **E-mail:** [beata.modzelewska@umb.edu.pl](mailto:beata.modzelewska@umb.edu.pl)
+
+## Prowadzący zajęcia
+
+Kontakt z osobami prowadzącymi zajęcia odbywa się drogą e-mailową.
+
+Adresy e-mail pracowników są dostępne w zakładce **Staff**.

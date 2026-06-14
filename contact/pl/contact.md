@@ -6,17 +6,17 @@ Zakład Biofizyki Medycznej znajduje się przy ul. Mickiewicza 2A w Białymstoku
 
 Poniższe zdjęcia przedstawiają drogę do Zakładu Biofizyki Medycznej oraz wejście do budynku.
 
-![Dojście do Zakładu Biofizyki Medycznej](images/contact/location1.png)
+![Dojście do Zakładu Biofizyki Medycznej](images/contact/location1.jpg)
 
-![Dojście do Zakładu Biofizyki Medycznej](images/contact/location2.png)
+![Dojście do Zakładu Biofizyki Medycznej](images/contact/location2.jpg)
 
-![Dojście do Zakładu Biofizyki Medycznej](images/contact/location3.png)
+![Dojście do Zakładu Biofizyki Medycznej](images/contact/location3.jpg)
 
-![Dojście do Zakładu Biofizyki Medycznej](images/contact/location4.png)
+![Dojście do Zakładu Biofizyki Medycznej](images/contact/location4.jpg)
 
-![Dojście do Zakładu Biofizyki Medycznej](images/contact/location5.png)
+![Dojście do Zakładu Biofizyki Medycznej](images/contact/location5.jpg)
 
-![Wejście do Zakładu Biofizyki Medycznej](images/contact/location6.png)
+![Wejście do Zakładu Biofizyki Medycznej](images/contact/location6.jpg)
 
 ## Sekretariat
 

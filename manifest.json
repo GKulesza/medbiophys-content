@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentSetId": "2026-06-14-content",
-  "publishedAt": "2026-06-14T20:34:36Z",
+  "publishedAt": "2026-06-14T20:43:57Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -184,8 +184,8 @@
     {
       "id": "contact/pl/contact",
       "path": "contact/pl/contact.md",
-      "version": "2",
-      "sha256": "ac1993e0bd3296fcb1663280602b0f3cc8407f483287faa8e3729661aa0acccb",
+      "version": "3",
+      "sha256": "115850583f23265c6832577b4480910eaa37de9573375ba52c225556b10b00de",
       "sizeBytes": 1567,
       "locale": "pl"
     },

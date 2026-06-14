@@ -20,6 +20,7 @@ Poniższe zdjęcia przedstawiają drogę do Zakładu Biofizyki Medycznej oraz we
 
 ![Dojście do Zakładu Biofizyki Medycznej .png](images/contact/location1.png)
 ![Dojście do Zakładu Biofizyki Medycznej .jpeg](images/contact/location1.jpeg)
+
 ## Sekretariat
 
 Sekretariat Zakładu Biofizyki Medycznej obsługuje sprawy studenckie w następujących godzinach:

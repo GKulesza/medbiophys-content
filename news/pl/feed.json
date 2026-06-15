@@ -6,15 +6,13 @@
       "id": "news-phase44-pipeline-verification-2026",
       "title": " zdalNY--FF TEST PHASE 44 — weryfikacja publikacji treści",
       "publishedAt": "2026-06-13T19:43:42Z",
-      "markdownBody": "# TEST PHASE 44 — ## weryfikacja publikacji  \n\n![png Laboratorium praktyczne](images/news/workshop_lab.jpg)\n\n \n\n![jpg Laboratorium praktyczne](images/news/workshop_lab.png)\n\n \n\n![jpeg Laboratorium praktyczne](images/news/workshop_lab.jpeg)\n\n ### treści\n\nTen artykuł został utworzony, aby sprawdzić, czy pełny proces edycji treści działa poprawnie: edycja w repozytorium źródłowym, synchronizacja drzew A/B/C, regeneracja manifestu oraz wyświetlenie w aplikacji w sekcji **News**.\n\nJeśli widzisz ten tekst po wybraniu języka **Polski**, pipeline publikacji treści działa."
+      "markdownBody": "# TEST PHASE 44 — weryfikacja publikacji treści\n\nTen artykuł został utworzony, aby sprawdzić, czy pełny proces edycji treści działa poprawnie: edycja w repozytorium źródłowym, synchronizacja drzew A/B/C, regeneracja manifestu oraz wyświetlenie w aplikacji w sekcji **News**.\n\nJeśli widzisz ten tekst po wybraniu języka **Polski**, pipeline publikacji treści działa.\n\n![workshop_lab.png](images/news/workshop_lab.png)\n\n![workshop_lab.jpg](images/news/workshop_lab.jpg)\n\n![workshop_lab.jpeg](images/news/workshop_lab.jpeg)"
     },
     {
-      "id": "b-announcement-lab-hours-2026",
+      "id": "announcement-lab-hours-2026",
       "title": " zdalNY--Wiosenna aktualizacja godzin laboratorium",
       "publishedAt": "2026-05-15T09:00:00Z",
-      "markdownBody": "ss7 # The ABC Wiosenna ## aktualizacja ### godzin laboratorium\n\nLaboratorium Biofizyki Medycznej wydłuża godziny otwarcia w okresie sesji wiosennej.\n\n![Laboratorium praktyczne](images/news/mri_scan.png)\n\n## Najważniejsze zmiany\n\n- Poniedziałek–czwartek: **08:00–18:00**\n- Piątek: **08:00–15:00**\n- Konsultacje po wcześniejszym umówieniu\n\n> Sprawdź harmonogram grupy w kalendarzu przed każdym zajęciem.",
-      "markdownBody": ".jpg # The Wiosenna ## aktualizacja ### godzin laboratorium\n\nLaboratorium Biofizyki Medycznej wydłuża godziny otwarcia w okresie sesji wiosennej.\n\n![Laboratorium praktyczne](images/news/workshop_lab.jpg)\n\n## Najważniejsze zmiany\n\n- Poniedziałek–czwartek: **08:00–18:00**\n- Piątek: **08:00–15:00**\n- Konsultacje po wcześniejszym umówieniu\n\n> Sprawdź harmonogram grupy w kalendarzu przed każdym zajęciem.",
-      "markdownBody": ".jpeg # The Wiosenna ## aktualizacja ### godzin laboratorium\n\nLaboratorium Biofizyki Medycznej wydłuża godziny otwarcia w okresie sesji wiosennej.\n\n![Laboratorium praktyczne](images/news/workshop_lab.jpeg)\n\n## Najważniejsze zmiany\n\n- Poniedziałek–czwartek: **08:00–18:00**\n- Piątek: **08:00–15:00**\n- Konsultacje po wcześniejszym umówieniu\n\n> Sprawdź harmonogram grupy w kalendarzu przed każdym zajęciem."
+      "markdownBody": "# Wiosenna aktualizacja godzin laboratorium\n\nLaboratorium Biofizyki Medycznej wydłuża godziny otwarcia w okresie sesji wiosennej.\n\n## Obrazy testowe (workshop_lab)\n\n![workshop_lab.png — Laboratorium praktyczne](images/news/workshop_lab.png)\n\n![workshop_lab.jpg — Laboratorium praktyczne](images/news/workshop_lab.jpg)\n\n![workshop_lab.jpeg — Laboratorium praktyczne](images/news/workshop_lab.jpeg)\n\n## Najważniejsze zmiany\n\n- Poniedziałek–czwartek: **08:00–18:00**\n- Piątek: **08:00–15:00**\n- Konsultacje po wcześniejszym umówieniu\n\n> Sprawdź harmonogram grupy w kalendarzu przed każdym zajęciem."
     },
     {
       "id": "news-seminar-series-2026",

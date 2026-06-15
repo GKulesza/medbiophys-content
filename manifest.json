@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentSetId": "2026-06-15-content",
-  "publishedAt": "2026-06-15T06:16:35Z",
+  "publishedAt": "2026-06-15T06:20:03Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -16,9 +16,9 @@
     {
       "id": "news/pl",
       "path": "news/pl/feed.json",
-      "version": "8",
-      "sha256": "3f7a52bcebe0c7312765f6ff9f846f2191a1420f24ea975e2bacfc5ae12edc10",
-      "sizeBytes": 12400,
+      "version": "9",
+      "sha256": "ad133933638046dbedbc6e0a6919bd080986ca04d646fb970ff6483b1a2bf527",
+      "sizeBytes": 12408,
       "locale": "pl"
     },
     {

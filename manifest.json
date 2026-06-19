@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentSetId": "2026-06-19-content",
-  "publishedAt": "2026-06-19T13:11:41Z",
+  "publishedAt": "2026-06-19T13:51:25Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -184,9 +184,9 @@
     {
       "id": "contact/pl/contact",
       "path": "contact/pl/contact.md",
-      "version": "7",
-      "sha256": "9ccf2983d3c11b59432a1dda893a1bb38e16f1b3529676dd2917f39922f3e6ba",
-      "sizeBytes": 1667,
+      "version": "8",
+      "sha256": "a2b23cac00b5bc82c6c68acfb07d7c62765e7e9128b475fc62797010382fc145",
+      "sizeBytes": 1707,
       "locale": "pl"
     },
     {
@@ -620,6 +620,270 @@
       "sha256": "3628346bf0740d4433985e8b050d9dc46a9fe0eebdf8361cf536281c9447c519",
       "sizeBytes": 11781,
       "locale": "isv_glag"
+    },
+    {
+      "id": "images/news/cern_medical.png",
+      "path": "images/news/cern_medical.png",
+      "version": "1",
+      "sha256": "80adbfa977fc1159ea748330a089b481cc4b0af8b6b10133e2276363c748dcd5",
+      "sizeBytes": 289816,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/competition_poster.png",
+      "path": "images/news/competition_poster.png",
+      "version": "1",
+      "sha256": "85220d3695f81c4a3385a12a1d0fc0b41cd64aaa8ee04c258d539457d43af8d9",
+      "sizeBytes": 288473,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/conference_2026.png",
+      "path": "images/news/conference_2026.png",
+      "version": "1",
+      "sha256": "85220d3695f81c4a3385a12a1d0fc0b41cd64aaa8ee04c258d539457d43af8d9",
+      "sizeBytes": 288473,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/cosmic_radiation.png",
+      "path": "images/news/cosmic_radiation.png",
+      "version": "1",
+      "sha256": "85220d3695f81c4a3385a12a1d0fc0b41cd64aaa8ee04c258d539457d43af8d9",
+      "sizeBytes": 288473,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/ct_scanner.png",
+      "path": "images/news/ct_scanner.png",
+      "version": "1",
+      "sha256": "abe270f4f9a02dd4b93176bef9c0d0b0e3912a75ebd593e9b6bbc5e15cc1f976",
+      "sizeBytes": 323182,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/digital_xray.png",
+      "path": "images/news/digital_xray.png",
+      "version": "1",
+      "sha256": "85220d3695f81c4a3385a12a1d0fc0b41cd64aaa8ee04c258d539457d43af8d9",
+      "sizeBytes": 288473,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/doppler_ultrasound.png",
+      "path": "images/news/doppler_ultrasound.png",
+      "version": "1",
+      "sha256": "abe270f4f9a02dd4b93176bef9c0d0b0e3912a75ebd593e9b6bbc5e15cc1f976",
+      "sizeBytes": 323182,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/hounsfield_ct.png",
+      "path": "images/news/hounsfield_ct.png",
+      "version": "1",
+      "sha256": "215e650e4ada11d33993ddef6111b6acbe30c2374d325a8ada3f351fbfe9da3a",
+      "sizeBytes": 256768,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/library_study.png",
+      "path": "images/news/library_study.png",
+      "version": "1",
+      "sha256": "85220d3695f81c4a3385a12a1d0fc0b41cd64aaa8ee04c258d539457d43af8d9",
+      "sizeBytes": 288473,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/magnet_diagram.png",
+      "path": "images/news/magnet_diagram.png",
+      "version": "1",
+      "sha256": "215e650e4ada11d33993ddef6111b6acbe30c2374d325a8ada3f351fbfe9da3a",
+      "sizeBytes": 256768,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/marie_curie_lab.png",
+      "path": "images/news/marie_curie_lab.png",
+      "version": "1",
+      "sha256": "215e650e4ada11d33993ddef6111b6acbe30c2374d325a8ada3f351fbfe9da3a",
+      "sizeBytes": 256768,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/medical_ai.png",
+      "path": "images/news/medical_ai.png",
+      "version": "1",
+      "sha256": "abe270f4f9a02dd4b93176bef9c0d0b0e3912a75ebd593e9b6bbc5e15cc1f976",
+      "sizeBytes": 323182,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/mri_scan.png",
+      "path": "images/news/mri_scan.png",
+      "version": "1",
+      "sha256": "80adbfa977fc1159ea748330a089b481cc4b0af8b6b10133e2276363c748dcd5",
+      "sizeBytes": 289816,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/nobel_imaging.png",
+      "path": "images/news/nobel_imaging.png",
+      "version": "1",
+      "sha256": "215e650e4ada11d33993ddef6111b6acbe30c2374d325a8ada3f351fbfe9da3a",
+      "sizeBytes": 256768,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/pet_scanner.png",
+      "path": "images/news/pet_scanner.png",
+      "version": "1",
+      "sha256": "80adbfa977fc1159ea748330a089b481cc4b0af8b6b10133e2276363c748dcd5",
+      "sizeBytes": 289816,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/pet_tracer.png",
+      "path": "images/news/pet_tracer.png",
+      "version": "1",
+      "sha256": "abe270f4f9a02dd4b93176bef9c0d0b0e3912a75ebd593e9b6bbc5e15cc1f976",
+      "sizeBytes": 323182,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/proton_bragg.png",
+      "path": "images/news/proton_bragg.png",
+      "version": "1",
+      "sha256": "80adbfa977fc1159ea748330a089b481cc4b0af8b6b10133e2276363c748dcd5",
+      "sizeBytes": 289816,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/proton_therapy.png",
+      "path": "images/news/proton_therapy.png",
+      "version": "1",
+      "sha256": "85220d3695f81c4a3385a12a1d0fc0b41cd64aaa8ee04c258d539457d43af8d9",
+      "sizeBytes": 288473,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/publication_journal.png",
+      "path": "images/news/publication_journal.png",
+      "version": "1",
+      "sha256": "80adbfa977fc1159ea748330a089b481cc4b0af8b6b10133e2276363c748dcd5",
+      "sizeBytes": 289816,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/student_research.png",
+      "path": "images/news/student_research.png",
+      "version": "1",
+      "sha256": "215e650e4ada11d33993ddef6111b6acbe30c2374d325a8ada3f351fbfe9da3a",
+      "sizeBytes": 256768,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/tissue_attenuation.png",
+      "path": "images/news/tissue_attenuation.png",
+      "version": "1",
+      "sha256": "215e650e4ada11d33993ddef6111b6acbe30c2374d325a8ada3f351fbfe9da3a",
+      "sizeBytes": 256768,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/ultrasound_probe.png",
+      "path": "images/news/ultrasound_probe.png",
+      "version": "1",
+      "sha256": "80adbfa977fc1159ea748330a089b481cc4b0af8b6b10133e2276363c748dcd5",
+      "sizeBytes": 289816,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/workshop_lab.jpeg",
+      "path": "images/news/workshop_lab.jpeg",
+      "version": "1",
+      "sha256": "49d647c6f726ca47dce332fad082c4248c2ba0774371f4881fe7f326807e66f3",
+      "sizeBytes": 31491,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/workshop_lab.jpg",
+      "path": "images/news/workshop_lab.jpg",
+      "version": "1",
+      "sha256": "7b17f3c4640f52ba855576a08f207fb60f4236a59fbc96c678b6001f1b78e693",
+      "sizeBytes": 36843,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/workshop_lab.png",
+      "path": "images/news/workshop_lab.png",
+      "version": "1",
+      "sha256": "f96364f78e30e66a1313a6ac1ca3d18914bb7d8306dc38ece224003d6503a075",
+      "sizeBytes": 412913,
+      "locale": "news"
+    },
+    {
+      "id": "images/contact/location1-kopia.jpg",
+      "path": "images/contact/location1-kopia.jpg",
+      "version": "1",
+      "sha256": "cd0b41248028a0367c5c70ef95eef393f3910d978fea9f2322edcccb6d714bcd",
+      "sizeBytes": 62798,
+      "locale": "contact"
+    },
+    {
+      "id": "images/contact/location1.jpg",
+      "path": "images/contact/location1.jpg",
+      "version": "2",
+      "sha256": "0d70160f625e5eecd89001178ee0a008770f08f82e422355bd9a8f008238bf60",
+      "sizeBytes": 71342,
+      "locale": "contact"
+    },
+    {
+      "id": "images/contact/location2.jpg",
+      "path": "images/contact/location2.jpg",
+      "version": "1",
+      "sha256": "a658a207f6cdea240b65b4f6b6f22c33faa5c05e9a9ddf14de62c2b63c7d0760",
+      "sizeBytes": 203686,
+      "locale": "contact"
+    },
+    {
+      "id": "images/contact/location3.jpg",
+      "path": "images/contact/location3.jpg",
+      "version": "1",
+      "sha256": "15f289f4a3d9176d71bd186db8021d4617b10d523d8eeef04d172182dcbf9ffb",
+      "sizeBytes": 187765,
+      "locale": "contact"
+    },
+    {
+      "id": "images/contact/location4.jpg",
+      "path": "images/contact/location4.jpg",
+      "version": "1",
+      "sha256": "31f2f21c64aedff7f86b99deb07c6def7335e7b1c783254299407d2e161b5ead",
+      "sizeBytes": 160784,
+      "locale": "contact"
+    },
+    {
+      "id": "images/contact/location5.jpg",
+      "path": "images/contact/location5.jpg",
+      "version": "1",
+      "sha256": "140e857ebf4ad350f625c53e58edbc1928a59cbd3bd30c4ab75485049a021494",
+      "sizeBytes": 219465,
+      "locale": "contact"
+    },
+    {
+      "id": "images/contact/location99.jpg",
+      "path": "images/contact/location99.jpg",
+      "version": "1",
+      "sha256": "698788efb0fdb720136a96df2691f695ad2d26ee567c113ebfd3a4df92a26247",
+      "sizeBytes": 76551,
+      "locale": "contact"
+    },
+    {
+      "id": "images/contact/remote_test.jpg",
+      "path": "images/contact/remote_test.jpg",
+      "version": "1",
+      "sha256": "bad0f3fc9f288421803e552328464e8710ee37bed2d60cc51309148fc90662a7",
+      "sizeBytes": 77282,
+      "locale": "contact"
     }
   ]
 }

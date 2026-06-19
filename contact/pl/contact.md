@@ -8,6 +8,8 @@ Poniższe zdjęcia przedstawiają drogę do Zakładu Biofizyki Medycznej oraz we
 
 ![Plik testowy remote_test](images/contact/remote_test.jpg)
 
+![Test](images/contact/location99.jpg)
+
 ![Miejsce wejscia - oznaczonek krzyzykiem](images/contact/location1.jpg)
 
 ![Wejdź przez bramę lub idź w stronę przystanku](images/contact/location2.jpg)

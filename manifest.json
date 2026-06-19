@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentSetId": "2026-06-19-content",
-  "publishedAt": "2026-06-19T14:40:20Z",
+  "publishedAt": "2026-06-19T14:44:47Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -184,9 +184,9 @@
     {
       "id": "contact/pl/contact",
       "path": "contact/pl/contact.md",
-      "version": "9",
-      "sha256": "2b2dcaf67157bfd134e6e83090028a8d75bcd972637a0091ddf00a4b17c188dc",
-      "sizeBytes": 1751,
+      "version": "10",
+      "sha256": "51d7e4773422c3d1868f4ba653cd1980f8ae1c5bd29afb0e60c10b3985ca3605",
+      "sizeBytes": 1522,
       "locale": "pl"
     },
     {
@@ -822,27 +822,11 @@
       "locale": "news"
     },
     {
-      "id": "images/contact/location1-kopia.jpg",
-      "path": "images/contact/location1-kopia.jpg",
-      "version": "1",
-      "sha256": "cd0b41248028a0367c5c70ef95eef393f3910d978fea9f2322edcccb6d714bcd",
-      "sizeBytes": 62798,
-      "locale": "contact"
-    },
-    {
       "id": "images/contact/location1.jpg",
       "path": "images/contact/location1.jpg",
-      "version": "3",
-      "sha256": "396fe2ef05bac736e38b5957e74212a9ec81e53195bcc218a25e4e4a14c30593",
-      "sizeBytes": 53215,
-      "locale": "contact"
-    },
-    {
-      "id": "images/contact/location100.jpg",
-      "path": "images/contact/location100.jpg",
-      "version": "1",
-      "sha256": "30c66577c692f2bc40c73766e1941d4574f3a6ac1088cdc5e165a3fb92be4948",
-      "sizeBytes": 42030,
+      "version": "4",
+      "sha256": "cd0b41248028a0367c5c70ef95eef393f3910d978fea9f2322edcccb6d714bcd",
+      "sizeBytes": 62798,
       "locale": "contact"
     },
     {
@@ -875,22 +859,6 @@
       "version": "1",
       "sha256": "140e857ebf4ad350f625c53e58edbc1928a59cbd3bd30c4ab75485049a021494",
       "sizeBytes": 219465,
-      "locale": "contact"
-    },
-    {
-      "id": "images/contact/location99.jpg",
-      "path": "images/contact/location99.jpg",
-      "version": "1",
-      "sha256": "698788efb0fdb720136a96df2691f695ad2d26ee567c113ebfd3a4df92a26247",
-      "sizeBytes": 76551,
-      "locale": "contact"
-    },
-    {
-      "id": "images/contact/remote_test.jpg",
-      "path": "images/contact/remote_test.jpg",
-      "version": "1",
-      "sha256": "bad0f3fc9f288421803e552328464e8710ee37bed2d60cc51309148fc90662a7",
-      "sizeBytes": 77282,
       "locale": "contact"
     }
   ]

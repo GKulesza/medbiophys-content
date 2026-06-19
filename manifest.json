@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentSetId": "2026-06-19-content",
-  "publishedAt": "2026-06-19T13:51:25Z",
+  "publishedAt": "2026-06-19T14:40:20Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -184,9 +184,9 @@
     {
       "id": "contact/pl/contact",
       "path": "contact/pl/contact.md",
-      "version": "8",
-      "sha256": "a2b23cac00b5bc82c6c68acfb07d7c62765e7e9128b475fc62797010382fc145",
-      "sizeBytes": 1707,
+      "version": "9",
+      "sha256": "2b2dcaf67157bfd134e6e83090028a8d75bcd972637a0091ddf00a4b17c188dc",
+      "sizeBytes": 1751,
       "locale": "pl"
     },
     {
@@ -832,9 +832,17 @@
     {
       "id": "images/contact/location1.jpg",
       "path": "images/contact/location1.jpg",
-      "version": "2",
-      "sha256": "0d70160f625e5eecd89001178ee0a008770f08f82e422355bd9a8f008238bf60",
-      "sizeBytes": 71342,
+      "version": "3",
+      "sha256": "396fe2ef05bac736e38b5957e74212a9ec81e53195bcc218a25e4e4a14c30593",
+      "sizeBytes": 53215,
+      "locale": "contact"
+    },
+    {
+      "id": "images/contact/location100.jpg",
+      "path": "images/contact/location100.jpg",
+      "version": "1",
+      "sha256": "30c66577c692f2bc40c73766e1941d4574f3a6ac1088cdc5e165a3fb92be4948",
+      "sizeBytes": 42030,
       "locale": "contact"
     },
     {

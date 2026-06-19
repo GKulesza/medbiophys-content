@@ -10,6 +10,8 @@ Poniższe zdjęcia przedstawiają drogę do Zakładu Biofizyki Medycznej oraz we
 
 ![Test](images/contact/location99.jpg)
 
+![Stówka](images/contact/location100.jpg)
+
 ![Miejsce wejscia - oznaczonek krzyzykiem](images/contact/location1.jpg)
 
 ![Wejdź przez bramę lub idź w stronę przystanku](images/contact/location2.jpg)

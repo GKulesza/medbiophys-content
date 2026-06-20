@@ -1,156 +1,36 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 6,
   "locale": "isv",
   "items": [
     {
-      "id": "announcement-lab-hours-2026",
-      "title": "ABC Vesenne obnovjenje rabotnyh ## časov laboratorije",
-      "publishedAt": "2026-02-15T09:00:00Z",
-      "markdownBody": "# Vesenne obnovjenje rabotnyh časov laboratorije\n\nLaboratorij Medicinske Biofiziki produljuje rabotno vreme v vesennem ispitnom periodu.\n\n![Praktična laboratorija](images/news/workshop_lab.png)\n\n## Glavne izměny\n\n- Ponedělok–četvertek: **08:00–18:00**\n- Pętnica: **08:00–15:00**\n- Konsultacije po dogovoru"
+      "id": "news-mobile-app-2026",
+      "title": "Mobilna aplikacija dlja studentov Katedry Medicinske Biofiziki",
+      "publishedAt": "2026-06-24T10:00:00Z",
+      "markdownBody": "# Mobilna aplikacija dlja studentov Katedry Medicinske Biofiziki\n\n![Mobilna aplikacija dlja studentov Katedry Medicinske Biofiziki](images/news/news005_mobile_app_release.jpg)\n\n**24 junija 2026** my opublikovali aplikaciju **MedBioPhys**. Naši studenty vse čašče koristajut medicinske tehnologije. My znaem, že prvy god učenja jest samym trudnym (pozdněje budet tolko trudněje, no možno privyknuti). Čtoby pomoči studentam orientirovati se na zanjatijah v našej katedre, my rešili vypustiti aplikaciju MedBioPhys — o jej pol'ze ubedimsja v bližajšem akademičeskom godu.\n\n*Obnovjeno 24.06.2026 Katedroju Medicinske Biofiziki*"
     },
     {
-      "id": "news-seminar-series-2026",
-      "title": "Vesennaja serija seminarov po biofizike",
-      "publishedAt": "2026-02-10T08:30:00Z",
-      "markdownBody": "# Vesennaja serija seminarov po biofizike\n\nKatedra zapušćaje vesennuju seriju o medicinskom obrazovanju i laboratornoj diagnostike.\n\n![Komnata MRI skanera](images/news/mri_scan.png)\n\n## Pervye sesije\n\n1. **Osnovy bezopasnosti MRI** — 18 fevralja\n2. **Ultrazvuk v kliničeskoj praktike** — 4 marta\n3. **Optične metody analizy tkanej** — 18 marta"
+      "id": "news-podlaski-festival-2026",
+      "title": "XXII Podlaskij Festival Nauki i Iskusstva",
+      "publishedAt": "2026-05-14T10:00:00Z",
+      "markdownBody": "# XXII Podlaskij Festival Nauki i Iskusstva\n\n![XXII Podlaskij Festival Nauki i Iskusstva](images/news/news004_festival.jpg)\n\n**14 maja 2026** v ramkah XXII Podlaskogo Festivala Nauki i Iskusstva v Katedre Medicinske Biofiziki sotrudniki približali temy medicinske biofiziki učennikam pervyh i vtoryh klassov škol i detjam detskih sadov. Cělj zanjatij byla popularizacija fiziki v medicině.\n\n*Obnovjeno 18.05.2026 Katedroju Medicinske Biofiziki*"
     },
     {
-      "id": "announcement-library-access-2026",
-      "title": "Produljenje dostupa k radiološkim zbirkam",
-      "publishedAt": "2026-02-08T11:00:00Z",
-      "markdownBody": "# Produljenje pristupa biblioteci\n\nOddeľna čitalnja nyni predostavlja produljeny večernij pristup k radiologičeskim i medicinsko-fizičeskim izdanijam.\n\n![Učebny prostor](images/news/library_study.png)\n\n## Novosti\n\n- Žurnaly o MRI, CT i PET\n- Arhivy o **Marie Curie**"
+      "id": "news-chernobyl-40-spotify-2026",
+      "title": "40 lět posle katastrofy v Černobyľu",
+      "publishedAt": "2026-04-26T10:00:00Z",
+      "markdownBody": "# 40 lět posle katastrofy v Černobyľu\n\n![40 lět posle katastrofy v Černobyľu](images/news/news003_spotify.jpg)\n\n**26 apriľa 2026** minulo 40 lět posle avarii atomnoj elektrostancy v Černobyľu. V Polskom Radiu Białystok v audicii prigotovanej redaktorom Ryszardom Minko odin iz gostej byl dr Jacek Kapała iz Katedry Medicinske Biofiziki. Temoj razgovora vključali monitoring radioaktivnogo zaraženija v vozduhu, kotorogo ne bylo v 1986 godu.\n\nPoslušajte v Spotify:\n\n- [40 lět posle katastrofy atomnoj elektrostancy v Černobyľu](https://open.spotify.com/episode/41IrwBI9bRfaJJJShweBoK?si=LV757jCuQEm8Iq6FkN6lUg)\n\n*Obnovjeno 30.04.2026 Katedroju Medicinske Biofiziki*"
     },
     {
-      "id": "news-mri-technology-advances",
-      "title": "Katedra predstavlja dostignenija v tehnologii MRI",
-      "publishedAt": "2026-02-05T10:00:00Z",
-      "markdownBody": "# Dostignenija v tehnologii MRI\n\nIssledovateli predstavili raboty o **7 T MRI** i kvantitativnyh posledovatelnostjah v nejrovizualizacii.\n\n![Tehnologija MRI](images/news/mri_scan.png)"
+      "id": "news-chernobyl-breath-radio-2026",
+      "title": "Dyhanje Černobyľa — reportaž v Polskom Radiu Białystok",
+      "publishedAt": "2026-04-27T10:00:00Z",
+      "markdownBody": "# Dyhanje Černobyľa — reportaž v Polskom Radiu Białystok\n\n![Dyhanje Černobyľa — reportaž v Polskom Radiu Białystok](images/news/news002_radio_bialystok.jpg)\n\n**27 apriľa 2026** v Polskom Radiu Białystok byl predstavljen reportaž Dominiki Dębskiej i Joanny Sikory *Dyhanje Černobyľa*. V reportaže byli predstavleny vospominanija o vzryve atomnoj elektrostancy sorok lět posle katastrofy. Odin iz vospominajuščih tot period byl dr Jacek Kapała iz Katedry Medicinske Biofiziki.\n\nPoslušajte v YouTube:\n\n- [40 lět posle vzryva v Černobyľu: Kak trauma 1986 goda izmenila Pol'šu](https://www.youtube.com/watch?v=5eLsEDAZHSA)\n\n*Obnovjeno 28.04.2026 Katedroju Medicinske Biofiziki*"
     },
     {
-      "id": "news-pet-imaging-update",
-      "title": "Nove PET protokoly dlja učebnogo onkologičeskogo modulja",
-      "publishedAt": "2026-01-28T09:00:00Z",
-      "markdownBody": "# Obnovjenje PET obrazovanija\n\nKlinični partnery predostavili obnovjene **FDG-PET** protokoly dlja učebnyh slučaev.\n\n![PET skaner](images/news/pet_scanner.png)"
-    },
-    {
-      "id": "news-proton-therapy-centre",
-      "title": "Učebna poseta v centar protonnoj terapije",
-      "publishedAt": "2026-01-22T08:00:00Z",
-      "markdownBody": "# Učebna poseta — protonna terapija\n\nStudenty četvertogo kursa posetit centar **protonnoj terapije** radi planovanja i dozimetrii.\n\n![Centar protonnoj terapije](images/news/proton_therapy.png)"
-    },
-    {
-      "id": "news-ultrasound-physics-course",
-      "title": "Modul fiziki ultrazvuka s praktičnymi Doppler laboratorijami",
-      "publishedAt": "2026-01-18T12:00:00Z",
-      "markdownBody": "# Modul fiziki ultrazvuka\n\nObnovjenny modul **ultrazvuka** vključaje Doppler fantomy i spektralny analiz.\n\n![Ultrazvukova sonda](images/news/ultrasound_probe.png)"
-    },
-    {
-      "id": "news-medical-ai-radiology",
-      "title": "Gostevaja lekcija o medicinskoj AI v radiologii",
-      "publishedAt": "2026-01-12T09:30:00Z",
-      "markdownBody": "# Medicinska AI v radiologii\n\nLekcija razbira, kako **mašinno učenje** pomože obnaruživati plućne čvorove.\n\n![Medicinska AI](images/news/medical_ai.png)"
-    },
-    {
-      "id": "news-hounsfield-lecture-series",
-      "title": "Cikl lekcij Hounsfield o KT vizualizacii",
-      "publishedAt": "2026-01-08T10:00:00Z",
-      "markdownBody": "# Cikl lekcij Hounsfield\n\nSerija posvećena **Sir Godfrey Hounsfield** razbira fiziku kompjuterne tomografije.\n\n![KT skaner](images/news/hounsfield_ct.png)"
-    },
-    {
-      "id": "news-cern-medical-applications",
-      "title": "Medicinske primeny CERN na vesennom kolokviju",
-      "publishedAt": "2026-01-03T08:00:00Z",
-      "markdownBody": "# Medicinske primeny CERN\n\nKolokvij svjazuje **tehnologiju CERN** s medicinskim obrazovaniem i terapije.\n\n![Akcelerator](images/news/cern_medical.png)"
-    },
-    {
-      "id": "scientific-club-imedic-2026",
-      "title": "Naučny Klub: poziv za apstrakty iMEDIC 2026",
-      "publishedAt": "2026-02-01T10:00:00Z",
-      "markdownBody": "# Naučny Klub: iMEDIC 2026\n\nKlub poziva studenty poslati apstrakty za **iMEDIC 2026**.\n\n![Konferencna sala](images/news/conference_2026.png)"
-    },
-    {
-      "id": "scientific-club-student-project-grant",
-      "title": "Studentske granty za dozimetrične projekty",
-      "publishedAt": "2026-01-25T09:00:00Z",
-      "markdownBody": "# Studentske granty\n\nKlub objavljuje mikro-granty za **dozimetrične** projekty.\n\n![Studentska grupa](images/news/student_research.png)"
-    },
-    {
-      "id": "scientific-club-mri-workshop",
-      "title": "Vikend radionica MRI bezopasnosti",
-      "publishedAt": "2026-01-20T14:00:00Z",
-      "markdownBody": "# Radionica MRI bezopasnosti\n\nNovi članovi mogu pohađati radionicu **MRI bezopasnosti**.\n\n![Laboratorija radionice](images/news/workshop_lab.png)"
-    },
-    {
-      "id": "scientific-club-publication-award",
-      "title": "Klub nagrada za biofizičku publikaciju",
-      "publishedAt": "2026-01-14T11:00:00Z",
-      "markdownBody": "# Nagrada za publikaciju\n\nČlan kluba dobio je nagradu za **recenziran rad**.\n\n![Publikacija](images/news/publication_journal.png)"
-    },
-    {
-      "id": "scientific-club-biophysics-competition",
-      "title": "Nacionalno takmičenje iz biofizike — registracija timova",
-      "publishedAt": "2026-01-05T09:00:00Z",
-      "markdownBody": "# Takmičenje iz biofizike\n\nTimovi do četiri studenta mogu se prijaviti na **nacionalno takmičenje**.\n\n![Poster takmičenja](images/news/competition_poster.png)"
-    },
-    {
-      "id": "fun-fact-mri-magnets",
-      "title": "Zanimivost: zašto su MRI magneti tako moćni",
-      "publishedAt": "2026-01-20T12:00:00Z",
-      "markdownBody": "# Zanimivost: MRI magneti\n\nKlinički MRI koristaju superprovodive magnete od **1,5 T ili 3 T**.\n\n![Shema magneta](images/news/magnet_diagram.png)"
-    },
-    {
-      "id": "fun-fact-marie-curie",
-      "title": "Zanimivost: mobilne radiografije Marie Curie",
-      "publishedAt": "2026-01-17T12:00:00Z",
-      "markdownBody": "# Zanimivost: Marie Curie\n\n**Marie Curie** razvila je mobilne radiografije tokom Prvog svetskog rata.\n\n![Istorijska laboratorija](images/news/marie_curie_lab.png)"
-    },
-    {
-      "id": "fun-fact-hounsfield-units",
-      "title": "Zanimivost: što mjere Hounsfield jedinice",
-      "publishedAt": "2026-01-15T12:00:00Z",
-      "markdownBody": "# Zanimivost: Hounsfield jedinice\n\n**Hounsfield jedinice (HU)** skaliraju CT vrednosti prema vodi (0 HU).\n\n![KT slika](images/news/hounsfield_ct.png)"
-    },
-    {
-      "id": "fun-fact-cosmic-radiation",
-      "title": "Zanimivost: kosmičko zračenje u avionu",
-      "publishedAt": "2026-01-12T12:00:00Z",
-      "markdownBody": "# Zanimivost: kosmičko zračenje\n\nPutnici na dalekim letovima primaju **kosmičko zračenje**.\n\n![Kosmičko zračenje](images/news/cosmic_radiation.png)"
-    },
-    {
-      "id": "fun-fact-pet-tracers",
-      "title": "Zanimivost: zašto PET traseri brzo decay-ju",
-      "publishedAt": "2026-01-10T12:00:00Z",
-      "markdownBody": "# Zanimivost: PET traseri\n\nPET traseri koriste kratkožive izotope poput fluora-18.\n\n![PET bočica](images/news/pet_tracer.png)"
-    },
-    {
-      "id": "fun-fact-proton-range",
-      "title": "Zanimivost: Braggov vrh u protonskoj terapiji",
-      "publishedAt": "2026-01-08T12:00:00Z",
-      "markdownBody": "# Zanimivost: domet protonov\n\nProtoni deponuju energiju u oštrom **Braggovom vrhu**.\n\n![Kriva doze](images/news/proton_bragg.png)"
-    },
-    {
-      "id": "fun-fact-nobel-imaging",
-      "title": "Zanimivost: Nobelove nagrade i medicinska vizualizacija",
-      "publishedAt": "2026-01-05T12:00:00Z",
-      "markdownBody": "# Zanimivost: Nobel i vizualizacija\n\nMedicinska vizualizacija ima više **Nobelovih nagrada**.\n\n![Nobel koláž](images/news/nobel_imaging.png)"
-    },
-    {
-      "id": "fun-fact-ultrasound-frequency",
-      "title": "Zanimivost: ultrazvučne frekvencije u klinici",
-      "publishedAt": "2026-01-03T12:00:00Z",
-      "markdownBody": "# Zanimivost: ultrazvuk frekvencije\n\nDijagnostički ultrazvuk koristi sonde **2–18 MHz**.\n\n![Doppler ultrazvuk](images/news/doppler_ultrasound.png)"
-    },
-    {
-      "id": "fun-fact-digital-radiography",
-      "title": "Zanimivost: digitalna radiografija zamenila film",
-      "publishedAt": "2026-01-01T12:00:00Z",
-      "markdownBody": "# Zanimivost: digitalna radiografija\n\n**Digitalna radiografija** zamenjuje hemijsko otkrivanje filma.\n\n![Digitalni detektor](images/news/digital_xray.png)"
-    },
-    {
-      "id": "fun-fact-tissue-attenuation",
-      "title": "Zanimivost: attenuacija tkiva zavisi od modaliteta",
-      "publishedAt": "2025-12-28T12:00:00Z",
-      "markdownBody": "# Zanimivost: attenuacija tkiva\n\nIsto tkivo attenuira **X-zrake**, **ultrazvuk** i **MRI** različito.\n\n![Ilustracija kontrasta](images/news/tissue_attenuation.png)"
+      "id": "news-new-handbooks-2025",
+      "title": "Nove svesky upražnenij",
+      "publishedAt": "2025-10-01T10:00:00Z",
+      "markdownBody": "# Nove svesky upražnenij\n\n![Nove svesky upražnenij](images/news/news001_new_handbooks.jpg)\n\n**Vnimanie dlja vseh program.** S učebnogo goda **2025/26** dejstvujut nove svesky dlja upražnenij s obnovlěnnym materialom.\n\n*Obnovjeno 01.10.2025 Katedroju Medicinske Biofiziki*"
     }
   ]
 }

@@ -24,7 +24,7 @@ Pravidla a predpisy pro kurz Biofyzika
 5. Laboratorni hodiny jsou rozdeleny do 3 tematickych modulu.
 6. Úspechy studentu v praktické části jsou hodnoceny na základe teoretického základu a praktického vykonu, včetne: experimentu (individuálnich nebo skupinovych), analyzy a prezentace vysledku; report podle daného vzorce (dostupny na webu katedry).
 7. Každy student muže ziskat 2 bonusové body za vynikajici vykon na konkrétnich laboratornich setkánich.
-8. Na konci každého semestru, po laboratorni praxi, musi studenti složit test z laboratornich a prednáškovych témat (max. 40 bodu: 30 za cvičeni, 10 za prednášky).
+8. Na konci každého semestru musi studenti po laboratornim cvičeni složit test z laboratornich a prednáškovych témat (max. 40 bodu: 30 za cvičeni, 10 za prednášky).
 9. Konečná známka za laboratorni kurzy je součtem laboratornich kreditu, bonusovych bodu a testovacich bodu. Maximum:
 
    `18(3x6)+40=58`

@@ -1,6 +1,6 @@
 # Reguloj kaj Regularoj
 
-Reguloj kaj Regularoj por la Biofizika kurso
+Reguloj kaj Regularoj por la kurso de Biofiziko
 
 ## Ĝeneralaj Reguloj kaj Regularoj
 

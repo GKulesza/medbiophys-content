@@ -14,7 +14,7 @@
 
    - Vi povas uzi kalkulilon, kondiĉe ke vi kunportu vian propran kaj certigu, ke ĝi funkcias ĝuste.
    - Testanta personaro ne provizos rezervajn kalkulilojn aŭ bateriojn.
-   - Vi ne rajtas dividi kalkulilon kun alia ekzamenato.
+   - Vi eble ne kundividas kalkulilon kun alia ekzamenato.
 
 6. Malpermesitaj kalkuliloj/aparatoj
 

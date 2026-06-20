@@ -4,7 +4,7 @@ La laboratorio estas sekura loko por eksperimenti se vi estas singarda. Vi devas
 
 1. Vi devas eniri la konstruaĵon de la Fako de Biofiziko ne pli frue ol 15 minutojn antaŭ la komenco de la klasoj. En la loko de la Sekcio de Biofiziko, protektaj maskoj aŭ vizieroj devas esti portitaj.
 2. Enirinte la konstruaĵon de la Fako de Biofiziko, vi devas desinfekti viajn manojn.
-3. Neniuj subĉielaj ŝuoj aŭ sandaloj estas permesitaj. Laboratoriaj ŝuoj aŭ ŝuoj kaj blankaj laboratoriomanteloj estas devigaj alie vi ne povos partopreni en la LAB!
+3. Neniuj subĉielaj ŝuoj aŭ sandaloj estas permesitaj. Laboraj ŝuoj aŭ ŝuoj kovriloj kaj blankaj laboratoriomanteloj estas devigaj alie vi ne povos partopreni en la LAB!
 4. Mantoj ktp devas esti lasitaj en la vestejo. Studentoj ne rajtas porti pezajn eksterajn mantelojn aŭ jakojn al iu ajn laboratorio.
 5. Ne faru eksperimentojn ne rajtigitajn. Ĉiam akiru la permeson de via instruisto.
 6. Studu vian laboratoriotaskon antaŭ ol vi venos al la laboratorio. Se vi dubas pri iu ajn proceduro, petu helpon al via instruisto.

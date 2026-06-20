@@ -31,13 +31,13 @@
 - B.W9: Fizikaj principoj de elektitaj terapiaj teknikoj inkluzive de ultrasono kaj surradiado.
 - B.W24: Bazoj de neŭrala kondukado kaj stimulo; pli altaj nervaj funkcioj; fiziologio de glataj kaj striitaj muskoloj; la rolo de sango.
 - B.W25: Funkcioj kaj mekanismoj de ĉiuj homaj organsistemoj; interrilatoj inter organoj kaj sistemoj.
-- B.W32: Bazaj statistikaj metodoj uzataj en populacio kaj diagnozaj studoj.
+- B.W32: Bazaj statistikaj metodoj uzitaj en populacio kaj diagnozaj studoj.
 - B.W34: Principoj de farado de scienca, observa kaj eksperimenta esplorado, inkluzive en vitro, por la evoluo de medicino.
 
 ### Kapabloj
 
 - B.U1: Apliki fizikajn leĝojn por klarigi efikojn de eksteraj faktoroj (temperaturo, akcelo, premo, EM-kampoj, joniga radiado) sur la korpo kaj ĝiaj elementoj.
-- B.U2: Taksi malutilajn efikojn de joniga radiado-dozo kaj sekvu regulojn pri radiologia protekto.
+- B.U2: Taksi malutilajn efikojn de joniga radiado dozo kaj sekvu radiologiajn protektoregulojn.
 - B.U3: Kalkuli molajn kaj procentajn koncentriĝojn; koncentriĝoj en unu- kaj plurkomponentaj izotonaj solvaĵoj.
 - B.U7: Priskribu ŝanĝojn pro homeostazo-malsanoj (ekzerco, varmo/malvarma eksponiĝo, sango/akvoperdo, ortostazo, transiro de dormo-vekiĝo).
 - B.U10: Uzu simplan mezuran ekipaĵon kaj taksu mezuran precizecon.

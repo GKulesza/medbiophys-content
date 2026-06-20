@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentSetId": "2026-06-19-content",
-  "publishedAt": "2026-06-19T14:44:47Z",
+  "contentSetId": "2026-06-20-content",
+  "publishedAt": "2026-06-20T11:01:23Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -230,56 +230,112 @@
       "locale": "isv_glag"
     },
     {
-      "id": "resources/en",
-      "path": "resources/en/resources.json",
+      "id": "resources/_default/en",
+      "path": "resources/_default/en/resources.json",
       "version": "1",
       "sha256": "7a1e182723e84a0daea5dd4fdd0096ae98a95518214af11b1cdad157ebdad380",
       "sizeBytes": 2290,
       "locale": "en"
     },
     {
-      "id": "resources/pl",
-      "path": "resources/pl/resources.json",
+      "id": "resources/_default/pl",
+      "path": "resources/_default/pl/resources.json",
       "version": "1",
       "sha256": "0657398daada0318dbc0e31c0e9af9be8f29367f0b9f62dc865e949496f8edfb",
       "sizeBytes": 2355,
       "locale": "pl"
     },
     {
-      "id": "resources/es",
-      "path": "resources/es/resources.json",
+      "id": "resources/_default/es",
+      "path": "resources/_default/es/resources.json",
       "version": "1",
       "sha256": "4ade5c09d87525154d1ac8a2c4fd74ec226e4121e0d6a5f8247a0cbf12330b32",
       "sizeBytes": 2394,
       "locale": "es"
     },
     {
-      "id": "resources/eo",
-      "path": "resources/eo/resources.json",
+      "id": "resources/_default/eo",
+      "path": "resources/_default/eo/resources.json",
       "version": "1",
       "sha256": "d0644f7e00569587a3825afa2eaf39f474be44e0c921fb2def5ac37d2208f632",
       "sizeBytes": 2324,
       "locale": "eo"
     },
     {
-      "id": "resources/isv",
-      "path": "resources/isv/resources.json",
+      "id": "resources/_default/isv",
+      "path": "resources/_default/isv/resources.json",
       "version": "1",
       "sha256": "998b08d2ea71e6f3beaa41ca5ee1a72d192440b0c6359a7ff488603917072738",
       "sizeBytes": 2320,
       "locale": "isv"
     },
     {
-      "id": "resources/isv_cyrl",
-      "path": "resources/isv_cyrl/resources.json",
+      "id": "resources/_default/isv_cyrl",
+      "path": "resources/_default/isv_cyrl/resources.json",
       "version": "1",
       "sha256": "7091844d873a73ee55c0740f435ba7ba2ceb2ea4758f9fd1dface1939c6d8fbc",
       "sizeBytes": 3248,
       "locale": "isv_cyrl"
     },
     {
-      "id": "resources/isv_glag",
-      "path": "resources/isv_glag/resources.json",
+      "id": "resources/_default/isv_glag",
+      "path": "resources/_default/isv_glag/resources.json",
+      "version": "1",
+      "sha256": "060b975041bb5b0151f077d481115746b1008858bc8a284365bc9dcbcbe77a6e",
+      "sizeBytes": 4201,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "resources/lekarski/en",
+      "path": "resources/lekarski/en/resources.json",
+      "version": "1",
+      "sha256": "cd819d1bb7422811ea62d2e2faf14205b96c61b8af7dfc14f1e47292a9c5f026",
+      "sizeBytes": 2322,
+      "locale": "en"
+    },
+    {
+      "id": "resources/lekarski/pl",
+      "path": "resources/lekarski/pl/resources.json",
+      "version": "1",
+      "sha256": "0657398daada0318dbc0e31c0e9af9be8f29367f0b9f62dc865e949496f8edfb",
+      "sizeBytes": 2355,
+      "locale": "pl"
+    },
+    {
+      "id": "resources/lekarski/es",
+      "path": "resources/lekarski/es/resources.json",
+      "version": "1",
+      "sha256": "4ade5c09d87525154d1ac8a2c4fd74ec226e4121e0d6a5f8247a0cbf12330b32",
+      "sizeBytes": 2394,
+      "locale": "es"
+    },
+    {
+      "id": "resources/lekarski/eo",
+      "path": "resources/lekarski/eo/resources.json",
+      "version": "1",
+      "sha256": "d0644f7e00569587a3825afa2eaf39f474be44e0c921fb2def5ac37d2208f632",
+      "sizeBytes": 2324,
+      "locale": "eo"
+    },
+    {
+      "id": "resources/lekarski/isv",
+      "path": "resources/lekarski/isv/resources.json",
+      "version": "1",
+      "sha256": "998b08d2ea71e6f3beaa41ca5ee1a72d192440b0c6359a7ff488603917072738",
+      "sizeBytes": 2320,
+      "locale": "isv"
+    },
+    {
+      "id": "resources/lekarski/isv_cyrl",
+      "path": "resources/lekarski/isv_cyrl/resources.json",
+      "version": "1",
+      "sha256": "7091844d873a73ee55c0740f435ba7ba2ceb2ea4758f9fd1dface1939c6d8fbc",
+      "sizeBytes": 3248,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "resources/lekarski/isv_glag",
+      "path": "resources/lekarski/isv_glag/resources.json",
       "version": "1",
       "sha256": "060b975041bb5b0151f077d481115746b1008858bc8a284365bc9dcbcbe77a6e",
       "sizeBytes": 4201,
@@ -342,283 +398,563 @@
       "locale": "isv_glag"
     },
     {
-      "id": "regulations/en/regulations",
-      "path": "regulations/en/regulations.md",
+      "id": "regulations/_default/en/regulations",
+      "path": "regulations/_default/en/regulations.md",
       "version": "1",
       "sha256": "08c1b888cddd5ea1070316ff14aec766efa971c4c77759c172fd2d8603ac2d6a",
       "sizeBytes": 2591,
       "locale": "en"
     },
     {
-      "id": "regulations/en/safety",
-      "path": "regulations/en/safety.md",
+      "id": "regulations/_default/en/safety",
+      "path": "regulations/_default/en/safety.md",
       "version": "1",
       "sha256": "daa7372693a149a1c70afdd6d80d9aa8c3f79af7b259a90a2b985cf010258ec2",
       "sizeBytes": 1891,
       "locale": "en"
     },
     {
-      "id": "regulations/en/assessment",
-      "path": "regulations/en/assessment.md",
+      "id": "regulations/_default/en/assessment",
+      "path": "regulations/_default/en/assessment.md",
       "version": "1",
       "sha256": "5e2f6544ecafc2383dfdd71104ca0d0e4ce283c1a4b78335ac8a959a25104c2f",
       "sizeBytes": 1757,
       "locale": "en"
     },
     {
-      "id": "regulations/en/exam",
-      "path": "regulations/en/exam.md",
+      "id": "regulations/_default/en/exam",
+      "path": "regulations/_default/en/exam.md",
       "version": "1",
       "sha256": "bb8313c2a29e4e18037311fc1f12bf28c2913ec9b6ac070ada3375f2ba3eb3a8",
       "sizeBytes": 2068,
       "locale": "en"
     },
     {
-      "id": "regulations/en/syllabus",
-      "path": "regulations/en/syllabus.md",
+      "id": "regulations/_default/en/syllabus",
+      "path": "regulations/_default/en/syllabus.md",
       "version": "1",
       "sha256": "3719b3a5236721a8efd467c55c6066c7622439cc6cfbcaa24e3ed462b3f66082",
       "sizeBytes": 4757,
       "locale": "en"
     },
     {
-      "id": "regulations/pl/regulations",
-      "path": "regulations/pl/regulations.md",
+      "id": "regulations/_default/pl/regulations",
+      "path": "regulations/_default/pl/regulations.md",
       "version": "1",
       "sha256": "3e50a68f2f0b4bc83810f361dd67c0db93d18773cf4551def5b08281ae7c31c3",
       "sizeBytes": 2793,
       "locale": "pl"
     },
     {
-      "id": "regulations/pl/safety",
-      "path": "regulations/pl/safety.md",
+      "id": "regulations/_default/pl/safety",
+      "path": "regulations/_default/pl/safety.md",
       "version": "1",
       "sha256": "5e2d3198d562d2ec6f0c9c4a0f0f4fd1852fa54546f916902977cbffae3c83e2",
       "sizeBytes": 1966,
       "locale": "pl"
     },
     {
-      "id": "regulations/pl/assessment",
-      "path": "regulations/pl/assessment.md",
+      "id": "regulations/_default/pl/assessment",
+      "path": "regulations/_default/pl/assessment.md",
       "version": "1",
       "sha256": "968edaf224c32f405f6ace2b0f3d6678f3efb1e0c7f81a8994f8dbb708b1d540",
       "sizeBytes": 1817,
       "locale": "pl"
     },
     {
-      "id": "regulations/pl/exam",
-      "path": "regulations/pl/exam.md",
+      "id": "regulations/_default/pl/exam",
+      "path": "regulations/_default/pl/exam.md",
       "version": "1",
       "sha256": "307c0190c117104fe013702dc31120c47ae791da8065f8bb5f8d924acf20f4f9",
       "sizeBytes": 2151,
       "locale": "pl"
     },
     {
-      "id": "regulations/pl/syllabus",
-      "path": "regulations/pl/syllabus.md",
+      "id": "regulations/_default/pl/syllabus",
+      "path": "regulations/_default/pl/syllabus.md",
       "version": "1",
       "sha256": "5b76cba1e330a35be544c19df4d790cc5197d9d4010453033dd806e4b3534182",
       "sizeBytes": 5003,
       "locale": "pl"
     },
     {
-      "id": "regulations/es/regulations",
-      "path": "regulations/es/regulations.md",
+      "id": "regulations/_default/es/regulations",
+      "path": "regulations/_default/es/regulations.md",
       "version": "1",
       "sha256": "1cd3550feba6a3408a6b01c94027a8484200ee72a5f44a2de28891c4d3831b79",
       "sizeBytes": 3141,
       "locale": "es"
     },
     {
-      "id": "regulations/es/safety",
-      "path": "regulations/es/safety.md",
+      "id": "regulations/_default/es/safety",
+      "path": "regulations/_default/es/safety.md",
       "version": "1",
-      "sha256": "5f686a134f2595610bf7b20e55f94ff5e7b94a492e4d2f68842d253b0beddf39",
-      "sizeBytes": 2148,
+      "sha256": "f3706fb7839ef13e89d06c7d7075e8fad244f5c5f0f3d3a85cca94e9cd7e1a48",
+      "sizeBytes": 2150,
       "locale": "es"
     },
     {
-      "id": "regulations/es/assessment",
-      "path": "regulations/es/assessment.md",
+      "id": "regulations/_default/es/assessment",
+      "path": "regulations/_default/es/assessment.md",
       "version": "1",
       "sha256": "74452bc4e49869fba92cd96bede1eed1d4f46359e10cb6a8cc03a2678fc8157c",
       "sizeBytes": 2091,
       "locale": "es"
     },
     {
-      "id": "regulations/es/exam",
-      "path": "regulations/es/exam.md",
+      "id": "regulations/_default/es/exam",
+      "path": "regulations/_default/es/exam.md",
       "version": "1",
       "sha256": "286220e863ae673abbd9b0fae8d94b83ca6837cffb95d04ca2d21d9b5cd248ad",
       "sizeBytes": 2386,
       "locale": "es"
     },
     {
-      "id": "regulations/es/syllabus",
-      "path": "regulations/es/syllabus.md",
+      "id": "regulations/_default/es/syllabus",
+      "path": "regulations/_default/es/syllabus.md",
       "version": "1",
       "sha256": "438ec1374d7fd1c231349797e3ecb561dc94d523a6d9095e4d86e410e439c0c1",
       "sizeBytes": 5473,
       "locale": "es"
     },
     {
-      "id": "regulations/eo/regulations",
-      "path": "regulations/eo/regulations.md",
+      "id": "regulations/_default/eo/regulations",
+      "path": "regulations/_default/eo/regulations.md",
       "version": "1",
-      "sha256": "71494d4993a54686cb2e25d0df1a0186461e73f2d9dca5fe3dc44cf69a905c80",
-      "sizeBytes": 2713,
+      "sha256": "d0f6e2a50a042fcbc6e6fc99ac27ee598b083376ca7ac5fd9809e69188410016",
+      "sizeBytes": 2716,
       "locale": "eo"
     },
     {
-      "id": "regulations/eo/safety",
-      "path": "regulations/eo/safety.md",
+      "id": "regulations/_default/eo/safety",
+      "path": "regulations/_default/eo/safety.md",
       "version": "1",
-      "sha256": "c52765d6a30f493a92c42e9b8867e2f1032206a4eee2d9c5a198ae3f41c8f376",
-      "sizeBytes": 1902,
+      "sha256": "e7c47402352b50e0a1c64177efe02d9d5f650d0799df7dc8ef7895740b18a3f3",
+      "sizeBytes": 1906,
       "locale": "eo"
     },
     {
-      "id": "regulations/eo/assessment",
-      "path": "regulations/eo/assessment.md",
+      "id": "regulations/_default/eo/assessment",
+      "path": "regulations/_default/eo/assessment.md",
       "version": "1",
       "sha256": "9545e12c7b3caef95bae46173641dce0fe2bed4c39d9d47e55b885e7bcd3596c",
       "sizeBytes": 1812,
       "locale": "eo"
     },
     {
-      "id": "regulations/eo/exam",
-      "path": "regulations/eo/exam.md",
+      "id": "regulations/_default/eo/exam",
+      "path": "regulations/_default/eo/exam.md",
       "version": "1",
-      "sha256": "3b3a9b8d33ead000c91cfd9f007b59464c30f55c73412b72aa7d0c13e0b985d7",
-      "sizeBytes": 2142,
+      "sha256": "8e2b1bd8796f04746b214f3e384249ff54a22eafcffd9a1e110ae384c7eb8323",
+      "sizeBytes": 2144,
       "locale": "eo"
     },
     {
-      "id": "regulations/eo/syllabus",
-      "path": "regulations/eo/syllabus.md",
+      "id": "regulations/_default/eo/syllabus",
+      "path": "regulations/_default/eo/syllabus.md",
       "version": "1",
-      "sha256": "894ff4ae95f51e0f0096e2cbde09d9582c2554893015890d504762f94478acaf",
-      "sizeBytes": 4676,
+      "sha256": "51dc103d9af077ea6498676baed96e766012f9ae58d560319b4498e1c5cb8e97",
+      "sizeBytes": 4673,
       "locale": "eo"
     },
     {
-      "id": "regulations/isv/regulations",
-      "path": "regulations/isv/regulations.md",
+      "id": "regulations/_default/isv/regulations",
+      "path": "regulations/_default/isv/regulations.md",
       "version": "1",
-      "sha256": "5f5e504b5fb8b778f6ad9e2ae621ad0722044b8c6722f0f30d932252045e5d48",
-      "sizeBytes": 2638,
+      "sha256": "a18e5c1de77ef54f57357a887b456b47cb9dbdeac6c7247b8a162eff88bdef40",
+      "sizeBytes": 2640,
       "locale": "isv"
     },
     {
-      "id": "regulations/isv/safety",
-      "path": "regulations/isv/safety.md",
+      "id": "regulations/_default/isv/safety",
+      "path": "regulations/_default/isv/safety.md",
       "version": "1",
       "sha256": "be053b7c954d1c1773c497c2c4acf4a9973fbddbde134212788bce774a07fcc3",
       "sizeBytes": 1843,
       "locale": "isv"
     },
     {
-      "id": "regulations/isv/assessment",
-      "path": "regulations/isv/assessment.md",
+      "id": "regulations/_default/isv/assessment",
+      "path": "regulations/_default/isv/assessment.md",
       "version": "1",
       "sha256": "0cb1e922dc22450cc599611b7321926807abd90443520c52b602d8784d30da62",
       "sizeBytes": 1774,
       "locale": "isv"
     },
     {
-      "id": "regulations/isv/exam",
-      "path": "regulations/isv/exam.md",
+      "id": "regulations/_default/isv/exam",
+      "path": "regulations/_default/isv/exam.md",
       "version": "1",
       "sha256": "95595ae2b32e52311873da031827c49586fbdd8faef2750603ce62aa1b6617fd",
       "sizeBytes": 2198,
       "locale": "isv"
     },
     {
-      "id": "regulations/isv/syllabus",
-      "path": "regulations/isv/syllabus.md",
+      "id": "regulations/_default/isv/syllabus",
+      "path": "regulations/_default/isv/syllabus.md",
       "version": "1",
       "sha256": "ced755256e7a54b4a883f90e0b868f5449ed1487f82d27859bc534307200fd9c",
       "sizeBytes": 4791,
       "locale": "isv"
     },
     {
-      "id": "regulations/isv_cyrl/regulations",
-      "path": "regulations/isv_cyrl/regulations.md",
-      "version": "2",
-      "sha256": "f117c2fd6fb2cb6c43cc79ce1137f0d3acf649259484308d5b49dd57de470bb6",
-      "sizeBytes": 4538,
+      "id": "regulations/_default/isv_cyrl/regulations",
+      "path": "regulations/_default/isv_cyrl/regulations.md",
+      "version": "1",
+      "sha256": "21ffa476bf6acccd1f0eaeb06ed37c5756223c6d90b854b85bde914d7f60512d",
+      "sizeBytes": 4543,
       "locale": "isv_cyrl"
     },
     {
-      "id": "regulations/isv_cyrl/safety",
-      "path": "regulations/isv_cyrl/safety.md",
-      "version": "2",
+      "id": "regulations/_default/isv_cyrl/safety",
+      "path": "regulations/_default/isv_cyrl/safety.md",
+      "version": "1",
       "sha256": "bf5703aa48ca6563ef6bd880d9e6b7d5091a6e8f41bfd788f8f8e2a44c0b51ac",
       "sizeBytes": 3337,
       "locale": "isv_cyrl"
     },
     {
-      "id": "regulations/isv_cyrl/assessment",
-      "path": "regulations/isv_cyrl/assessment.md",
-      "version": "2",
+      "id": "regulations/_default/isv_cyrl/assessment",
+      "path": "regulations/_default/isv_cyrl/assessment.md",
+      "version": "1",
       "sha256": "ca71459c6e3e7a6ef2a683925985b4f7a865c9a1b182676cc303a53f49406c6f",
       "sizeBytes": 3098,
       "locale": "isv_cyrl"
     },
     {
-      "id": "regulations/isv_cyrl/exam",
-      "path": "regulations/isv_cyrl/exam.md",
-      "version": "2",
+      "id": "regulations/_default/isv_cyrl/exam",
+      "path": "regulations/_default/isv_cyrl/exam.md",
+      "version": "1",
       "sha256": "5f23a02e16cfd8ec10a41bdef33527c83bb0133faaa659d3f97e1f5bee98b045",
       "sizeBytes": 3779,
       "locale": "isv_cyrl"
     },
     {
-      "id": "regulations/isv_cyrl/syllabus",
-      "path": "regulations/isv_cyrl/syllabus.md",
-      "version": "2",
+      "id": "regulations/_default/isv_cyrl/syllabus",
+      "path": "regulations/_default/isv_cyrl/syllabus.md",
+      "version": "1",
       "sha256": "aa509ff1b2e470197f738017d9a5d4703aac2bd08820d88c3d65c8a3ab2ffed1",
       "sizeBytes": 8310,
       "locale": "isv_cyrl"
     },
     {
-      "id": "regulations/isv_glag/regulations",
-      "path": "regulations/isv_glag/regulations.md",
-      "version": "2",
-      "sha256": "0afac2b03f001070779251eb3acf4907ed2d2adf36ab39495437cc537b00e683",
-      "sizeBytes": 6394,
+      "id": "regulations/_default/isv_glag/regulations",
+      "path": "regulations/_default/isv_glag/regulations.md",
+      "version": "1",
+      "sha256": "871356da077af881a80a12cd6f92d6543af8366e781e085b277f6d819488f2d1",
+      "sizeBytes": 6403,
       "locale": "isv_glag"
     },
     {
-      "id": "regulations/isv_glag/safety",
-      "path": "regulations/isv_glag/safety.md",
-      "version": "2",
+      "id": "regulations/_default/isv_glag/safety",
+      "path": "regulations/_default/isv_glag/safety.md",
+      "version": "1",
       "sha256": "c9ace8272456c5e2476be4c7efa15e3ad311e30f59d0e4b71ecce08a189bbc0c",
       "sizeBytes": 4769,
       "locale": "isv_glag"
     },
     {
-      "id": "regulations/isv_glag/assessment",
-      "path": "regulations/isv_glag/assessment.md",
-      "version": "2",
+      "id": "regulations/_default/isv_glag/assessment",
+      "path": "regulations/_default/isv_glag/assessment.md",
+      "version": "1",
       "sha256": "fa21baf6681da800cf72b6144fc53e03a0a53655f54d2f274d7dc8b35b3325d4",
       "sizeBytes": 4355,
       "locale": "isv_glag"
     },
     {
-      "id": "regulations/isv_glag/exam",
-      "path": "regulations/isv_glag/exam.md",
-      "version": "2",
+      "id": "regulations/_default/isv_glag/exam",
+      "path": "regulations/_default/isv_glag/exam.md",
+      "version": "1",
       "sha256": "641d4c835cbd152eef3993e8b0dff4c7688333400c6f6294a28f774a6bce2b88",
       "sizeBytes": 5322,
       "locale": "isv_glag"
     },
     {
-      "id": "regulations/isv_glag/syllabus",
-      "path": "regulations/isv_glag/syllabus.md",
-      "version": "2",
+      "id": "regulations/_default/isv_glag/syllabus",
+      "path": "regulations/_default/isv_glag/syllabus.md",
+      "version": "1",
       "sha256": "3628346bf0740d4433985e8b050d9dc46a9fe0eebdf8361cf536281c9447c519",
       "sizeBytes": 11781,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/lekarski/en/regulations",
+      "path": "regulations/lekarski/en/regulations.md",
+      "version": "3",
+      "sha256": "39f4ed27f0e923c891f064256c0ae59452cbc1068382bec790715e2d2fd64eaf",
+      "sizeBytes": 6633,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/lekarski/en/safety",
+      "path": "regulations/lekarski/en/safety.md",
+      "version": "1",
+      "sha256": "daa7372693a149a1c70afdd6d80d9aa8c3f79af7b259a90a2b985cf010258ec2",
+      "sizeBytes": 1891,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/lekarski/en/assessment",
+      "path": "regulations/lekarski/en/assessment.md",
+      "version": "1",
+      "sha256": "5e2f6544ecafc2383dfdd71104ca0d0e4ce283c1a4b78335ac8a959a25104c2f",
+      "sizeBytes": 1757,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/lekarski/en/exam",
+      "path": "regulations/lekarski/en/exam.md",
+      "version": "1",
+      "sha256": "bb8313c2a29e4e18037311fc1f12bf28c2913ec9b6ac070ada3375f2ba3eb3a8",
+      "sizeBytes": 2068,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/lekarski/en/syllabus",
+      "path": "regulations/lekarski/en/syllabus.md",
+      "version": "3",
+      "sha256": "bed93885967dd1929dad8cc3bada1040c717c5f7fec323a80199e321b1971b20",
+      "sizeBytes": 3378,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/lekarski/pl/regulations",
+      "path": "regulations/lekarski/pl/regulations.md",
+      "version": "3",
+      "sha256": "9100c62db5ad69b53a8e2fa4dcb0b0bf6233536b1501b6e03dcbcb3687a8af3d",
+      "sizeBytes": 6970,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/lekarski/pl/safety",
+      "path": "regulations/lekarski/pl/safety.md",
+      "version": "1",
+      "sha256": "5e2d3198d562d2ec6f0c9c4a0f0f4fd1852fa54546f916902977cbffae3c83e2",
+      "sizeBytes": 1966,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/lekarski/pl/assessment",
+      "path": "regulations/lekarski/pl/assessment.md",
+      "version": "1",
+      "sha256": "968edaf224c32f405f6ace2b0f3d6678f3efb1e0c7f81a8994f8dbb708b1d540",
+      "sizeBytes": 1817,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/lekarski/pl/exam",
+      "path": "regulations/lekarski/pl/exam.md",
+      "version": "1",
+      "sha256": "307c0190c117104fe013702dc31120c47ae791da8065f8bb5f8d924acf20f4f9",
+      "sizeBytes": 2151,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/lekarski/pl/syllabus",
+      "path": "regulations/lekarski/pl/syllabus.md",
+      "version": "3",
+      "sha256": "0d2c57fee0db858937bde869de897461c73b75cc88795fa1668edd1d9beb100e",
+      "sizeBytes": 3334,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/lekarski/es/regulations",
+      "path": "regulations/lekarski/es/regulations.md",
+      "version": "3",
+      "sha256": "d5c10df5964bff720a3587ac35240d762520ecf048e7666c2bf5fd9c98fc283c",
+      "sizeBytes": 7368,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/lekarski/es/safety",
+      "path": "regulations/lekarski/es/safety.md",
+      "version": "1",
+      "sha256": "f3706fb7839ef13e89d06c7d7075e8fad244f5c5f0f3d3a85cca94e9cd7e1a48",
+      "sizeBytes": 2150,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/lekarski/es/assessment",
+      "path": "regulations/lekarski/es/assessment.md",
+      "version": "1",
+      "sha256": "74452bc4e49869fba92cd96bede1eed1d4f46359e10cb6a8cc03a2678fc8157c",
+      "sizeBytes": 2091,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/lekarski/es/exam",
+      "path": "regulations/lekarski/es/exam.md",
+      "version": "1",
+      "sha256": "286220e863ae673abbd9b0fae8d94b83ca6837cffb95d04ca2d21d9b5cd248ad",
+      "sizeBytes": 2386,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/lekarski/es/syllabus",
+      "path": "regulations/lekarski/es/syllabus.md",
+      "version": "3",
+      "sha256": "a364a75c72418b732326acc1fb2e9fed7e80730977b9f450a72a0869a10f19ab",
+      "sizeBytes": 3792,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/lekarski/eo/regulations",
+      "path": "regulations/lekarski/eo/regulations.md",
+      "version": "3",
+      "sha256": "13ad9193016865607d3100674385cce5ec56ed8cb5dcc3fcb9a3c84f699f602a",
+      "sizeBytes": 6377,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/lekarski/eo/safety",
+      "path": "regulations/lekarski/eo/safety.md",
+      "version": "1",
+      "sha256": "e7c47402352b50e0a1c64177efe02d9d5f650d0799df7dc8ef7895740b18a3f3",
+      "sizeBytes": 1906,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/lekarski/eo/assessment",
+      "path": "regulations/lekarski/eo/assessment.md",
+      "version": "1",
+      "sha256": "9545e12c7b3caef95bae46173641dce0fe2bed4c39d9d47e55b885e7bcd3596c",
+      "sizeBytes": 1812,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/lekarski/eo/exam",
+      "path": "regulations/lekarski/eo/exam.md",
+      "version": "1",
+      "sha256": "8e2b1bd8796f04746b214f3e384249ff54a22eafcffd9a1e110ae384c7eb8323",
+      "sizeBytes": 2144,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/lekarski/eo/syllabus",
+      "path": "regulations/lekarski/eo/syllabus.md",
+      "version": "3",
+      "sha256": "b8045bd19890f860a44ce8633230b2eda4ca6406579a0affeed5447017a9cfe7",
+      "sizeBytes": 3362,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/lekarski/isv/regulations",
+      "path": "regulations/lekarski/isv/regulations.md",
+      "version": "3",
+      "sha256": "babd482b5e050875a1e2b1e44aabb86f40dffb0ac49f9d46cde5b06c8a0e327a",
+      "sizeBytes": 6389,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/lekarski/isv/safety",
+      "path": "regulations/lekarski/isv/safety.md",
+      "version": "1",
+      "sha256": "be053b7c954d1c1773c497c2c4acf4a9973fbddbde134212788bce774a07fcc3",
+      "sizeBytes": 1843,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/lekarski/isv/assessment",
+      "path": "regulations/lekarski/isv/assessment.md",
+      "version": "1",
+      "sha256": "0cb1e922dc22450cc599611b7321926807abd90443520c52b602d8784d30da62",
+      "sizeBytes": 1774,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/lekarski/isv/exam",
+      "path": "regulations/lekarski/isv/exam.md",
+      "version": "1",
+      "sha256": "95595ae2b32e52311873da031827c49586fbdd8faef2750603ce62aa1b6617fd",
+      "sizeBytes": 2198,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/lekarski/isv/syllabus",
+      "path": "regulations/lekarski/isv/syllabus.md",
+      "version": "3",
+      "sha256": "12b8682edc503b9635ea47d923d0c2e02e7f50e6f7d2e7e5a145a71efb498bcf",
+      "sizeBytes": 3375,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/lekarski/isv_cyrl/regulations",
+      "path": "regulations/lekarski/isv_cyrl/regulations.md",
+      "version": "2",
+      "sha256": "32421e3640acc22e7bc672b913682c3f5c9d6d85c94f46ab0d13f9a45ac3efda",
+      "sizeBytes": 10404,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/lekarski/isv_cyrl/safety",
+      "path": "regulations/lekarski/isv_cyrl/safety.md",
+      "version": "1",
+      "sha256": "bf5703aa48ca6563ef6bd880d9e6b7d5091a6e8f41bfd788f8f8e2a44c0b51ac",
+      "sizeBytes": 3337,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/lekarski/isv_cyrl/assessment",
+      "path": "regulations/lekarski/isv_cyrl/assessment.md",
+      "version": "1",
+      "sha256": "ca71459c6e3e7a6ef2a683925985b4f7a865c9a1b182676cc303a53f49406c6f",
+      "sizeBytes": 3098,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/lekarski/isv_cyrl/exam",
+      "path": "regulations/lekarski/isv_cyrl/exam.md",
+      "version": "1",
+      "sha256": "5f23a02e16cfd8ec10a41bdef33527c83bb0133faaa659d3f97e1f5bee98b045",
+      "sizeBytes": 3779,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/lekarski/isv_cyrl/syllabus",
+      "path": "regulations/lekarski/isv_cyrl/syllabus.md",
+      "version": "2",
+      "sha256": "f93d18bbf1f922ed38f0e860852b9e3a0b7750800df417db3e14ff8f176e7d3b",
+      "sizeBytes": 5367,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/lekarski/isv_glag/regulations",
+      "path": "regulations/lekarski/isv_glag/regulations.md",
+      "version": "2",
+      "sha256": "2eefc2ec3875c6463c9a4c7cefc87e49eb31f9ad1da3297a167f5912f47dca68",
+      "sizeBytes": 14485,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/lekarski/isv_glag/safety",
+      "path": "regulations/lekarski/isv_glag/safety.md",
+      "version": "1",
+      "sha256": "c9ace8272456c5e2476be4c7efa15e3ad311e30f59d0e4b71ecce08a189bbc0c",
+      "sizeBytes": 4769,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/lekarski/isv_glag/assessment",
+      "path": "regulations/lekarski/isv_glag/assessment.md",
+      "version": "1",
+      "sha256": "fa21baf6681da800cf72b6144fc53e03a0a53655f54d2f274d7dc8b35b3325d4",
+      "sizeBytes": 4355,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/lekarski/isv_glag/exam",
+      "path": "regulations/lekarski/isv_glag/exam.md",
+      "version": "1",
+      "sha256": "641d4c835cbd152eef3993e8b0dff4c7688333400c6f6294a28f774a6bce2b88",
+      "sizeBytes": 5322,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/lekarski/isv_glag/syllabus",
+      "path": "regulations/lekarski/isv_glag/syllabus.md",
+      "version": "2",
+      "sha256": "fd17b491e9ba4219ea5af7e04dd2bc66d3c07f47202d0f53f4b8fb84c687b85f",
+      "sizeBytes": 7328,
       "locale": "isv_glag"
     },
     {

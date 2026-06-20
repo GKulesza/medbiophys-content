@@ -1,64 +1,64 @@
 {
   "schemaVersion": 1,
   "contentSetId": "2026-06-20-content",
-  "publishedAt": "2026-06-20T11:01:23Z",
+  "publishedAt": "2026-06-20T23:52:48Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
     {
       "id": "news/en",
       "path": "news/en/feed.json",
-      "version": "10",
-      "sha256": "b1cb733f7c8115dd3601ccb59d56524ce7d57eab2b431fae4a703612306abd3b",
-      "sizeBytes": 15756,
+      "version": "11",
+      "sha256": "a2bf603e12e91e550cef2cc2c5065fc25bc28d0c774fa0eb4747241dd1264f50",
+      "sizeBytes": 3808,
       "locale": "en"
     },
     {
       "id": "news/pl",
       "path": "news/pl/feed.json",
-      "version": "12",
-      "sha256": "2310e66cf8bdb1e7cfa2ed3d6be90fafa4ccda6617c3538043754ed31089e48a",
-      "sizeBytes": 11852,
+      "version": "13",
+      "sha256": "b65c2bedd27504263bd6575670b6d67c4e8c74006046df90f9ee7fc850bdea58",
+      "sizeBytes": 3935,
       "locale": "pl"
     },
     {
       "id": "news/es",
       "path": "news/es/feed.json",
-      "version": "5",
-      "sha256": "4cb5973f68525a6189636adeb9ee8d58523ed6f7ab8aae4c17fc5aa197c77666",
-      "sizeBytes": 10045,
+      "version": "6",
+      "sha256": "94b4a2fbd252d65f3a5d994cb0440cd80e18194bd02dc5f541132a134987b6ba",
+      "sizeBytes": 4099,
       "locale": "es"
     },
     {
       "id": "news/eo",
       "path": "news/eo/feed.json",
-      "version": "5",
-      "sha256": "0801786d767827adc71f0ff5ed22c749f69ffb644efd91c73f2629d2b3b5dc4c",
-      "sizeBytes": 8958,
+      "version": "6",
+      "sha256": "9ea535b077ed658b8feaa0b62cfa5eed26dc2aaacc688d81b73cefb708a593b4",
+      "sizeBytes": 3975,
       "locale": "eo"
     },
     {
       "id": "news/isv",
       "path": "news/isv/feed.json",
-      "version": "6",
-      "sha256": "80f561e31b252c8562621696c8ab7eec4c8ae6d1424a3a8abca2503052525774",
-      "sizeBytes": 9258,
+      "version": "7",
+      "sha256": "375f0c28e7819d7236fc8eb030f6c402bb12415fc48085b02af57bf2b876d517",
+      "sizeBytes": 3794,
       "locale": "isv"
     },
     {
       "id": "news/isv_cyrl",
       "path": "news/isv_cyrl/feed.json",
-      "version": "2",
-      "sha256": "527361a3196c9cb02dbb14a020449bdda335a268b78257b0fcf7fbbfaf80e408",
-      "sizeBytes": 12772,
+      "version": "3",
+      "sha256": "2c0f88eb266729190f733b0f6972815de4ec19fe610be784a054c93f62133b4b",
+      "sizeBytes": 5705,
       "locale": "isv_cyrl"
     },
     {
       "id": "news/isv_glag",
       "path": "news/isv_glag/feed.json",
-      "version": "2",
-      "sha256": "1e1b45d736a95fbfc38cd85a511157a5ad658b0299fad8a4a66c6dcb4b52b4e3",
-      "sizeBytes": 16375,
+      "version": "3",
+      "sha256": "78bacda362dd22814e528e3cb38fb5bf7273d3073401909614af678bedb84c46",
+      "sizeBytes": 7680,
       "locale": "isv_glag"
     },
     {
@@ -1059,6 +1059,46 @@
       "version": "1",
       "sha256": "80adbfa977fc1159ea748330a089b481cc4b0af8b6b10133e2276363c748dcd5",
       "sizeBytes": 289816,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/news001_new_handbooks.jpg",
+      "path": "images/news/news001_new_handbooks.jpg",
+      "version": "1",
+      "sha256": "aaa0fddd6604b7606b49e7dbc669bce2f4a968fb267c6c6c6e027ff55d0855bf",
+      "sizeBytes": 89636,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/news002_radio_bialystok.jpg",
+      "path": "images/news/news002_radio_bialystok.jpg",
+      "version": "1",
+      "sha256": "7e6c2345ce2728b397c8dd617191939da9a9281fc66068cfb8996b3325b68309",
+      "sizeBytes": 106851,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/news003_spotify.jpg",
+      "path": "images/news/news003_spotify.jpg",
+      "version": "1",
+      "sha256": "5ec576a9164154fe485e8e20ab6b6f52b25fe184e9ec1bdebe3d46b7eca3fa5a",
+      "sizeBytes": 79792,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/news004_festival.jpg",
+      "path": "images/news/news004_festival.jpg",
+      "version": "1",
+      "sha256": "afe04882e631a31f9b7b5fef3c71420f4a6e01b3fdac229670f8e7a35b874871",
+      "sizeBytes": 144677,
+      "locale": "news"
+    },
+    {
+      "id": "images/news/news005_mobile_app_release.jpg",
+      "path": "images/news/news005_mobile_app_release.jpg",
+      "version": "1",
+      "sha256": "8ce692883f2325db7d0e544203888b13ed0657e6f20f95da376df96f9dca2a9c",
+      "sizeBytes": 115968,
       "locale": "news"
     },
     {

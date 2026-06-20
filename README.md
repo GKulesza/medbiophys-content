@@ -226,8 +226,8 @@ python3 scripts/validate_content.py
 
 In the MedBioPhys app repository:
 
-- [`REMOTE_CONTENT_SETUP.md`](https://github.com/KuuuGR/MedBioPhys/blob/flutter-migration/REMOTE_CONTENT_SETUP.md) — enabling remote sync, cache behaviour, staging vs production URLs  
-- [`PUBLIC_REPOSITORY_MIGRATION_PLAN.md`](https://github.com/KuuuGR/MedBioPhys/blob/flutter-migration/PUBLIC_REPOSITORY_MIGRATION_PLAN.md) — one-time migration from app repo to this public repository  
+- [`REMOTE_CONTENT_SETUP.md`](https://github.com/KuuuGR/MedBioPhys/blob/flutter-migration/docs/implementation/REMOTE_CONTENT_SETUP.md) — enabling remote sync, cache behaviour, staging vs production URLs  
+- [`PUBLIC_REPOSITORY_MIGRATION_PLAN.md`](https://github.com/KuuuGR/MedBioPhys/blob/flutter-migration/docs/implementation/PUBLIC_REPOSITORY_MIGRATION_PLAN.md) — one-time migration from app repo to this public repository  
 - `scripts/update_content_manifest.py`, `scripts/validate_content.py` — automation
 
 ---

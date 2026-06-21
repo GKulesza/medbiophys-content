@@ -1,64 +1,64 @@
 {
   "schemaVersion": 1,
-  "contentSetId": "2026-06-20-content",
-  "publishedAt": "2026-06-20T23:52:48Z",
+  "contentSetId": "2026-06-21-content",
+  "publishedAt": "2026-06-21T00:03:35Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
     {
       "id": "news/en",
       "path": "news/en/feed.json",
-      "version": "11",
-      "sha256": "a2bf603e12e91e550cef2cc2c5065fc25bc28d0c774fa0eb4747241dd1264f50",
-      "sizeBytes": 3808,
+      "version": "12",
+      "sha256": "e6ab81eee802bd1a60522408b53cd792098e554b206776b283f6e56513192aa4",
+      "sizeBytes": 3155,
       "locale": "en"
     },
     {
       "id": "news/pl",
       "path": "news/pl/feed.json",
-      "version": "13",
-      "sha256": "b65c2bedd27504263bd6575670b6d67c4e8c74006046df90f9ee7fc850bdea58",
-      "sizeBytes": 3935,
+      "version": "14",
+      "sha256": "214b885a8bebd2235dded3e8cc2afef4665624dea67efe9507eb34de63d2f216",
+      "sizeBytes": 3338,
       "locale": "pl"
     },
     {
       "id": "news/es",
       "path": "news/es/feed.json",
-      "version": "6",
-      "sha256": "94b4a2fbd252d65f3a5d994cb0440cd80e18194bd02dc5f541132a134987b6ba",
-      "sizeBytes": 4099,
+      "version": "7",
+      "sha256": "58db283e4aa940f3fdd2ed66a40fa74fe022f25d2bc43a46080f605c3eb72e17",
+      "sizeBytes": 3362,
       "locale": "es"
     },
     {
       "id": "news/eo",
       "path": "news/eo/feed.json",
-      "version": "6",
-      "sha256": "9ea535b077ed658b8feaa0b62cfa5eed26dc2aaacc688d81b73cefb708a593b4",
-      "sizeBytes": 3975,
+      "version": "7",
+      "sha256": "8eb0a9aae825c6b25fd25fb289addebc59e90391ec08be4c6590fe6c04f67be5",
+      "sizeBytes": 3260,
       "locale": "eo"
     },
     {
       "id": "news/isv",
       "path": "news/isv/feed.json",
-      "version": "7",
-      "sha256": "375f0c28e7819d7236fc8eb030f6c402bb12415fc48085b02af57bf2b876d517",
-      "sizeBytes": 3794,
+      "version": "8",
+      "sha256": "418b4a7485f353522280eabe2b617658f884512b0f82c0c6a521b0787b4e8103",
+      "sizeBytes": 3179,
       "locale": "isv"
     },
     {
       "id": "news/isv_cyrl",
       "path": "news/isv_cyrl/feed.json",
-      "version": "3",
-      "sha256": "2c0f88eb266729190f733b0f6972815de4ec19fe610be784a054c93f62133b4b",
-      "sizeBytes": 5705,
+      "version": "4",
+      "sha256": "2c6589796551a59a31c8ee36004e8d40f6c4e8563d3b37e077fb4265f58c09b9",
+      "sizeBytes": 4713,
       "locale": "isv_cyrl"
     },
     {
       "id": "news/isv_glag",
       "path": "news/isv_glag/feed.json",
-      "version": "3",
-      "sha256": "78bacda362dd22814e528e3cb38fb5bf7273d3073401909614af678bedb84c46",
-      "sizeBytes": 7680,
+      "version": "4",
+      "sha256": "c7c2e8e37e85b0f99d6049937f3280531332d44bfcbd20bdae90327c718311ab",
+      "sizeBytes": 6304,
       "locale": "isv_glag"
     },
     {

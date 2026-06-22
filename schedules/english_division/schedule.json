@@ -1,142 +1,9 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "program": "english_division",
   "label": "ENGLISH DIVISION",
-  "academicYear": null,
-  "updatedAt": "2026-06-22T15:16:23",
+  "updatedAt": "2026-06-22T18:59:03",
   "events": [
-    {
-      "id": "evt-967f8f7297b8824f",
-      "groups": [
-        1,
-        2,
-        3,
-        4
-      ],
-      "startDateTime": "2025-10-07T14:15:00",
-      "endDateTime": "2025-10-07T16:00:00",
-      "activityType": "seminar",
-      "courseCode": null,
-      "title": "Biophysics — Seminar",
-      "room": "Blackboard online",
-      "lecturer": null,
-      "notes": null
-    },
-    {
-      "id": "evt-054cab856994b54c",
-      "groups": [
-        5,
-        6,
-        7
-      ],
-      "startDateTime": "2025-10-07T16:15:00",
-      "endDateTime": "2025-10-07T18:00:00",
-      "activityType": "seminar",
-      "courseCode": null,
-      "title": "Biophysics — Seminar",
-      "room": "Blackboard online",
-      "lecturer": null,
-      "notes": null
-    },
-    {
-      "id": "evt-b9366774cde28485",
-      "groups": [
-        1,
-        2,
-        3,
-        4
-      ],
-      "startDateTime": "2025-10-14T14:15:00",
-      "endDateTime": "2025-10-14T16:00:00",
-      "activityType": "seminar",
-      "courseCode": null,
-      "title": "Biophysics — Seminar",
-      "room": "Blackboard online",
-      "lecturer": null,
-      "notes": null
-    },
-    {
-      "id": "evt-36d342b511b22831",
-      "groups": [
-        5,
-        6,
-        7
-      ],
-      "startDateTime": "2025-10-14T16:15:00",
-      "endDateTime": "2025-10-14T18:00:00",
-      "activityType": "seminar",
-      "courseCode": null,
-      "title": "Biophysics — Seminar",
-      "room": "Blackboard online",
-      "lecturer": null,
-      "notes": null
-    },
-    {
-      "id": "evt-0811fc4c8f4168a6",
-      "groups": [
-        1,
-        2,
-        3,
-        4
-      ],
-      "startDateTime": "2025-10-21T14:15:00",
-      "endDateTime": "2025-10-21T16:00:00",
-      "activityType": "seminar",
-      "courseCode": null,
-      "title": "Biophysics — Seminar",
-      "room": "Blackboard online",
-      "lecturer": null,
-      "notes": null
-    },
-    {
-      "id": "evt-2dcca5aed813496d",
-      "groups": [
-        5,
-        6,
-        7
-      ],
-      "startDateTime": "2025-10-21T16:15:00",
-      "endDateTime": "2025-10-21T18:00:00",
-      "activityType": "seminar",
-      "courseCode": null,
-      "title": "Biophysics — Seminar",
-      "room": "Blackboard online",
-      "lecturer": null,
-      "notes": null
-    },
-    {
-      "id": "evt-012de68c0522032a",
-      "groups": [
-        1,
-        2,
-        3,
-        4
-      ],
-      "startDateTime": "2025-10-28T14:15:00",
-      "endDateTime": "2025-10-28T16:00:00",
-      "activityType": "seminar",
-      "courseCode": null,
-      "title": "Biophysics — Seminar",
-      "room": "Blackboard online",
-      "lecturer": null,
-      "notes": null
-    },
-    {
-      "id": "evt-6f15f7568d7f9fba",
-      "groups": [
-        5,
-        6,
-        7
-      ],
-      "startDateTime": "2025-10-28T16:15:00",
-      "endDateTime": "2025-10-28T18:00:00",
-      "activityType": "seminar",
-      "courseCode": null,
-      "title": "Biophysics — Seminar",
-      "room": "Blackboard online",
-      "lecturer": null,
-      "notes": null
-    },
     {
       "id": "evt-0455efff1e640454",
       "groups": [
@@ -146,12 +13,10 @@
       ],
       "startDateTime": "2025-11-04T14:15:00",
       "endDateTime": "2025-11-04T16:00:00",
-      "activityType": "introductory_class",
-      "courseCode": null,
+      "activityType": "intro_session",
       "title": "Biophysics — Introductory class",
-      "room": "Introductory class — Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Introductory class — Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-cf03ad6ef1c3b1cc",
@@ -162,12 +27,10 @@
       ],
       "startDateTime": "2025-11-04T16:15:00",
       "endDateTime": "2025-11-04T18:00:00",
-      "activityType": "introductory_class",
-      "courseCode": null,
+      "activityType": "intro_session",
       "title": "Biophysics — Introductory class",
-      "room": "Introductory class — Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Introductory class — Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-32fcbd49b028dda0",
@@ -176,12 +39,10 @@
       ],
       "startDateTime": "2025-11-04T18:15:00",
       "endDateTime": "2025-11-04T20:00:00",
-      "activityType": "introductory_class",
-      "courseCode": null,
+      "activityType": "intro_session",
       "title": "Biophysics — Introductory class",
-      "room": "Introductory class — Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Introductory class — Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-8cfcd3fe9d6fd386",
@@ -199,11 +60,9 @@
       "startDateTime": "2025-11-06T15:00:00",
       "endDateTime": "2025-11-06T16:30:00",
       "activityType": "lecture",
-      "courseCode": null,
       "title": "Biophysics — Lecture",
-      "room": null,
-      "lecturer": null,
-      "notes": "online\nBlackboard"
+      "note": "online\nBlackboard",
+      "cancelled": false
     },
     {
       "id": "evt-18c1dcb0a8afa2ba",
@@ -221,11 +80,9 @@
       "startDateTime": "2025-11-13T15:00:00",
       "endDateTime": "2025-11-13T16:30:00",
       "activityType": "lecture",
-      "courseCode": null,
       "title": "Biophysics — Lecture",
-      "room": null,
-      "lecturer": null,
-      "notes": "online\nBlackboard"
+      "note": "online\nBlackboard",
+      "cancelled": false
     },
     {
       "id": "evt-9c5aa90e4910885a",
@@ -237,11 +94,9 @@
       "startDateTime": "2025-11-18T14:15:00",
       "endDateTime": "2025-11-18T16:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-a77041c44f2251fb",
@@ -253,11 +108,9 @@
       "startDateTime": "2025-11-18T16:15:00",
       "endDateTime": "2025-11-18T18:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-a91365b9943b0b77",
@@ -267,11 +120,9 @@
       "startDateTime": "2025-11-18T18:15:00",
       "endDateTime": "2025-11-18T20:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-8729a0305dcbdb2a",
@@ -289,11 +140,9 @@
       "startDateTime": "2025-11-20T15:00:00",
       "endDateTime": "2025-11-20T16:30:00",
       "activityType": "lecture",
-      "courseCode": null,
       "title": "Biophysics — Lecture",
-      "room": null,
-      "lecturer": null,
-      "notes": "online\nBlackboard"
+      "note": "online\nBlackboard",
+      "cancelled": false
     },
     {
       "id": "evt-64575b34b5ebadd5",
@@ -305,11 +154,9 @@
       "startDateTime": "2025-11-25T14:15:00",
       "endDateTime": "2025-11-25T16:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-e696673e530c2bc4",
@@ -321,11 +168,9 @@
       "startDateTime": "2025-11-25T16:15:00",
       "endDateTime": "2025-11-25T18:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-73baf8b4b4dc45c5",
@@ -335,11 +180,9 @@
       "startDateTime": "2025-11-25T18:15:00",
       "endDateTime": "2025-11-25T20:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-7bec0bd095e23986",
@@ -357,11 +200,9 @@
       "startDateTime": "2025-11-27T15:00:00",
       "endDateTime": "2025-11-27T16:30:00",
       "activityType": "lecture",
-      "courseCode": null,
       "title": "Biophysics — Lecture",
-      "room": null,
-      "lecturer": null,
-      "notes": "online\nBlackboard"
+      "note": "online\nBlackboard",
+      "cancelled": false
     },
     {
       "id": "evt-4c35829c443d35bd",
@@ -373,11 +214,9 @@
       "startDateTime": "2025-12-02T14:15:00",
       "endDateTime": "2025-12-02T16:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-f4d66da6a0fadcf8",
@@ -389,11 +228,9 @@
       "startDateTime": "2025-12-02T16:15:00",
       "endDateTime": "2025-12-02T18:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-62a12a21983c8a67",
@@ -403,11 +240,9 @@
       "startDateTime": "2025-12-02T18:15:00",
       "endDateTime": "2025-12-02T20:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-8570bb0189b3f3cf",
@@ -425,11 +260,9 @@
       "startDateTime": "2025-12-04T15:00:00",
       "endDateTime": "2025-12-04T16:30:00",
       "activityType": "lecture",
-      "courseCode": null,
       "title": "Biophysics — Lecture",
-      "room": null,
-      "lecturer": null,
-      "notes": "online\nBlackboard"
+      "note": "online\nBlackboard",
+      "cancelled": false
     },
     {
       "id": "evt-096c3a365e355a6b",
@@ -441,11 +274,9 @@
       "startDateTime": "2025-12-09T14:15:00",
       "endDateTime": "2025-12-09T16:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-07097bf78faa2a90",
@@ -457,11 +288,9 @@
       "startDateTime": "2025-12-09T16:15:00",
       "endDateTime": "2025-12-09T18:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-4800e92bf1ccd577",
@@ -471,11 +300,9 @@
       "startDateTime": "2025-12-09T18:15:00",
       "endDateTime": "2025-12-09T20:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-eb6b21ba058734fb",
@@ -487,11 +314,9 @@
       "startDateTime": "2025-12-16T14:15:00",
       "endDateTime": "2025-12-16T16:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-ff1818908da7bb76",
@@ -503,11 +328,9 @@
       "startDateTime": "2025-12-16T16:15:00",
       "endDateTime": "2025-12-16T18:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-1f9b1c079a8eda3d",
@@ -517,11 +340,9 @@
       "startDateTime": "2025-12-16T18:15:00",
       "endDateTime": "2025-12-16T20:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-67f4e5a76b3b0715",
@@ -533,11 +354,9 @@
       "startDateTime": "2026-01-13T14:15:00",
       "endDateTime": "2026-01-13T16:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-709f32e51ccabf5a",
@@ -549,11 +368,9 @@
       "startDateTime": "2026-01-13T16:15:00",
       "endDateTime": "2026-01-13T18:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-11aab632ea496ba2",
@@ -563,11 +380,9 @@
       "startDateTime": "2026-01-13T18:15:00",
       "endDateTime": "2026-01-13T20:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-bfabf1b5e92b6fae",
@@ -579,11 +394,9 @@
       "startDateTime": "2026-01-20T14:15:00",
       "endDateTime": "2026-01-20T16:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-b0610c1a4e297144",
@@ -595,11 +408,9 @@
       "startDateTime": "2026-01-20T16:15:00",
       "endDateTime": "2026-01-20T18:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-ab5229c0efb94bd1",
@@ -609,11 +420,9 @@
       "startDateTime": "2026-01-20T18:15:00",
       "endDateTime": "2026-01-20T20:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-220bd2aa7d856b6e",
@@ -625,11 +434,9 @@
       "startDateTime": "2026-01-27T14:15:00",
       "endDateTime": "2026-01-27T16:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-459dcd26524c1f39",
@@ -641,11 +448,9 @@
       "startDateTime": "2026-01-27T16:15:00",
       "endDateTime": "2026-01-27T18:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-cea2951b72d2e535",
@@ -655,11 +460,9 @@
       "startDateTime": "2026-01-27T18:15:00",
       "endDateTime": "2026-01-27T20:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-6941b46b77e61b91",
@@ -671,11 +474,9 @@
       "startDateTime": "2026-02-03T14:15:00",
       "endDateTime": "2026-02-03T16:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-a71795ea2e3427b5",
@@ -687,11 +488,9 @@
       "startDateTime": "2026-02-03T16:15:00",
       "endDateTime": "2026-02-03T18:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-d61bd8efc1783efa",
@@ -701,11 +500,9 @@
       "startDateTime": "2026-02-03T18:15:00",
       "endDateTime": "2026-02-03T20:00:00",
       "activityType": "laboratory",
-      "courseCode": null,
       "title": "Biophysics — Laboratory",
-      "room": "Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-565ee0501aa49582",
@@ -716,12 +513,10 @@
       ],
       "startDateTime": "2026-02-10T14:15:00",
       "endDateTime": "2026-02-10T16:00:00",
-      "activityType": "colloquium",
-      "courseCode": null,
+      "activityType": "quiz",
       "title": "Biophysics — Colloquium test",
-      "room": "Colloquium test — Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Colloquium test — Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-dd00c4ed71c39def",
@@ -732,12 +527,10 @@
       ],
       "startDateTime": "2026-02-10T16:15:00",
       "endDateTime": "2026-02-10T18:00:00",
-      "activityType": "colloquium",
-      "courseCode": null,
+      "activityType": "quiz",
       "title": "Biophysics — Colloquium test",
-      "room": "Colloquium test — Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Colloquium test — Department of Medical Biophysics",
+      "cancelled": false
     },
     {
       "id": "evt-aef12c802d448e49",
@@ -746,12 +539,170 @@
       ],
       "startDateTime": "2026-02-10T18:15:00",
       "endDateTime": "2026-02-10T20:00:00",
-      "activityType": "colloquium",
-      "courseCode": null,
+      "activityType": "quiz",
       "title": "Biophysics — Colloquium test",
-      "room": "Colloquium test — Department of Medical Biophysics",
-      "lecturer": null,
-      "notes": null
+      "location": "Colloquium test — Department of Medical Biophysics",
+      "cancelled": false
+    },
+    {
+      "id": "evt-70ee48217db43a2f",
+      "groups": [
+        1,
+        2
+      ],
+      "startDateTime": "2026-10-07T14:15:00",
+      "endDateTime": "2026-10-07T16:00:00",
+      "activityType": "seminar",
+      "location": "Room 1",
+      "lecturer": "dr hab. Tomasz Kleszczewski",
+      "cancelled": false
+    },
+    {
+      "id": "evt-3ff5e070e30b4745",
+      "groups": [
+        3,
+        4
+      ],
+      "startDateTime": "2026-10-07T14:15:00",
+      "endDateTime": "2026-10-07T16:00:00",
+      "activityType": "seminar",
+      "location": "Room 2",
+      "lecturer": "dr hab. Beata Modzelewska",
+      "cancelled": false
+    },
+    {
+      "id": "evt-a2551da9ef43b072",
+      "groups": [
+        5,
+        6,
+        7
+      ],
+      "startDateTime": "2026-10-07T16:15:00",
+      "endDateTime": "2026-10-07T18:00:00",
+      "activityType": "seminar",
+      "location": "Room 1",
+      "lecturer": "dr hab. Tomasz Kleszczewski",
+      "cancelled": false
+    },
+    {
+      "id": "evt-49d31b1ed6804812",
+      "groups": [
+        1,
+        2
+      ],
+      "startDateTime": "2026-10-14T14:15:00",
+      "endDateTime": "2026-10-14T16:00:00",
+      "activityType": "seminar",
+      "location": "Room 1",
+      "lecturer": "dr Agnieszka Raciborska",
+      "cancelled": false
+    },
+    {
+      "id": "evt-1ff1048e0224a3f3",
+      "groups": [
+        3,
+        4
+      ],
+      "startDateTime": "2026-10-14T14:15:00",
+      "endDateTime": "2026-10-14T16:00:00",
+      "activityType": "seminar",
+      "location": "Room 2",
+      "lecturer": "dr hab. Tomasz Kleszczewski",
+      "cancelled": false
+    },
+    {
+      "id": "evt-ea300cb06647c118",
+      "groups": [
+        5,
+        6,
+        7
+      ],
+      "startDateTime": "2026-10-14T16:15:00",
+      "endDateTime": "2026-10-14T18:00:00",
+      "activityType": "seminar",
+      "location": "Room 1",
+      "lecturer": "dr hab. Tomasz Kleszczewski",
+      "cancelled": false
+    },
+    {
+      "id": "evt-3b5801e1de6554c2",
+      "groups": [
+        1,
+        2
+      ],
+      "startDateTime": "2026-10-21T14:15:00",
+      "endDateTime": "2026-10-21T16:00:00",
+      "activityType": "seminar",
+      "location": "Room 1",
+      "lecturer": "dr hab. Tomasz Kleszczewski",
+      "cancelled": false
+    },
+    {
+      "id": "evt-5a5613517e6555cf",
+      "groups": [
+        3,
+        4
+      ],
+      "startDateTime": "2026-10-21T14:15:00",
+      "endDateTime": "2026-10-21T16:00:00",
+      "activityType": "seminar",
+      "location": "Room 2",
+      "lecturer": "dr Agnieszka Raciborska",
+      "cancelled": false
+    },
+    {
+      "id": "evt-005a78c9d0d9cb7b",
+      "groups": [
+        5,
+        6,
+        7
+      ],
+      "startDateTime": "2026-10-21T16:15:00",
+      "endDateTime": "2026-10-21T18:00:00",
+      "activityType": "seminar",
+      "location": "Room 1",
+      "lecturer": "dr hab. Tomasz Kleszczewski",
+      "cancelled": false
+    },
+    {
+      "id": "evt-979db1796ccbe360",
+      "groups": [
+        1,
+        2
+      ],
+      "startDateTime": "2026-10-28T14:15:00",
+      "endDateTime": "2026-10-28T16:00:00",
+      "activityType": "seminar",
+      "location": "Room 1",
+      "lecturer": "dr hab. Beata Modzelewska",
+      "cancelled": false
+    },
+    {
+      "id": "evt-8573c2068c5f4a0f",
+      "groups": [
+        3,
+        4
+      ],
+      "startDateTime": "2026-10-28T14:15:00",
+      "endDateTime": "2026-10-28T16:00:00",
+      "activityType": "seminar",
+      "location": "Room 2",
+      "lecturer": "dr hab. Tomasz Kleszczewski",
+      "cancelled": false
+    },
+    {
+      "id": "evt-5d9d96a27bd0d803",
+      "groups": [
+        5,
+        6,
+        7
+      ],
+      "startDateTime": "2026-10-28T16:15:00",
+      "endDateTime": "2026-10-28T18:00:00",
+      "activityType": "seminar",
+      "location": "Room 1",
+      "lecturer": "dr hab. Beata Modzelewska",
+      "cancelled": false
     }
   ]
 }

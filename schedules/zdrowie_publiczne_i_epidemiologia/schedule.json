@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 2,
+  "program": "zdrowie_publiczne_i_epidemiologia",
+  "label": "ZDROWIE PUBLICZNE I EPIDEMIOLOGIA",
+  "updatedAt": "2026-06-23T16:18:26",
+  "events": [
+    {
+      "id": "evt-ed9409a284ca7ebf",
+      "groups": [
+        1
+      ],
+      "startDateTime": "2026-11-28T16:15:00",
+      "endDateTime": "2026-11-28T18:30:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "pracownicy ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-4f8eb8614ee0aec0",
+      "groups": [
+        1
+      ],
+      "startDateTime": "2026-12-12T16:15:00",
+      "endDateTime": "2026-12-12T18:30:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "pracownicy ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-7a843860a3ca2e15",
+      "groups": [
+        1
+      ],
+      "startDateTime": "2026-12-19T16:15:00",
+      "endDateTime": "2026-12-19T18:30:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "pracownicy ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-f1507275ee234d23",
+      "groups": [
+        1
+      ],
+      "startDateTime": "2027-01-09T16:15:00",
+      "endDateTime": "2027-01-09T18:30:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "pracownicy ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    }
+  ]
+}

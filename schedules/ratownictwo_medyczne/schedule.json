@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 2,
+  "program": "ratownictwo_medyczne",
+  "label": "RATOWNICTWO MEDYCZNE",
+  "updatedAt": "2026-06-23T16:18:26",
+  "events": [
+    {
+      "id": "evt-6eb0657ce6663958",
+      "groups": [
+        1,
+        2,
+        3
+      ],
+      "startDateTime": "2026-10-10T08:30:00",
+      "endDateTime": "2026-10-10T10:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "pracownicy ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-bfb13ff3faa7c2c1",
+      "groups": [
+        1,
+        2,
+        3
+      ],
+      "startDateTime": "2026-10-17T08:30:00",
+      "endDateTime": "2026-10-17T10:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "pracownicy ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-5873a606a7d61cb3",
+      "groups": [
+        1,
+        2,
+        3
+      ],
+      "startDateTime": "2026-10-24T08:30:00",
+      "endDateTime": "2026-10-24T10:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "pracownicy ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-c402362c56168354",
+      "groups": [
+        1,
+        2,
+        3
+      ],
+      "startDateTime": "2026-10-31T08:30:00",
+      "endDateTime": "2026-10-31T10:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "pracownicy ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-5bc504a875ec28af",
+      "groups": [
+        1,
+        2,
+        3
+      ],
+      "startDateTime": "2026-11-07T08:30:00",
+      "endDateTime": "2026-11-07T10:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "pracownicy ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    }
+  ]
+}

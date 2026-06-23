@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentSetId": "2026-06-23-content",
-  "publishedAt": "2026-06-23T13:14:35Z",
+  "publishedAt": "2026-06-23T14:18:26Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -1184,26 +1184,50 @@
     {
       "id": "schedules/english_division",
       "path": "schedules/english_division/schedule.json",
-      "version": "4",
-      "sha256": "bcd8dc550278bb8fbda629b81aa9766c8e9e8bee045a891f746d46469f7715ce",
+      "version": "5",
+      "sha256": "3019edbe7dccae61155f604c784d0ee4262d71b6188854de4e311e6fcd065791",
       "sizeBytes": 18344,
       "locale": "english_division"
     },
     {
+      "id": "schedules/higiena_stomatologiczna",
+      "path": "schedules/higiena_stomatologiczna/schedule.json",
+      "version": "1",
+      "sha256": "22ba98201250be033da0770fd9b31e94d515037ef252b74d5452a53c3ce9c483",
+      "sizeBytes": 1869,
+      "locale": "higiena_stomatologiczna"
+    },
+    {
       "id": "schedules/lekarski_niestacjonarne",
       "path": "schedules/lekarski_niestacjonarne/schedule.json",
-      "version": "4",
-      "sha256": "def83e37ba09354e2ef28d2da46c3241b65c244211dd8adcaa5cc6c10d23cb88",
+      "version": "5",
+      "sha256": "d6a03643ede75dc5b7978e302c6e91a67b117f68ecd7bae6b0579b9f1eb3f778",
       "sizeBytes": 12483,
       "locale": "lekarski_niestacjonarne"
     },
     {
       "id": "schedules/lekarski_stacjonarne",
       "path": "schedules/lekarski_stacjonarne/schedule.json",
-      "version": "4",
-      "sha256": "6583de295ae0a6fb1fd1a0c24fc5483ec6a10c3e1d076b506a84b4c998c2925f",
+      "version": "5",
+      "sha256": "ce1ac9d90c5dfd9c06cced9528cdb5034fcb1e725e9a0ad647a2754b058b3abb",
       "sizeBytes": 15783,
       "locale": "lekarski_stacjonarne"
+    },
+    {
+      "id": "schedules/ratownictwo_medyczne",
+      "path": "schedules/ratownictwo_medyczne/schedule.json",
+      "version": "1",
+      "sha256": "94c595dd7151acc11a6a9c3cafb29b34b7cab067738fe11c73afa73d9da60240",
+      "sizeBytes": 1973,
+      "locale": "ratownictwo_medyczne"
+    },
+    {
+      "id": "schedules/zdrowie_publiczne_i_epidemiologia",
+      "path": "schedules/zdrowie_publiczne_i_epidemiologia/schedule.json",
+      "version": "1",
+      "sha256": "9ad959798ca18aa6b509e1ddc1e2c4a5dfb2837fb4e70109279bfe467a9022bc",
+      "sizeBytes": 1547,
+      "locale": "zdrowie_publiczne_i_epidemiologia"
     },
     {
       "id": "staff/en",

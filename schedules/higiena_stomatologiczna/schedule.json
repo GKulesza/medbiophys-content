@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 2,
+  "program": "higiena_stomatologiczna",
+  "label": "HIGIENA STOMATOLOGICZNA",
+  "updatedAt": "2026-06-23T16:18:26",
+  "events": [
+    {
+      "id": "evt-ea02590be2802463",
+      "groups": [
+        1
+      ],
+      "startDateTime": "2027-03-13T13:00:00",
+      "endDateTime": "2027-03-13T14:30:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "pracownicy ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-5a28eef821607fc5",
+      "groups": [
+        1
+      ],
+      "startDateTime": "2027-03-20T13:00:00",
+      "endDateTime": "2027-03-20T14:30:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "pracownicy ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-b596c48fb64c9763",
+      "groups": [
+        1
+      ],
+      "startDateTime": "2027-03-27T13:00:00",
+      "endDateTime": "2027-03-27T14:30:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "pracownicy ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-5814349f01f67c0f",
+      "groups": [
+        1
+      ],
+      "startDateTime": "2027-04-10T13:00:00",
+      "endDateTime": "2027-04-10T14:30:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "pracownicy ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-89cc20025e8478a8",
+      "groups": [
+        1
+      ],
+      "startDateTime": "2027-04-17T13:00:00",
+      "endDateTime": "2027-04-17T14:30:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "pracownicy ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    }
+  ]
+}

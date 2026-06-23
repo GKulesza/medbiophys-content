@@ -2,10 +2,10 @@
   "schemaVersion": 2,
   "program": "lekarski_niestacjonarne",
   "label": "LEKARSKI (NIESTACJONARNE)",
-  "updatedAt": "2026-06-23T14:25:24",
+  "updatedAt": "2026-06-23T15:14:35",
   "events": [
     {
-      "id": "evt-d7df73ae16a4b140",
+      "id": "evt-47a799232178a599",
       "groups": [
         1,
         2,
@@ -15,24 +15,47 @@
       "startDateTime": "2026-10-01T13:45:00",
       "endDateTime": "2026-10-01T15:30:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: LEKARSKI",
       "location": "Room 1, Room 2",
       "lecturer": "wykładowcy ZMB UMB",
+      "note": "Seminarium odbywa się w sali nr 1 i sali nr 2 w Domu Studenta nr 1, ul. Akademicka 3. Wejście od strony ul. Akademickiej",
       "cancelled": false
     },
     {
-      "id": "evt-a3d1d74d0970a63a",
+      "id": "evt-48d80a0610c4a06c",
       "groups": [
         7
       ],
       "startDateTime": "2026-10-01T18:15:00",
       "endDateTime": "2026-10-01T20:00:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: LEKARSKI",
       "location": "Room 1, Room 2",
       "lecturer": "wykładowcy ZMB UMB",
+      "note": "Seminarium odbywa się w sali nr 1 i sali nr 2 w Domu Studenta nr 1, ul. Akademicka 3. Wejście od strony ul. Akademickiej",
       "cancelled": false
     },
     {
-      "id": "evt-5675633e8b6aa943",
+      "id": "evt-b75bc9d887bc87a1",
+      "groups": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "startDateTime": "2026-10-02T08:15:00",
+      "endDateTime": "2026-10-02T09:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "dr hab. Beata Modzelewska",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-4cd71d613d843bdf",
       "groups": [
         5,
         6
@@ -40,12 +63,14 @@
       "startDateTime": "2026-10-03T08:15:00",
       "endDateTime": "2026-10-03T10:00:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: LEKARSKI",
       "location": "Room 1, Room 2",
       "lecturer": "wykładowcy ZMB UMB",
+      "note": "Seminarium odbywa się w sali nr 1 i sali nr 2 w Domu Studenta nr 1, ul. Akademicka 3. Wejście od strony ul. Akademickiej",
       "cancelled": false
     },
     {
-      "id": "evt-5ca81a36e03bf728",
+      "id": "evt-3e13a62a6306b875",
       "groups": [
         1,
         2,
@@ -55,24 +80,47 @@
       "startDateTime": "2026-10-08T13:45:00",
       "endDateTime": "2026-10-08T15:30:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: LEKARSKI",
       "location": "Room 1, Room 2",
       "lecturer": "wykładowcy ZMB UMB",
+      "note": "Seminarium odbywa się w sali nr 1 i sali nr 2 w Domu Studenta nr 1, ul. Akademicka 3. Wejście od strony ul. Akademickiej",
       "cancelled": false
     },
     {
-      "id": "evt-dc77f520527cf28e",
+      "id": "evt-c31c22327e4df1ba",
       "groups": [
         7
       ],
       "startDateTime": "2026-10-08T18:15:00",
       "endDateTime": "2026-10-08T20:00:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: LEKARSKI",
       "location": "Room 1, Room 2",
       "lecturer": "wykładowcy ZMB UMB",
+      "note": "Seminarium odbywa się w sali nr 1 i sali nr 2 w Domu Studenta nr 1, ul. Akademicka 3. Wejście od strony ul. Akademickiej",
       "cancelled": false
     },
     {
-      "id": "evt-7548d15c32aefc5a",
+      "id": "evt-a9c66d3c97b66335",
+      "groups": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "startDateTime": "2026-10-09T08:15:00",
+      "endDateTime": "2026-10-09T09:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "dr hab. Beata Modzelewska",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-bca9bdd87319d7a7",
       "groups": [
         5,
         6
@@ -80,12 +128,14 @@
       "startDateTime": "2026-10-10T08:15:00",
       "endDateTime": "2026-10-10T10:00:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: LEKARSKI",
       "location": "Room 1, Room 2",
       "lecturer": "wykładowcy ZMB UMB",
+      "note": "Seminarium odbywa się w sali nr 1 i sali nr 2 w Domu Studenta nr 1, ul. Akademicka 3. Wejście od strony ul. Akademickiej",
       "cancelled": false
     },
     {
-      "id": "evt-1209f538d77075b9",
+      "id": "evt-19aa968ada827b81",
       "groups": [
         1,
         2,
@@ -95,24 +145,47 @@
       "startDateTime": "2026-10-15T13:45:00",
       "endDateTime": "2026-10-15T15:30:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: LEKARSKI",
       "location": "Room 1, Room 2",
       "lecturer": "wykładowcy ZMB UMB",
+      "note": "Seminarium odbywa się w sali nr 1 i sali nr 2 w Domu Studenta nr 1, ul. Akademicka 3. Wejście od strony ul. Akademickiej",
       "cancelled": false
     },
     {
-      "id": "evt-72da64db7940a65d",
+      "id": "evt-64b8841e29dabed8",
       "groups": [
         7
       ],
       "startDateTime": "2026-10-15T18:15:00",
       "endDateTime": "2026-10-15T20:00:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: LEKARSKI",
       "location": "Room 1, Room 2",
       "lecturer": "wykładowcy ZMB UMB",
+      "note": "Seminarium odbywa się w sali nr 1 i sali nr 2 w Domu Studenta nr 1, ul. Akademicka 3. Wejście od strony ul. Akademickiej",
       "cancelled": false
     },
     {
-      "id": "evt-e871bb2ff252aefa",
+      "id": "evt-c27dbac04544a593",
+      "groups": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "startDateTime": "2026-10-16T08:15:00",
+      "endDateTime": "2026-10-16T09:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "dr hab. Beata Modzelewska",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-3a0cd0c81bd58d29",
       "groups": [
         5,
         6
@@ -120,12 +193,14 @@
       "startDateTime": "2026-10-17T08:15:00",
       "endDateTime": "2026-10-17T10:00:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: LEKARSKI",
       "location": "Room 1, Room 2",
       "lecturer": "wykładowcy ZMB UMB",
+      "note": "Seminarium odbywa się w sali nr 1 i sali nr 2 w Domu Studenta nr 1, ul. Akademicka 3. Wejście od strony ul. Akademickiej",
       "cancelled": false
     },
     {
-      "id": "evt-dd97519db79e6d0a",
+      "id": "evt-5a12500533466d3e",
       "groups": [
         1,
         2,
@@ -135,24 +210,47 @@
       "startDateTime": "2026-10-22T13:45:00",
       "endDateTime": "2026-10-22T15:30:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: LEKARSKI",
       "location": "Room 1, Room 2",
       "lecturer": "wykładowcy ZMB UMB",
+      "note": "Seminarium odbywa się w sali nr 1 i sali nr 2 w Domu Studenta nr 1, ul. Akademicka 3. Wejście od strony ul. Akademickiej",
       "cancelled": false
     },
     {
-      "id": "evt-102b313b2425c74f",
+      "id": "evt-83f42776282daaf2",
       "groups": [
         7
       ],
       "startDateTime": "2026-10-22T18:15:00",
       "endDateTime": "2026-10-22T20:00:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: LEKARSKI",
       "location": "Room 1, Room 2",
       "lecturer": "wykładowcy ZMB UMB",
+      "note": "Seminarium odbywa się w sali nr 1 i sali nr 2 w Domu Studenta nr 1, ul. Akademicka 3. Wejście od strony ul. Akademickiej",
       "cancelled": false
     },
     {
-      "id": "evt-a84857926e9b3d99",
+      "id": "evt-cfd33d11a2b642ce",
+      "groups": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "startDateTime": "2026-10-23T08:15:00",
+      "endDateTime": "2026-10-23T09:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "dr hab. Beata Modzelewska",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-f4dc98082260e0fa",
       "groups": [
         5,
         6
@@ -160,8 +258,204 @@
       "startDateTime": "2026-10-24T08:15:00",
       "endDateTime": "2026-10-24T10:00:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: LEKARSKI",
       "location": "Room 1, Room 2",
       "lecturer": "wykładowcy ZMB UMB",
+      "note": "Seminarium odbywa się w sali nr 1 i sali nr 2 w Domu Studenta nr 1, ul. Akademicka 3. Wejście od strony ul. Akademickiej",
+      "cancelled": false
+    },
+    {
+      "id": "evt-3ee0bfa86f917c63",
+      "groups": [
+        1,
+        2,
+        3
+      ],
+      "startDateTime": "2026-10-29T13:45:00",
+      "endDateTime": "2026-10-29T15:30:00",
+      "activityType": "intro_session",
+      "location": "Zakład Biofizyki Medycznej",
+      "lecturer": "pracownicy ZBM UMB",
+      "cancelled": false
+    },
+    {
+      "id": "evt-c6f7bc9d9fe13ed5",
+      "groups": [
+        7
+      ],
+      "startDateTime": "2026-10-29T18:15:00",
+      "endDateTime": "2026-10-29T20:00:00",
+      "activityType": "intro_session",
+      "location": "Zakład Biofizyki Medycznej",
+      "lecturer": "pracownicy ZBM UMB",
+      "cancelled": false
+    },
+    {
+      "id": "evt-d418a82241a56557",
+      "groups": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "startDateTime": "2026-10-30T08:15:00",
+      "endDateTime": "2026-10-30T09:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "dr hab. Beata Modzelewska",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-ae2240c912121c7f",
+      "groups": [
+        4,
+        5,
+        6
+      ],
+      "startDateTime": "2026-10-31T08:15:00",
+      "endDateTime": "2026-10-31T10:00:00",
+      "activityType": "intro_session",
+      "location": "Zakład Biofizyki Medycznej",
+      "lecturer": "pracownicy ZBM UMB",
+      "cancelled": false
+    },
+    {
+      "id": "evt-bdca5a8ba7e0a45c",
+      "groups": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "startDateTime": "2026-11-06T08:15:00",
+      "endDateTime": "2026-11-06T09:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "dr hab. Beata Modzelewska",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-cb2acb74757c518e",
+      "groups": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "startDateTime": "2026-11-13T08:15:00",
+      "endDateTime": "2026-11-13T09:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "dr hab. Beata Modzelewska",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-b252bf5b29289508",
+      "groups": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "startDateTime": "2026-11-20T08:15:00",
+      "endDateTime": "2026-11-20T09:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "dr hab. Beata Modzelewska",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-6e8e74b2dae3f114",
+      "groups": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "startDateTime": "2026-11-27T08:15:00",
+      "endDateTime": "2026-11-27T09:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "dr hab. Beata Modzelewska",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-415f118216438a9e",
+      "groups": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "startDateTime": "2026-12-04T08:15:00",
+      "endDateTime": "2026-12-04T09:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "dr hab. Beata Modzelewska",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-ed9f14c12f02a59e",
+      "groups": [
+        1,
+        2,
+        3
+      ],
+      "startDateTime": "2027-01-28T13:45:00",
+      "endDateTime": "2027-01-28T15:30:00",
+      "activityType": "summary_session",
+      "location": "Zakład Biofizyki Medycznej",
+      "lecturer": "pracownicy ZBM UMB",
+      "cancelled": false
+    },
+    {
+      "id": "evt-c8b2b8a35a0b85e1",
+      "groups": [
+        7
+      ],
+      "startDateTime": "2027-01-28T18:15:00",
+      "endDateTime": "2027-01-28T20:00:00",
+      "activityType": "summary_session",
+      "location": "Zakład Biofizyki Medycznej",
+      "lecturer": "pracownicy ZBM UMB",
+      "cancelled": false
+    },
+    {
+      "id": "evt-36857516838630f3",
+      "groups": [
+        4,
+        5,
+        6
+      ],
+      "startDateTime": "2027-01-30T08:15:00",
+      "endDateTime": "2027-01-30T10:00:00",
+      "activityType": "summary_session",
+      "location": "Zakład Biofizyki Medycznej",
+      "lecturer": "pracownicy ZBM UMB",
       "cancelled": false
     }
   ]

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentSetId": "2026-06-23-content",
-  "publishedAt": "2026-06-23T12:25:24Z",
+  "publishedAt": "2026-06-23T13:14:35Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -1184,25 +1184,25 @@
     {
       "id": "schedules/english_division",
       "path": "schedules/english_division/schedule.json",
-      "version": "2",
-      "sha256": "e979e8c95d788bf81434e5a522b35cd862bb45e6646d1a1b4036560bbd05b796",
-      "sizeBytes": 17732,
+      "version": "4",
+      "sha256": "bcd8dc550278bb8fbda629b81aa9766c8e9e8bee045a891f746d46469f7715ce",
+      "sizeBytes": 18344,
       "locale": "english_division"
     },
     {
       "id": "schedules/lekarski_niestacjonarne",
       "path": "schedules/lekarski_niestacjonarne/schedule.json",
-      "version": "2",
-      "sha256": "1efbd06a7867140d9364bc5fcce67c5c4ac68a6650176dcc182e6afb59106f83",
-      "sizeBytes": 4069,
+      "version": "4",
+      "sha256": "def83e37ba09354e2ef28d2da46c3241b65c244211dd8adcaa5cc6c10d23cb88",
+      "sizeBytes": 12483,
       "locale": "lekarski_niestacjonarne"
     },
     {
       "id": "schedules/lekarski_stacjonarne",
       "path": "schedules/lekarski_stacjonarne/schedule.json",
-      "version": "2",
-      "sha256": "99e45999bcdccba9156334e464faa8ab165444fc736b26b67adbebffa8542ae3",
-      "sizeBytes": 5447,
+      "version": "4",
+      "sha256": "6583de295ae0a6fb1fd1a0c24fc5483ec6a10c3e1d076b506a84b4c998c2925f",
+      "sizeBytes": 15783,
       "locale": "lekarski_stacjonarne"
     },
     {

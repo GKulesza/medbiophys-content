@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "program": "english_division",
   "label": "ENGLISH DIVISION",
-  "updatedAt": "2026-06-23T14:25:24",
+  "updatedAt": "2026-06-23T15:14:35",
   "events": [
     {
       "id": "evt-0455efff1e640454",
@@ -545,7 +545,7 @@
       "cancelled": false
     },
     {
-      "id": "evt-70ee48217db43a2f",
+      "id": "evt-bdf4243618f88036",
       "groups": [
         1,
         2
@@ -553,12 +553,13 @@
       "startDateTime": "2026-10-07T14:15:00",
       "endDateTime": "2026-10-07T16:00:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: ENGLISH DIVISION",
       "location": "Room 1",
       "lecturer": "dr hab. Tomasz Kleszczewski",
       "cancelled": false
     },
     {
-      "id": "evt-3ff5e070e30b4745",
+      "id": "evt-c47a5a4aea4b0836",
       "groups": [
         3,
         4
@@ -566,12 +567,13 @@
       "startDateTime": "2026-10-07T14:15:00",
       "endDateTime": "2026-10-07T16:00:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: ENGLISH DIVISION",
       "location": "Room 2",
       "lecturer": "dr hab. Beata Modzelewska",
       "cancelled": false
     },
     {
-      "id": "evt-a2551da9ef43b072",
+      "id": "evt-a9269cf4c7afcaf0",
       "groups": [
         5,
         6,
@@ -580,12 +582,13 @@
       "startDateTime": "2026-10-07T16:15:00",
       "endDateTime": "2026-10-07T18:00:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: ENGLISH DIVISION",
       "location": "Room 1",
       "lecturer": "dr hab. Tomasz Kleszczewski",
       "cancelled": false
     },
     {
-      "id": "evt-49d31b1ed6804812",
+      "id": "evt-1d2bbd2a4fd97c18",
       "groups": [
         1,
         2
@@ -593,12 +596,13 @@
       "startDateTime": "2026-10-14T14:15:00",
       "endDateTime": "2026-10-14T16:00:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: ENGLISH DIVISION",
       "location": "Room 1",
       "lecturer": "dr Agnieszka Raciborska",
       "cancelled": false
     },
     {
-      "id": "evt-1ff1048e0224a3f3",
+      "id": "evt-5eabf7c922f6f440",
       "groups": [
         3,
         4
@@ -606,12 +610,13 @@
       "startDateTime": "2026-10-14T14:15:00",
       "endDateTime": "2026-10-14T16:00:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: ENGLISH DIVISION",
       "location": "Room 2",
       "lecturer": "dr hab. Tomasz Kleszczewski",
       "cancelled": false
     },
     {
-      "id": "evt-ea300cb06647c118",
+      "id": "evt-9e901c3ad6a904da",
       "groups": [
         5,
         6,
@@ -620,12 +625,13 @@
       "startDateTime": "2026-10-14T16:15:00",
       "endDateTime": "2026-10-14T18:00:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: ENGLISH DIVISION",
       "location": "Room 1",
       "lecturer": "dr hab. Tomasz Kleszczewski",
       "cancelled": false
     },
     {
-      "id": "evt-3b5801e1de6554c2",
+      "id": "evt-e43a79a9c5079f20",
       "groups": [
         1,
         2
@@ -633,12 +639,13 @@
       "startDateTime": "2026-10-21T14:15:00",
       "endDateTime": "2026-10-21T16:00:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: ENGLISH DIVISION",
       "location": "Room 1",
       "lecturer": "dr hab. Tomasz Kleszczewski",
       "cancelled": false
     },
     {
-      "id": "evt-5a5613517e6555cf",
+      "id": "evt-b83e045549db9758",
       "groups": [
         3,
         4
@@ -646,12 +653,13 @@
       "startDateTime": "2026-10-21T14:15:00",
       "endDateTime": "2026-10-21T16:00:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: ENGLISH DIVISION",
       "location": "Room 2",
       "lecturer": "dr Agnieszka Raciborska",
       "cancelled": false
     },
     {
-      "id": "evt-005a78c9d0d9cb7b",
+      "id": "evt-8713e38a65e93f8c",
       "groups": [
         5,
         6,
@@ -660,12 +668,13 @@
       "startDateTime": "2026-10-21T16:15:00",
       "endDateTime": "2026-10-21T18:00:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: ENGLISH DIVISION",
       "location": "Room 1",
       "lecturer": "dr hab. Tomasz Kleszczewski",
       "cancelled": false
     },
     {
-      "id": "evt-979db1796ccbe360",
+      "id": "evt-6b57bf15f5a69370",
       "groups": [
         1,
         2
@@ -673,12 +682,13 @@
       "startDateTime": "2026-10-28T14:15:00",
       "endDateTime": "2026-10-28T16:00:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: ENGLISH DIVISION",
       "location": "Room 1",
       "lecturer": "dr hab. Beata Modzelewska",
       "cancelled": false
     },
     {
-      "id": "evt-8573c2068c5f4a0f",
+      "id": "evt-4bbfc5f73e7f0d3d",
       "groups": [
         3,
         4
@@ -686,12 +696,13 @@
       "startDateTime": "2026-10-28T14:15:00",
       "endDateTime": "2026-10-28T16:00:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: ENGLISH DIVISION",
       "location": "Room 2",
       "lecturer": "dr hab. Tomasz Kleszczewski",
       "cancelled": false
     },
     {
-      "id": "evt-5d9d96a27bd0d803",
+      "id": "evt-a3a09a34d1e765e4",
       "groups": [
         5,
         6,
@@ -700,6 +711,7 @@
       "startDateTime": "2026-10-28T16:15:00",
       "endDateTime": "2026-10-28T18:00:00",
       "activityType": "seminar",
+      "courseCode": "Seminaria: ENGLISH DIVISION",
       "location": "Room 1",
       "lecturer": "dr hab. Beata Modzelewska",
       "cancelled": false

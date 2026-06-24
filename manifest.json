@@ -1,64 +1,64 @@
 {
   "schemaVersion": 1,
   "contentSetId": "2026-06-24-content",
-  "publishedAt": "2026-06-24T16:53:56Z",
+  "publishedAt": "2026-06-24T18:14:04Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
     {
       "id": "news/en",
       "path": "news/en/feed.json",
-      "version": "15",
-      "sha256": "f76c0ecc5e24a3d4bbe46891db063c8e116cacd8dfb3c404d2daa486af215dfe",
-      "sizeBytes": 5077,
+      "version": "17",
+      "sha256": "f4347c54009adeeaf3416b125bde3b136cf521a415d2177a008b96d2dc84b5ca",
+      "sizeBytes": 5297,
       "locale": "en"
     },
     {
       "id": "news/pl",
       "path": "news/pl/feed.json",
-      "version": "18",
-      "sha256": "399c9b0a650fb5112fd0af38ad8895fada87617dec342d23e53dec596dfa53cf",
-      "sizeBytes": 5242,
+      "version": "20",
+      "sha256": "cc5caf7a7bc97a22c0d04c3d50f4173e821adcc9fda31e3807f5382687b5c399",
+      "sizeBytes": 5453,
       "locale": "pl"
     },
     {
       "id": "news/es",
       "path": "news/es/feed.json",
-      "version": "10",
-      "sha256": "71600d0ddb984f489575acadfa0f138ec0850081fc7756580c05437057a3271d",
-      "sizeBytes": 5422,
+      "version": "12",
+      "sha256": "dba9563630ff52ed39013916f260e05b1d3cabb09634b7d4a0353ef56a531253",
+      "sizeBytes": 5678,
       "locale": "es"
     },
     {
       "id": "news/eo",
       "path": "news/eo/feed.json",
-      "version": "10",
-      "sha256": "9aa00a9fa7bf31207f413edbce12bd7341ba637040df21a80c17d672b11efca2",
-      "sizeBytes": 5201,
+      "version": "12",
+      "sha256": "d9938e55a6160b1590ced5b59de2b58d3339b65ac031e02153e56b910c1b27d7",
+      "sizeBytes": 5418,
       "locale": "eo"
     },
     {
       "id": "news/isv",
       "path": "news/isv/feed.json",
-      "version": "11",
-      "sha256": "7d8bfe680431b8854a273fdd27420c261bdef34f218856d6f2dbb1bcbee07e3a",
-      "sizeBytes": 5101,
+      "version": "13",
+      "sha256": "b84ab081b8f80247c77592aac9966b84d7e77bcd384580ac8b402927fcc3e026",
+      "sizeBytes": 5323,
       "locale": "isv"
     },
     {
       "id": "news/isv_cyrl",
       "path": "news/isv_cyrl/feed.json",
-      "version": "7",
-      "sha256": "885393b8b8fb73f631533509972b544bec60c02ae50aab9256fb58c87942e7bf",
-      "sizeBytes": 7699,
+      "version": "9",
+      "sha256": "2e14a770ab15c32d298cee2d81b3804dc37102a99072996b9d53dd755d311016",
+      "sizeBytes": 8013,
       "locale": "isv_cyrl"
     },
     {
       "id": "news/isv_glag",
       "path": "news/isv_glag/feed.json",
-      "version": "7",
-      "sha256": "ee4b9cd64103b3486c5732c532339fc78ea83b9a166cc778eb2b66c67461c62f",
-      "sizeBytes": 10396,
+      "version": "9",
+      "sha256": "0b1957f49808d2863a5872ea9d12d871350f262370d84f522c1de849db6c6488",
+      "sizeBytes": 10809,
       "locale": "isv_glag"
     },
     {
@@ -1324,6 +1324,22 @@
       "sha256": "140e857ebf4ad350f625c53e58edbc1928a59cbd3bd30c4ab75485049a021494",
       "sizeBytes": 219465,
       "locale": "contact"
+    },
+    {
+      "id": "images/scientific_club/join_the_club.jpg",
+      "path": "images/scientific_club/join_the_club.jpg",
+      "version": "1",
+      "sha256": "200bf86838daa18b192822532e475f9e22f37dc9c2bd76990eaad860438c13d1",
+      "sizeBytes": 292228,
+      "locale": "scientific_club"
+    },
+    {
+      "id": "images/scientific_club/people_with_logo.jpg",
+      "path": "images/scientific_club/people_with_logo.jpg",
+      "version": "2",
+      "sha256": "67126e6f84bdd16d5294e384f04c5f0049509385d40df803e8f5178e3fb062be",
+      "sizeBytes": 200911,
+      "locale": "scientific_club"
     }
   ]
 }

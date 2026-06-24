@@ -191,6 +191,8 @@
     "staff_bl": {
       "title": "Technical Staff",
       "consultingHours": "By appointment",
+      "photo": "staff_bl",
+      "easterEggPhoto": "staff_bl_alt",
       "researchInterests": [],
       "achievements": [],
       "publications": [],
@@ -204,6 +206,8 @@
     "staff_mat": {
       "title": "Technical Staff",
       "consultingHours": "By appointment",
+      "photo": "staff_mat",
+      "easterEggPhoto": "staff_mat_alt",
       "researchInterests": [],
       "achievements": [],
       "publications": [],

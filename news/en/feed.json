@@ -31,6 +31,18 @@
       "title": "New exercise notebooks",
       "publishedAt": "2025-10-01T10:00:00Z",
       "markdownBody": "![New exercise notebooks](images/news/news001_new_handbooks.jpg)\n\n**Note for all programmes.** From the **2025/26** academic year, new exercise notebooks with updated material are in use."
+    },
+    {
+      "id": "scientific-club-about",
+      "title": "Student Scientific Society of Biophysics and Medical Engineering",
+      "publishedAt": "2026-06-22T10:00:00Z",
+      "markdownBody": "The Student Scientific Society of Biophysics and Medical Engineering operates at the Department of Medical Biophysics, Medical University of Białystok.\n\nMore information on the UMB website: [Student Scientific Society](https://www.umb.edu.pl/s,13248/Studenckie_Kolo_Naukowe_)\n\n## Contact\n\nE-mail: [el.medycyna@gmail.com](mailto:el.medycyna@gmail.com)\n\n## Leadership\n\n- **Head of unit:** dr hab. Beata Modzelewska\n- **Supervisors:** dr hab. n. med. Beata Modzelewska; dr hab. n. med. Marzena Tylicka\n- **Chair:** Marta Berczyńska\n\n## Meetings\n\nMeeting dates are arranged on an ongoing basis.\n\n## Activities\n\nThe Society takes part in the **Podlasie Festival of Science and Art**, popularizing biophysics and medical engineering among pupils and the local community."
+    },
+    {
+      "id": "scientific-club-research",
+      "title": "Research and projects of the Student Scientific Society",
+      "publishedAt": "2026-06-21T10:00:00Z",
+      "markdownBody": "The Student Scientific Society of Biophysics and Medical Engineering at MUB conducts laboratory research and projects at the interface of biophysics, physiology, and medical engineering.\n\n## Research areas\n\n- Brain–Computer Interface (BCI)\n- Pharmacodynamics of relaxants\n- In vitro studies of smooth muscle\n- Markers of inflammatory response\n- Markers of tissue damage\n- Tensiometry\n- Electrophysiology\n- Medical engineering\n- Conductometry\n- Audiometry\n\n## Practical project\n\n- Design and construction of a lower-leg prosthesis using BCI\n- Research on the role of biofeedback in medical engineering"
     }
   ]
 }

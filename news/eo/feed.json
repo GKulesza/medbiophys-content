@@ -31,6 +31,18 @@
       "title": "Novaj ekzercaj kajeroj",
       "publishedAt": "2025-10-01T10:00:00Z",
       "markdownBody": "![Novaj ekzercaj kajeroj](images/news/news001_new_handbooks.jpg)\n\n**Atentigo por ĉiuj programoj.** Ekde la akademia jaro **2025/26** validas novaj ekzercaj kajeroj kun ĝisdatigita materialo."
+    },
+    {
+      "id": "scientific-club-about",
+      "title": "Studenta Scienca Klubo de Biofiziko kaj Medicina Inĝenierarto",
+      "publishedAt": "2026-06-22T10:00:00Z",
+      "markdownBody": "La Studenta Scienca Klubo de Biofiziko kaj Medicina Inĝenierarto funkcias ĉe la Fakultato de Medicina Biofiziko de la Medicina Universitato en Białystok.\n\nPliaj informoj en la retejo de UMB: [Studenta Scienca Klubo](https://www.umb.edu.pl/s,13248/Studenckie_Kolo_Naukowe_)\n\n## Kontakto\n\nRetpoŝto: [el.medycyna@gmail.com](mailto:el.medycyna@gmail.com)\n\n## Gvidantoj\n\n- **Estro de la unuo:** dr hab. Beata Modzelewska\n- **Prizorgantoj:** dr hab. n. med. Beata Modzelewska; dr hab. n. med. Marzena Tylicka\n- **Prezidantino:** Marta Berczyńska\n\n## Kunvenoj\n\nKunvenaj datoj estas aranĝataj laŭbezone.\n\n## Agado\n\nLa klubo partoprenas en la **Podlaĵa Festivalo de Scienco kaj Arto**, popularigante biofizikon kaj medicinan inĝenierarton inter lernantoj kaj la loka komunumo."
+    },
+    {
+      "id": "scientific-club-research",
+      "title": "Esploroj kaj projektoj de la Studenta Scienca Klubo",
+      "publishedAt": "2026-06-21T10:00:00Z",
+      "markdownBody": "La Studenta Scienca Klubo de Biofiziko kaj Medicina Inĝenierarto ĉe MUB kondukas laboratoriajn esplorojn kaj projektojn ĉe la interfaco de biofiziko, fiziologio kaj medicina inĝenierarto.\n\n## Esploraj kampoj\n\n- Interfaco cerbo–komputilo (BCI)\n- Farmakodinamiko de relaxigiloj\n- In vitro esploroj de glata muskolo\n- Markiloj de inflama respondo\n- Markiloj de histaj damaĝoj\n- Tensiometrio\n- Elektrofiziologio\n- Medicina inĝenierarto\n- Konduktometrio\n- Audiometrio\n\n## Praktika projekto\n\n- Projektado kaj konstruo de subkrura protezo uzante BCI\n- Esploroj pri la rolo de biofeedback en medicina inĝenierarto"
     }
   ]
 }

@@ -31,6 +31,18 @@
       "title": "Nowe zeszyty ćwiczeń",
       "publishedAt": "2025-10-01T10:00:00Z",
       "markdownBody": "![Nowe zeszyty ćwiczeń](images/news/news001_new_handbooks.jpg)\n\n**Uwaga dla wszystkich kierunków.** Od tego roku akademickiego **2025/26** obowiązują nowe zeszyty do ćwiczeń z nowym materiałem."
+    },
+    {
+      "id": "scientific-club-about",
+      "title": "Studenckie Koło Naukowe Biofizyki i Inżynierii Medycznej",
+      "publishedAt": "2026-06-22T10:00:00Z",
+      "markdownBody": "Studenckie Koło Naukowe Biofizyki i Inżynierii Medycznej działa przy Zakładzie Biofizyki Medycznej Uniwersytetu Medycznego w Białymstoku.\n\nWięcej informacji na stronie UMB: [Studenckie Koło Naukowe](https://www.umb.edu.pl/s,13248/Studenckie_Kolo_Naukowe_)\n\n## Kontakt\n\nE-mail: [el.medycyna@gmail.com](mailto:el.medycyna@gmail.com)\n\n## Kierownictwo\n\n- **Kierownik jednostki:** dr hab. Beata Modzelewska\n- **Opiekunowie:** dr hab. n. med. Beata Modzelewska; dr hab. n. med. Marzena Tylicka\n- **Przewodnicząca:** Marta Berczyńska\n\n## Spotkania\n\nTerminy spotkań ustalane są na bieżąco.\n\n## Działalność\n\nKoło uczestniczy w **Podlaskim Festiwalu Nauki i Sztuki**, popularyzując biofizykę i inżynierię medyczną wśród uczniów i mieszkańców regionu."
+    },
+    {
+      "id": "scientific-club-research",
+      "title": "Badania i projekty Studenckiego Koła Naukowego",
+      "publishedAt": "2026-06-21T10:00:00Z",
+      "markdownBody": "Studenckie Koło Naukowe Biofizyki i Inżynierii Medycznej UMB prowadzi badania laboratoryjne i projekty z pogranicza biofizyki, fizjologii i inżynierii medycznej.\n\n## Obszary badawcze\n\n- Brain–Computer Interface (BCI)\n- Farmakodynamika środków rozkurczowych\n- Badania mięśni gładkich in vitro\n- Markery odpowiedzi zapalnej\n- Markery uszkodzenia tkanek\n- Tensometria\n- Elektrofizjologia\n- Inżynieria medyczna\n- Konduktometria\n- Audiometria\n\n## Projekt praktyczny\n\n- Projekt i konstrukcja protezy podudzia wykorzystującej BCI\n- Badania nad rolą biofeedbacku w inżynierii medycznej"
     }
   ]
 }

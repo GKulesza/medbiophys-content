@@ -31,6 +31,18 @@
       "title": "Nove svesky upražnenij",
       "publishedAt": "2025-10-01T10:00:00Z",
       "markdownBody": "![Nove svesky upražnenij](images/news/news001_new_handbooks.jpg)\n\n**Vnimanie dlja vseh program.** S učebnogo goda **2025/26** dejstvujut nove svesky dlja upražnenij s obnovlěnnym materialom."
+    },
+    {
+      "id": "scientific-club-about",
+      "title": "Studentsky Naučny Klub Biofiziki i Medicinske Inženjerije",
+      "publishedAt": "2026-06-22T10:00:00Z",
+      "markdownBody": "Studentsky Naučny Klub Biofiziki i Medicinske Inženjerije dějaje pri Katedrě Medicinske Biofiziki Medicinskogo Universiteta v Białystoku.\n\nVeče informacij na stranici UMB: [Studentsky Naučny Klub](https://www.umb.edu.pl/s,13248/Studenckie_Kolo_Naukowe_)\n\n## Kontakt\n\nE-mail: [el.medycyna@gmail.com](mailto:el.medycyna@gmail.com)\n\n## Rukovodstvo\n\n- **Rukovoditel jedinicy:** dr hab. Beata Modzelewska\n- **Opiekuny:** dr hab. n. med. Beata Modzelewska; dr hab. n. med. Marzena Tylicka\n- **Prědsědnica:** Marta Berczyńska\n\n## Srety\n\nTerminy sretov ustanavlivajut se na běžu.\n\n## Dějatelnost\n\nKlub učestvuje v **Podlaskom Festivalu Nauki i Iskusstva**, popularizirajući biofiziku i medicinsku inženjeriju među učenikami i lokalnym občestvom."
+    },
+    {
+      "id": "scientific-club-research",
+      "title": "Izsledovanja i projekty Studentskogo Naučnogo Kluba",
+      "publishedAt": "2026-06-21T10:00:00Z",
+      "markdownBody": "Studentsky Naučny Klub Biofiziki i Medicinske Inženjerije pri MUB provodi laboratorne izsledovanja i projekty na styku biofiziki, fiziologije i medicinske inženjerije.\n\n## Oblasti izsledovanja\n\n- Brain–Computer Interface (BCI)\n- Farmakodinamika sredstv rozkurčajučih\n- In vitro izsledovanja gladyh mišic\n- Markery odpovědi zapalnoj\n- Markery uskođenja tkanej\n- Tensiometrija\n- Elektrofiziologija\n- Medicinska inženjerija\n- Konduktometrija\n- Audiometrija\n\n## Praktičny projekt\n\n- Projekt i konstrukcija protezy podudzia s ispolzovanjem BCI\n- Izsledovanja roli biofeedbacku v medicinskoj inženjeriji"
     }
   ]
 }

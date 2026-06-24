@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentSetId": "2026-06-24-content",
-  "publishedAt": "2026-06-24T14:36:47Z",
+  "publishedAt": "2026-06-24T16:18:28Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -120,57 +120,57 @@
     {
       "id": "about/en/about",
       "path": "about/en/about.md",
-      "version": "1",
-      "sha256": "173234c998d32c0e32b28d0d8954e6fb5e5b1efba23ee4eb28262579dcfdbb62",
-      "sizeBytes": 631,
+      "version": "2",
+      "sha256": "2887ea2a165dc4663ad8ec0b12f28963109268f00667ee4e16d9ec2e67d54516",
+      "sizeBytes": 10704,
       "locale": "en"
     },
     {
       "id": "about/pl/about",
       "path": "about/pl/about.md",
-      "version": "1",
-      "sha256": "e8cdf6e51b81c9a0a5c08dacc2ad421e936fe889985c69ca0c101ce85d8c3fa8",
-      "sizeBytes": 633,
+      "version": "2",
+      "sha256": "685593926ec6f1365c026826cd9557c37d9859247e89b8b298662b58ea438d1f",
+      "sizeBytes": 11168,
       "locale": "pl"
     },
     {
       "id": "about/es/about",
       "path": "about/es/about.md",
-      "version": "1",
-      "sha256": "2e1f6acb81e7fd0064137b6a8b29b1050b464676d755bef44aae081d9f75ae55",
-      "sizeBytes": 350,
+      "version": "2",
+      "sha256": "89cc5b3284d81fc0dff0a0db719ada318436895b4ee76ac72cfa7a9045774a7b",
+      "sizeBytes": 12105,
       "locale": "es"
     },
     {
       "id": "about/eo/about",
       "path": "about/eo/about.md",
-      "version": "1",
-      "sha256": "2a47a49fbbc877f29a51902075e00c01973799298462a1e6994f1a8bfa5f7e6e",
-      "sizeBytes": 287,
+      "version": "2",
+      "sha256": "b36e5b08da560483fee312a642bc19cdeb364232e4459e63520fac8949b72243",
+      "sizeBytes": 10275,
       "locale": "eo"
     },
     {
       "id": "about/isv/about",
       "path": "about/isv/about.md",
-      "version": "1",
-      "sha256": "281ff71012a405552d1df94fd51a4bfaea21300fae9ccb6b2eb0ce9fbf5fcdf8",
-      "sizeBytes": 246,
+      "version": "2",
+      "sha256": "5da9684997fecd76c56f05605405b5c24faa03a369232778d8aed4531ff4d8e3",
+      "sizeBytes": 10711,
       "locale": "isv"
     },
     {
       "id": "about/isv_cyrl/about",
       "path": "about/isv_cyrl/about.md",
-      "version": "1",
-      "sha256": "1cb27e36daf3b3f15bdc12586dcf05e1b67f2943119ad4454389f787db8a8d57",
-      "sizeBytes": 400,
+      "version": "2",
+      "sha256": "a622912343366ed44af0cb14d95be5caa8e843135c70cea978070063e1823ece",
+      "sizeBytes": 18674,
       "locale": "isv_cyrl"
     },
     {
       "id": "about/isv_glag/about",
       "path": "about/isv_glag/about.md",
-      "version": "1",
-      "sha256": "7aeba1b8876fc990457f56af84cb6e9fad4bd28ea6a3a971e5bbb952387c8099",
-      "sizeBytes": 420,
+      "version": "2",
+      "sha256": "0286023cda4fbfe809f0467f9e0cf98cca0360023a7fa5ea31fcaacc95449372",
+      "sizeBytes": 27071,
       "locale": "isv_glag"
     },
     {

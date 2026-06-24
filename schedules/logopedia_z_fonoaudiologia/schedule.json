@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
-  "program": "higiena_stomatologiczna",
-  "label": "HIGIENA STOMATOLOGICZNA",
+  "program": "logopedia_z_fonoaudiologia",
+  "label": "LOGOPEDIA Z FONOAUDIOLOGIĄ",
   "updatedAt": "2026-06-24T10:45:40",
   "events": [
     {
-      "id": "evt-ea02590be2802463",
+      "id": "evt-9d112987d47bfe46",
       "groups": [
         1
       ],
-      "startDateTime": "2027-03-13T13:00:00",
-      "endDateTime": "2027-03-13T14:30:00",
+      "startDateTime": "2026-11-05T08:00:00",
+      "endDateTime": "2026-11-05T09:30:00",
       "activityType": "lecture",
       "courseCode": "Wykłady",
       "lecturer": "ZBM UMB",
@@ -18,12 +18,12 @@
       "cancelled": false
     },
     {
-      "id": "evt-5a28eef821607fc5",
+      "id": "evt-f27ce3b5788725a5",
       "groups": [
         1
       ],
-      "startDateTime": "2027-03-20T13:00:00",
-      "endDateTime": "2027-03-20T14:30:00",
+      "startDateTime": "2026-11-12T08:00:00",
+      "endDateTime": "2026-11-12T09:30:00",
       "activityType": "lecture",
       "courseCode": "Wykłady",
       "lecturer": "ZBM UMB",
@@ -31,12 +31,12 @@
       "cancelled": false
     },
     {
-      "id": "evt-b596c48fb64c9763",
+      "id": "evt-9b44f15ccf6362b5",
       "groups": [
         1
       ],
-      "startDateTime": "2027-03-27T13:00:00",
-      "endDateTime": "2027-03-27T14:30:00",
+      "startDateTime": "2026-11-19T08:00:00",
+      "endDateTime": "2026-11-19T09:30:00",
       "activityType": "lecture",
       "courseCode": "Wykłady",
       "lecturer": "ZBM UMB",
@@ -44,12 +44,12 @@
       "cancelled": false
     },
     {
-      "id": "evt-5814349f01f67c0f",
+      "id": "evt-e5160acde31650b7",
       "groups": [
         1
       ],
-      "startDateTime": "2027-04-10T13:00:00",
-      "endDateTime": "2027-04-10T14:30:00",
+      "startDateTime": "2026-11-26T08:00:00",
+      "endDateTime": "2026-11-26T09:30:00",
       "activityType": "lecture",
       "courseCode": "Wykłady",
       "lecturer": "ZBM UMB",
@@ -57,12 +57,12 @@
       "cancelled": false
     },
     {
-      "id": "evt-89cc20025e8478a8",
+      "id": "evt-4df89fd9ca571b32",
       "groups": [
         1
       ],
-      "startDateTime": "2027-04-17T13:00:00",
-      "endDateTime": "2027-04-17T14:30:00",
+      "startDateTime": "2026-12-03T08:00:00",
+      "endDateTime": "2026-12-03T09:30:00",
       "activityType": "lecture",
       "courseCode": "Wykłady",
       "lecturer": "ZBM UMB",

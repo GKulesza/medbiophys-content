@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
-  "program": "higiena_stomatologiczna",
-  "label": "HIGIENA STOMATOLOGICZNA",
+  "program": "pielegniarstwo",
+  "label": "PIELĘGNIARSTWO",
   "updatedAt": "2026-06-24T10:45:40",
   "events": [
     {
-      "id": "evt-ea02590be2802463",
+      "id": "evt-daa4e52833d99ee7",
       "groups": [
         1
       ],
-      "startDateTime": "2027-03-13T13:00:00",
-      "endDateTime": "2027-03-13T14:30:00",
+      "startDateTime": "2026-10-10T08:00:00",
+      "endDateTime": "2026-10-10T09:30:00",
       "activityType": "lecture",
       "courseCode": "Wykłady",
       "lecturer": "ZBM UMB",
@@ -18,12 +18,12 @@
       "cancelled": false
     },
     {
-      "id": "evt-5a28eef821607fc5",
+      "id": "evt-40ad027791ced85e",
       "groups": [
         1
       ],
-      "startDateTime": "2027-03-20T13:00:00",
-      "endDateTime": "2027-03-20T14:30:00",
+      "startDateTime": "2026-10-17T08:00:00",
+      "endDateTime": "2026-10-17T09:30:00",
       "activityType": "lecture",
       "courseCode": "Wykłady",
       "lecturer": "ZBM UMB",
@@ -31,12 +31,12 @@
       "cancelled": false
     },
     {
-      "id": "evt-b596c48fb64c9763",
+      "id": "evt-71c2b8446d50709b",
       "groups": [
         1
       ],
-      "startDateTime": "2027-03-27T13:00:00",
-      "endDateTime": "2027-03-27T14:30:00",
+      "startDateTime": "2026-10-23T08:00:00",
+      "endDateTime": "2026-10-23T09:30:00",
       "activityType": "lecture",
       "courseCode": "Wykłady",
       "lecturer": "ZBM UMB",
@@ -44,12 +44,12 @@
       "cancelled": false
     },
     {
-      "id": "evt-5814349f01f67c0f",
+      "id": "evt-bce79970077cf04e",
       "groups": [
         1
       ],
-      "startDateTime": "2027-04-10T13:00:00",
-      "endDateTime": "2027-04-10T14:30:00",
+      "startDateTime": "2026-10-30T08:00:00",
+      "endDateTime": "2026-10-30T09:30:00",
       "activityType": "lecture",
       "courseCode": "Wykłady",
       "lecturer": "ZBM UMB",
@@ -57,12 +57,12 @@
       "cancelled": false
     },
     {
-      "id": "evt-89cc20025e8478a8",
+      "id": "evt-2968529bed41d6c1",
       "groups": [
         1
       ],
-      "startDateTime": "2027-04-17T13:00:00",
-      "endDateTime": "2027-04-17T14:30:00",
+      "startDateTime": "2026-11-07T08:00:00",
+      "endDateTime": "2026-11-07T09:30:00",
       "activityType": "lecture",
       "courseCode": "Wykłady",
       "lecturer": "ZBM UMB",

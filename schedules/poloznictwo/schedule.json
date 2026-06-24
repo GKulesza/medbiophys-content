@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 2,
+  "program": "poloznictwo",
+  "label": "POŁOŻNICTWO",
+  "updatedAt": "2026-06-24T10:45:40",
+  "events": [
+    {
+      "id": "evt-e90aafb8e79e56a1",
+      "groups": [
+        1,
+        2
+      ],
+      "startDateTime": "2027-04-01T13:30:00",
+      "endDateTime": "2027-04-01T15:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-5964d18e0e53580d",
+      "groups": [
+        1,
+        2
+      ],
+      "startDateTime": "2027-04-08T13:30:00",
+      "endDateTime": "2027-04-08T15:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-27d483429286dad6",
+      "groups": [
+        1
+      ],
+      "startDateTime": "2027-04-09T14:45:00",
+      "endDateTime": "2027-04-09T17:45:00",
+      "activityType": "laboratory",
+      "courseCode": "Laboratorium",
+      "title": "Ćwiczenia laboratoryjne, elektromedycyna, ćw. 2.4",
+      "location": "Zakład Biofizyki Medycznej, sala 107",
+      "lecturer": "dr Agnieszka Raciborska",
+      "cancelled": false
+    },
+    {
+      "id": "evt-d04cb22216c69c0b",
+      "groups": [
+        2
+      ],
+      "startDateTime": "2027-04-09T14:45:00",
+      "endDateTime": "2027-04-09T17:45:00",
+      "activityType": "laboratory",
+      "courseCode": "Laboratorium",
+      "title": "Ćwiczenia laboratoryjne, promieniotwórczość, ćw. 3.1",
+      "location": "Zakład Biofizyki Medycznej, sala 105",
+      "lecturer": "dr Jacek Kapała",
+      "cancelled": false
+    },
+    {
+      "id": "evt-5b929d1d0d654d70",
+      "groups": [
+        1,
+        2
+      ],
+      "startDateTime": "2027-04-15T13:30:00",
+      "endDateTime": "2027-04-15T15:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-1f47487419bb621d",
+      "groups": [
+        2
+      ],
+      "startDateTime": "2027-04-16T14:45:00",
+      "endDateTime": "2027-04-16T17:00:00",
+      "activityType": "laboratory",
+      "courseCode": "Laboratorium",
+      "title": "Ćwiczenia laboratoryjne, elektromedycyna, ćw. 2.4",
+      "location": "Zakład Biofizyki Medycznej, sala 107",
+      "lecturer": "dr Agnieszka Raciborska",
+      "cancelled": false
+    },
+    {
+      "id": "evt-03076a8bdc18e33f",
+      "groups": [
+        1
+      ],
+      "startDateTime": "2027-04-16T14:45:00",
+      "endDateTime": "2027-04-16T17:00:00",
+      "activityType": "laboratory",
+      "courseCode": "Laboratorium",
+      "title": "Ćwiczenia laboratoryjne, promieniotwórczość, ćw. 3.1",
+      "location": "Zakład Biofizyki Medycznej, sala 105",
+      "lecturer": "dr Jacek Kapała",
+      "cancelled": false
+    },
+    {
+      "id": "evt-99349f53c069713b",
+      "groups": [
+        1,
+        2
+      ],
+      "startDateTime": "2027-04-22T13:30:00",
+      "endDateTime": "2027-04-22T15:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-551ec72459e79854",
+      "groups": [
+        1
+      ],
+      "startDateTime": "2027-04-23T14:45:00",
+      "endDateTime": "2027-04-23T17:00:00",
+      "activityType": "laboratory",
+      "courseCode": "Laboratorium",
+      "title": "Ćwiczenia laboratoryjne, elektromedycyna, ćw. 2.4",
+      "location": "Zakład Biofizyki Medycznej, sala 107",
+      "lecturer": "dr Agnieszka Raciborska",
+      "cancelled": false
+    },
+    {
+      "id": "evt-bd12090c492bf7cd",
+      "groups": [
+        2
+      ],
+      "startDateTime": "2027-04-23T14:45:00",
+      "endDateTime": "2027-04-23T17:00:00",
+      "activityType": "laboratory",
+      "courseCode": "Laboratorium",
+      "title": "Ćwiczenia laboratoryjne, promieniotwórczość, ćw. 3.1",
+      "location": "Zakład Biofizyki Medycznej, sala 105",
+      "lecturer": "dr Jacek Kapała",
+      "cancelled": false
+    },
+    {
+      "id": "evt-451770155223a21a",
+      "groups": [
+        2
+      ],
+      "startDateTime": "2027-04-30T14:45:00",
+      "endDateTime": "2027-04-30T17:00:00",
+      "activityType": "laboratory",
+      "courseCode": "Laboratorium",
+      "title": "Ćwiczenia laboratoryjne, elektromedycyna, ćw. 2.4",
+      "location": "Zakład Biofizyki Medycznej, sala 107",
+      "lecturer": "dr Agnieszka Raciborska",
+      "cancelled": false
+    },
+    {
+      "id": "evt-ac77184f4335b10d",
+      "groups": [
+        1
+      ],
+      "startDateTime": "2027-04-30T14:45:00",
+      "endDateTime": "2027-04-30T17:00:00",
+      "activityType": "laboratory",
+      "courseCode": "Laboratorium",
+      "title": "Ćwiczenia laboratoryjne, promieniotwórczość, ćw. 3.1",
+      "location": "Zakład Biofizyki Medycznej, sala 105",
+      "lecturer": "dr Jacek Kapała",
+      "cancelled": false
+    },
+    {
+      "id": "evt-8f1a10184170e176",
+      "groups": [
+        1,
+        2
+      ],
+      "startDateTime": "2027-05-06T13:30:00",
+      "endDateTime": "2027-05-06T15:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 2,
+  "program": "lekarsko_dentystyczny",
+  "label": "LEKARSKO-DENTYSTYCZNY",
+  "updatedAt": "2026-06-24T10:45:40",
+  "events": [
+    {
+      "id": "evt-b27e9e298be6fa4c",
+      "groups": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startDateTime": "2027-02-24T12:30:00",
+      "endDateTime": "2027-02-24T14:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-023fd4ceaa45b86d",
+      "groups": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startDateTime": "2027-03-03T12:30:00",
+      "endDateTime": "2027-03-03T14:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-6b98ca2961c49552",
+      "groups": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startDateTime": "2027-03-10T12:30:00",
+      "endDateTime": "2027-03-10T14:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-641cfc7a9de87c6b",
+      "groups": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startDateTime": "2027-03-17T12:30:00",
+      "endDateTime": "2027-03-17T14:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-d206c5e34d967dc7",
+      "groups": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startDateTime": "2027-03-24T12:30:00",
+      "endDateTime": "2027-03-24T14:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-cd7e04410fe59a13",
+      "groups": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startDateTime": "2027-03-31T12:30:00",
+      "endDateTime": "2027-03-31T14:00:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-d920bc71450663f7",
+      "groups": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startDateTime": "2027-04-14T12:30:00",
+      "endDateTime": "2027-04-14T13:15:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    }
+  ]
+}

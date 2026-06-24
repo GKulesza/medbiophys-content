@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentSetId": "2026-06-23-content",
-  "publishedAt": "2026-06-23T14:18:26Z",
+  "contentSetId": "2026-06-24-content",
+  "publishedAt": "2026-06-24T08:45:40Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -1182,51 +1182,91 @@
       "locale": "pl"
     },
     {
+      "id": "schedules/elektroradiologia",
+      "path": "schedules/elektroradiologia/schedule.json",
+      "version": "1",
+      "sha256": "8236a593b881c792e85b010d134d5afc2d87bf2f80bb38b6c412e5bf7d9103c3",
+      "sizeBytes": 1140,
+      "locale": "elektroradiologia"
+    },
+    {
       "id": "schedules/english_division",
       "path": "schedules/english_division/schedule.json",
-      "version": "5",
-      "sha256": "3019edbe7dccae61155f604c784d0ee4262d71b6188854de4e311e6fcd065791",
+      "version": "6",
+      "sha256": "cf064fe55cfe4e45c93d13d71ee7ffe4f4579b94569173debda727a45e9d992d",
       "sizeBytes": 18344,
       "locale": "english_division"
     },
     {
       "id": "schedules/higiena_stomatologiczna",
       "path": "schedules/higiena_stomatologiczna/schedule.json",
-      "version": "1",
-      "sha256": "22ba98201250be033da0770fd9b31e94d515037ef252b74d5452a53c3ce9c483",
-      "sizeBytes": 1869,
+      "version": "2",
+      "sha256": "55bc986c4c784f0e74044cc4f89b5450c104edcd7d3b74e46739d70102fca5ff",
+      "sizeBytes": 1814,
       "locale": "higiena_stomatologiczna"
     },
     {
       "id": "schedules/lekarski_niestacjonarne",
       "path": "schedules/lekarski_niestacjonarne/schedule.json",
-      "version": "5",
-      "sha256": "d6a03643ede75dc5b7978e302c6e91a67b117f68ecd7bae6b0579b9f1eb3f778",
-      "sizeBytes": 12483,
+      "version": "6",
+      "sha256": "150aa650b396eeee8ac4ec9cc1c1d7cadf470b19027117fd9f5a1518f23be8e6",
+      "sizeBytes": 12417,
       "locale": "lekarski_niestacjonarne"
     },
     {
       "id": "schedules/lekarski_stacjonarne",
       "path": "schedules/lekarski_stacjonarne/schedule.json",
-      "version": "5",
-      "sha256": "ce1ac9d90c5dfd9c06cced9528cdb5034fcb1e725e9a0ad647a2754b058b3abb",
-      "sizeBytes": 15783,
+      "version": "6",
+      "sha256": "67c798e6e90b3858445b6fa3dd6cec2a1b63964f1d51915f816ac13378794e54",
+      "sizeBytes": 15695,
       "locale": "lekarski_stacjonarne"
+    },
+    {
+      "id": "schedules/lekarsko_dentystyczny",
+      "path": "schedules/lekarsko_dentystyczny/schedule.json",
+      "version": "1",
+      "sha256": "19cdbee2a7139d693a70fb19f990d13d60b9c67570827824da57306ef85eec9f",
+      "sizeBytes": 2780,
+      "locale": "lekarsko_dentystyczny"
+    },
+    {
+      "id": "schedules/logopedia_z_fonoaudiologia",
+      "path": "schedules/logopedia_z_fonoaudiologia/schedule.json",
+      "version": "1",
+      "sha256": "ae6c36135c89523b812eae979717d9a649081e8f0096ae2c094488f456e04245",
+      "sizeBytes": 1821,
+      "locale": "logopedia_z_fonoaudiologia"
+    },
+    {
+      "id": "schedules/pielegniarstwo",
+      "path": "schedules/pielegniarstwo/schedule.json",
+      "version": "1",
+      "sha256": "68027965aa39f567149ca80ae1324da6ce0cefb1353e2feab1029d981260ebb2",
+      "sizeBytes": 1797,
+      "locale": "pielegniarstwo"
+    },
+    {
+      "id": "schedules/poloznictwo",
+      "path": "schedules/poloznictwo/schedule.json",
+      "version": "1",
+      "sha256": "8f7810b42bd25ad58d28996425c8b224d4b614e231f2c08c4bc63f6b5f4ea0bb",
+      "sizeBytes": 5419,
+      "locale": "poloznictwo"
     },
     {
       "id": "schedules/ratownictwo_medyczne",
       "path": "schedules/ratownictwo_medyczne/schedule.json",
-      "version": "1",
-      "sha256": "94c595dd7151acc11a6a9c3cafb29b34b7cab067738fe11c73afa73d9da60240",
-      "sizeBytes": 1973,
+      "version": "2",
+      "sha256": "9b9afd4184916fd3bcc2f3186dac58334a4a879785ff46b39a6cb207da81a182",
+      "sizeBytes": 1918,
       "locale": "ratownictwo_medyczne"
     },
     {
       "id": "schedules/zdrowie_publiczne_i_epidemiologia",
       "path": "schedules/zdrowie_publiczne_i_epidemiologia/schedule.json",
-      "version": "1",
-      "sha256": "9ad959798ca18aa6b509e1ddc1e2c4a5dfb2837fb4e70109279bfe467a9022bc",
-      "sizeBytes": 1547,
+      "version": "2",
+      "sha256": "f65f03d0214faef1b4be12cd732a833779f516006a5f0bc659085e2f39481a26",
+      "sizeBytes": 1503,
       "locale": "zdrowie_publiczne_i_epidemiologia"
     },
     {

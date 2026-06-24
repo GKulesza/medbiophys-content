@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "program": "elektroradiologia",
+  "label": "ELEKTRORADIOLOGIA",
+  "updatedAt": "2026-06-24T10:45:40",
+  "events": [
+    {
+      "id": "evt-fba1837b920c1168",
+      "groups": [
+        1
+      ],
+      "startDateTime": "2026-10-11T10:00:00",
+      "endDateTime": "2026-10-11T11:30:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-551bed64c1cff638",
+      "groups": [
+        1
+      ],
+      "startDateTime": "2027-02-25T15:00:00",
+      "endDateTime": "2027-02-25T16:30:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    },
+    {
+      "id": "evt-ede89f8b3671b4e0",
+      "groups": [
+        1
+      ],
+      "startDateTime": "2027-05-27T15:00:00",
+      "endDateTime": "2027-05-27T15:45:00",
+      "activityType": "lecture",
+      "courseCode": "Wykłady",
+      "lecturer": "ZBM UMB",
+      "note": "online\nBlackboard",
+      "cancelled": false
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "program": "lekarski_stacjonarne",
   "label": "LEKARSKI (STACJONARNE)",
-  "updatedAt": "2026-06-23T16:18:26",
+  "updatedAt": "2026-06-24T10:45:40",
   "events": [
     {
       "id": "evt-2668b31e4d15479f",
@@ -359,7 +359,7 @@
       "endDateTime": "2026-10-29T11:30:00",
       "activityType": "intro_session",
       "location": "Zakład Biofizyki Medycznej",
-      "lecturer": "pracownicy ZBM UMB",
+      "lecturer": "ZBM UMB",
       "cancelled": false
     },
     {
@@ -373,7 +373,7 @@
       "endDateTime": "2026-10-29T13:30:00",
       "activityType": "intro_session",
       "location": "Zakład Biofizyki Medycznej",
-      "lecturer": "pracownicy ZBM UMB",
+      "lecturer": "ZBM UMB",
       "cancelled": false
     },
     {
@@ -387,7 +387,7 @@
       "endDateTime": "2026-10-29T18:00:00",
       "activityType": "intro_session",
       "location": "Zakład Biofizyki Medycznej",
-      "lecturer": "pracownicy ZBM UMB",
+      "lecturer": "ZBM UMB",
       "cancelled": false
     },
     {
@@ -400,7 +400,7 @@
       "endDateTime": "2026-10-29T20:00:00",
       "activityType": "intro_session",
       "location": "Zakład Biofizyki Medycznej",
-      "lecturer": "pracownicy ZBM UMB",
+      "lecturer": "ZBM UMB",
       "cancelled": false
     },
     {
@@ -552,7 +552,7 @@
       "endDateTime": "2027-01-28T11:30:00",
       "activityType": "summary_session",
       "location": "Zakład Biofizyki Medycznej",
-      "lecturer": "pracownicy ZBM UMB",
+      "lecturer": "ZBM UMB",
       "cancelled": false
     },
     {
@@ -566,7 +566,7 @@
       "endDateTime": "2027-01-28T13:30:00",
       "activityType": "summary_session",
       "location": "Zakład Biofizyki Medycznej",
-      "lecturer": "pracownicy ZBM UMB",
+      "lecturer": "ZBM UMB",
       "cancelled": false
     },
     {
@@ -580,7 +580,7 @@
       "endDateTime": "2027-01-28T18:00:00",
       "activityType": "summary_session",
       "location": "Zakład Biofizyki Medycznej",
-      "lecturer": "pracownicy ZBM UMB",
+      "lecturer": "ZBM UMB",
       "cancelled": false
     },
     {
@@ -593,7 +593,7 @@
       "endDateTime": "2027-01-28T20:00:00",
       "activityType": "summary_session",
       "location": "Zakład Biofizyki Medycznej",
-      "lecturer": "pracownicy ZBM UMB",
+      "lecturer": "ZBM UMB",
       "cancelled": false
     }
   ]

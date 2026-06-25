@@ -100,6 +100,3 @@ Autoestudio (60 horas en total): preparación para las clases 30, pruebas 15, ex
 
 - Paul Davidovits, Física en biología y medicina, 4ª ed., Academic Press, 2012.
 - Russell K. Hobbie, Bradley J. Roth, Física intermedia para medicina y biología, 4ª ed., Springer, 2007.
-
----
-> *Traducción generada con asistencia de inteligencia artificial. En caso de discrepancias, prevalece la versión oficial en polaco.*

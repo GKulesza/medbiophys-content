@@ -92,6 +92,3 @@ Pełna, obowiązująca wersja sylabusa znajduje się na stronie Uniwersytetu Med
 **📄 Oficjalny sylabus**
 
 https://www.umb.edu.pl/s,21902/Sylabus
-
----
-> *Traducción generada con asistencia de inteligencia artificial. En caso de discrepancias, prevalece la versión oficial en polaco.*

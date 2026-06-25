@@ -86,6 +86,3 @@ Pełna, obowiązująca wersja sylabusa jest dostępna na stronie Uniwersytetu Me
 **📄 Oficjalny sylabus**
 
 https://www.umb.edu.pl/s,6817/Syllabus
-
----
-> *Traduko generita per helpo de artefarita inteligenteco. Okaze de malkonsentoj validas la oficiala pola versio.*

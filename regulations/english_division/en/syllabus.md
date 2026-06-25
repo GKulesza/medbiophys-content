@@ -120,12 +120,3 @@ The official and binding syllabus is available on the website of the Medical Uni
 📄 **Official syllabus**
 
 https://www.umb.edu.pl/en/s,13959/Syllabus
-
----
-
-## Informacja o tłumaczeniu (wersja polska)
-
-Polska wersja tego sylabusa została przygotowana jako tłumaczenie materiałów English Division z wykorzystaniem AI. W przypadku jakichkolwiek rozbieżności obowiązuje oryginalna angielska wersja sylabusa opublikowana przez Uniwersytet Medyczny w Białymstoku. W razie wątpliwości dotyczących treści przedmiotu należy skontaktować się z Zakładem Biofizyki Medycznej.
-
----
-> *Translation generated with AI assistance. In case of discrepancies, refer to the official Polish version.*

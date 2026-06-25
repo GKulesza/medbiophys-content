@@ -33,6 +33,3 @@ Grading scale:
 | 77–84% | 4 |
 | 85–90% | 4+ |
 | 91–100% | 5 |
-
----
-> *Translation generated with AI assistance. In case of discrepancies, refer to the official Polish version.*

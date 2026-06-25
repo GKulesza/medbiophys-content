@@ -65,6 +65,3 @@
 22. Se oni trovas ke studento havas aŭ uzas neaŭtorizitan helpon, la kolokvo/ekzameno de la studento estos interrompita, kio egalas al ricevi 0 poentojn/nekontentiga grado sen ebleco de plibonigo. Detalaj dispozicioj pri malpermesita asistado estas inkluzivitaj en la Studaj Regularoj kaj la Rektoro-Ordo.
 
 23. En aferoj ne reguligitaj de ĉi tiu Regularo validas la dispozicioj de la Regularo por Unua Ciklo, Dua Ciklo kaj Uniforma Majstra Studoj de la Medicina Universitato de Bjalistoko.
-
----
-> *Traduko generita per helpo de artefarita inteligenteco. Okaze de malkonsentoj validas la oficiala pola versio.*

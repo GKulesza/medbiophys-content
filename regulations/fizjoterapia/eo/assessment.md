@@ -33,6 +33,3 @@ Grada skalo:
 | 77–84% | 4 |
 | 85–90% | 4+ |
 | 91–100% | 5 |
-
----
-> *Traduko generita per helpo de artefarita inteligenteco. Okaze de malkonsentoj validas la oficiala pola versio.*

@@ -65,6 +65,3 @@
 22. If a student is found to have or use an unauthorized form of assistance, the student's colloquium/exam will be interrupted, which is equivalent to receiving 0 points/unsatisfactory grade with no possibility of improvement. Detailed provisions on prohibited assistance are included in the Study Regulations and the Rector's Order.
 
 23. In matters not regulated by these Regulations, the provisions of the Regulations for First Cycle, Second Cycle and Uniform Master's Studies of the Medical University of Bialystok apply.
-
----
-> *Translation generated with AI assistance. In case of discrepancies, refer to the official Polish version.*

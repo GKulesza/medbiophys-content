@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentSetId": "2026-06-25-content",
-  "publishedAt": "2026-06-25T15:10:51Z",
+  "publishedAt": "2026-06-25T15:11:18Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -992,9 +992,9 @@
     {
       "id": "regulations/english_division/en/syllabus",
       "path": "regulations/english_division/en/syllabus.md",
-      "version": "2",
-      "sha256": "91fdfeb87e10b2b847a85015afa391a808af845be63d133c43ec589a87597603",
-      "sizeBytes": 3812,
+      "version": "3",
+      "sha256": "ac6376183c61b07436f5dfee08a3e118c8c146afc6912a479c7123663ae12bbb",
+      "sizeBytes": 3927,
       "locale": "en"
     },
     {

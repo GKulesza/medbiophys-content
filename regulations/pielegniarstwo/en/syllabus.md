@@ -106,6 +106,3 @@ Pełna, obowiązująca wersja sylabusa znajduje się na stronie Uniwersytetu Med
 **📄 Oficjalny sylabus**
 
 https://www.umb.edu.pl/s,25273/Sylabus
-
----
-> *Translation generated with AI assistance. In case of discrepancies, refer to the official Polish version.*

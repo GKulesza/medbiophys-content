@@ -33,6 +33,3 @@ Escala de calificaciones:
 | 77–84% | 4 |
 | 85–90% | 4+ |
 | 91–100% | 5 |
-
----
-> *Traducción generada con asistencia de inteligencia artificial. En caso de discrepancias, prevalece la versión oficial en polaco.*

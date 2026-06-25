@@ -94,6 +94,3 @@ Pełna, obowiązująca wersja sylabusa jest dostępna na stronie Uniwersytetu Me
 
 **📄 Sylabus – Radiobiologia i ochrona radiologiczna**
 https://www.umb.edu.pl/s,31308/Sylabus
-
----
-> *Traduko generita per helpo de artefarita inteligenteco. Okaze de malkonsentoj validas la oficiala pola versio.*

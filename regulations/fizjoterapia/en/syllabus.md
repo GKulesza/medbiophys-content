@@ -86,6 +86,3 @@ Pełna, obowiązująca wersja sylabusa jest dostępna na stronie Uniwersytetu Me
 **📄 Oficjalny sylabus**
 
 https://www.umb.edu.pl/s,6817/Syllabus
-
----
-> *Translation generated with AI assistance. In case of discrepancies, refer to the official Polish version.*

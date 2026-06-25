@@ -15,6 +15,3 @@ Laborator je bezpečné misto pro experimenty, pokud jste opatrni. Musite prevzi
 11. V laboratori nikdy nic nejezte ani nepijte.
 12. Rozbité sklo a pevné látky umistete do nádob k tomu určenych. Udržujte nerozpustny odpad mimo drez.
 13. Po dokončeni laboratorni práce vyčistete pracovni prostor. Vraťte všechny materiály a zarizeni na jejich správná mista.
-
----
-> *Perevod generovany s pomočju AI. V slučaju različij dejstvuet oficialna pol'ska versija.*

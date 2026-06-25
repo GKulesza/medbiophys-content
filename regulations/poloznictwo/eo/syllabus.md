@@ -92,6 +92,3 @@ Pełna, obowiązująca wersja sylabusa znajduje się na stronie Uniwersytetu Med
 **📄 Oficjalny sylabus**
 
 https://www.umb.edu.pl/s,21902/Sylabus
-
----
-> *Traduko generita per helpo de artefarita inteligenteco. Okaze de malkonsentoj validas la oficiala pola versio.*

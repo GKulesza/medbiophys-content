@@ -40,6 +40,3 @@
 | 81–88% | 4 |
 | 89–94% | 4.5 |
 | 95–100% | 5 |
-
----
-> *Traduko generita per helpo de artefarita inteligenteco. Okaze de malkonsentoj validas la oficiala pola versio.*

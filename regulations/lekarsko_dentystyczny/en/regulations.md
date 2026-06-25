@@ -49,6 +49,3 @@ Rules and Regulations for the Biophysics course
 | 91–100% | 5 |
 
 16. In all other matters, decisions rest with the Head of the Department of Biophysics.
-
----
-> *Translation generated with AI assistance. In case of discrepancies, refer to the official Polish version.*

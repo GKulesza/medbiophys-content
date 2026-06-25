@@ -40,6 +40,3 @@
 | 81–88% | 4 |
 | 89–94% | 4.5 |
 | 95–100% | 5 |
-
----
-> *Perevod generovany s pomočju AI. V slučaju različij dejstvuet oficialna pol'ska versija.*

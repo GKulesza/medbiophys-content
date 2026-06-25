@@ -100,6 +100,3 @@ Self-study (60 hours total): preparation for classes 30, tests 15, final exam/te
 
 - Paul Davidovits, Physics in Biology and Medicine, 4th ed., Academic Press, 2012.
 - Russell K. Hobbie, Bradley J. Roth, Intermediate Physics for Medicine and Biology, 4th ed., Springer, 2007.
-
----
-> *Translation generated with AI assistance. In case of discrepancies, refer to the official Polish version.*

@@ -65,6 +65,3 @@
 22. Si se descubre que un estudiante tiene o utiliza una forma de asistencia no autorizada, el coloquio/examen del estudiante será interrumpido, lo que equivale a recibir 0 puntos/calificación insatisfactoria sin posibilidad de mejora. Se incluyen disposiciones detalladas sobre la asistencia prohibida en el Reglamento de estudios y en la Orden del Rector.
 
 23. En los asuntos no regulados por este Reglamento, se aplican las disposiciones del Reglamento para el Primer Ciclo, el Segundo Ciclo y los Estudios Uniformes de Maestría de la Universidad Médica de Bialystok.
-
----
-> *Traducción generada con asistencia de inteligencia artificial. En caso de discrepancias, prevalece la versión oficial en polaco.*

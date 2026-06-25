@@ -49,6 +49,3 @@ Normas y Reglamentos para el curso de Biofísica
 | 91–100% | 5 |
 
 16. En todos los demás asuntos, las decisiones recaen en el Jefe del Departamento de Biofísica.
-
----
-> *Traducción generada con asistencia de inteligencia artificial. En caso de discrepancias, prevalece la versión oficial en polaco.*

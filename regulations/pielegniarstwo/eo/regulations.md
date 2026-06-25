@@ -49,6 +49,3 @@ Reguloj kaj Regularoj por la kurso de Biofiziko
 | 91–100% | 5 |
 
 16. En ĉiuj aliaj aferoj, decidoj apartenas al la Estro de la Sekcio de Biofiziko.
-
----
-> *Traduko generita per helpo de artefarita inteligenteco. Okaze de malkonsentoj validas la oficiala pola versio.*

@@ -15,6 +15,3 @@ El laboratorio es un lugar seguro para experimentar si se tiene cuidado. Debes a
 11. Nunca coma ni beba nada en el laboratorio.
 12. Coloque los vidrios rotos y las sustancias sólidas en los contenedores designados. Mantenga los residuos insolubles fuera del fregadero.
 13. Cuando termine su trabajo de laboratorio, limpie su área de trabajo. Devuelva todos los materiales y aparatos a sus lugares apropiados.
-
----
-> *Traducción generada con asistencia de inteligencia artificial. En caso de discrepancias, prevalece la versión oficial en polaco.*

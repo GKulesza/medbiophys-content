@@ -49,6 +49,3 @@ Pravidla a predpisy pro kurz Biofyzika
 | 91–100% | 5 |
 
 16. Ve všech ostatnich záležitostech rozhoduje vedouci katedry biofyziky.
-
----
-> *Perevod generovany s pomočju AI. V slučaju različij dejstvuet oficialna pol'ska versija.*

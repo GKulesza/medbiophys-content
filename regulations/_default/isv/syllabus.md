@@ -100,6 +100,3 @@ Samostudium (celkem 60 hodin): priprava na hodiny 30, testy 15, záverečná zko
 
 - Paul Davidovits, Fyzika v biologii a medicine, 4. vydáni, Academic Press, 2012.
 - Russell K. Hobbie, Bradley J. Roth, Intermediate Physics for Medicine and Biology, 4. ed., Springer, 2007.
-
----
-> *Perevod generovany s pomočju AI. V slučaju različij dejstvuet oficialna pol'ska versija.*

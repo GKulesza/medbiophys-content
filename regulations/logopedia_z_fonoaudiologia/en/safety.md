@@ -15,6 +15,3 @@ The laboratory is a safe place to experiment if you are careful. You must assume
 11. Never eat or drink anything in the lab.
 12. Place broken glass and solid substances in designated containers. Keep insoluble waste material out of the sink.
 13. When your laboratory work is completed, clean your work area. Return all materials and apparatus to their proper places.
-
----
-> *Translation generated with AI assistance. In case of discrepancies, refer to the official Polish version.*

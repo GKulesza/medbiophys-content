@@ -33,6 +33,3 @@ Stupnice hodnoceni:
 | 77–84% | 4 |
 | 85–90% | 4+ |
 | 91–100% | 5 |
-
----
-> *Perevod generovany s pomočju AI. V slučaju različij dejstvuet oficialna pol'ska versija.*

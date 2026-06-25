@@ -102,6 +102,3 @@ Pełna, obowiązująca wersja sylabusa jest dostępna na stronie Uniwersytetu Me
 **📄 Oficjalny sylabus (DOC)**
 
 https://www.umb.edu.pl/photo/pliki/Dziekanat-WL/KIERUNKI/Lekarski/sylabusy_lekarski_cykl_2025-2026/i_rok/biofizyka.doc
-
----
-> *Traduko generita per helpo de artefarita inteligenteco. Okaze de malkonsentoj validas la oficiala pola versio.*

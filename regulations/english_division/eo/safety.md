@@ -15,6 +15,3 @@ La laboratorio estas sekura loko por eksperimenti se vi estas singarda. Vi devas
 11. Neniam manĝu aŭ trinku ion ajn en la laboratorio.
 12. Metu rompitajn vitrojn kaj solidajn substancojn en difinitajn ujojn. Tenu nesolveblan malŝparon el la lavujo.
 13. Kiam via laboratorio laboro estas finita, purigu vian laborareon. Remetu ĉiujn materialojn kaj aparatojn al siaj taŭgaj lokoj.
-
----
-> *Traduko generita per helpo de artefarita inteligenteco. Okaze de malkonsentoj validas la oficiala pola versio.*

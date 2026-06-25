@@ -120,15 +120,3 @@ Oficjalna i wiążąca wersja sylabusa jest dostępna na stronie Uniwersytetu Me
 📄 **Oficjalny sylabus**
 
 https://www.umb.edu.pl/en/s,13959/Syllabus
-
----
-
-## Informacja o tłumaczeniu
-
-Niniejszy sylabus został przygotowany na podstawie oficjalnej anglojęzycznej wersji English Division Uniwersytetu Medycznego w Białymstoku.
-
-Polska wersja została przetłumaczona z wykorzystaniem AI i ma charakter pomocniczy.
-
-W przypadku jakichkolwiek rozbieżności obowiązuje oficjalna angielska wersja sylabusa opublikowana przez UMB.
-
-W razie pytań dotyczących treści przedmiotu należy kontaktować się z Zakładem Biofizyki Medycznej.

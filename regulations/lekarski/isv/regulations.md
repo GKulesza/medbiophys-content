@@ -65,6 +65,3 @@
 22. Pokud bude u studenta zjištěna nebo neoprávněná forma pomoci, bude studentovi kolokvium/zkouška přerušeno, což odpovídá získání 0 bodů/neuspokojivé hodnocení bez možnosti zlepšení. Podrobná ustanovení o zakázané pomoci jsou obsažena ve Studijním řádu a Příkazu rektora.
 
 23. V záležitostech neupravených tímto Řádem platí ustanovení Řádu pro první cyklus, druhý cyklus a jednotné magisterské studium Lékařské univerzity v Bialystoku.
-
----
-> *Perevod generovany s pomočju AI. V slučaju različij dejstvuet oficialna pol'ska versija.*

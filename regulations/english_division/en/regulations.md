@@ -159,6 +159,3 @@ In matters not covered by these regulations, the Study Regulations of the Medica
 ## Source
 
 https://www.umb.edu.pl/en/s,7120/Rules_and_Regulations
-
----
-> *Translation generated with AI assistance. In case of discrepancies, refer to the official Polish version.*

@@ -100,6 +100,3 @@ Memlernado (60 horoj entute): preparo por klasoj 30, testoj 15, fina ekzameno/te
 
 - Paul Davidovits, Fiziko en Biologio kaj Medicino, 4-a red., Akademia gazetaro, 2012.
 - Russell K. Hobbie, Bradley J. Roth, Meza Fiziko por Medicino kaj Biologio, 4-a red., Springer, 2007.
-
----
-> *Traduko generita per helpo de artefarita inteligenteco. Okaze de malkonsentoj validas la oficiala pola versio.*

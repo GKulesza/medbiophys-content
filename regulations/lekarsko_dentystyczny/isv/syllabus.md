@@ -96,6 +96,3 @@ Pełna, obowiązująca wersja sylabusa jest dostępna na stronie Uniwersytetu Me
 📄 **Oficjalny sylabus (DOC)**
 
 https://www.umb.edu.pl/photo/pliki/Dziekanat-WL/iza/sylabusy_25-26/i_rok/biofizyka.doc
-
----
-> *Perevod generovany s pomočju AI. V slučaju različij dejstvuet oficialna pol'ska versija.*

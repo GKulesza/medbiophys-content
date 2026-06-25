@@ -40,6 +40,3 @@
 | 81–88% | 4 |
 | 89–94% | 4.5 |
 | 95–100% | 5 |
-
----
-> *Translation generated with AI assistance. In case of discrepancies, refer to the official Polish version.*

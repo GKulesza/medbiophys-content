@@ -82,13 +82,3 @@ Warunkiem zaliczenia jest:
 Nieobecności należy usprawiedliwić oraz odrobić w terminie ustalonym z prowadzącym.
 
 Szczegółowe zasady organizacji zajęć znajdują się w zakładce **Regulations**.
-
----
-
-## Oficjalny sylabus
-
-Pełna, obowiązująca wersja sylabusa znajduje się na stronie Uniwersytetu Medycznego w Białymstoku.
-
-**📄 Oficjalny sylabus**
-
-https://www.umb.edu.pl/s,21902/Sylabus

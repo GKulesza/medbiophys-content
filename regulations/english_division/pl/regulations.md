@@ -153,9 +153,3 @@ Szczegółowe zasady określają Regulamin Studiów UMB oraz Zarządzenie Rektor
 # Postanowienia końcowe
 
 W sprawach nieuregulowanych niniejszym regulaminem obowiązują postanowienia Regulaminu Studiów Uniwersytetu Medycznego w Białymstoku.
-
----
-
-## Źródło
-
-https://www.umb.edu.pl/en/s,7120/Rules_and_Regulations

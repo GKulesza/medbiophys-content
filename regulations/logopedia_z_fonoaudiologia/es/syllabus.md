@@ -97,13 +97,3 @@ Ocena końcowa:
 Nieobecności należy odrobić w terminie ustalonym z prowadzącym.
 
 Szczegółowe zasady organizacji zajęć znajdują się w zakładce **Regulations**.
-
----
-
-## Oficjalny sylabus
-
-Pełna, obowiązująca wersja sylabusa znajduje się na stronie Uniwersytetu Medycznego w Białymstoku.
-
-**📄 Oficjalny sylabus**
-
-https://www.umb.edu.pl/s,25836/Sylabus

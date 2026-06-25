@@ -153,9 +153,3 @@ Detailed regulations are defined in the UMB Study Regulations and the Rector's O
 # Final Provisions
 
 In matters not covered by these regulations, the Study Regulations of the Medical University of Białystok shall apply.
-
----
-
-## Source
-
-https://www.umb.edu.pl/en/s,7120/Rules_and_Regulations

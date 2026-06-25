@@ -92,13 +92,3 @@ Do egzaminu można przystąpić po:
 Podczas ćwiczeń wymagane jest przygotowanie teoretyczne, wykonanie doświadczeń oraz opracowanie wyników w zeszycie ćwiczeń.
 
 Szczegółowe zasady oceniania, obecności oraz popraw znajdują się w zakładce **Regulations**.
-
----
-
-## Oficjalny sylabus
-
-Pełna, obowiązująca wersja sylabusa jest dostępna na stronie Uniwersytetu Medycznego w Białymstoku.
-
-**📄 Oficjalny sylabus (DOC)**
-
-https://www.umb.edu.pl/photo/pliki/Dziekanat-WL/KIERUNKI/Lekarski/sylabusy_lekarski_cykl_2025-2026/i_rok/biofizyka.doc

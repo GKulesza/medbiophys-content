@@ -85,12 +85,3 @@ Warunkiem uzyskania zaliczenia jest:
 Nieobecności powinny zostać usprawiedliwione i odrobione w terminie ustalonym z prowadzącym.
 
 Szczegółowe zasady oceniania oraz organizacji zajęć znajdują się w zakładce **Regulations**.
-
----
-
-## Oficjalny sylabus
-
-Pełna, obowiązująca wersja sylabusa jest dostępna na stronie Uniwersytetu Medycznego w Białymstoku.
-
-**📄 Sylabus – Radiobiologia i ochrona radiologiczna**
-https://www.umb.edu.pl/s,31308/Sylabus

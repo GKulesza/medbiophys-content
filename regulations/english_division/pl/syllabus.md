@@ -110,13 +110,3 @@ Warunkiem dopuszczenia do egzaminu końcowego jest:
 Studenci, którzy osiągną wymagany próg punktowy w trakcie kursu, mogą zostać zwolnieni z egzaminu końcowego zgodnie z obowiązującym regulaminem przedmiotu.
 
 Szczegółowe zasady dotyczące obecności, oceniania i popraw znajdują się w sekcji **Regulamin**.
-
----
-
-## Oficjalny sylabus
-
-Oficjalna i wiążąca wersja sylabusa jest dostępna na stronie Uniwersytetu Medycznego w Białymstoku.
-
-📄 **Oficjalny sylabus**
-
-https://www.umb.edu.pl/en/s,13959/Syllabus

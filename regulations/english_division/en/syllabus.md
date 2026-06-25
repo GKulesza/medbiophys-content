@@ -110,13 +110,3 @@ To be admitted to the final exam students must:
 Students who achieve the required threshold during the course may be exempt from the final examination according to the current course regulations.
 
 Detailed rules regarding attendance, grading and retakes are available in the **Regulations** section.
-
----
-
-## Official syllabus
-
-The official and binding syllabus is available on the website of the Medical University of Białystok.
-
-📄 **Official syllabus**
-
-https://www.umb.edu.pl/en/s,13959/Syllabus

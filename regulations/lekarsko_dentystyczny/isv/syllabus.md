@@ -86,13 +86,3 @@ Warunkiem uzyskania zaliczenia jest:
 * uzyskanie wymaganej liczby punktów z kolokwium.
 
 Szczegółowe zasady oceniania, obecności oraz popraw znajdują się w zakładce **Regulations**.
-
----
-
-## Oficjalny sylabus
-
-Pełna, obowiązująca wersja sylabusa jest dostępna na stronie Uniwersytetu Medycznego w Białymstoku.
-
-📄 **Oficjalny sylabus (DOC)**
-
-https://www.umb.edu.pl/photo/pliki/Dziekanat-WL/iza/sylabusy_25-26/i_rok/biofizyka.doc

@@ -1,83 +1,107 @@
-# Abreviatura del plan de estudios: Biofísica (curso 2024/2025)
+# Biofizyka
 
-Este acceso directo contiene la información más importante sobre el elemento. La versión completa y detallada del programa de estudios está disponible en el sitio web de la Universidad de Medicina de Bialystok.
+## Podstawowe informacje
 
-## Información básica
+* **Kierunek:** Lekarski
+* **Rok studiów:** I
+* **Semestr:** 1
+* **Forma studiów:** stacjonarne i niestacjonarne
+* **Punkty ECTS:** 3,5
 
-| Elemento | Detalles |
-| --- | --- |
-| Nombre del artículo | Biofísica |
-| Unidad líder | Departamento de Biofísica |
-| dirección y nivel | Medicina, estudios de máster de ciclo largo, jornada completa |
-| Año/semestre | 1er año / 1er semestre |
-| Número de horas (total) | 45 h (incluido online) |
-| conferencias | 10 horas |
-| Seminarios | 10 horas |
-| Ejercicios de laboratorio | 25 horas |
-| persona responsable | Doctor en Filosofía. María Karpińska |
-| Contacto | biofizyk@umb.edu.pl |
+### Liczba godzin
+
+* 📖 Wykłady – **10 h**
+* 💬 Seminaria – **10 h**
+* 🧪 Ćwiczenia laboratoryjne – **25 h**
 
 ---
 
-## Objetivos de la asignatura
+## O przedmiocie
 
-El objetivo principal es familiarizar a los estudiantes con las bases biofísicas del funcionamiento del cuerpo humano, incluyendo:
-
-- la estructura y funcionamiento de estructuras celulares, tejidos y órganos;
-- fenómenos físicos que ocurren en el cuerpo;
-- mecanismos y efectos de factores físicos en el cuerpo;
-- Fundamentos físicos de los métodos diagnósticos y terapéuticos modernos.
+Biofizyka stanowi pomost pomiędzy naukami podstawowymi a medycyną. Podczas zajęć poznasz prawa fizyki i zjawiska biofizyczne wykorzystywane do wyjaśniania funkcjonowania organizmu człowieka oraz zrozumiesz fizyczne podstawy współczesnych metod diagnostycznych i terapeutycznych.
 
 ---
 
-## Reglas de evaluación
+## Czego się nauczysz?
 
-1. **Asistencia:** Obligatoria para todas las formas de clases. Las ausencias deberán ser justificadas y compensadas.
-2. **Ejercicios:** La realización de cada ejercicio (son 9) requiere conocimientos teóricos, correcta ejecución del experimento y análisis de los resultados en forma de informe en el "Libro de Ejercicios".
-3. **Puntos de bonificación:**
-   - por actividad durante los ejercicios: máximo **18 puntos** (2 puntos por cada uno de los 9 ejercicios);
-   - por preparar una película que populariza la física en la medicina - **2 puntos**.
-4. **Prueba de término:** Al final de la serie. La cantidad máxima de puntos que puede obtener es **40 puntos** (8 preguntas, cada una de 0 a 5 puntos).
-5. **Aprobar los ejercicios:** La condición es obtener al menos **24 puntos** (de la suma de puntos de la prueba y la actividad).
-6. **Exención del examen:** Los estudiantes que obtengan **42 puntos** o más después de la primera fecha del examen reciben una calificación de **muy bueno (5)** y están exentos del examen.
-7. **Examen final:** Se realiza en forma de test (preguntas cerradas y abiertas). Escala de calificación (en %):
+Po ukończeniu kursu będziesz potrafił:
 
-| Porcentaje de puntos | Tasa |
-| --- | --- |
-| 0 - 59% | 2 (no disponible) |
-| 60 - 68% | 3 (dst.) |
-| 69 - 76% | 3+ (dst. más) |
-| 77 - 84% | 4 (db.) |
-| 85 - 90% | 4+ (db.más) |
-| 91 - 100% | 5 (muy bueno) |
+* wyjaśnić biofizyczne podstawy funkcjonowania komórek, tkanek i narządów,
+* rozumieć mechanizmy działania czynników fizycznych na organizm człowieka,
+* interpretować podstawowe zjawiska biofizyczne zachodzące w organizmie,
+* rozumieć fizyczne podstawy nowoczesnych metod diagnostycznych i terapeutycznych,
+* bezpiecznie pracować z promieniowaniem jonizującym i znać zasady ochrony radiologicznej,
+* analizować wyniki prostych eksperymentów laboratoryjnych.
+
+---
+
+## Tematyka zajęć
+
+Podczas kursu omawiane są między innymi:
+
+* układ krążenia i prawa przepływu cieczy,
+* termodynamika organizmu,
+* błony biologiczne i transport przez błony,
+* bioelektryczność,
+* przewodzenie impulsów nerwowych,
+* biofizyka mięśni,
+* wpływ temperatury na organizm,
+* rezonans magnetyczny (MRI),
+* promieniowanie jonizujące i jego zastosowanie w medycynie,
+* ochrona radiologiczna,
+* metody detekcji promieniowania,
+* biofizyka słuchu i audiometria,
+* elektrokardiografia (EKG),
+* pomiar ciśnienia tętniczego,
+* ultradźwięki i efekt Dopplera,
+* metody spektrometryczne i refraktometryczne,
+* optyka oka,
+* analiza sygnałów biomedycznych z wykorzystaniem komputera.
 
 ---
 
 ## Literatura
 
-**Básico:**
+### Podstawowa
 
-- "Biofísica. Libro de texto para estudiantes" (ed. F. Jaroszyk)
-- "Materiales para ejercicios de biofísica" (ed. A. Kostrzewska)
+* Kubisz L. **Biofizyka.** PZWL, Warszawa, 2024.
+* *Materiały do ćwiczeń z biofizyki* pod red. A. Kostrzewskiej.
 
-**Suplementario:**
+### Uzupełniająca
 
-- "Cuestiones seleccionadas de biofísica" (ed. S. Miękisz)
-- "Elementos de física, biofísica y agrofísica" (San Przestalski)
-
----
-
-## Notas importantes
-
-- Se requiere un delantal limpio y un cambio de zapatos para las clases.
-- Debes traer tu propia calculadora para ejercicios, pruebas y exámenes. Los teléfonos móviles deben estar apagados.
-- El uso de ayudas no autorizadas durante una prueba/examen da como resultado la obtención de 0 puntos/calificación insatisfactoria sin posibilidad de mejora.
+* Jaroszyk F. (red.) **Biofizyka. Podręcznik dla studentów.**
+* Hewitt P.G. **Fizyka wokół nas.**
 
 ---
 
-**El contenido completo y detallado del programa de estudios está disponible para descargar en el sitio web del MUB:**
+## Zaliczenie przedmiotu
 
-[El contenido exacto del temario está disponible en la web del MUB](https://www.umb.edu.pl/s,30059/Sylabusy_na_cykl_ksztalcenia_rozpoczynajacy_sie_w_roku_akademickim_2024-2025)
+Przedmiot obejmuje:
+
+* wykłady,
+* seminaria,
+* ćwiczenia laboratoryjne,
+* egzamin końcowy.
+
+Do egzaminu można przystąpić po:
+
+* zaliczeniu wszystkich ćwiczeń laboratoryjnych,
+* zaliczeniu seminariów,
+* zaliczeniu wykładów.
+
+Podczas ćwiczeń wymagane jest przygotowanie teoretyczne, wykonanie doświadczeń oraz opracowanie wyników w zeszycie ćwiczeń.
+
+Szczegółowe zasady oceniania, obecności oraz popraw znajdują się w zakładce **Regulations**.
+
+---
+
+## Oficjalny sylabus
+
+Pełna, obowiązująca wersja sylabusa jest dostępna na stronie Uniwersytetu Medycznego w Białymstoku.
+
+**📄 Oficjalny sylabus (DOC)**
+
+https://www.umb.edu.pl/photo/pliki/Dziekanat-WL/KIERUNKI/Lekarski/sylabusy_lekarski_cykl_2025-2026/i_rok/biofizyka.doc
 
 ---
 > *Traducción generada con asistencia de inteligencia artificial. En caso de discrepancias, prevalece la versión oficial en polaco.*

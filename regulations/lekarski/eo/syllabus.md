@@ -1,83 +1,107 @@
-# Instruplana mallongigo: Biofiziko (akademia jaro 2024/2025)
+# Biofizyka
 
-Ĉi tiu ŝparvojo enhavas la plej gravajn informojn pri la objekto. La plena, detala versio de la instruplano estas havebla sur la retejo de la Medicina Universitato de Bjalistoko.
+## Podstawowe informacje
 
-## Bazaj informoj
+* **Kierunek:** Lekarski
+* **Rok studiów:** I
+* **Semestr:** 1
+* **Forma studiów:** stacjonarne i niestacjonarne
+* **Punkty ECTS:** 3,5
 
-| Elemento | Detaloj |
-| --- | --- |
-| Nomo de ero | Biofiziko |
-| Gvida unuo | Sekcio de Biofiziko |
-| Direkto kaj nivelo | Medicino, longciklaj majstraj studoj, plentempaj |
-| Jaro/semestro | 1-a jaro / 1-a semestro |
-| Nombro da horoj (tute) | 45 h (inkluzive rete) |
-| Prelegoj | 10 horoj |
-| Seminarioj | 10 horoj |
-| Laboratoriaj ekzercoj | 25 horoj |
-| Respondeca persono | Ph.D. Maria Karpińska |
-| Kontaktu | biofizyk@umb.edu.pl |
+### Liczba godzin
+
+* 📖 Wykłady – **10 h**
+* 💬 Seminaria – **10 h**
+* 🧪 Ćwiczenia laboratoryjne – **25 h**
 
 ---
 
-## Temaj celoj
+## O przedmiocie
 
-La ĉefa celo estas familiarigi studentojn kun la biofizika bazo de la funkciado de la homa korpo, inkluzive de:
-
-- la strukturo kaj funkciado de ĉelaj strukturoj, histoj kaj organoj;
-- fizikaj fenomenoj okazantaj en la korpo;
-- mekanismoj kaj efikoj de fizikaj faktoroj sur la korpo;
-- fizikaj fundamentoj de modernaj diagnozaj kaj terapiaj metodoj.
+Biofizyka stanowi pomost pomiędzy naukami podstawowymi a medycyną. Podczas zajęć poznasz prawa fizyki i zjawiska biofizyczne wykorzystywane do wyjaśniania funkcjonowania organizmu człowieka oraz zrozumiesz fizyczne podstawy współczesnych metod diagnostycznych i terapeutycznych.
 
 ---
 
-## Reguloj pri taksado
+## Czego się nauczysz?
 
-1. **Ĉeesti:** Deviga por ĉiuj formoj de klasoj. Forestoj devas esti pravigitaj kaj kompensitaj.
-2. **Ekzercoj:** Plenumado de ĉiu ekzerco (estas 9 el ili) postulas teoriajn konojn, ĝustan plenumadon de la eksperimento kaj analizon de la rezultoj en formo de raporto en la "Ekzercaro".
-3. **Gratifikoj:**
-   - por agado dum ekzercoj - maksimume **18 poentoj** (2 poentoj por ĉiu el 9 ekzercoj);
-   - pro preparado de filmo populariganta fizikon en medicino - **2 poentoj**.
-4. **Termina testo:** Je la fino de la serio. La maksimuma nombro da poentoj kiujn vi povas akiri estas **40 poentoj** (8 demandoj, ĉiu 0-5 poentoj).
-5. **Trapaso de la ekzercoj:** La kondiĉo estas akiri almenaŭ **24 poentojn** (el la sumo de poentoj por la testo kaj aktiveco).
-6. **Sendevigo de la ekzameno:** Studentoj kiuj akiras **42 poentojn** aŭ pli post la unua testdato ricevas gradon de **tre bona (5)** kaj estas esceptitaj de la ekzameno.
-7. **Fina ekzameno:** Farita en formo de testo (fermitaj kaj malfermitaj demandoj). Tagskalo (en %):
+Po ukończeniu kursu będziesz potrafił:
 
-| Procento de punktoj | Takso |
-| --- | --- |
-| 0 - 59% | 2 (n/a) |
-| 60 - 68% | 3 (dst.) |
-| 69 - 76% | 3+ (dst. plus) |
-| 77 - 84% | 4 (db.) |
-| 85 - 90% | 4+ (db. plus) |
-| 91 - 100% | 5 (tre bona) |
+* wyjaśnić biofizyczne podstawy funkcjonowania komórek, tkanek i narządów,
+* rozumieć mechanizmy działania czynników fizycznych na organizm człowieka,
+* interpretować podstawowe zjawiska biofizyczne zachodzące w organizmie,
+* rozumieć fizyczne podstawy nowoczesnych metod diagnostycznych i terapeutycznych,
+* bezpiecznie pracować z promieniowaniem jonizującym i znać zasady ochrony radiologicznej,
+* analizować wyniki prostych eksperymentów laboratoryjnych.
 
 ---
 
-## Literaturo
+## Tematyka zajęć
 
-**Baza:**
+Podczas kursu omawiane są między innymi:
 
-- "Biofiziko. Lernolibro por studentoj" (red. F. Jaroszyk)
-- "Materialoj por biofizikaj ekzercoj" (red. A. Kostrzewska)
-
-**Aldona:**
-
-- " Elektitaj temoj en biofiziko " (red. S. Miękisz)
-- "Elementoj de fiziko, biofiziko kaj agrofiziko" (Skt. Przestalski)
+* układ krążenia i prawa przepływu cieczy,
+* termodynamika organizmu,
+* błony biologiczne i transport przez błony,
+* bioelektryczność,
+* przewodzenie impulsów nerwowych,
+* biofizyka mięśni,
+* wpływ temperatury na organizm,
+* rezonans magnetyczny (MRI),
+* promieniowanie jonizujące i jego zastosowanie w medycynie,
+* ochrona radiologiczna,
+* metody detekcji promieniowania,
+* biofizyka słuchu i audiometria,
+* elektrokardiografia (EKG),
+* pomiar ciśnienia tętniczego,
+* ultradźwięki i efekt Dopplera,
+* metody spektrometryczne i refraktometryczne,
+* optyka oka,
+* analiza sygnałów biomedycznych z wykorzystaniem komputera.
 
 ---
 
-## Gravaj notoj
+## Literatura
 
-- Pura antaŭtuko kaj ŝanĝo de ŝuoj estas postulataj por klasoj.
-- Vi devas kunporti vian propran kalkulilon por ekzercoj, testoj kaj ekzamenoj. Poŝtelefonoj devas esti malŝaltitaj.
-- Uzado de nerajtigitaj helpiloj dum testo/ekzameno rezultigas 0 poentojn/malkontentigan noton sen ebleco de plibonigo.
+### Podstawowa
+
+* Kubisz L. **Biofizyka.** PZWL, Warszawa, 2024.
+* *Materiały do ćwiczeń z biofizyki* pod red. A. Kostrzewskiej.
+
+### Uzupełniająca
+
+* Jaroszyk F. (red.) **Biofizyka. Podręcznik dla studentów.**
+* Hewitt P.G. **Fizyka wokół nas.**
 
 ---
 
-**Plena, detala instruplana enhavo estas disponebla por elŝuto en la retejo de MUB:**
+## Zaliczenie przedmiotu
 
-[La preciza enhavo de la instruplano estas havebla en la retejo de MUB](https://www.umb.edu.pl/s,30059/Sylabusy_na_cykl_ksztalcenia_rozpoczynajacy_sie_w_roku_akademickim_2024-2025)
+Przedmiot obejmuje:
+
+* wykłady,
+* seminaria,
+* ćwiczenia laboratoryjne,
+* egzamin końcowy.
+
+Do egzaminu można przystąpić po:
+
+* zaliczeniu wszystkich ćwiczeń laboratoryjnych,
+* zaliczeniu seminariów,
+* zaliczeniu wykładów.
+
+Podczas ćwiczeń wymagane jest przygotowanie teoretyczne, wykonanie doświadczeń oraz opracowanie wyników w zeszycie ćwiczeń.
+
+Szczegółowe zasady oceniania, obecności oraz popraw znajdują się w zakładce **Regulations**.
+
+---
+
+## Oficjalny sylabus
+
+Pełna, obowiązująca wersja sylabusa jest dostępna na stronie Uniwersytetu Medycznego w Białymstoku.
+
+**📄 Oficjalny sylabus (DOC)**
+
+https://www.umb.edu.pl/photo/pliki/Dziekanat-WL/KIERUNKI/Lekarski/sylabusy_lekarski_cykl_2025-2026/i_rok/biofizyka.doc
 
 ---
 > *Traduko generita per helpo de artefarita inteligenteco. Okaze de malkonsentoj validas la oficiala pola versio.*

@@ -1,83 +1,107 @@
-# Zkratka sylabu: Biofyzika (akademický rok 2024/2025)
+# Biofizyka
 
-Tato zkratka obsahuje nejdůležitější informace o položce. Úplná a podrobná verze sylabu je k dispozici na webových stránkách Lékařské univerzity v Bialystoku.
+## Podstawowe informacje
 
-## Základní informace
+* **Kierunek:** Lekarski
+* **Rok studiów:** I
+* **Semestr:** 1
+* **Forma studiów:** stacjonarne i niestacjonarne
+* **Punkty ECTS:** 3,5
 
-| Živel | Podrobnosti |
-| --- | --- |
-| Název položky | Biofyzika |
-| Vedoucí jednotka | Ústav biofyziky |
-| Směr a úroveň | Medicína, dlouhodobé magisterské studium, prezenční |
-| Ročník/semestr | 1. ročník / 1. semestr |
-| Počet hodin (celkem) | 45 h (včetně online) |
-| Přednášky | 10 hodin |
-| Semináře | 10 hodin |
-| Laboratorní cvičení | 25 hodin |
-| Odpovědná osoba | Ph.D. Marii Karpińskou |
-| Kontakt | biofizyk@umb.edu.pl |
+### Liczba godzin
+
+* 📖 Wykłady – **10 h**
+* 💬 Seminaria – **10 h**
+* 🧪 Ćwiczenia laboratoryjne – **25 h**
 
 ---
 
-## Cíle předmětu
+## O przedmiocie
 
-Hlavním cílem je seznámit studenty s biofyzikálními základy fungování lidského těla, včetně:
-
-- struktura a činnost buněčných struktur, tkání a orgánů;
-- fyzikální jevy vyskytující se v těle;
-- mechanismy a účinky fyzikálních faktorů na organismus;
-- fyzikální základy moderních diagnostických a terapeutických metod.
+Biofizyka stanowi pomost pomiędzy naukami podstawowymi a medycyną. Podczas zajęć poznasz prawa fizyki i zjawiska biofizyczne wykorzystywane do wyjaśniania funkcjonowania organizmu człowieka oraz zrozumiesz fizyczne podstawy współczesnych metod diagnostycznych i terapeutycznych.
 
 ---
 
-## Pravidla hodnocení
+## Czego się nauczysz?
 
-1. **Účast:** Povinná pro všechny formy výuky. Absence musí být odůvodněna a nahrazena.
-2. **Cvičení:** Absolvování každého cvičení (je jich 9) vyžaduje teoretické znalosti, správné provedení experimentu a rozbor výsledků formou protokolu ve "Sešitu".
-3. **Bonusové body:**
-   - za aktivitu při cvičení - maximálně **18 bodů** (2 body za každé z 9 cvičení);
-   - za přípravu filmu popularizujícího fyziku v medicíně - **2 body**.
-4. **Semestrální test:** Na konci série. Maximální počet bodů, které můžete získat, je **40 bodů** (8 otázek, každá 0-5 bodů).
-5. **Absolvování cvičení:** Podmínkou je získání minimálně **24 bodů** (ze součtu bodů za test a aktivitu).
-6. **Osvobození od zkoušky:** Studenti, kteří po prvním termínu testu získají **42 bodů** nebo více, obdrží známku **velmi dobře (5)** a jsou osvobozeni od zkoušky.
-7. **Závěrečná zkouška:** Probíhá formou testu (uzavřené a otevřené otázky). Stupnice hodnocení (v %):
+Po ukończeniu kursu będziesz potrafił:
 
-| Procento bodů | Hodnotit |
-| --- | --- |
-| 0 - 59% | 2 (není k dispozici) |
-| 60 - 68% | 3 (dst.) |
-| 69 - 76% | 3+ (dst. plus) |
-| 77 - 84% | 4 (db.) |
-| 85 - 90% | 4+ (db. plus) |
-| 91 - 100% | 5 (velmi dobře) |
+* wyjaśnić biofizyczne podstawy funkcjonowania komórek, tkanek i narządów,
+* rozumieć mechanizmy działania czynników fizycznych na organizm człowieka,
+* interpretować podstawowe zjawiska biofizyczne zachodzące w organizmie,
+* rozumieć fizyczne podstawy nowoczesnych metod diagnostycznych i terapeutycznych,
+* bezpiecznie pracować z promieniowaniem jonizującym i znać zasady ochrony radiologicznej,
+* analizować wyniki prostych eksperymentów laboratoryjnych.
+
+---
+
+## Tematyka zajęć
+
+Podczas kursu omawiane są między innymi:
+
+* układ krążenia i prawa przepływu cieczy,
+* termodynamika organizmu,
+* błony biologiczne i transport przez błony,
+* bioelektryczność,
+* przewodzenie impulsów nerwowych,
+* biofizyka mięśni,
+* wpływ temperatury na organizm,
+* rezonans magnetyczny (MRI),
+* promieniowanie jonizujące i jego zastosowanie w medycynie,
+* ochrona radiologiczna,
+* metody detekcji promieniowania,
+* biofizyka słuchu i audiometria,
+* elektrokardiografia (EKG),
+* pomiar ciśnienia tętniczego,
+* ultradźwięki i efekt Dopplera,
+* metody spektrometryczne i refraktometryczne,
+* optyka oka,
+* analiza sygnałów biomedycznych z wykorzystaniem komputera.
 
 ---
 
 ## Literatura
 
-**Základní:**
+### Podstawowa
 
-- "Biofyzika. Učebnice pro studenty" (ed. F. Jaroszyk)
-- "Materiály pro biofyzikální cvičení" (ed. A. Kostrzewska)
+* Kubisz L. **Biofizyka.** PZWL, Warszawa, 2024.
+* *Materiały do ćwiczeń z biofizyki* pod red. A. Kostrzewskiej.
 
-**Doplňkový:**
+### Uzupełniająca
 
-- "Vybrané problémy v biofyzice" (ed. S. Miękisz)
-- "Prvky fyziky, biofyziky a agrofyziky" (St. Przestalski)
-
----
-
-## Důležité poznámky
-
-- Na vyučování je nutná čistá zástěra a přezutí.
-- Na cvičení, testy a zkoušky si musíte přinést vlastní kalkulačku. Mobilní telefony musí být vypnuté.
-- Použití nepovolených pomůcek při testu/zkoušce vede k získání 0 bodů/neuspokojivé hodnocení bez možnosti zlepšení.
+* Jaroszyk F. (red.) **Biofizyka. Podręcznik dla studentów.**
+* Hewitt P.G. **Fizyka wokół nas.**
 
 ---
 
-**Úplný, podrobný obsah sylabu je k dispozici ke stažení na webových stránkách MUB:**
+## Zaliczenie przedmiotu
 
-[Přesný obsah sylabu je k dispozici na webu MUB](https://www.umb.edu.pl/s,30059/Sylabusy_na_cykl_ksztalcenia_rozpoczynajacy_sie_w_roku_akademickim_2024-2025)
+Przedmiot obejmuje:
+
+* wykłady,
+* seminaria,
+* ćwiczenia laboratoryjne,
+* egzamin końcowy.
+
+Do egzaminu można przystąpić po:
+
+* zaliczeniu wszystkich ćwiczeń laboratoryjnych,
+* zaliczeniu seminariów,
+* zaliczeniu wykładów.
+
+Podczas ćwiczeń wymagane jest przygotowanie teoretyczne, wykonanie doświadczeń oraz opracowanie wyników w zeszycie ćwiczeń.
+
+Szczegółowe zasady oceniania, obecności oraz popraw znajdują się w zakładce **Regulations**.
+
+---
+
+## Oficjalny sylabus
+
+Pełna, obowiązująca wersja sylabusa jest dostępna na stronie Uniwersytetu Medycznego w Białymstoku.
+
+**📄 Oficjalny sylabus (DOC)**
+
+https://www.umb.edu.pl/photo/pliki/Dziekanat-WL/KIERUNKI/Lekarski/sylabusy_lekarski_cykl_2025-2026/i_rok/biofizyka.doc
 
 ---
 > *Perevod generovany s pomočju AI. V slučaju različij dejstvuet oficialna pol'ska versija.*

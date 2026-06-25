@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentSetId": "2026-06-25-content",
-  "publishedAt": "2026-06-25T11:43:22Z",
+  "publishedAt": "2026-06-25T13:32:06Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -678,6 +678,566 @@
       "locale": "isv_glag"
     },
     {
+      "id": "regulations/elektroradiologia/en/regulations",
+      "path": "regulations/elektroradiologia/en/regulations.md",
+      "version": "1",
+      "sha256": "08c1b888cddd5ea1070316ff14aec766efa971c4c77759c172fd2d8603ac2d6a",
+      "sizeBytes": 2591,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/elektroradiologia/en/safety",
+      "path": "regulations/elektroradiologia/en/safety.md",
+      "version": "1",
+      "sha256": "daa7372693a149a1c70afdd6d80d9aa8c3f79af7b259a90a2b985cf010258ec2",
+      "sizeBytes": 1891,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/elektroradiologia/en/assessment",
+      "path": "regulations/elektroradiologia/en/assessment.md",
+      "version": "1",
+      "sha256": "5e2f6544ecafc2383dfdd71104ca0d0e4ce283c1a4b78335ac8a959a25104c2f",
+      "sizeBytes": 1757,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/elektroradiologia/en/exam",
+      "path": "regulations/elektroradiologia/en/exam.md",
+      "version": "1",
+      "sha256": "bb8313c2a29e4e18037311fc1f12bf28c2913ec9b6ac070ada3375f2ba3eb3a8",
+      "sizeBytes": 2068,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/elektroradiologia/en/syllabus",
+      "path": "regulations/elektroradiologia/en/syllabus.md",
+      "version": "1",
+      "sha256": "42e08d2d52f11fdfe8c212cbc6aa3fac1018cf60f3bf44b575348202f1a1783b",
+      "sizeBytes": 3196,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/elektroradiologia/pl/regulations",
+      "path": "regulations/elektroradiologia/pl/regulations.md",
+      "version": "1",
+      "sha256": "3e50a68f2f0b4bc83810f361dd67c0db93d18773cf4551def5b08281ae7c31c3",
+      "sizeBytes": 2793,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/elektroradiologia/pl/safety",
+      "path": "regulations/elektroradiologia/pl/safety.md",
+      "version": "1",
+      "sha256": "5e2d3198d562d2ec6f0c9c4a0f0f4fd1852fa54546f916902977cbffae3c83e2",
+      "sizeBytes": 1966,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/elektroradiologia/pl/assessment",
+      "path": "regulations/elektroradiologia/pl/assessment.md",
+      "version": "1",
+      "sha256": "968edaf224c32f405f6ace2b0f3d6678f3efb1e0c7f81a8994f8dbb708b1d540",
+      "sizeBytes": 1817,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/elektroradiologia/pl/exam",
+      "path": "regulations/elektroradiologia/pl/exam.md",
+      "version": "1",
+      "sha256": "307c0190c117104fe013702dc31120c47ae791da8065f8bb5f8d924acf20f4f9",
+      "sizeBytes": 2151,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/elektroradiologia/pl/syllabus",
+      "path": "regulations/elektroradiologia/pl/syllabus.md",
+      "version": "1",
+      "sha256": "d248dc5f0a7cb3a5b7f1c2db9c61bcf24818f67a41bbeaf76ac0aeeb870a5952",
+      "sizeBytes": 3081,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/elektroradiologia/es/regulations",
+      "path": "regulations/elektroradiologia/es/regulations.md",
+      "version": "1",
+      "sha256": "1cd3550feba6a3408a6b01c94027a8484200ee72a5f44a2de28891c4d3831b79",
+      "sizeBytes": 3141,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/elektroradiologia/es/safety",
+      "path": "regulations/elektroradiologia/es/safety.md",
+      "version": "1",
+      "sha256": "f3706fb7839ef13e89d06c7d7075e8fad244f5c5f0f3d3a85cca94e9cd7e1a48",
+      "sizeBytes": 2150,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/elektroradiologia/es/assessment",
+      "path": "regulations/elektroradiologia/es/assessment.md",
+      "version": "1",
+      "sha256": "74452bc4e49869fba92cd96bede1eed1d4f46359e10cb6a8cc03a2678fc8157c",
+      "sizeBytes": 2091,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/elektroradiologia/es/exam",
+      "path": "regulations/elektroradiologia/es/exam.md",
+      "version": "1",
+      "sha256": "286220e863ae673abbd9b0fae8d94b83ca6837cffb95d04ca2d21d9b5cd248ad",
+      "sizeBytes": 2386,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/elektroradiologia/es/syllabus",
+      "path": "regulations/elektroradiologia/es/syllabus.md",
+      "version": "1",
+      "sha256": "f2d61934c41707e6594860f08df70c04b5fa641c14f516556187f5710312603c",
+      "sizeBytes": 3221,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/elektroradiologia/eo/regulations",
+      "path": "regulations/elektroradiologia/eo/regulations.md",
+      "version": "1",
+      "sha256": "d0f6e2a50a042fcbc6e6fc99ac27ee598b083376ca7ac5fd9809e69188410016",
+      "sizeBytes": 2716,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/elektroradiologia/eo/safety",
+      "path": "regulations/elektroradiologia/eo/safety.md",
+      "version": "1",
+      "sha256": "e7c47402352b50e0a1c64177efe02d9d5f650d0799df7dc8ef7895740b18a3f3",
+      "sizeBytes": 1906,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/elektroradiologia/eo/assessment",
+      "path": "regulations/elektroradiologia/eo/assessment.md",
+      "version": "1",
+      "sha256": "9545e12c7b3caef95bae46173641dce0fe2bed4c39d9d47e55b885e7bcd3596c",
+      "sizeBytes": 1812,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/elektroradiologia/eo/exam",
+      "path": "regulations/elektroradiologia/eo/exam.md",
+      "version": "1",
+      "sha256": "8e2b1bd8796f04746b214f3e384249ff54a22eafcffd9a1e110ae384c7eb8323",
+      "sizeBytes": 2144,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/elektroradiologia/eo/syllabus",
+      "path": "regulations/elektroradiologia/eo/syllabus.md",
+      "version": "1",
+      "sha256": "039571d90ae4ede4d467d06fb8eb0c2a8e72edbbafeb6de1ae061b06d945d551",
+      "sizeBytes": 3201,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/elektroradiologia/isv/regulations",
+      "path": "regulations/elektroradiologia/isv/regulations.md",
+      "version": "1",
+      "sha256": "a18e5c1de77ef54f57357a887b456b47cb9dbdeac6c7247b8a162eff88bdef40",
+      "sizeBytes": 2640,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/elektroradiologia/isv/safety",
+      "path": "regulations/elektroradiologia/isv/safety.md",
+      "version": "1",
+      "sha256": "be053b7c954d1c1773c497c2c4acf4a9973fbddbde134212788bce774a07fcc3",
+      "sizeBytes": 1843,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/elektroradiologia/isv/assessment",
+      "path": "regulations/elektroradiologia/isv/assessment.md",
+      "version": "1",
+      "sha256": "0cb1e922dc22450cc599611b7321926807abd90443520c52b602d8784d30da62",
+      "sizeBytes": 1774,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/elektroradiologia/isv/exam",
+      "path": "regulations/elektroradiologia/isv/exam.md",
+      "version": "1",
+      "sha256": "95595ae2b32e52311873da031827c49586fbdd8faef2750603ce62aa1b6617fd",
+      "sizeBytes": 2198,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/elektroradiologia/isv/syllabus",
+      "path": "regulations/elektroradiologia/isv/syllabus.md",
+      "version": "1",
+      "sha256": "88657992d0379f4dd64693f9e35c125277f5f9c2268b13698aa2d82263601199",
+      "sizeBytes": 3182,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/elektroradiologia/isv_cyrl/regulations",
+      "path": "regulations/elektroradiologia/isv_cyrl/regulations.md",
+      "version": "1",
+      "sha256": "21ffa476bf6acccd1f0eaeb06ed37c5756223c6d90b854b85bde914d7f60512d",
+      "sizeBytes": 4543,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/elektroradiologia/isv_cyrl/safety",
+      "path": "regulations/elektroradiologia/isv_cyrl/safety.md",
+      "version": "1",
+      "sha256": "bf5703aa48ca6563ef6bd880d9e6b7d5091a6e8f41bfd788f8f8e2a44c0b51ac",
+      "sizeBytes": 3337,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/elektroradiologia/isv_cyrl/assessment",
+      "path": "regulations/elektroradiologia/isv_cyrl/assessment.md",
+      "version": "1",
+      "sha256": "ca71459c6e3e7a6ef2a683925985b4f7a865c9a1b182676cc303a53f49406c6f",
+      "sizeBytes": 3098,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/elektroradiologia/isv_cyrl/exam",
+      "path": "regulations/elektroradiologia/isv_cyrl/exam.md",
+      "version": "1",
+      "sha256": "5f23a02e16cfd8ec10a41bdef33527c83bb0133faaa659d3f97e1f5bee98b045",
+      "sizeBytes": 3779,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/elektroradiologia/isv_cyrl/syllabus",
+      "path": "regulations/elektroradiologia/isv_cyrl/syllabus.md",
+      "version": "1",
+      "sha256": "6b15565e4e9cdb8841a6d3891ff3a31003b041d6454d5017a0eba22066e2e635",
+      "sizeBytes": 5605,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/elektroradiologia/isv_glag/regulations",
+      "path": "regulations/elektroradiologia/isv_glag/regulations.md",
+      "version": "1",
+      "sha256": "871356da077af881a80a12cd6f92d6543af8366e781e085b277f6d819488f2d1",
+      "sizeBytes": 6403,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/elektroradiologia/isv_glag/safety",
+      "path": "regulations/elektroradiologia/isv_glag/safety.md",
+      "version": "1",
+      "sha256": "c9ace8272456c5e2476be4c7efa15e3ad311e30f59d0e4b71ecce08a189bbc0c",
+      "sizeBytes": 4769,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/elektroradiologia/isv_glag/assessment",
+      "path": "regulations/elektroradiologia/isv_glag/assessment.md",
+      "version": "1",
+      "sha256": "fa21baf6681da800cf72b6144fc53e03a0a53655f54d2f274d7dc8b35b3325d4",
+      "sizeBytes": 4355,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/elektroradiologia/isv_glag/exam",
+      "path": "regulations/elektroradiologia/isv_glag/exam.md",
+      "version": "1",
+      "sha256": "641d4c835cbd152eef3993e8b0dff4c7688333400c6f6294a28f774a6bce2b88",
+      "sizeBytes": 5322,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/elektroradiologia/isv_glag/syllabus",
+      "path": "regulations/elektroradiologia/isv_glag/syllabus.md",
+      "version": "1",
+      "sha256": "18eac931e8872f1fc04b48e286192cce85bf66b6d3cb44d76da01a8e723014e0",
+      "sizeBytes": 7933,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/fizjoterapia/en/regulations",
+      "path": "regulations/fizjoterapia/en/regulations.md",
+      "version": "1",
+      "sha256": "08c1b888cddd5ea1070316ff14aec766efa971c4c77759c172fd2d8603ac2d6a",
+      "sizeBytes": 2591,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/fizjoterapia/en/safety",
+      "path": "regulations/fizjoterapia/en/safety.md",
+      "version": "1",
+      "sha256": "daa7372693a149a1c70afdd6d80d9aa8c3f79af7b259a90a2b985cf010258ec2",
+      "sizeBytes": 1891,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/fizjoterapia/en/assessment",
+      "path": "regulations/fizjoterapia/en/assessment.md",
+      "version": "1",
+      "sha256": "5e2f6544ecafc2383dfdd71104ca0d0e4ce283c1a4b78335ac8a959a25104c2f",
+      "sizeBytes": 1757,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/fizjoterapia/en/exam",
+      "path": "regulations/fizjoterapia/en/exam.md",
+      "version": "1",
+      "sha256": "bb8313c2a29e4e18037311fc1f12bf28c2913ec9b6ac070ada3375f2ba3eb3a8",
+      "sizeBytes": 2068,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/fizjoterapia/en/syllabus",
+      "path": "regulations/fizjoterapia/en/syllabus.md",
+      "version": "1",
+      "sha256": "38bef6fb9bec2e617c31b89e7a5ce698bee3eb9f0e7b9b556cce63238eba5b35",
+      "sizeBytes": 2598,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/fizjoterapia/pl/regulations",
+      "path": "regulations/fizjoterapia/pl/regulations.md",
+      "version": "1",
+      "sha256": "3e50a68f2f0b4bc83810f361dd67c0db93d18773cf4551def5b08281ae7c31c3",
+      "sizeBytes": 2793,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/fizjoterapia/pl/safety",
+      "path": "regulations/fizjoterapia/pl/safety.md",
+      "version": "1",
+      "sha256": "5e2d3198d562d2ec6f0c9c4a0f0f4fd1852fa54546f916902977cbffae3c83e2",
+      "sizeBytes": 1966,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/fizjoterapia/pl/assessment",
+      "path": "regulations/fizjoterapia/pl/assessment.md",
+      "version": "1",
+      "sha256": "968edaf224c32f405f6ace2b0f3d6678f3efb1e0c7f81a8994f8dbb708b1d540",
+      "sizeBytes": 1817,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/fizjoterapia/pl/exam",
+      "path": "regulations/fizjoterapia/pl/exam.md",
+      "version": "1",
+      "sha256": "307c0190c117104fe013702dc31120c47ae791da8065f8bb5f8d924acf20f4f9",
+      "sizeBytes": 2151,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/fizjoterapia/pl/syllabus",
+      "path": "regulations/fizjoterapia/pl/syllabus.md",
+      "version": "1",
+      "sha256": "09da812823034d3e0cc93d6741b62cacabf30784d37c9fcee71aff688704e0ac",
+      "sizeBytes": 2483,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/fizjoterapia/es/regulations",
+      "path": "regulations/fizjoterapia/es/regulations.md",
+      "version": "1",
+      "sha256": "1cd3550feba6a3408a6b01c94027a8484200ee72a5f44a2de28891c4d3831b79",
+      "sizeBytes": 3141,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/fizjoterapia/es/safety",
+      "path": "regulations/fizjoterapia/es/safety.md",
+      "version": "1",
+      "sha256": "f3706fb7839ef13e89d06c7d7075e8fad244f5c5f0f3d3a85cca94e9cd7e1a48",
+      "sizeBytes": 2150,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/fizjoterapia/es/assessment",
+      "path": "regulations/fizjoterapia/es/assessment.md",
+      "version": "1",
+      "sha256": "74452bc4e49869fba92cd96bede1eed1d4f46359e10cb6a8cc03a2678fc8157c",
+      "sizeBytes": 2091,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/fizjoterapia/es/exam",
+      "path": "regulations/fizjoterapia/es/exam.md",
+      "version": "1",
+      "sha256": "286220e863ae673abbd9b0fae8d94b83ca6837cffb95d04ca2d21d9b5cd248ad",
+      "sizeBytes": 2386,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/fizjoterapia/es/syllabus",
+      "path": "regulations/fizjoterapia/es/syllabus.md",
+      "version": "1",
+      "sha256": "f650665c209d1ca804734dec2eaa7d54021418e3222121affa57f90598aa1711",
+      "sizeBytes": 2623,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/fizjoterapia/eo/regulations",
+      "path": "regulations/fizjoterapia/eo/regulations.md",
+      "version": "1",
+      "sha256": "d0f6e2a50a042fcbc6e6fc99ac27ee598b083376ca7ac5fd9809e69188410016",
+      "sizeBytes": 2716,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/fizjoterapia/eo/safety",
+      "path": "regulations/fizjoterapia/eo/safety.md",
+      "version": "1",
+      "sha256": "e7c47402352b50e0a1c64177efe02d9d5f650d0799df7dc8ef7895740b18a3f3",
+      "sizeBytes": 1906,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/fizjoterapia/eo/assessment",
+      "path": "regulations/fizjoterapia/eo/assessment.md",
+      "version": "1",
+      "sha256": "9545e12c7b3caef95bae46173641dce0fe2bed4c39d9d47e55b885e7bcd3596c",
+      "sizeBytes": 1812,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/fizjoterapia/eo/exam",
+      "path": "regulations/fizjoterapia/eo/exam.md",
+      "version": "1",
+      "sha256": "8e2b1bd8796f04746b214f3e384249ff54a22eafcffd9a1e110ae384c7eb8323",
+      "sizeBytes": 2144,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/fizjoterapia/eo/syllabus",
+      "path": "regulations/fizjoterapia/eo/syllabus.md",
+      "version": "1",
+      "sha256": "54191a09c4689c2c0c074367d6d305d675176c0e516d1d21d81e4ddc58a3f56d",
+      "sizeBytes": 2603,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/fizjoterapia/isv/regulations",
+      "path": "regulations/fizjoterapia/isv/regulations.md",
+      "version": "1",
+      "sha256": "a18e5c1de77ef54f57357a887b456b47cb9dbdeac6c7247b8a162eff88bdef40",
+      "sizeBytes": 2640,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/fizjoterapia/isv/safety",
+      "path": "regulations/fizjoterapia/isv/safety.md",
+      "version": "1",
+      "sha256": "be053b7c954d1c1773c497c2c4acf4a9973fbddbde134212788bce774a07fcc3",
+      "sizeBytes": 1843,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/fizjoterapia/isv/assessment",
+      "path": "regulations/fizjoterapia/isv/assessment.md",
+      "version": "1",
+      "sha256": "0cb1e922dc22450cc599611b7321926807abd90443520c52b602d8784d30da62",
+      "sizeBytes": 1774,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/fizjoterapia/isv/exam",
+      "path": "regulations/fizjoterapia/isv/exam.md",
+      "version": "1",
+      "sha256": "95595ae2b32e52311873da031827c49586fbdd8faef2750603ce62aa1b6617fd",
+      "sizeBytes": 2198,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/fizjoterapia/isv/syllabus",
+      "path": "regulations/fizjoterapia/isv/syllabus.md",
+      "version": "1",
+      "sha256": "701d6e02b0c5dfa3649e0a3f1d111e33ee31c2b81c45db4a177b634dd898831a",
+      "sizeBytes": 2584,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/fizjoterapia/isv_cyrl/regulations",
+      "path": "regulations/fizjoterapia/isv_cyrl/regulations.md",
+      "version": "1",
+      "sha256": "21ffa476bf6acccd1f0eaeb06ed37c5756223c6d90b854b85bde914d7f60512d",
+      "sizeBytes": 4543,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/fizjoterapia/isv_cyrl/safety",
+      "path": "regulations/fizjoterapia/isv_cyrl/safety.md",
+      "version": "1",
+      "sha256": "bf5703aa48ca6563ef6bd880d9e6b7d5091a6e8f41bfd788f8f8e2a44c0b51ac",
+      "sizeBytes": 3337,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/fizjoterapia/isv_cyrl/assessment",
+      "path": "regulations/fizjoterapia/isv_cyrl/assessment.md",
+      "version": "1",
+      "sha256": "ca71459c6e3e7a6ef2a683925985b4f7a865c9a1b182676cc303a53f49406c6f",
+      "sizeBytes": 3098,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/fizjoterapia/isv_cyrl/exam",
+      "path": "regulations/fizjoterapia/isv_cyrl/exam.md",
+      "version": "1",
+      "sha256": "5f23a02e16cfd8ec10a41bdef33527c83bb0133faaa659d3f97e1f5bee98b045",
+      "sizeBytes": 3779,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/fizjoterapia/isv_cyrl/syllabus",
+      "path": "regulations/fizjoterapia/isv_cyrl/syllabus.md",
+      "version": "1",
+      "sha256": "032d25914bed944f67658c21d62f8aaecb4a578a96085f71713443b7eb270aef",
+      "sizeBytes": 4479,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/fizjoterapia/isv_glag/regulations",
+      "path": "regulations/fizjoterapia/isv_glag/regulations.md",
+      "version": "1",
+      "sha256": "871356da077af881a80a12cd6f92d6543af8366e781e085b277f6d819488f2d1",
+      "sizeBytes": 6403,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/fizjoterapia/isv_glag/safety",
+      "path": "regulations/fizjoterapia/isv_glag/safety.md",
+      "version": "1",
+      "sha256": "c9ace8272456c5e2476be4c7efa15e3ad311e30f59d0e4b71ecce08a189bbc0c",
+      "sizeBytes": 4769,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/fizjoterapia/isv_glag/assessment",
+      "path": "regulations/fizjoterapia/isv_glag/assessment.md",
+      "version": "1",
+      "sha256": "fa21baf6681da800cf72b6144fc53e03a0a53655f54d2f274d7dc8b35b3325d4",
+      "sizeBytes": 4355,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/fizjoterapia/isv_glag/exam",
+      "path": "regulations/fizjoterapia/isv_glag/exam.md",
+      "version": "1",
+      "sha256": "641d4c835cbd152eef3993e8b0dff4c7688333400c6f6294a28f774a6bce2b88",
+      "sizeBytes": 5322,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/fizjoterapia/isv_glag/syllabus",
+      "path": "regulations/fizjoterapia/isv_glag/syllabus.md",
+      "version": "1",
+      "sha256": "781a4b5221a14791a87f7158ac6ff900c989a2d58b551601c0facef4e854bfc6",
+      "sizeBytes": 6279,
+      "locale": "isv_glag"
+    },
+    {
       "id": "regulations/lekarski/en/regulations",
       "path": "regulations/lekarski/en/regulations.md",
       "version": "3",
@@ -712,9 +1272,9 @@
     {
       "id": "regulations/lekarski/en/syllabus",
       "path": "regulations/lekarski/en/syllabus.md",
-      "version": "3",
-      "sha256": "bed93885967dd1929dad8cc3bada1040c717c5f7fec323a80199e321b1971b20",
-      "sizeBytes": 3378,
+      "version": "4",
+      "sha256": "84067a4293083f082293beae002bf138cb5e40a623744a8336e28f91696c26f3",
+      "sizeBytes": 3051,
       "locale": "en"
     },
     {
@@ -752,9 +1312,9 @@
     {
       "id": "regulations/lekarski/pl/syllabus",
       "path": "regulations/lekarski/pl/syllabus.md",
-      "version": "3",
-      "sha256": "0d2c57fee0db858937bde869de897461c73b75cc88795fa1668edd1d9beb100e",
-      "sizeBytes": 3334,
+      "version": "4",
+      "sha256": "943f81593f1b85ee31f286928f96cc0ea52054fe54baca52526811ab24eb9e3f",
+      "sizeBytes": 2936,
       "locale": "pl"
     },
     {
@@ -792,9 +1352,9 @@
     {
       "id": "regulations/lekarski/es/syllabus",
       "path": "regulations/lekarski/es/syllabus.md",
-      "version": "3",
-      "sha256": "a364a75c72418b732326acc1fb2e9fed7e80730977b9f450a72a0869a10f19ab",
-      "sizeBytes": 3792,
+      "version": "4",
+      "sha256": "9e419d13bbf7aabcda1f1aa0a63ebb26cb03ee2dac18cbb0fc8914145a6f6acb",
+      "sizeBytes": 3076,
       "locale": "es"
     },
     {
@@ -832,9 +1392,9 @@
     {
       "id": "regulations/lekarski/eo/syllabus",
       "path": "regulations/lekarski/eo/syllabus.md",
-      "version": "3",
-      "sha256": "b8045bd19890f860a44ce8633230b2eda4ca6406579a0affeed5447017a9cfe7",
-      "sizeBytes": 3362,
+      "version": "4",
+      "sha256": "a7bb1da900c5cdeadd99999f1d197734137225e8b86c8e46b5baf14d85569067",
+      "sizeBytes": 3056,
       "locale": "eo"
     },
     {
@@ -872,9 +1432,9 @@
     {
       "id": "regulations/lekarski/isv/syllabus",
       "path": "regulations/lekarski/isv/syllabus.md",
-      "version": "3",
-      "sha256": "12b8682edc503b9635ea47d923d0c2e02e7f50e6f7d2e7e5a145a71efb498bcf",
-      "sizeBytes": 3375,
+      "version": "4",
+      "sha256": "932c0388cef5c4a2fcc5b53c86ebfa9de0d7e38fee86539e3b812bfd8dffc6ee",
+      "sizeBytes": 3037,
       "locale": "isv"
     },
     {
@@ -912,9 +1472,9 @@
     {
       "id": "regulations/lekarski/isv_cyrl/syllabus",
       "path": "regulations/lekarski/isv_cyrl/syllabus.md",
-      "version": "2",
-      "sha256": "f93d18bbf1f922ed38f0e860852b9e3a0b7750800df417db3e14ff8f176e7d3b",
-      "sizeBytes": 5367,
+      "version": "3",
+      "sha256": "3423119fcb35bbf6c4729e5801b5958d482e92e4e21fc1c7165f84006534c7e4",
+      "sizeBytes": 5269,
       "locale": "isv_cyrl"
     },
     {
@@ -952,9 +1512,1689 @@
     {
       "id": "regulations/lekarski/isv_glag/syllabus",
       "path": "regulations/lekarski/isv_glag/syllabus.md",
-      "version": "2",
-      "sha256": "fd17b491e9ba4219ea5af7e04dd2bc66d3c07f47202d0f53f4b8fb84c687b85f",
-      "sizeBytes": 7328,
+      "version": "3",
+      "sha256": "1629f45b352e009b6beb04e15823107d7e57a2d8948a1a834bedc98e5668778d",
+      "sizeBytes": 7406,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/en/regulations",
+      "path": "regulations/lekarsko_dentystyczny/en/regulations.md",
+      "version": "1",
+      "sha256": "08c1b888cddd5ea1070316ff14aec766efa971c4c77759c172fd2d8603ac2d6a",
+      "sizeBytes": 2591,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/en/safety",
+      "path": "regulations/lekarsko_dentystyczny/en/safety.md",
+      "version": "1",
+      "sha256": "daa7372693a149a1c70afdd6d80d9aa8c3f79af7b259a90a2b985cf010258ec2",
+      "sizeBytes": 1891,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/en/assessment",
+      "path": "regulations/lekarsko_dentystyczny/en/assessment.md",
+      "version": "1",
+      "sha256": "5e2f6544ecafc2383dfdd71104ca0d0e4ce283c1a4b78335ac8a959a25104c2f",
+      "sizeBytes": 1757,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/en/exam",
+      "path": "regulations/lekarsko_dentystyczny/en/exam.md",
+      "version": "1",
+      "sha256": "bb8313c2a29e4e18037311fc1f12bf28c2913ec9b6ac070ada3375f2ba3eb3a8",
+      "sizeBytes": 2068,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/en/syllabus",
+      "path": "regulations/lekarsko_dentystyczny/en/syllabus.md",
+      "version": "1",
+      "sha256": "1542cc6ba5b1cde02c2e3d85a60725681e6a6219e57907b1f78343cbf708a239",
+      "sizeBytes": 2697,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/pl/regulations",
+      "path": "regulations/lekarsko_dentystyczny/pl/regulations.md",
+      "version": "1",
+      "sha256": "3e50a68f2f0b4bc83810f361dd67c0db93d18773cf4551def5b08281ae7c31c3",
+      "sizeBytes": 2793,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/pl/safety",
+      "path": "regulations/lekarsko_dentystyczny/pl/safety.md",
+      "version": "1",
+      "sha256": "5e2d3198d562d2ec6f0c9c4a0f0f4fd1852fa54546f916902977cbffae3c83e2",
+      "sizeBytes": 1966,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/pl/assessment",
+      "path": "regulations/lekarsko_dentystyczny/pl/assessment.md",
+      "version": "1",
+      "sha256": "968edaf224c32f405f6ace2b0f3d6678f3efb1e0c7f81a8994f8dbb708b1d540",
+      "sizeBytes": 1817,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/pl/exam",
+      "path": "regulations/lekarsko_dentystyczny/pl/exam.md",
+      "version": "1",
+      "sha256": "307c0190c117104fe013702dc31120c47ae791da8065f8bb5f8d924acf20f4f9",
+      "sizeBytes": 2151,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/pl/syllabus",
+      "path": "regulations/lekarsko_dentystyczny/pl/syllabus.md",
+      "version": "1",
+      "sha256": "21ca56ba56ed1670672dc81d6903737cacaddfaf2d8e14a9ce204fd997a11651",
+      "sizeBytes": 2582,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/es/regulations",
+      "path": "regulations/lekarsko_dentystyczny/es/regulations.md",
+      "version": "1",
+      "sha256": "1cd3550feba6a3408a6b01c94027a8484200ee72a5f44a2de28891c4d3831b79",
+      "sizeBytes": 3141,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/es/safety",
+      "path": "regulations/lekarsko_dentystyczny/es/safety.md",
+      "version": "1",
+      "sha256": "f3706fb7839ef13e89d06c7d7075e8fad244f5c5f0f3d3a85cca94e9cd7e1a48",
+      "sizeBytes": 2150,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/es/assessment",
+      "path": "regulations/lekarsko_dentystyczny/es/assessment.md",
+      "version": "1",
+      "sha256": "74452bc4e49869fba92cd96bede1eed1d4f46359e10cb6a8cc03a2678fc8157c",
+      "sizeBytes": 2091,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/es/exam",
+      "path": "regulations/lekarsko_dentystyczny/es/exam.md",
+      "version": "1",
+      "sha256": "286220e863ae673abbd9b0fae8d94b83ca6837cffb95d04ca2d21d9b5cd248ad",
+      "sizeBytes": 2386,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/es/syllabus",
+      "path": "regulations/lekarsko_dentystyczny/es/syllabus.md",
+      "version": "1",
+      "sha256": "040ba182d68d057093ca2f8b022d43b369ff100796e2936da4367d0112e7f6a5",
+      "sizeBytes": 2722,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/eo/regulations",
+      "path": "regulations/lekarsko_dentystyczny/eo/regulations.md",
+      "version": "1",
+      "sha256": "d0f6e2a50a042fcbc6e6fc99ac27ee598b083376ca7ac5fd9809e69188410016",
+      "sizeBytes": 2716,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/eo/safety",
+      "path": "regulations/lekarsko_dentystyczny/eo/safety.md",
+      "version": "1",
+      "sha256": "e7c47402352b50e0a1c64177efe02d9d5f650d0799df7dc8ef7895740b18a3f3",
+      "sizeBytes": 1906,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/eo/assessment",
+      "path": "regulations/lekarsko_dentystyczny/eo/assessment.md",
+      "version": "1",
+      "sha256": "9545e12c7b3caef95bae46173641dce0fe2bed4c39d9d47e55b885e7bcd3596c",
+      "sizeBytes": 1812,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/eo/exam",
+      "path": "regulations/lekarsko_dentystyczny/eo/exam.md",
+      "version": "1",
+      "sha256": "8e2b1bd8796f04746b214f3e384249ff54a22eafcffd9a1e110ae384c7eb8323",
+      "sizeBytes": 2144,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/eo/syllabus",
+      "path": "regulations/lekarsko_dentystyczny/eo/syllabus.md",
+      "version": "1",
+      "sha256": "b8a876e30e15f693651d0f4ce9f59903e11bb3f3afd39152809337f5da90731d",
+      "sizeBytes": 2702,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/isv/regulations",
+      "path": "regulations/lekarsko_dentystyczny/isv/regulations.md",
+      "version": "1",
+      "sha256": "a18e5c1de77ef54f57357a887b456b47cb9dbdeac6c7247b8a162eff88bdef40",
+      "sizeBytes": 2640,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/isv/safety",
+      "path": "regulations/lekarsko_dentystyczny/isv/safety.md",
+      "version": "1",
+      "sha256": "be053b7c954d1c1773c497c2c4acf4a9973fbddbde134212788bce774a07fcc3",
+      "sizeBytes": 1843,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/isv/assessment",
+      "path": "regulations/lekarsko_dentystyczny/isv/assessment.md",
+      "version": "1",
+      "sha256": "0cb1e922dc22450cc599611b7321926807abd90443520c52b602d8784d30da62",
+      "sizeBytes": 1774,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/isv/exam",
+      "path": "regulations/lekarsko_dentystyczny/isv/exam.md",
+      "version": "1",
+      "sha256": "95595ae2b32e52311873da031827c49586fbdd8faef2750603ce62aa1b6617fd",
+      "sizeBytes": 2198,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/isv/syllabus",
+      "path": "regulations/lekarsko_dentystyczny/isv/syllabus.md",
+      "version": "1",
+      "sha256": "f3f7ee745562fb058336b2ebd0e5bc50792ac9b904aab12f76bd23bc188724bc",
+      "sizeBytes": 2683,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/isv_cyrl/regulations",
+      "path": "regulations/lekarsko_dentystyczny/isv_cyrl/regulations.md",
+      "version": "1",
+      "sha256": "21ffa476bf6acccd1f0eaeb06ed37c5756223c6d90b854b85bde914d7f60512d",
+      "sizeBytes": 4543,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/isv_cyrl/safety",
+      "path": "regulations/lekarsko_dentystyczny/isv_cyrl/safety.md",
+      "version": "1",
+      "sha256": "bf5703aa48ca6563ef6bd880d9e6b7d5091a6e8f41bfd788f8f8e2a44c0b51ac",
+      "sizeBytes": 3337,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/isv_cyrl/assessment",
+      "path": "regulations/lekarsko_dentystyczny/isv_cyrl/assessment.md",
+      "version": "1",
+      "sha256": "ca71459c6e3e7a6ef2a683925985b4f7a865c9a1b182676cc303a53f49406c6f",
+      "sizeBytes": 3098,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/isv_cyrl/exam",
+      "path": "regulations/lekarsko_dentystyczny/isv_cyrl/exam.md",
+      "version": "1",
+      "sha256": "5f23a02e16cfd8ec10a41bdef33527c83bb0133faaa659d3f97e1f5bee98b045",
+      "sizeBytes": 3779,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/isv_cyrl/syllabus",
+      "path": "regulations/lekarsko_dentystyczny/isv_cyrl/syllabus.md",
+      "version": "1",
+      "sha256": "7db5119ee059bb710f8ebfd63e783b719d56c29e4483be1fd71fc565dd514e61",
+      "sizeBytes": 4668,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/isv_glag/regulations",
+      "path": "regulations/lekarsko_dentystyczny/isv_glag/regulations.md",
+      "version": "1",
+      "sha256": "871356da077af881a80a12cd6f92d6543af8366e781e085b277f6d819488f2d1",
+      "sizeBytes": 6403,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/isv_glag/safety",
+      "path": "regulations/lekarsko_dentystyczny/isv_glag/safety.md",
+      "version": "1",
+      "sha256": "c9ace8272456c5e2476be4c7efa15e3ad311e30f59d0e4b71ecce08a189bbc0c",
+      "sizeBytes": 4769,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/isv_glag/assessment",
+      "path": "regulations/lekarsko_dentystyczny/isv_glag/assessment.md",
+      "version": "1",
+      "sha256": "fa21baf6681da800cf72b6144fc53e03a0a53655f54d2f274d7dc8b35b3325d4",
+      "sizeBytes": 4355,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/isv_glag/exam",
+      "path": "regulations/lekarsko_dentystyczny/isv_glag/exam.md",
+      "version": "1",
+      "sha256": "641d4c835cbd152eef3993e8b0dff4c7688333400c6f6294a28f774a6bce2b88",
+      "sizeBytes": 5322,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/lekarsko_dentystyczny/isv_glag/syllabus",
+      "path": "regulations/lekarsko_dentystyczny/isv_glag/syllabus.md",
+      "version": "1",
+      "sha256": "2daf27ace5326ef38663d92183c432f0d3a58d361543720082e43a22ff037af5",
+      "sizeBytes": 6558,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/en/regulations",
+      "path": "regulations/logopedia_z_fonoaudiologia/en/regulations.md",
+      "version": "1",
+      "sha256": "08c1b888cddd5ea1070316ff14aec766efa971c4c77759c172fd2d8603ac2d6a",
+      "sizeBytes": 2591,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/en/safety",
+      "path": "regulations/logopedia_z_fonoaudiologia/en/safety.md",
+      "version": "1",
+      "sha256": "daa7372693a149a1c70afdd6d80d9aa8c3f79af7b259a90a2b985cf010258ec2",
+      "sizeBytes": 1891,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/en/assessment",
+      "path": "regulations/logopedia_z_fonoaudiologia/en/assessment.md",
+      "version": "1",
+      "sha256": "5e2f6544ecafc2383dfdd71104ca0d0e4ce283c1a4b78335ac8a959a25104c2f",
+      "sizeBytes": 1757,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/en/exam",
+      "path": "regulations/logopedia_z_fonoaudiologia/en/exam.md",
+      "version": "1",
+      "sha256": "bb8313c2a29e4e18037311fc1f12bf28c2913ec9b6ac070ada3375f2ba3eb3a8",
+      "sizeBytes": 2068,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/en/syllabus",
+      "path": "regulations/logopedia_z_fonoaudiologia/en/syllabus.md",
+      "version": "1",
+      "sha256": "a1c144d2ae2fb5a75ad530b39a89050a5cda58fc894b708d0300a4e7eda4ac76",
+      "sizeBytes": 3062,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/pl/regulations",
+      "path": "regulations/logopedia_z_fonoaudiologia/pl/regulations.md",
+      "version": "1",
+      "sha256": "3e50a68f2f0b4bc83810f361dd67c0db93d18773cf4551def5b08281ae7c31c3",
+      "sizeBytes": 2793,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/pl/safety",
+      "path": "regulations/logopedia_z_fonoaudiologia/pl/safety.md",
+      "version": "1",
+      "sha256": "5e2d3198d562d2ec6f0c9c4a0f0f4fd1852fa54546f916902977cbffae3c83e2",
+      "sizeBytes": 1966,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/pl/assessment",
+      "path": "regulations/logopedia_z_fonoaudiologia/pl/assessment.md",
+      "version": "1",
+      "sha256": "968edaf224c32f405f6ace2b0f3d6678f3efb1e0c7f81a8994f8dbb708b1d540",
+      "sizeBytes": 1817,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/pl/exam",
+      "path": "regulations/logopedia_z_fonoaudiologia/pl/exam.md",
+      "version": "1",
+      "sha256": "307c0190c117104fe013702dc31120c47ae791da8065f8bb5f8d924acf20f4f9",
+      "sizeBytes": 2151,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/pl/syllabus",
+      "path": "regulations/logopedia_z_fonoaudiologia/pl/syllabus.md",
+      "version": "1",
+      "sha256": "8ad2c426e86847db2e0abea029d296e15116fe92913dc62b9e7bfbd5790908f1",
+      "sizeBytes": 2947,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/es/regulations",
+      "path": "regulations/logopedia_z_fonoaudiologia/es/regulations.md",
+      "version": "1",
+      "sha256": "1cd3550feba6a3408a6b01c94027a8484200ee72a5f44a2de28891c4d3831b79",
+      "sizeBytes": 3141,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/es/safety",
+      "path": "regulations/logopedia_z_fonoaudiologia/es/safety.md",
+      "version": "1",
+      "sha256": "f3706fb7839ef13e89d06c7d7075e8fad244f5c5f0f3d3a85cca94e9cd7e1a48",
+      "sizeBytes": 2150,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/es/assessment",
+      "path": "regulations/logopedia_z_fonoaudiologia/es/assessment.md",
+      "version": "1",
+      "sha256": "74452bc4e49869fba92cd96bede1eed1d4f46359e10cb6a8cc03a2678fc8157c",
+      "sizeBytes": 2091,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/es/exam",
+      "path": "regulations/logopedia_z_fonoaudiologia/es/exam.md",
+      "version": "1",
+      "sha256": "286220e863ae673abbd9b0fae8d94b83ca6837cffb95d04ca2d21d9b5cd248ad",
+      "sizeBytes": 2386,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/es/syllabus",
+      "path": "regulations/logopedia_z_fonoaudiologia/es/syllabus.md",
+      "version": "1",
+      "sha256": "588232e04ca29f2147b116f4f7599f5dc0765c1dbcd89c3351eada49c6f61d4e",
+      "sizeBytes": 3087,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/eo/regulations",
+      "path": "regulations/logopedia_z_fonoaudiologia/eo/regulations.md",
+      "version": "1",
+      "sha256": "d0f6e2a50a042fcbc6e6fc99ac27ee598b083376ca7ac5fd9809e69188410016",
+      "sizeBytes": 2716,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/eo/safety",
+      "path": "regulations/logopedia_z_fonoaudiologia/eo/safety.md",
+      "version": "1",
+      "sha256": "e7c47402352b50e0a1c64177efe02d9d5f650d0799df7dc8ef7895740b18a3f3",
+      "sizeBytes": 1906,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/eo/assessment",
+      "path": "regulations/logopedia_z_fonoaudiologia/eo/assessment.md",
+      "version": "1",
+      "sha256": "9545e12c7b3caef95bae46173641dce0fe2bed4c39d9d47e55b885e7bcd3596c",
+      "sizeBytes": 1812,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/eo/exam",
+      "path": "regulations/logopedia_z_fonoaudiologia/eo/exam.md",
+      "version": "1",
+      "sha256": "8e2b1bd8796f04746b214f3e384249ff54a22eafcffd9a1e110ae384c7eb8323",
+      "sizeBytes": 2144,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/eo/syllabus",
+      "path": "regulations/logopedia_z_fonoaudiologia/eo/syllabus.md",
+      "version": "1",
+      "sha256": "b516bddfdcd49b1b2f2795e887a09b02a697e2ddb06afad5a855d18ac80185b7",
+      "sizeBytes": 3067,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/isv/regulations",
+      "path": "regulations/logopedia_z_fonoaudiologia/isv/regulations.md",
+      "version": "1",
+      "sha256": "a18e5c1de77ef54f57357a887b456b47cb9dbdeac6c7247b8a162eff88bdef40",
+      "sizeBytes": 2640,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/isv/safety",
+      "path": "regulations/logopedia_z_fonoaudiologia/isv/safety.md",
+      "version": "1",
+      "sha256": "be053b7c954d1c1773c497c2c4acf4a9973fbddbde134212788bce774a07fcc3",
+      "sizeBytes": 1843,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/isv/assessment",
+      "path": "regulations/logopedia_z_fonoaudiologia/isv/assessment.md",
+      "version": "1",
+      "sha256": "0cb1e922dc22450cc599611b7321926807abd90443520c52b602d8784d30da62",
+      "sizeBytes": 1774,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/isv/exam",
+      "path": "regulations/logopedia_z_fonoaudiologia/isv/exam.md",
+      "version": "1",
+      "sha256": "95595ae2b32e52311873da031827c49586fbdd8faef2750603ce62aa1b6617fd",
+      "sizeBytes": 2198,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/isv/syllabus",
+      "path": "regulations/logopedia_z_fonoaudiologia/isv/syllabus.md",
+      "version": "1",
+      "sha256": "ba2a4b56b802ca7619d68886a59074f95129037d8ff247b279025608eeb19ebb",
+      "sizeBytes": 3048,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/isv_cyrl/regulations",
+      "path": "regulations/logopedia_z_fonoaudiologia/isv_cyrl/regulations.md",
+      "version": "1",
+      "sha256": "21ffa476bf6acccd1f0eaeb06ed37c5756223c6d90b854b85bde914d7f60512d",
+      "sizeBytes": 4543,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/isv_cyrl/safety",
+      "path": "regulations/logopedia_z_fonoaudiologia/isv_cyrl/safety.md",
+      "version": "1",
+      "sha256": "bf5703aa48ca6563ef6bd880d9e6b7d5091a6e8f41bfd788f8f8e2a44c0b51ac",
+      "sizeBytes": 3337,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/isv_cyrl/assessment",
+      "path": "regulations/logopedia_z_fonoaudiologia/isv_cyrl/assessment.md",
+      "version": "1",
+      "sha256": "ca71459c6e3e7a6ef2a683925985b4f7a865c9a1b182676cc303a53f49406c6f",
+      "sizeBytes": 3098,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/isv_cyrl/exam",
+      "path": "regulations/logopedia_z_fonoaudiologia/isv_cyrl/exam.md",
+      "version": "1",
+      "sha256": "5f23a02e16cfd8ec10a41bdef33527c83bb0133faaa659d3f97e1f5bee98b045",
+      "sizeBytes": 3779,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/isv_cyrl/syllabus",
+      "path": "regulations/logopedia_z_fonoaudiologia/isv_cyrl/syllabus.md",
+      "version": "1",
+      "sha256": "34b852c48571da37c165a2190602d01a4f67b62485ffdb89e67f0b9062a7aea8",
+      "sizeBytes": 5175,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/isv_glag/regulations",
+      "path": "regulations/logopedia_z_fonoaudiologia/isv_glag/regulations.md",
+      "version": "1",
+      "sha256": "871356da077af881a80a12cd6f92d6543af8366e781e085b277f6d819488f2d1",
+      "sizeBytes": 6403,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/isv_glag/safety",
+      "path": "regulations/logopedia_z_fonoaudiologia/isv_glag/safety.md",
+      "version": "1",
+      "sha256": "c9ace8272456c5e2476be4c7efa15e3ad311e30f59d0e4b71ecce08a189bbc0c",
+      "sizeBytes": 4769,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/isv_glag/assessment",
+      "path": "regulations/logopedia_z_fonoaudiologia/isv_glag/assessment.md",
+      "version": "1",
+      "sha256": "fa21baf6681da800cf72b6144fc53e03a0a53655f54d2f274d7dc8b35b3325d4",
+      "sizeBytes": 4355,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/isv_glag/exam",
+      "path": "regulations/logopedia_z_fonoaudiologia/isv_glag/exam.md",
+      "version": "1",
+      "sha256": "641d4c835cbd152eef3993e8b0dff4c7688333400c6f6294a28f774a6bce2b88",
+      "sizeBytes": 5322,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/logopedia_z_fonoaudiologia/isv_glag/syllabus",
+      "path": "regulations/logopedia_z_fonoaudiologia/isv_glag/syllabus.md",
+      "version": "1",
+      "sha256": "de79a1c6a07e73c74156708760a4c0a0213c42404d44f0d65e5062aa3b766c50",
+      "sizeBytes": 7207,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/pielegniarstwo/en/regulations",
+      "path": "regulations/pielegniarstwo/en/regulations.md",
+      "version": "1",
+      "sha256": "08c1b888cddd5ea1070316ff14aec766efa971c4c77759c172fd2d8603ac2d6a",
+      "sizeBytes": 2591,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/pielegniarstwo/en/safety",
+      "path": "regulations/pielegniarstwo/en/safety.md",
+      "version": "1",
+      "sha256": "daa7372693a149a1c70afdd6d80d9aa8c3f79af7b259a90a2b985cf010258ec2",
+      "sizeBytes": 1891,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/pielegniarstwo/en/assessment",
+      "path": "regulations/pielegniarstwo/en/assessment.md",
+      "version": "1",
+      "sha256": "5e2f6544ecafc2383dfdd71104ca0d0e4ce283c1a4b78335ac8a959a25104c2f",
+      "sizeBytes": 1757,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/pielegniarstwo/en/exam",
+      "path": "regulations/pielegniarstwo/en/exam.md",
+      "version": "1",
+      "sha256": "bb8313c2a29e4e18037311fc1f12bf28c2913ec9b6ac070ada3375f2ba3eb3a8",
+      "sizeBytes": 2068,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/pielegniarstwo/en/syllabus",
+      "path": "regulations/pielegniarstwo/en/syllabus.md",
+      "version": "1",
+      "sha256": "036fb4188fdcaabecfcfa6634f5192d6ec3aec878cc58f5bbf913d8305aa3a37",
+      "sizeBytes": 2838,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/pielegniarstwo/pl/regulations",
+      "path": "regulations/pielegniarstwo/pl/regulations.md",
+      "version": "1",
+      "sha256": "3e50a68f2f0b4bc83810f361dd67c0db93d18773cf4551def5b08281ae7c31c3",
+      "sizeBytes": 2793,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/pielegniarstwo/pl/safety",
+      "path": "regulations/pielegniarstwo/pl/safety.md",
+      "version": "1",
+      "sha256": "5e2d3198d562d2ec6f0c9c4a0f0f4fd1852fa54546f916902977cbffae3c83e2",
+      "sizeBytes": 1966,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/pielegniarstwo/pl/assessment",
+      "path": "regulations/pielegniarstwo/pl/assessment.md",
+      "version": "1",
+      "sha256": "968edaf224c32f405f6ace2b0f3d6678f3efb1e0c7f81a8994f8dbb708b1d540",
+      "sizeBytes": 1817,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/pielegniarstwo/pl/exam",
+      "path": "regulations/pielegniarstwo/pl/exam.md",
+      "version": "1",
+      "sha256": "307c0190c117104fe013702dc31120c47ae791da8065f8bb5f8d924acf20f4f9",
+      "sizeBytes": 2151,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/pielegniarstwo/pl/syllabus",
+      "path": "regulations/pielegniarstwo/pl/syllabus.md",
+      "version": "1",
+      "sha256": "b6bd2509239aec2fe5a134f7dc0ed5dff202400bad50f8d011bb253e735843f1",
+      "sizeBytes": 2723,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/pielegniarstwo/es/regulations",
+      "path": "regulations/pielegniarstwo/es/regulations.md",
+      "version": "1",
+      "sha256": "1cd3550feba6a3408a6b01c94027a8484200ee72a5f44a2de28891c4d3831b79",
+      "sizeBytes": 3141,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/pielegniarstwo/es/safety",
+      "path": "regulations/pielegniarstwo/es/safety.md",
+      "version": "1",
+      "sha256": "f3706fb7839ef13e89d06c7d7075e8fad244f5c5f0f3d3a85cca94e9cd7e1a48",
+      "sizeBytes": 2150,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/pielegniarstwo/es/assessment",
+      "path": "regulations/pielegniarstwo/es/assessment.md",
+      "version": "1",
+      "sha256": "74452bc4e49869fba92cd96bede1eed1d4f46359e10cb6a8cc03a2678fc8157c",
+      "sizeBytes": 2091,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/pielegniarstwo/es/exam",
+      "path": "regulations/pielegniarstwo/es/exam.md",
+      "version": "1",
+      "sha256": "286220e863ae673abbd9b0fae8d94b83ca6837cffb95d04ca2d21d9b5cd248ad",
+      "sizeBytes": 2386,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/pielegniarstwo/es/syllabus",
+      "path": "regulations/pielegniarstwo/es/syllabus.md",
+      "version": "1",
+      "sha256": "4c563e7d5b5f2ef46484a4143f06b89c487264269f8b4443690b699827c78f1d",
+      "sizeBytes": 2863,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/pielegniarstwo/eo/regulations",
+      "path": "regulations/pielegniarstwo/eo/regulations.md",
+      "version": "1",
+      "sha256": "d0f6e2a50a042fcbc6e6fc99ac27ee598b083376ca7ac5fd9809e69188410016",
+      "sizeBytes": 2716,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/pielegniarstwo/eo/safety",
+      "path": "regulations/pielegniarstwo/eo/safety.md",
+      "version": "1",
+      "sha256": "e7c47402352b50e0a1c64177efe02d9d5f650d0799df7dc8ef7895740b18a3f3",
+      "sizeBytes": 1906,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/pielegniarstwo/eo/assessment",
+      "path": "regulations/pielegniarstwo/eo/assessment.md",
+      "version": "1",
+      "sha256": "9545e12c7b3caef95bae46173641dce0fe2bed4c39d9d47e55b885e7bcd3596c",
+      "sizeBytes": 1812,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/pielegniarstwo/eo/exam",
+      "path": "regulations/pielegniarstwo/eo/exam.md",
+      "version": "1",
+      "sha256": "8e2b1bd8796f04746b214f3e384249ff54a22eafcffd9a1e110ae384c7eb8323",
+      "sizeBytes": 2144,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/pielegniarstwo/eo/syllabus",
+      "path": "regulations/pielegniarstwo/eo/syllabus.md",
+      "version": "1",
+      "sha256": "2317723ddd727b23cf7e05fad08de1e7281cc019fd7607b4c2e6ac3992e2dd79",
+      "sizeBytes": 2843,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/pielegniarstwo/isv/regulations",
+      "path": "regulations/pielegniarstwo/isv/regulations.md",
+      "version": "1",
+      "sha256": "a18e5c1de77ef54f57357a887b456b47cb9dbdeac6c7247b8a162eff88bdef40",
+      "sizeBytes": 2640,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/pielegniarstwo/isv/safety",
+      "path": "regulations/pielegniarstwo/isv/safety.md",
+      "version": "1",
+      "sha256": "be053b7c954d1c1773c497c2c4acf4a9973fbddbde134212788bce774a07fcc3",
+      "sizeBytes": 1843,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/pielegniarstwo/isv/assessment",
+      "path": "regulations/pielegniarstwo/isv/assessment.md",
+      "version": "1",
+      "sha256": "0cb1e922dc22450cc599611b7321926807abd90443520c52b602d8784d30da62",
+      "sizeBytes": 1774,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/pielegniarstwo/isv/exam",
+      "path": "regulations/pielegniarstwo/isv/exam.md",
+      "version": "1",
+      "sha256": "95595ae2b32e52311873da031827c49586fbdd8faef2750603ce62aa1b6617fd",
+      "sizeBytes": 2198,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/pielegniarstwo/isv/syllabus",
+      "path": "regulations/pielegniarstwo/isv/syllabus.md",
+      "version": "1",
+      "sha256": "0c05b226a6185ffb5e12bc869b3725f0a500a9a30eccd0196ce2bb89a0987552",
+      "sizeBytes": 2824,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/pielegniarstwo/isv_cyrl/regulations",
+      "path": "regulations/pielegniarstwo/isv_cyrl/regulations.md",
+      "version": "1",
+      "sha256": "21ffa476bf6acccd1f0eaeb06ed37c5756223c6d90b854b85bde914d7f60512d",
+      "sizeBytes": 4543,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/pielegniarstwo/isv_cyrl/safety",
+      "path": "regulations/pielegniarstwo/isv_cyrl/safety.md",
+      "version": "1",
+      "sha256": "bf5703aa48ca6563ef6bd880d9e6b7d5091a6e8f41bfd788f8f8e2a44c0b51ac",
+      "sizeBytes": 3337,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/pielegniarstwo/isv_cyrl/assessment",
+      "path": "regulations/pielegniarstwo/isv_cyrl/assessment.md",
+      "version": "1",
+      "sha256": "ca71459c6e3e7a6ef2a683925985b4f7a865c9a1b182676cc303a53f49406c6f",
+      "sizeBytes": 3098,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/pielegniarstwo/isv_cyrl/exam",
+      "path": "regulations/pielegniarstwo/isv_cyrl/exam.md",
+      "version": "1",
+      "sha256": "5f23a02e16cfd8ec10a41bdef33527c83bb0133faaa659d3f97e1f5bee98b045",
+      "sizeBytes": 3779,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/pielegniarstwo/isv_cyrl/syllabus",
+      "path": "regulations/pielegniarstwo/isv_cyrl/syllabus.md",
+      "version": "1",
+      "sha256": "c764f8179eeeedbc94afe5f8dbe7380445dde929a3c07de5aa812439aa24554b",
+      "sizeBytes": 4880,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/pielegniarstwo/isv_glag/regulations",
+      "path": "regulations/pielegniarstwo/isv_glag/regulations.md",
+      "version": "1",
+      "sha256": "871356da077af881a80a12cd6f92d6543af8366e781e085b277f6d819488f2d1",
+      "sizeBytes": 6403,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/pielegniarstwo/isv_glag/safety",
+      "path": "regulations/pielegniarstwo/isv_glag/safety.md",
+      "version": "1",
+      "sha256": "c9ace8272456c5e2476be4c7efa15e3ad311e30f59d0e4b71ecce08a189bbc0c",
+      "sizeBytes": 4769,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/pielegniarstwo/isv_glag/assessment",
+      "path": "regulations/pielegniarstwo/isv_glag/assessment.md",
+      "version": "1",
+      "sha256": "fa21baf6681da800cf72b6144fc53e03a0a53655f54d2f274d7dc8b35b3325d4",
+      "sizeBytes": 4355,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/pielegniarstwo/isv_glag/exam",
+      "path": "regulations/pielegniarstwo/isv_glag/exam.md",
+      "version": "1",
+      "sha256": "641d4c835cbd152eef3993e8b0dff4c7688333400c6f6294a28f774a6bce2b88",
+      "sizeBytes": 5322,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/pielegniarstwo/isv_glag/syllabus",
+      "path": "regulations/pielegniarstwo/isv_glag/syllabus.md",
+      "version": "1",
+      "sha256": "ac0e2691dcd01400d313d2c95b816f96e26cb01b106906a66100b5a6080d37f6",
+      "sizeBytes": 6841,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/poloznictwo/en/regulations",
+      "path": "regulations/poloznictwo/en/regulations.md",
+      "version": "1",
+      "sha256": "08c1b888cddd5ea1070316ff14aec766efa971c4c77759c172fd2d8603ac2d6a",
+      "sizeBytes": 2591,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/poloznictwo/en/safety",
+      "path": "regulations/poloznictwo/en/safety.md",
+      "version": "1",
+      "sha256": "daa7372693a149a1c70afdd6d80d9aa8c3f79af7b259a90a2b985cf010258ec2",
+      "sizeBytes": 1891,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/poloznictwo/en/assessment",
+      "path": "regulations/poloznictwo/en/assessment.md",
+      "version": "1",
+      "sha256": "5e2f6544ecafc2383dfdd71104ca0d0e4ce283c1a4b78335ac8a959a25104c2f",
+      "sizeBytes": 1757,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/poloznictwo/en/exam",
+      "path": "regulations/poloznictwo/en/exam.md",
+      "version": "1",
+      "sha256": "bb8313c2a29e4e18037311fc1f12bf28c2913ec9b6ac070ada3375f2ba3eb3a8",
+      "sizeBytes": 2068,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/poloznictwo/en/syllabus",
+      "path": "regulations/poloznictwo/en/syllabus.md",
+      "version": "1",
+      "sha256": "0df7e7b03917a9c86d7e6f1d1061062fbadd8ca7b5b56d02d43fb6ec2edc7d6f",
+      "sizeBytes": 2566,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/poloznictwo/pl/regulations",
+      "path": "regulations/poloznictwo/pl/regulations.md",
+      "version": "1",
+      "sha256": "3e50a68f2f0b4bc83810f361dd67c0db93d18773cf4551def5b08281ae7c31c3",
+      "sizeBytes": 2793,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/poloznictwo/pl/safety",
+      "path": "regulations/poloznictwo/pl/safety.md",
+      "version": "1",
+      "sha256": "5e2d3198d562d2ec6f0c9c4a0f0f4fd1852fa54546f916902977cbffae3c83e2",
+      "sizeBytes": 1966,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/poloznictwo/pl/assessment",
+      "path": "regulations/poloznictwo/pl/assessment.md",
+      "version": "1",
+      "sha256": "968edaf224c32f405f6ace2b0f3d6678f3efb1e0c7f81a8994f8dbb708b1d540",
+      "sizeBytes": 1817,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/poloznictwo/pl/exam",
+      "path": "regulations/poloznictwo/pl/exam.md",
+      "version": "1",
+      "sha256": "307c0190c117104fe013702dc31120c47ae791da8065f8bb5f8d924acf20f4f9",
+      "sizeBytes": 2151,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/poloznictwo/pl/syllabus",
+      "path": "regulations/poloznictwo/pl/syllabus.md",
+      "version": "1",
+      "sha256": "e69ea24b960d0527ba76bdad163c53fc9cd4dba85ae44d53964c7d375a1104a5",
+      "sizeBytes": 2451,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/poloznictwo/es/regulations",
+      "path": "regulations/poloznictwo/es/regulations.md",
+      "version": "1",
+      "sha256": "1cd3550feba6a3408a6b01c94027a8484200ee72a5f44a2de28891c4d3831b79",
+      "sizeBytes": 3141,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/poloznictwo/es/safety",
+      "path": "regulations/poloznictwo/es/safety.md",
+      "version": "1",
+      "sha256": "f3706fb7839ef13e89d06c7d7075e8fad244f5c5f0f3d3a85cca94e9cd7e1a48",
+      "sizeBytes": 2150,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/poloznictwo/es/assessment",
+      "path": "regulations/poloznictwo/es/assessment.md",
+      "version": "1",
+      "sha256": "74452bc4e49869fba92cd96bede1eed1d4f46359e10cb6a8cc03a2678fc8157c",
+      "sizeBytes": 2091,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/poloznictwo/es/exam",
+      "path": "regulations/poloznictwo/es/exam.md",
+      "version": "1",
+      "sha256": "286220e863ae673abbd9b0fae8d94b83ca6837cffb95d04ca2d21d9b5cd248ad",
+      "sizeBytes": 2386,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/poloznictwo/es/syllabus",
+      "path": "regulations/poloznictwo/es/syllabus.md",
+      "version": "1",
+      "sha256": "cc1be949d42fe6c4a269d3ea8791625c73801cf5f6b7a59b5c1d3c98419f426d",
+      "sizeBytes": 2591,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/poloznictwo/eo/regulations",
+      "path": "regulations/poloznictwo/eo/regulations.md",
+      "version": "1",
+      "sha256": "d0f6e2a50a042fcbc6e6fc99ac27ee598b083376ca7ac5fd9809e69188410016",
+      "sizeBytes": 2716,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/poloznictwo/eo/safety",
+      "path": "regulations/poloznictwo/eo/safety.md",
+      "version": "1",
+      "sha256": "e7c47402352b50e0a1c64177efe02d9d5f650d0799df7dc8ef7895740b18a3f3",
+      "sizeBytes": 1906,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/poloznictwo/eo/assessment",
+      "path": "regulations/poloznictwo/eo/assessment.md",
+      "version": "1",
+      "sha256": "9545e12c7b3caef95bae46173641dce0fe2bed4c39d9d47e55b885e7bcd3596c",
+      "sizeBytes": 1812,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/poloznictwo/eo/exam",
+      "path": "regulations/poloznictwo/eo/exam.md",
+      "version": "1",
+      "sha256": "8e2b1bd8796f04746b214f3e384249ff54a22eafcffd9a1e110ae384c7eb8323",
+      "sizeBytes": 2144,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/poloznictwo/eo/syllabus",
+      "path": "regulations/poloznictwo/eo/syllabus.md",
+      "version": "1",
+      "sha256": "f9386f3ad5868721d27c97d668bcb7c01c2f2bea0ee39663e3f125b0f7fe9011",
+      "sizeBytes": 2571,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/poloznictwo/isv/regulations",
+      "path": "regulations/poloznictwo/isv/regulations.md",
+      "version": "1",
+      "sha256": "a18e5c1de77ef54f57357a887b456b47cb9dbdeac6c7247b8a162eff88bdef40",
+      "sizeBytes": 2640,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/poloznictwo/isv/safety",
+      "path": "regulations/poloznictwo/isv/safety.md",
+      "version": "1",
+      "sha256": "be053b7c954d1c1773c497c2c4acf4a9973fbddbde134212788bce774a07fcc3",
+      "sizeBytes": 1843,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/poloznictwo/isv/assessment",
+      "path": "regulations/poloznictwo/isv/assessment.md",
+      "version": "1",
+      "sha256": "0cb1e922dc22450cc599611b7321926807abd90443520c52b602d8784d30da62",
+      "sizeBytes": 1774,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/poloznictwo/isv/exam",
+      "path": "regulations/poloznictwo/isv/exam.md",
+      "version": "1",
+      "sha256": "95595ae2b32e52311873da031827c49586fbdd8faef2750603ce62aa1b6617fd",
+      "sizeBytes": 2198,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/poloznictwo/isv/syllabus",
+      "path": "regulations/poloznictwo/isv/syllabus.md",
+      "version": "1",
+      "sha256": "6f5807e62c928e15392a331314e6dd114b35b5935e68497a06baeed7fed652ad",
+      "sizeBytes": 2552,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/poloznictwo/isv_cyrl/regulations",
+      "path": "regulations/poloznictwo/isv_cyrl/regulations.md",
+      "version": "1",
+      "sha256": "21ffa476bf6acccd1f0eaeb06ed37c5756223c6d90b854b85bde914d7f60512d",
+      "sizeBytes": 4543,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/poloznictwo/isv_cyrl/safety",
+      "path": "regulations/poloznictwo/isv_cyrl/safety.md",
+      "version": "1",
+      "sha256": "bf5703aa48ca6563ef6bd880d9e6b7d5091a6e8f41bfd788f8f8e2a44c0b51ac",
+      "sizeBytes": 3337,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/poloznictwo/isv_cyrl/assessment",
+      "path": "regulations/poloznictwo/isv_cyrl/assessment.md",
+      "version": "1",
+      "sha256": "ca71459c6e3e7a6ef2a683925985b4f7a865c9a1b182676cc303a53f49406c6f",
+      "sizeBytes": 3098,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/poloznictwo/isv_cyrl/exam",
+      "path": "regulations/poloznictwo/isv_cyrl/exam.md",
+      "version": "1",
+      "sha256": "5f23a02e16cfd8ec10a41bdef33527c83bb0133faaa659d3f97e1f5bee98b045",
+      "sizeBytes": 3779,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/poloznictwo/isv_cyrl/syllabus",
+      "path": "regulations/poloznictwo/isv_cyrl/syllabus.md",
+      "version": "1",
+      "sha256": "8a35486c6eaa89381ce2b52b733b23582b94d8287c0869b0034f1906e19c3e1e",
+      "sizeBytes": 4452,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/poloznictwo/isv_glag/regulations",
+      "path": "regulations/poloznictwo/isv_glag/regulations.md",
+      "version": "1",
+      "sha256": "871356da077af881a80a12cd6f92d6543af8366e781e085b277f6d819488f2d1",
+      "sizeBytes": 6403,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/poloznictwo/isv_glag/safety",
+      "path": "regulations/poloznictwo/isv_glag/safety.md",
+      "version": "1",
+      "sha256": "c9ace8272456c5e2476be4c7efa15e3ad311e30f59d0e4b71ecce08a189bbc0c",
+      "sizeBytes": 4769,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/poloznictwo/isv_glag/assessment",
+      "path": "regulations/poloznictwo/isv_glag/assessment.md",
+      "version": "1",
+      "sha256": "fa21baf6681da800cf72b6144fc53e03a0a53655f54d2f274d7dc8b35b3325d4",
+      "sizeBytes": 4355,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/poloznictwo/isv_glag/exam",
+      "path": "regulations/poloznictwo/isv_glag/exam.md",
+      "version": "1",
+      "sha256": "641d4c835cbd152eef3993e8b0dff4c7688333400c6f6294a28f774a6bce2b88",
+      "sizeBytes": 5322,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/poloznictwo/isv_glag/syllabus",
+      "path": "regulations/poloznictwo/isv_glag/syllabus.md",
+      "version": "1",
+      "sha256": "ab34703b54a300c3ed522cce1cbaee0291d8be6fdc2dc8fb55a1535aabb714f5",
+      "sizeBytes": 6257,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/en/regulations",
+      "path": "regulations/ratownictwo_medyczne/en/regulations.md",
+      "version": "1",
+      "sha256": "08c1b888cddd5ea1070316ff14aec766efa971c4c77759c172fd2d8603ac2d6a",
+      "sizeBytes": 2591,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/en/safety",
+      "path": "regulations/ratownictwo_medyczne/en/safety.md",
+      "version": "1",
+      "sha256": "daa7372693a149a1c70afdd6d80d9aa8c3f79af7b259a90a2b985cf010258ec2",
+      "sizeBytes": 1891,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/en/assessment",
+      "path": "regulations/ratownictwo_medyczne/en/assessment.md",
+      "version": "1",
+      "sha256": "5e2f6544ecafc2383dfdd71104ca0d0e4ce283c1a4b78335ac8a959a25104c2f",
+      "sizeBytes": 1757,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/en/exam",
+      "path": "regulations/ratownictwo_medyczne/en/exam.md",
+      "version": "1",
+      "sha256": "bb8313c2a29e4e18037311fc1f12bf28c2913ec9b6ac070ada3375f2ba3eb3a8",
+      "sizeBytes": 2068,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/en/syllabus",
+      "path": "regulations/ratownictwo_medyczne/en/syllabus.md",
+      "version": "1",
+      "sha256": "5d5851c18847c7b9fef7a4311e4fcba0a9bc4ecbc69f4c278b14953981d9c558",
+      "sizeBytes": 2728,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/pl/regulations",
+      "path": "regulations/ratownictwo_medyczne/pl/regulations.md",
+      "version": "1",
+      "sha256": "3e50a68f2f0b4bc83810f361dd67c0db93d18773cf4551def5b08281ae7c31c3",
+      "sizeBytes": 2793,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/pl/safety",
+      "path": "regulations/ratownictwo_medyczne/pl/safety.md",
+      "version": "1",
+      "sha256": "5e2d3198d562d2ec6f0c9c4a0f0f4fd1852fa54546f916902977cbffae3c83e2",
+      "sizeBytes": 1966,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/pl/assessment",
+      "path": "regulations/ratownictwo_medyczne/pl/assessment.md",
+      "version": "1",
+      "sha256": "968edaf224c32f405f6ace2b0f3d6678f3efb1e0c7f81a8994f8dbb708b1d540",
+      "sizeBytes": 1817,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/pl/exam",
+      "path": "regulations/ratownictwo_medyczne/pl/exam.md",
+      "version": "1",
+      "sha256": "307c0190c117104fe013702dc31120c47ae791da8065f8bb5f8d924acf20f4f9",
+      "sizeBytes": 2151,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/pl/syllabus",
+      "path": "regulations/ratownictwo_medyczne/pl/syllabus.md",
+      "version": "1",
+      "sha256": "34bf1ebc70e7fd40df1f9b3ce752db6d89eaaf12a9c57d15654f96ab7761e9c2",
+      "sizeBytes": 2613,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/es/regulations",
+      "path": "regulations/ratownictwo_medyczne/es/regulations.md",
+      "version": "1",
+      "sha256": "1cd3550feba6a3408a6b01c94027a8484200ee72a5f44a2de28891c4d3831b79",
+      "sizeBytes": 3141,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/es/safety",
+      "path": "regulations/ratownictwo_medyczne/es/safety.md",
+      "version": "1",
+      "sha256": "f3706fb7839ef13e89d06c7d7075e8fad244f5c5f0f3d3a85cca94e9cd7e1a48",
+      "sizeBytes": 2150,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/es/assessment",
+      "path": "regulations/ratownictwo_medyczne/es/assessment.md",
+      "version": "1",
+      "sha256": "74452bc4e49869fba92cd96bede1eed1d4f46359e10cb6a8cc03a2678fc8157c",
+      "sizeBytes": 2091,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/es/exam",
+      "path": "regulations/ratownictwo_medyczne/es/exam.md",
+      "version": "1",
+      "sha256": "286220e863ae673abbd9b0fae8d94b83ca6837cffb95d04ca2d21d9b5cd248ad",
+      "sizeBytes": 2386,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/es/syllabus",
+      "path": "regulations/ratownictwo_medyczne/es/syllabus.md",
+      "version": "1",
+      "sha256": "065a092e126b54dabf61481adfebacb334676489dd9c99e2973b5c23df8d8455",
+      "sizeBytes": 2753,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/eo/regulations",
+      "path": "regulations/ratownictwo_medyczne/eo/regulations.md",
+      "version": "1",
+      "sha256": "d0f6e2a50a042fcbc6e6fc99ac27ee598b083376ca7ac5fd9809e69188410016",
+      "sizeBytes": 2716,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/eo/safety",
+      "path": "regulations/ratownictwo_medyczne/eo/safety.md",
+      "version": "1",
+      "sha256": "e7c47402352b50e0a1c64177efe02d9d5f650d0799df7dc8ef7895740b18a3f3",
+      "sizeBytes": 1906,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/eo/assessment",
+      "path": "regulations/ratownictwo_medyczne/eo/assessment.md",
+      "version": "1",
+      "sha256": "9545e12c7b3caef95bae46173641dce0fe2bed4c39d9d47e55b885e7bcd3596c",
+      "sizeBytes": 1812,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/eo/exam",
+      "path": "regulations/ratownictwo_medyczne/eo/exam.md",
+      "version": "1",
+      "sha256": "8e2b1bd8796f04746b214f3e384249ff54a22eafcffd9a1e110ae384c7eb8323",
+      "sizeBytes": 2144,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/eo/syllabus",
+      "path": "regulations/ratownictwo_medyczne/eo/syllabus.md",
+      "version": "1",
+      "sha256": "31296881f042dcc214d53dc4100ac687f66f151faf1fa06f7a2e6c86230b07cb",
+      "sizeBytes": 2733,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/isv/regulations",
+      "path": "regulations/ratownictwo_medyczne/isv/regulations.md",
+      "version": "1",
+      "sha256": "a18e5c1de77ef54f57357a887b456b47cb9dbdeac6c7247b8a162eff88bdef40",
+      "sizeBytes": 2640,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/isv/safety",
+      "path": "regulations/ratownictwo_medyczne/isv/safety.md",
+      "version": "1",
+      "sha256": "be053b7c954d1c1773c497c2c4acf4a9973fbddbde134212788bce774a07fcc3",
+      "sizeBytes": 1843,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/isv/assessment",
+      "path": "regulations/ratownictwo_medyczne/isv/assessment.md",
+      "version": "1",
+      "sha256": "0cb1e922dc22450cc599611b7321926807abd90443520c52b602d8784d30da62",
+      "sizeBytes": 1774,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/isv/exam",
+      "path": "regulations/ratownictwo_medyczne/isv/exam.md",
+      "version": "1",
+      "sha256": "95595ae2b32e52311873da031827c49586fbdd8faef2750603ce62aa1b6617fd",
+      "sizeBytes": 2198,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/isv/syllabus",
+      "path": "regulations/ratownictwo_medyczne/isv/syllabus.md",
+      "version": "1",
+      "sha256": "41abd0a6607ed18729e3cb69031f5dfe0f222ff2ac86a4a073ecdb3ba58e3fb4",
+      "sizeBytes": 2714,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/isv_cyrl/regulations",
+      "path": "regulations/ratownictwo_medyczne/isv_cyrl/regulations.md",
+      "version": "1",
+      "sha256": "21ffa476bf6acccd1f0eaeb06ed37c5756223c6d90b854b85bde914d7f60512d",
+      "sizeBytes": 4543,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/isv_cyrl/safety",
+      "path": "regulations/ratownictwo_medyczne/isv_cyrl/safety.md",
+      "version": "1",
+      "sha256": "bf5703aa48ca6563ef6bd880d9e6b7d5091a6e8f41bfd788f8f8e2a44c0b51ac",
+      "sizeBytes": 3337,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/isv_cyrl/assessment",
+      "path": "regulations/ratownictwo_medyczne/isv_cyrl/assessment.md",
+      "version": "1",
+      "sha256": "ca71459c6e3e7a6ef2a683925985b4f7a865c9a1b182676cc303a53f49406c6f",
+      "sizeBytes": 3098,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/isv_cyrl/exam",
+      "path": "regulations/ratownictwo_medyczne/isv_cyrl/exam.md",
+      "version": "1",
+      "sha256": "5f23a02e16cfd8ec10a41bdef33527c83bb0133faaa659d3f97e1f5bee98b045",
+      "sizeBytes": 3779,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/isv_cyrl/syllabus",
+      "path": "regulations/ratownictwo_medyczne/isv_cyrl/syllabus.md",
+      "version": "1",
+      "sha256": "c5ab48e0754e39a7f4af4583cb26eb154cdd68b8d5e619d049092c7afaf137d0",
+      "sizeBytes": 4658,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/isv_glag/regulations",
+      "path": "regulations/ratownictwo_medyczne/isv_glag/regulations.md",
+      "version": "1",
+      "sha256": "871356da077af881a80a12cd6f92d6543af8366e781e085b277f6d819488f2d1",
+      "sizeBytes": 6403,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/isv_glag/safety",
+      "path": "regulations/ratownictwo_medyczne/isv_glag/safety.md",
+      "version": "1",
+      "sha256": "c9ace8272456c5e2476be4c7efa15e3ad311e30f59d0e4b71ecce08a189bbc0c",
+      "sizeBytes": 4769,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/isv_glag/assessment",
+      "path": "regulations/ratownictwo_medyczne/isv_glag/assessment.md",
+      "version": "1",
+      "sha256": "fa21baf6681da800cf72b6144fc53e03a0a53655f54d2f274d7dc8b35b3325d4",
+      "sizeBytes": 4355,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/isv_glag/exam",
+      "path": "regulations/ratownictwo_medyczne/isv_glag/exam.md",
+      "version": "1",
+      "sha256": "641d4c835cbd152eef3993e8b0dff4c7688333400c6f6294a28f774a6bce2b88",
+      "sizeBytes": 5322,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/ratownictwo_medyczne/isv_glag/syllabus",
+      "path": "regulations/ratownictwo_medyczne/isv_glag/syllabus.md",
+      "version": "1",
+      "sha256": "6aba1ed19121035607b7508f3e630c8579bac6f672d2665c06002ccc791159aa",
+      "sizeBytes": 6507,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/en/regulations",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/en/regulations.md",
+      "version": "1",
+      "sha256": "08c1b888cddd5ea1070316ff14aec766efa971c4c77759c172fd2d8603ac2d6a",
+      "sizeBytes": 2591,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/en/safety",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/en/safety.md",
+      "version": "1",
+      "sha256": "daa7372693a149a1c70afdd6d80d9aa8c3f79af7b259a90a2b985cf010258ec2",
+      "sizeBytes": 1891,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/en/assessment",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/en/assessment.md",
+      "version": "1",
+      "sha256": "5e2f6544ecafc2383dfdd71104ca0d0e4ce283c1a4b78335ac8a959a25104c2f",
+      "sizeBytes": 1757,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/en/exam",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/en/exam.md",
+      "version": "1",
+      "sha256": "bb8313c2a29e4e18037311fc1f12bf28c2913ec9b6ac070ada3375f2ba3eb3a8",
+      "sizeBytes": 2068,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/en/syllabus",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/en/syllabus.md",
+      "version": "1",
+      "sha256": "99853311faf11e4be8e1c25d391b60fcadf4f0498d6948272c823e8a50a05ba0",
+      "sizeBytes": 2737,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/pl/regulations",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/pl/regulations.md",
+      "version": "1",
+      "sha256": "3e50a68f2f0b4bc83810f361dd67c0db93d18773cf4551def5b08281ae7c31c3",
+      "sizeBytes": 2793,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/pl/safety",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/pl/safety.md",
+      "version": "1",
+      "sha256": "5e2d3198d562d2ec6f0c9c4a0f0f4fd1852fa54546f916902977cbffae3c83e2",
+      "sizeBytes": 1966,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/pl/assessment",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/pl/assessment.md",
+      "version": "1",
+      "sha256": "968edaf224c32f405f6ace2b0f3d6678f3efb1e0c7f81a8994f8dbb708b1d540",
+      "sizeBytes": 1817,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/pl/exam",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/pl/exam.md",
+      "version": "1",
+      "sha256": "307c0190c117104fe013702dc31120c47ae791da8065f8bb5f8d924acf20f4f9",
+      "sizeBytes": 2151,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/pl/syllabus",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/pl/syllabus.md",
+      "version": "1",
+      "sha256": "42969987a645f4d21f0cc58a94c85409d15dad22bb4375db2257207af345609b",
+      "sizeBytes": 2622,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/es/regulations",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/es/regulations.md",
+      "version": "1",
+      "sha256": "1cd3550feba6a3408a6b01c94027a8484200ee72a5f44a2de28891c4d3831b79",
+      "sizeBytes": 3141,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/es/safety",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/es/safety.md",
+      "version": "1",
+      "sha256": "f3706fb7839ef13e89d06c7d7075e8fad244f5c5f0f3d3a85cca94e9cd7e1a48",
+      "sizeBytes": 2150,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/es/assessment",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/es/assessment.md",
+      "version": "1",
+      "sha256": "74452bc4e49869fba92cd96bede1eed1d4f46359e10cb6a8cc03a2678fc8157c",
+      "sizeBytes": 2091,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/es/exam",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/es/exam.md",
+      "version": "1",
+      "sha256": "286220e863ae673abbd9b0fae8d94b83ca6837cffb95d04ca2d21d9b5cd248ad",
+      "sizeBytes": 2386,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/es/syllabus",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/es/syllabus.md",
+      "version": "1",
+      "sha256": "e247016810c86136959d67ce01666dc6fc6989ff4385e964c023a65463373a09",
+      "sizeBytes": 2762,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/eo/regulations",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/eo/regulations.md",
+      "version": "1",
+      "sha256": "d0f6e2a50a042fcbc6e6fc99ac27ee598b083376ca7ac5fd9809e69188410016",
+      "sizeBytes": 2716,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/eo/safety",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/eo/safety.md",
+      "version": "1",
+      "sha256": "e7c47402352b50e0a1c64177efe02d9d5f650d0799df7dc8ef7895740b18a3f3",
+      "sizeBytes": 1906,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/eo/assessment",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/eo/assessment.md",
+      "version": "1",
+      "sha256": "9545e12c7b3caef95bae46173641dce0fe2bed4c39d9d47e55b885e7bcd3596c",
+      "sizeBytes": 1812,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/eo/exam",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/eo/exam.md",
+      "version": "1",
+      "sha256": "8e2b1bd8796f04746b214f3e384249ff54a22eafcffd9a1e110ae384c7eb8323",
+      "sizeBytes": 2144,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/eo/syllabus",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/eo/syllabus.md",
+      "version": "1",
+      "sha256": "77126921f7bb12fbe5a3d73a6ae051ca35d86877b2adc3c102ea3ea52982494f",
+      "sizeBytes": 2742,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv/regulations",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv/regulations.md",
+      "version": "1",
+      "sha256": "a18e5c1de77ef54f57357a887b456b47cb9dbdeac6c7247b8a162eff88bdef40",
+      "sizeBytes": 2640,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv/safety",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv/safety.md",
+      "version": "1",
+      "sha256": "be053b7c954d1c1773c497c2c4acf4a9973fbddbde134212788bce774a07fcc3",
+      "sizeBytes": 1843,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv/assessment",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv/assessment.md",
+      "version": "1",
+      "sha256": "0cb1e922dc22450cc599611b7321926807abd90443520c52b602d8784d30da62",
+      "sizeBytes": 1774,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv/exam",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv/exam.md",
+      "version": "1",
+      "sha256": "95595ae2b32e52311873da031827c49586fbdd8faef2750603ce62aa1b6617fd",
+      "sizeBytes": 2198,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv/syllabus",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv/syllabus.md",
+      "version": "1",
+      "sha256": "28de2b867acaed53ab02fc53d9f0ade7b65f8a1d9188658bde089f6773c6f0ad",
+      "sizeBytes": 2723,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv_cyrl/regulations",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv_cyrl/regulations.md",
+      "version": "1",
+      "sha256": "21ffa476bf6acccd1f0eaeb06ed37c5756223c6d90b854b85bde914d7f60512d",
+      "sizeBytes": 4543,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv_cyrl/safety",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv_cyrl/safety.md",
+      "version": "1",
+      "sha256": "bf5703aa48ca6563ef6bd880d9e6b7d5091a6e8f41bfd788f8f8e2a44c0b51ac",
+      "sizeBytes": 3337,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv_cyrl/assessment",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv_cyrl/assessment.md",
+      "version": "1",
+      "sha256": "ca71459c6e3e7a6ef2a683925985b4f7a865c9a1b182676cc303a53f49406c6f",
+      "sizeBytes": 3098,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv_cyrl/exam",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv_cyrl/exam.md",
+      "version": "1",
+      "sha256": "5f23a02e16cfd8ec10a41bdef33527c83bb0133faaa659d3f97e1f5bee98b045",
+      "sizeBytes": 3779,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv_cyrl/syllabus",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv_cyrl/syllabus.md",
+      "version": "1",
+      "sha256": "330c290ae13be28c89b5f415256369ef8bde94d3c421df5a9056e431d2ece77f",
+      "sizeBytes": 4771,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv_glag/regulations",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv_glag/regulations.md",
+      "version": "1",
+      "sha256": "871356da077af881a80a12cd6f92d6543af8366e781e085b277f6d819488f2d1",
+      "sizeBytes": 6403,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv_glag/safety",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv_glag/safety.md",
+      "version": "1",
+      "sha256": "c9ace8272456c5e2476be4c7efa15e3ad311e30f59d0e4b71ecce08a189bbc0c",
+      "sizeBytes": 4769,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv_glag/assessment",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv_glag/assessment.md",
+      "version": "1",
+      "sha256": "fa21baf6681da800cf72b6144fc53e03a0a53655f54d2f274d7dc8b35b3325d4",
+      "sizeBytes": 4355,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv_glag/exam",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv_glag/exam.md",
+      "version": "1",
+      "sha256": "641d4c835cbd152eef3993e8b0dff4c7688333400c6f6294a28f774a6bce2b88",
+      "sizeBytes": 5322,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv_glag/syllabus",
+      "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv_glag/syllabus.md",
+      "version": "1",
+      "sha256": "dafdeafd0b8927562ec2f7300650ee321628674bd574ec7a61c100fd2850df96",
+      "sizeBytes": 6724,
       "locale": "isv_glag"
     },
     {

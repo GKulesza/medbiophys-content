@@ -1,83 +1,107 @@
-# Syllabus abbreviation: Biophysics (academic year 2024/2025)
+# Biofizyka
 
-This shortcut contains the most important information about the item. The full, detailed version of the syllabus is available on the website of the Medical University of Bialystok.
+## Podstawowe informacje
 
-## Basic information
+* **Kierunek:** Lekarski
+* **Rok studiów:** I
+* **Semestr:** 1
+* **Forma studiów:** stacjonarne i niestacjonarne
+* **Punkty ECTS:** 3,5
 
-| Element | Details |
-| --- | --- |
-| Item name | Biophysics |
-| Leading unit | Department of Biophysics |
-| Direction and level | Medicine, long-cycle master's studies, full-time |
-| Year/semester | 1st year / 1st semester |
-| Number of hours (total) | 45 h (including online) |
-| Lectures | 10 hours |
-| Seminars | 10 hours |
-| Laboratory exercises | 25 hours |
-| Responsible person | Ph.D. Maria Karpińska |
-| Contact | biofizyk@umb.edu.pl |
+### Liczba godzin
+
+* 📖 Wykłady – **10 h**
+* 💬 Seminaria – **10 h**
+* 🧪 Ćwiczenia laboratoryjne – **25 h**
 
 ---
 
-## Subject objectives
+## O przedmiocie
 
-The main goal is to familiarize students with the biophysical basis of the functioning of the human body, including:
-
-- the structure and operation of cellular structures, tissues and organs;
-- physical phenomena occurring in the body;
-- mechanisms and effects of physical factors on the body;
-- physical foundations of modern diagnostic and therapeutic methods.
+Biofizyka stanowi pomost pomiędzy naukami podstawowymi a medycyną. Podczas zajęć poznasz prawa fizyki i zjawiska biofizyczne wykorzystywane do wyjaśniania funkcjonowania organizmu człowieka oraz zrozumiesz fizyczne podstawy współczesnych metod diagnostycznych i terapeutycznych.
 
 ---
 
-## Assessment rules
+## Czego się nauczysz?
 
-1. **Attendance:** Mandatory for all forms of classes. Absences must be justified and made up.
-2. **Exercises:** Completing each exercise (there are 9 of them) requires theoretical knowledge, correct execution of the experiment and analysis of the results in the form of a report in the "Exercise Book".
-3. **Bonus points:**
-   - for activity during exercises - maximum **18 points** (2 points for each of 9 exercises);
-   - for preparing a film popularizing physics in medicine - **2 points**.
-4. **Term test:** At the end of the series. The maximum number of points you can get is **40 points** (8 questions, each 0-5 points).
-5. **Passing the exercises:** The condition is to obtain at least **24 points** (from the sum of points for the test and activity).
-6. **Exemption from the exam:** Students who obtain **42 points** or more after the first test date receive a grade of **very good (5)** and are exempt from the exam.
-7. **Final examination:** Conducted in the form of a test (closed and open questions). Rating scale (in %):
+Po ukończeniu kursu będziesz potrafił:
 
-| Percentage of points | Rate |
-| --- | --- |
-| 0 - 59% | 2 (n/a) |
-| 60 - 68% | 3 (dst.) |
-| 69 - 76% | 3+ (dst. plus) |
-| 77 - 84% | 4 (db.) |
-| 85 - 90% | 4+ (db. plus) |
-| 91 - 100% | 5 (very good) |
+* wyjaśnić biofizyczne podstawy funkcjonowania komórek, tkanek i narządów,
+* rozumieć mechanizmy działania czynników fizycznych na organizm człowieka,
+* interpretować podstawowe zjawiska biofizyczne zachodzące w organizmie,
+* rozumieć fizyczne podstawy nowoczesnych metod diagnostycznych i terapeutycznych,
+* bezpiecznie pracować z promieniowaniem jonizującym i znać zasady ochrony radiologicznej,
+* analizować wyniki prostych eksperymentów laboratoryjnych.
 
 ---
 
-## Literature
+## Tematyka zajęć
 
-**Basic:**
+Podczas kursu omawiane są między innymi:
 
-- "Biophysics. Textbook for students" (ed. F. Jaroszyk)
-- "Materials for biophysics exercises" (ed. A. Kostrzewska)
-
-**Supplementary:**
-
-- "Selected issues in biophysics" (ed. S. Miękisz)
-- "Elements of physics, biophysics and agrophysics" (St. Przestalski)
+* układ krążenia i prawa przepływu cieczy,
+* termodynamika organizmu,
+* błony biologiczne i transport przez błony,
+* bioelektryczność,
+* przewodzenie impulsów nerwowych,
+* biofizyka mięśni,
+* wpływ temperatury na organizm,
+* rezonans magnetyczny (MRI),
+* promieniowanie jonizujące i jego zastosowanie w medycynie,
+* ochrona radiologiczna,
+* metody detekcji promieniowania,
+* biofizyka słuchu i audiometria,
+* elektrokardiografia (EKG),
+* pomiar ciśnienia tętniczego,
+* ultradźwięki i efekt Dopplera,
+* metody spektrometryczne i refraktometryczne,
+* optyka oka,
+* analiza sygnałów biomedycznych z wykorzystaniem komputera.
 
 ---
 
-## Important notes
+## Literatura
 
-- A clean apron and a change of shoes are required for classes.
-- You must bring your own calculator for exercises, tests and exams. Mobile phones must be turned off.
-- Using unauthorized aids during a test/examination results in obtaining 0 points/unsatisfactory grade with no possibility of improvement.
+### Podstawowa
+
+* Kubisz L. **Biofizyka.** PZWL, Warszawa, 2024.
+* *Materiały do ćwiczeń z biofizyki* pod red. A. Kostrzewskiej.
+
+### Uzupełniająca
+
+* Jaroszyk F. (red.) **Biofizyka. Podręcznik dla studentów.**
+* Hewitt P.G. **Fizyka wokół nas.**
 
 ---
 
-**Full, detailed syllabus content is available for download on the MUB website:**
+## Zaliczenie przedmiotu
 
-[The exact content of the syllabus is available on the MUB website](https://www.umb.edu.pl/s,30059/Sylabusy_na_cykl_ksztalcenia_rozpoczynajacy_sie_w_roku_akademickim_2024-2025)
+Przedmiot obejmuje:
+
+* wykłady,
+* seminaria,
+* ćwiczenia laboratoryjne,
+* egzamin końcowy.
+
+Do egzaminu można przystąpić po:
+
+* zaliczeniu wszystkich ćwiczeń laboratoryjnych,
+* zaliczeniu seminariów,
+* zaliczeniu wykładów.
+
+Podczas ćwiczeń wymagane jest przygotowanie teoretyczne, wykonanie doświadczeń oraz opracowanie wyników w zeszycie ćwiczeń.
+
+Szczegółowe zasady oceniania, obecności oraz popraw znajdują się w zakładce **Regulations**.
+
+---
+
+## Oficjalny sylabus
+
+Pełna, obowiązująca wersja sylabusa jest dostępna na stronie Uniwersytetu Medycznego w Białymstoku.
+
+**📄 Oficjalny sylabus (DOC)**
+
+https://www.umb.edu.pl/photo/pliki/Dziekanat-WL/KIERUNKI/Lekarski/sylabusy_lekarski_cykl_2025-2026/i_rok/biofizyka.doc
 
 ---
 > *Translation generated with AI assistance. In case of discrepancies, refer to the official Polish version.*

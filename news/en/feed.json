@@ -35,14 +35,26 @@
     {
       "id": "scientific-club-about",
       "title": "Student Scientific Society of Biophysics and Medical Engineering",
-      "publishedAt": "2026-06-22T10:00:00Z",
-      "markdownBody": "![Scientific society at the Department of Medical Biophysics, MUB](images/scientific_club/people_with_logo.jpg)\n\nThe Student Scientific Society of Biophysics and Medical Engineering operates at the Department of Medical Biophysics, Medical University of Białystok.\n\nMore information on the UMB website: [Student Scientific Society](https://www.umb.edu.pl/s,13248/Studenckie_Kolo_Naukowe_)\n\n## Contact\n\nE-mail: [el.medycyna@gmail.com](mailto:el.medycyna@gmail.com)\n\n## Leadership\n\n- **Head of unit:** dr hab. Beata Modzelewska — supports the Society's activities\n- **Supervisor:** dr hab. n. med. Marzena Tylicka\n- **Chair:** Marta Berczyńska\n\n## Meetings\n\nMeeting dates are arranged on an ongoing basis.\n\n## Activities\n\nThe Society takes part in the **Podlasie Festival of Science and Art**, popularizing biophysics and medical engineering among pupils and the local community.\n\n![Conduct research with us. Join the scientific society.](images/scientific_club/join_the_club.jpg)"
+      "markdownBody": "![Scientific society at the Department of Medical Biophysics, MUB](images/scientific_club/people_with_logo.jpg)\n\nThe Student Scientific Society of Biophysics and Medical Engineering operates at the **Department of Medical Biophysics**, Medical University of Białystok. We bring together students interested in biophysics, physiology, and medical engineering who want to develop beyond the standard curriculum.\n\nThe Society conducts laboratory work, takes part in science outreach — including the **Podlasie Festival of Science and Art** — and supports students in research projects and conference participation.\n\nMore information on the UMB website: [Student Scientific Society](https://www.umb.edu.pl/s,13248/Studenckie_Kolo_Naukowe_)\n\n## Why join?\n\n- take part in real research projects run at the department,\n- learn modern laboratory techniques,\n- work with research equipment,\n- present results at conferences,\n- contribute to scientific publications,\n- develop practical skills useful in scientific and medical careers,\n- collaborate with students who share similar interests.",
+      "publishedAt": "2026-06-22T10:00:00Z"
     },
     {
       "id": "scientific-club-research",
-      "title": "Research and projects of the Student Scientific Society",
-      "publishedAt": "2026-06-21T10:00:00Z",
-      "markdownBody": "The Student Scientific Society of Biophysics and Medical Engineering at MUB conducts laboratory research and projects at the interface of biophysics, physiology, and medical engineering.\n\n## Research areas\n\n- Brain–Computer Interface (BCI)\n- Pharmacodynamics of relaxants\n- In vitro studies of smooth muscle\n- Markers of inflammatory response\n- Markers of tissue damage\n- Tensiometry\n- Electrophysiology\n- Medical engineering\n- Conductometry\n- Audiometry\n\n## Practical project\n\n- Design and construction of a lower-leg prosthesis using BCI\n- Research on the role of biofeedback in medical engineering"
+      "title": "Research areas of the Student Scientific Society",
+      "markdownBody": "Members conduct laboratory research and projects at the interface of biophysics, physiology, and medical engineering. Below are the main areas in which students gain experience.\n\n## Research areas\n\n- **Brain–Computer Interfaces (BCI)** — study of bioelectric signals and their use in device prototypes, including a lower-leg prosthesis project.\n- **Medical engineering** — design and testing of hardware solutions supporting diagnosis and rehabilitation.\n- **Electrophysiology** — recording and analysis of bioelectric potentials in neural and muscular systems.\n- **Smooth muscle pharmacodynamics** — in vitro studies of tissue responses to relaxant agents.\n- **Biofeedback** — investigation of feedback mechanisms in therapeutic and engineering applications.\n- **Audiometry** — hearing measurements and methods for assessing auditory function.\n- **Conductometry** — measurement of electrical conductivity in solutions and tissues.\n- **Tensiometry** — force and stress measurements in biological materials and prototype structures.\n- **Markers of inflammatory response and tissue damage** — analysis of indicators of pathophysiological processes.",
+      "publishedAt": "2026-06-21T10:00:00Z"
+    },
+    {
+      "id": "scientific-club-achievements",
+      "title": "Society members' achievements",
+      "markdownBody": "Members of the Student Scientific Society regularly take part in scientific conferences, research projects, and publications associated with the Department of Medical Biophysics.\n\nThe complete list of achievements — including conference presentations and publications — is available on the UMB website:\n\n- [Our achievements](https://www.umb.edu.pl/s,13333/Nasze_osiagniecia)",
+      "publishedAt": "2026-06-20T10:00:00Z"
+    },
+    {
+      "id": "scientific-club-join",
+      "title": "Join the scientific society",
+      "markdownBody": "![Conduct research with us. Join the scientific society.](images/scientific_club/join_the_club.jpg)\n\n## Interested in joining?\n\nThe Society welcomes students who want to develop in the department's research environment.\n\n- **Supervisor:** dr hab. n. med. Marzena Tylicka\n- **Chair:** Marta Berczyńska\n- **Head of unit** dr hab. Beata Modzelewska supports the Society's activities.\n- **Meetings:** dates are arranged on an ongoing basis — contact us for the next meeting.\n\n**Contact:** [el.medycyna@gmail.com](mailto:el.medycyna@gmail.com)\n\n- [Student Scientific Society page](https://www.umb.edu.pl/s,13248/Studenckie_Kolo_Naukowe_)\n- [Our achievements](https://www.umb.edu.pl/s,13333/Nasze_osiagniecia)",
+      "publishedAt": "2026-06-19T10:00:00Z"
     }
   ]
 }

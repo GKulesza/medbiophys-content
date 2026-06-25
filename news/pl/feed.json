@@ -35,14 +35,26 @@
     {
       "id": "scientific-club-about",
       "title": "Studenckie Koło Naukowe Biofizyki i Inżynierii Medycznej",
-      "publishedAt": "2026-06-22T10:00:00Z",
-      "markdownBody": "![Koło naukowe przy Zakładzie Biofizyki Medycznej UMB](images/scientific_club/people_with_logo.jpg)\n\nStudenckie Koło Naukowe Biofizyki i Inżynierii Medycznej działa przy Zakładzie Biofizyki Medycznej Uniwersytetu Medycznego w Białymstoku.\n\nWięcej informacji na stronie UMB: [Studenckie Koło Naukowe](https://www.umb.edu.pl/s,13248/Studenckie_Kolo_Naukowe_)\n\n## Kontakt\n\nE-mail: [el.medycyna@gmail.com](mailto:el.medycyna@gmail.com)\n\n## Kierownictwo\n\n- **Kierownik jednostki:** dr hab. Beata Modzelewska — wspiera działalność koła naukowego\n- **Opiekun:** dr hab. n. med. Marzena Tylicka\n- **Przewodnicząca:** Marta Berczyńska\n\n## Spotkania\n\nTerminy spotkań ustalane są na bieżąco.\n\n## Działalność\n\nKoło uczestniczy w **Podlaskim Festiwalu Nauki i Sztuki**, popularyzując biofizykę i inżynierię medyczną wśród uczniów i mieszkańców regionu.\n\n![Prowadź badania z nami. Dołącz do koła naukowego.](images/scientific_club/join_the_club.jpg)"
+      "markdownBody": "![Koło naukowe przy Zakładzie Biofizyki Medycznej UMB](images/scientific_club/people_with_logo.jpg)\n\nStudenckie Koło Naukowe Biofizyki i Inżynierii Medycznej działa przy **Zakładzie Biofizyki Medycznej** Uniwersytetu Medycznego w Białymstoku. Łączymy studentów zainteresowanych biofizyką, fizjologią i inżynierią medyczną, którzy chcą rozwijać się poza programem zajęć.\n\nKoło prowadzi prace laboratoryjne, uczestniczy w popularyzacji nauki — m.in. w **Podlaskim Festiwalu Nauki i Sztuki** — i wspiera studentów w udziale w projektach badawczych oraz konferencjach naukowych.\n\nWięcej informacji na stronie UMB: [Studenckie Koło Naukowe](https://www.umb.edu.pl/s,13248/Studenckie_Kolo_Naukowe_)\n\n## Dlaczego warto dołączyć?\n\n- udział w realnych projektach badawczych prowadzonych w zakładzie,\n- poznawanie nowoczesnych technik laboratoryjnych,\n- praca z aparaturą badawczą,\n- możliwość prezentacji wyników na konferencjach,\n- udział w publikacjach naukowych,\n- rozwijanie umiejętności praktycznych przydatnych w karierze naukowej i medycznej,\n- współpraca ze studentami o podobnych zainteresowaniach.",
+      "publishedAt": "2026-06-22T10:00:00Z"
     },
     {
       "id": "scientific-club-research",
-      "title": "Badania i projekty Studenckiego Koła Naukowego",
-      "publishedAt": "2026-06-21T10:00:00Z",
-      "markdownBody": "Studenckie Koło Naukowe Biofizyki i Inżynierii Medycznej UMB prowadzi badania laboratoryjne i projekty z pogranicza biofizyki, fizjologii i inżynierii medycznej.\n\n## Obszary badawcze\n\n- Brain–Computer Interface (BCI)\n- Farmakodynamika środków rozkurczowych\n- Badania mięśni gładkich in vitro\n- Markery odpowiedzi zapalnej\n- Markery uszkodzenia tkanek\n- Tensometria\n- Elektrofizjologia\n- Inżynieria medyczna\n- Konduktometria\n- Audiometria\n\n## Projekt praktyczny\n\n- Projekt i konstrukcja protezy podudzia wykorzystującej BCI\n- Badania nad rolą biofeedbacku w inżynierii medycznej"
+      "title": "Obszary badań Studenckiego Koła Naukowego",
+      "markdownBody": "Członkowie koła prowadzą badania i projekty z pogranicza biofizyki, fizjologii i inżynierii medycznej. Poniżej przedstawiamy główne obszary, w których zyskują doświadczenie.\n\n## Obszary badawcze\n\n- **Interfejsy mózg–komputer (BCI)** — badania sygnałów bioelektrycznych i ich wykorzystanie w prototypach urządzeń, m.in. w projekcie protezy podudzia.\n- **Inżynieria medyczna** — projektowanie i testowanie rozwiązań sprzętowych wspierających diagnostykę i rehabilitację.\n- **Elektrofizjologia** — rejestracja i analiza potencjałów bioelektrycznych w układach nerwowym i mięśniowym.\n- **Farmakodynamika mięśni gładkich** — badania in vitro reakcji tkanek na substancje rozkurczające.\n- **Biofeedback** — badanie roli sprzężenia zwrotnego w procesach terapeutycznych i inżynieryjnych.\n- **Audiometria** — pomiary słuchu i metody oceny funkcji narządu słuchu.\n- **Konduktometria** — pomiary przewodnictwa elektrycznego w roztworach i tkankach.\n- **Tensometria** — pomiary sił i naprężeń w materiałach biologicznych i konstrukcjach prototypowych.\n- **Markery odpowiedzi zapalnej i uszkodzenia tkanek** — analiza wskaźników procesów patofizjologicznych.",
+      "publishedAt": "2026-06-21T10:00:00Z"
+    },
+    {
+      "id": "scientific-club-achievements",
+      "title": "Osiągnięcia członków koła",
+      "markdownBody": "Członkowie Studenckiego Koła Naukowego regularnie uczestniczą w konferencjach naukowych, projektach badawczych i pracach publikacyjnych prowadzonych przy Zakładzie Biofizyki Medycznej.\n\nPełna lista osiągnięć — w tym wystąpienia konferencyjne i publikacje — jest dostępna na stronie UMB:\n\n- [Nasze osiągnięcia](https://www.umb.edu.pl/s,13333/Nasze_osiagniecia)",
+      "publishedAt": "2026-06-20T10:00:00Z"
+    },
+    {
+      "id": "scientific-club-join",
+      "title": "Dołącz do koła naukowego",
+      "markdownBody": "![Prowadź badania z nami. Dołącz do koła naukowego.](images/scientific_club/join_the_club.jpg)\n\n## Zainteresowany/a dołączeniem?\n\nKoło przyjmuje studentów, którzy chcą rozwijać się w środowisku badawczym zakładu.\n\n- **Opiekun naukowy:** dr hab. n. med. Marzena Tylicka\n- **Przewodnicząca:** Marta Berczyńska\n- **Kierownik jednostki** dr hab. Beata Modzelewska wspiera działalność koła naukowego.\n- **Spotkania:** terminy ustalane są na bieżąco — napisz do nas, aby dowiedzieć się o najbliższym terminie.\n\n**Kontakt:** [el.medycyna@gmail.com](mailto:el.medycyna@gmail.com)\n\n- [Strona Studenckiego Koła Naukowego](https://www.umb.edu.pl/s,13248/Studenckie_Kolo_Naukowe_)\n- [Nasze osiągnięcia](https://www.umb.edu.pl/s,13333/Nasze_osiagniecia)",
+      "publishedAt": "2026-06-19T10:00:00Z"
     }
   ]
 }

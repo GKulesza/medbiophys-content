@@ -35,14 +35,26 @@
     {
       "id": "scientific-club-about",
       "title": "Círculo Científico Estudiantil de Biofísica e Ingeniería Médica",
-      "publishedAt": "2026-06-22T10:00:00Z",
-      "markdownBody": "![Círculo científico en el Departamento de Biofísica Médica de la UMB](images/scientific_club/people_with_logo.jpg)\n\nEl Círculo Científico Estudiantil de Biofísica e Ingeniería Médica opera en el Departamento de Biofísica Médica de la Universidad Médica de Białystok.\n\nMás información en el sitio web de la UMB: [Círculo Científico Estudiantil](https://www.umb.edu.pl/s,13248/Studenckie_Kolo_Naukowe_)\n\n## Contacto\n\nCorreo electrónico: [el.medycyna@gmail.com](mailto:el.medycyna@gmail.com)\n\n## Dirección\n\n- **Jefa de la unidad:** dr hab. Beata Modzelewska — apoya las actividades del círculo científico\n- **Tutora:** dr hab. n. med. Marzena Tylicka\n- **Presidenta:** Marta Berczyńska\n\n## Reuniones\n\nLas fechas de las reuniones se acuerdan de forma continua.\n\n## Actividades\n\nEl círculo participa en el **Festival Podlaski de Ciencia y Arte**, popularizando la biofísica y la ingeniería médica entre alumnos y la comunidad local.\n\n![Realiza investigaciones con nosotros. Únete al círculo científico.](images/scientific_club/join_the_club.jpg)"
+      "markdownBody": "![Círculo científico en el Departamento de Biofísica Médica de la UMB](images/scientific_club/people_with_logo.jpg)\n\nEl Círculo Científico Estudiantil de Biofísica e Ingeniería Médica opera en el **Departamento de Biofísica Médica** de la Universidad Médica de Białystok. Reúne a estudiantes interesados en biofísica, fisiología e ingeniería médica que desean desarrollarse más allá del plan de estudios.\n\nEl círculo realiza trabajos de laboratorio, participa en la divulgación científica — incluido el **Festival Podlaski de Ciencia y Arte** — y apoya a los estudiantes en proyectos de investigación y congresos.\n\nMás información en el sitio web de la UMB: [Círculo Científico Estudiantil](https://www.umb.edu.pl/s,13248/Studenckie_Kolo_Naukowe_)\n\n## ¿Por qué unirse?\n\n- participar en proyectos de investigación reales del departamento,\n- aprender técnicas de laboratorio modernas,\n- trabajar con equipamiento de investigación,\n- presentar resultados en congresos,\n- contribuir a publicaciones científicas,\n- desarrollar habilidades prácticas útiles en la carrera científica y médica,\n- colaborar con estudiantes de intereses similares.",
+      "publishedAt": "2026-06-22T10:00:00Z"
     },
     {
       "id": "scientific-club-research",
-      "title": "Investigación y proyectos del Círculo Científico Estudiantil",
-      "publishedAt": "2026-06-21T10:00:00Z",
-      "markdownBody": "El Círculo Científico Estudiantil de Biofísica e Ingeniería Médica de la UMB realiza investigaciones de laboratorio y proyectos en la frontera entre biofísica, fisiología e ingeniería médica.\n\n## Áreas de investigación\n\n- Interfaz cerebro–computadora (BCI)\n- Farmacodinámica de relajantes\n- Estudios in vitro de músculo liso\n- Marcadores de respuesta inflamatoria\n- Marcadores de daño tisular\n- Tensiometría\n- Electrofisiología\n- Ingeniería médica\n- Conductometría\n- Audiometría\n\n## Proyecto práctico\n\n- Diseño y construcción de una prótesis de pierna inferior con BCI\n- Investigación sobre el papel del biofeedback en la ingeniería médica"
+      "title": "Áreas de investigación del Círculo Científico",
+      "markdownBody": "Los miembros realizan investigaciones y proyectos en la frontera entre biofísica, fisiología e ingeniería médica. A continuación se presentan las principales áreas de experiencia.\n\n## Áreas de investigación\n\n- **Interfaces cerebro–computadora (BCI)** — estudio de señales bioeléctricas y su uso en prototipos de dispositivos, incluido un proyecto de prótesis de pierna inferior.\n- **Ingeniería médica** — diseño y prueba de soluciones de hardware para diagnóstico y rehabilitación.\n- **Electrofisiología** — registro y análisis de potenciales bioeléctricos en sistemas nervioso y muscular.\n- **Farmacodinámica del músculo liso** — estudios in vitro de la respuesta tisular a relajantes.\n- **Biofeedback** — investigación del papel de la retroalimentación en aplicaciones terapéuticas e ingenieriles.\n- **Audiometría** — mediciones auditivas y métodos de evaluación de la función del oído.\n- **Conductometría** — medición de la conductividad eléctrica en soluciones y tejidos.\n- **Tensiometría** — medición de fuerzas y tensiones en materiales biológicos y prototipos.\n- **Marcadores de respuesta inflamatoria y daño tisular** — análisis de indicadores de procesos patofisiológicos.",
+      "publishedAt": "2026-06-21T10:00:00Z"
+    },
+    {
+      "id": "scientific-club-achievements",
+      "title": "Logros de los miembros del círculo",
+      "markdownBody": "Los miembros del Círculo Científico participan regularmente en congresos, proyectos de investigación y publicaciones asociadas al Departamento de Biofísica Médica.\n\nLa lista completa de logros — incluidas presentaciones en congresos y publicaciones — está disponible en el sitio web de la UMB:\n\n- [Nuestros logros](https://www.umb.edu.pl/s,13333/Nasze_osiagniecia)",
+      "publishedAt": "2026-06-20T10:00:00Z"
+    },
+    {
+      "id": "scientific-club-join",
+      "title": "Únete al círculo científico",
+      "markdownBody": "![Realiza investigaciones con nosotros. Únete al círculo científico.](images/scientific_club/join_the_club.jpg)\n\n## ¿Te interesa unirte?\n\nEl círculo recibe a estudiantes que desean desarrollarse en el entorno de investigación del departamento.\n\n- **Tutora:** dr hab. n. med. Marzena Tylicka\n- **Presidenta:** Marta Berczyńska\n- La **jefa de la unidad** dr hab. Beata Modzelewska apoya las actividades del círculo.\n- **Reuniones:** las fechas se acuerdan de forma continua — escríbenos para conocer la próxima reunión.\n\n**Contacto:** [el.medycyna@gmail.com](mailto:el.medycyna@gmail.com)\n\n- [Página del Círculo Científico Estudiantil](https://www.umb.edu.pl/s,13248/Studenckie_Kolo_Naukowe_)\n- [Nuestros logros](https://www.umb.edu.pl/s,13333/Nasze_osiagniecia)",
+      "publishedAt": "2026-06-19T10:00:00Z"
     }
   ]
 }

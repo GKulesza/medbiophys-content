@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentSetId": "2026-06-25-content",
-  "publishedAt": "2026-06-25T13:32:06Z",
+  "publishedAt": "2026-06-25T15:10:51Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -955,6 +955,286 @@
       "version": "1",
       "sha256": "18eac931e8872f1fc04b48e286192cce85bf66b6d3cb44d76da01a8e723014e0",
       "sizeBytes": 7933,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/english_division/en/regulations",
+      "path": "regulations/english_division/en/regulations.md",
+      "version": "2",
+      "sha256": "9227966235fb0588fa3a9fe38c3a0b0e3ff8b39a27b5d86eb2056369c26fda08",
+      "sizeBytes": 4377,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/english_division/en/safety",
+      "path": "regulations/english_division/en/safety.md",
+      "version": "1",
+      "sha256": "daa7372693a149a1c70afdd6d80d9aa8c3f79af7b259a90a2b985cf010258ec2",
+      "sizeBytes": 1891,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/english_division/en/assessment",
+      "path": "regulations/english_division/en/assessment.md",
+      "version": "1",
+      "sha256": "5e2f6544ecafc2383dfdd71104ca0d0e4ce283c1a4b78335ac8a959a25104c2f",
+      "sizeBytes": 1757,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/english_division/en/exam",
+      "path": "regulations/english_division/en/exam.md",
+      "version": "1",
+      "sha256": "bb8313c2a29e4e18037311fc1f12bf28c2913ec9b6ac070ada3375f2ba3eb3a8",
+      "sizeBytes": 2068,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/english_division/en/syllabus",
+      "path": "regulations/english_division/en/syllabus.md",
+      "version": "2",
+      "sha256": "91fdfeb87e10b2b847a85015afa391a808af845be63d133c43ec589a87597603",
+      "sizeBytes": 3812,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/english_division/pl/regulations",
+      "path": "regulations/english_division/pl/regulations.md",
+      "version": "1",
+      "sha256": "97d44fc293b24eddc47df578d616dd03a4604da4ff7436433e6c1de78da9dc96",
+      "sizeBytes": 4635,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/english_division/pl/safety",
+      "path": "regulations/english_division/pl/safety.md",
+      "version": "1",
+      "sha256": "5e2d3198d562d2ec6f0c9c4a0f0f4fd1852fa54546f916902977cbffae3c83e2",
+      "sizeBytes": 1966,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/english_division/pl/assessment",
+      "path": "regulations/english_division/pl/assessment.md",
+      "version": "1",
+      "sha256": "968edaf224c32f405f6ace2b0f3d6678f3efb1e0c7f81a8994f8dbb708b1d540",
+      "sizeBytes": 1817,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/english_division/pl/exam",
+      "path": "regulations/english_division/pl/exam.md",
+      "version": "1",
+      "sha256": "307c0190c117104fe013702dc31120c47ae791da8065f8bb5f8d924acf20f4f9",
+      "sizeBytes": 2151,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/english_division/pl/syllabus",
+      "path": "regulations/english_division/pl/syllabus.md",
+      "version": "2",
+      "sha256": "173bbf435a2a28ef3fcb569d69e7573380ba91e042c26e42d5f289e2e4ef21a8",
+      "sizeBytes": 4080,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/english_division/es/regulations",
+      "path": "regulations/english_division/es/regulations.md",
+      "version": "1",
+      "sha256": "1cd3550feba6a3408a6b01c94027a8484200ee72a5f44a2de28891c4d3831b79",
+      "sizeBytes": 3141,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/english_division/es/safety",
+      "path": "regulations/english_division/es/safety.md",
+      "version": "1",
+      "sha256": "f3706fb7839ef13e89d06c7d7075e8fad244f5c5f0f3d3a85cca94e9cd7e1a48",
+      "sizeBytes": 2150,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/english_division/es/assessment",
+      "path": "regulations/english_division/es/assessment.md",
+      "version": "1",
+      "sha256": "74452bc4e49869fba92cd96bede1eed1d4f46359e10cb6a8cc03a2678fc8157c",
+      "sizeBytes": 2091,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/english_division/es/exam",
+      "path": "regulations/english_division/es/exam.md",
+      "version": "1",
+      "sha256": "286220e863ae673abbd9b0fae8d94b83ca6837cffb95d04ca2d21d9b5cd248ad",
+      "sizeBytes": 2386,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/english_division/es/syllabus",
+      "path": "regulations/english_division/es/syllabus.md",
+      "version": "1",
+      "sha256": "438ec1374d7fd1c231349797e3ecb561dc94d523a6d9095e4d86e410e439c0c1",
+      "sizeBytes": 5473,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/english_division/eo/regulations",
+      "path": "regulations/english_division/eo/regulations.md",
+      "version": "1",
+      "sha256": "d0f6e2a50a042fcbc6e6fc99ac27ee598b083376ca7ac5fd9809e69188410016",
+      "sizeBytes": 2716,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/english_division/eo/safety",
+      "path": "regulations/english_division/eo/safety.md",
+      "version": "1",
+      "sha256": "e7c47402352b50e0a1c64177efe02d9d5f650d0799df7dc8ef7895740b18a3f3",
+      "sizeBytes": 1906,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/english_division/eo/assessment",
+      "path": "regulations/english_division/eo/assessment.md",
+      "version": "1",
+      "sha256": "9545e12c7b3caef95bae46173641dce0fe2bed4c39d9d47e55b885e7bcd3596c",
+      "sizeBytes": 1812,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/english_division/eo/exam",
+      "path": "regulations/english_division/eo/exam.md",
+      "version": "1",
+      "sha256": "8e2b1bd8796f04746b214f3e384249ff54a22eafcffd9a1e110ae384c7eb8323",
+      "sizeBytes": 2144,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/english_division/eo/syllabus",
+      "path": "regulations/english_division/eo/syllabus.md",
+      "version": "1",
+      "sha256": "51dc103d9af077ea6498676baed96e766012f9ae58d560319b4498e1c5cb8e97",
+      "sizeBytes": 4673,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/english_division/isv/regulations",
+      "path": "regulations/english_division/isv/regulations.md",
+      "version": "1",
+      "sha256": "a18e5c1de77ef54f57357a887b456b47cb9dbdeac6c7247b8a162eff88bdef40",
+      "sizeBytes": 2640,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/english_division/isv/safety",
+      "path": "regulations/english_division/isv/safety.md",
+      "version": "1",
+      "sha256": "be053b7c954d1c1773c497c2c4acf4a9973fbddbde134212788bce774a07fcc3",
+      "sizeBytes": 1843,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/english_division/isv/assessment",
+      "path": "regulations/english_division/isv/assessment.md",
+      "version": "1",
+      "sha256": "0cb1e922dc22450cc599611b7321926807abd90443520c52b602d8784d30da62",
+      "sizeBytes": 1774,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/english_division/isv/exam",
+      "path": "regulations/english_division/isv/exam.md",
+      "version": "1",
+      "sha256": "95595ae2b32e52311873da031827c49586fbdd8faef2750603ce62aa1b6617fd",
+      "sizeBytes": 2198,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/english_division/isv/syllabus",
+      "path": "regulations/english_division/isv/syllabus.md",
+      "version": "1",
+      "sha256": "ced755256e7a54b4a883f90e0b868f5449ed1487f82d27859bc534307200fd9c",
+      "sizeBytes": 4791,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/english_division/isv_cyrl/regulations",
+      "path": "regulations/english_division/isv_cyrl/regulations.md",
+      "version": "1",
+      "sha256": "21ffa476bf6acccd1f0eaeb06ed37c5756223c6d90b854b85bde914d7f60512d",
+      "sizeBytes": 4543,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/english_division/isv_cyrl/safety",
+      "path": "regulations/english_division/isv_cyrl/safety.md",
+      "version": "1",
+      "sha256": "bf5703aa48ca6563ef6bd880d9e6b7d5091a6e8f41bfd788f8f8e2a44c0b51ac",
+      "sizeBytes": 3337,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/english_division/isv_cyrl/assessment",
+      "path": "regulations/english_division/isv_cyrl/assessment.md",
+      "version": "1",
+      "sha256": "ca71459c6e3e7a6ef2a683925985b4f7a865c9a1b182676cc303a53f49406c6f",
+      "sizeBytes": 3098,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/english_division/isv_cyrl/exam",
+      "path": "regulations/english_division/isv_cyrl/exam.md",
+      "version": "1",
+      "sha256": "5f23a02e16cfd8ec10a41bdef33527c83bb0133faaa659d3f97e1f5bee98b045",
+      "sizeBytes": 3779,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/english_division/isv_cyrl/syllabus",
+      "path": "regulations/english_division/isv_cyrl/syllabus.md",
+      "version": "1",
+      "sha256": "aa509ff1b2e470197f738017d9a5d4703aac2bd08820d88c3d65c8a3ab2ffed1",
+      "sizeBytes": 8310,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/english_division/isv_glag/regulations",
+      "path": "regulations/english_division/isv_glag/regulations.md",
+      "version": "1",
+      "sha256": "871356da077af881a80a12cd6f92d6543af8366e781e085b277f6d819488f2d1",
+      "sizeBytes": 6403,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/english_division/isv_glag/safety",
+      "path": "regulations/english_division/isv_glag/safety.md",
+      "version": "1",
+      "sha256": "c9ace8272456c5e2476be4c7efa15e3ad311e30f59d0e4b71ecce08a189bbc0c",
+      "sizeBytes": 4769,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/english_division/isv_glag/assessment",
+      "path": "regulations/english_division/isv_glag/assessment.md",
+      "version": "1",
+      "sha256": "fa21baf6681da800cf72b6144fc53e03a0a53655f54d2f274d7dc8b35b3325d4",
+      "sizeBytes": 4355,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/english_division/isv_glag/exam",
+      "path": "regulations/english_division/isv_glag/exam.md",
+      "version": "1",
+      "sha256": "641d4c835cbd152eef3993e8b0dff4c7688333400c6f6294a28f774a6bce2b88",
+      "sizeBytes": 5322,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/english_division/isv_glag/syllabus",
+      "path": "regulations/english_division/isv_glag/syllabus.md",
+      "version": "1",
+      "sha256": "3628346bf0740d4433985e8b050d9dc46a9fe0eebdf8361cf536281c9447c519",
+      "sizeBytes": 11781,
       "locale": "isv_glag"
     },
     {

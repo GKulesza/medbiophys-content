@@ -1,3 +1,5 @@
+![Rules and Regulations](images/regulations/Rules_and_regulations.jpg)
+
 # Reglamento para la impartición de clases de biofísica
 
 ## Facultad de Medicina de la Universidad Médica de Lublin, Facultad de Medicina

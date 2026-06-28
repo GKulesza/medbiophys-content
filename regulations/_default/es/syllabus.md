@@ -1,3 +1,5 @@
+![Syllabus](images/regulations/Sylabus_biofiz.jpg)
+
 # Programa de estudios
 
 ## Detalles del curso

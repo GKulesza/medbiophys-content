@@ -1,3 +1,5 @@
+![Rules and Regulations](images/regulations/Rules_and_regulations.jpg)
+
 # Пřедписы про вýуку биофызикы
 
 ## Лéкаřскá факулта Лéкаřскé универзиты в Лублину, Лéкаřскá факулта

@@ -1,3 +1,5 @@
+![Rules and Regulations](images/regulations/Rules_and_regulations.jpg)
+
 # Regulamin zajęć z biofizyki
 
 ## Podstawowe informacje

@@ -1,17 +1,19 @@
-# Safety in the laboratory
+![Safety in the laboratory](images/regulations/Safety_in_the_laboratory.jpg)
 
-The laboratory is a safe place to experiment if you are careful. You must assume responsibility for the safety of yourself and others. Here are some safety rules to help guide you in protecting yourself and others from injury in the lab.
+# Szkolenie BHP
 
-1. You should enter the building of the Department of Biophysics no earlier than 15 minutes before the start of the classes. On the premises of the Department of Biophysics, protective masks or visors must be worn.
-2. After entering the building of the Department of Biophysics, you should disinfect your hands.
-3. No outdoor shoes or sandals are allowed. Lab shoes or shoe covers and white lab coats are mandatory otherwise you will not be able to participate in the LAB!
-4. Coats, etc. must be left in the cloakroom. Students are not permitted to wear heavy outside coats or jackets to any laboratory.
-5. Do not perform experiments that are unauthorised. Always obtain your teacher's permission.
-6. Study your laboratory assignment before you come to the lab. If you are in doubt about any procedure ask your instructor for help.
-7. Know the location of the phone, fire extinguisher, fire blanket, first aid kit and emergency exit.
-8. Report any accident, injury or incorrect procedure to your teacher at once.
-9. Handle dangerous materials only under supervision of your teacher. If you spill acid or another corrosive substance, wash it off immediately with water.
-10. Keep combustible materials away from open flames.
-11. Never eat or drink anything in the lab.
-12. Place broken glass and solid substances in designated containers. Keep insoluble waste material out of the sink.
-13. When your laboratory work is completed, clean your work area. Return all materials and apparatus to their proper places.
+**Zasady zachowania się studentów podczas ćwiczeń z Biofizyki.**
+
+1. Studentów obowiązują zasady BHP przedstawione na szkoleniu studentów rozpoczynających naukę w UMB.
+2. Przed wejściem na salę ćwiczeń studentów obowiązuje nałożenie **czystego** fartucha i zmiana obuwia.
+3. W pracowni mogą przebywać tylko studenci odrabiający ćwiczenia oraz osoba prowadząca zajęcia. Opuszczenie pomieszczenia przez studenta może się odbyć tylko za zgodą prowadzącego zajęcia.
+4. Studenci mogą wykonywać czynności zgodne z poleceniami prowadzącego zajęcia.
+5. W czasie poruszania się po laboratorium należy zachować szczególną ostrożność.
+6. W pomieszczeniach, w których odbywają się zajęcia należy zachować ciszę, spokój i porządek.
+7. Na zajęciach obowiązuje całkowity zakaz palenia papierosów (i e-papierosów) oraz zakaz spożywania napojów i posiłków, żucie gumy oraz korzystanie z telefonów komórkowych w salach ćwiczeniowych i wykładowych.
+8. Na stołach laboratoryjnych mogą znajdować się tylko niezbędne przyrządy i przybory.
+9. Wszelkiego rodzaju nieprawidłowości i nieprzewidziane zdarzenia (np. rozlanie odczynnika, uszkodzenie przyrządu) muszą być niezwłocznie zgłoszone prowadzącemu zajęcia.
+10. Zabrania się wynoszenia z pracowni jakichkolwiek odczynników, preparatów i próbek radioaktywnych.
+11. Wszystkie odczynniki należy pobierać przy użyciu pipet automatycznych.
+12. Aparatura i urządzenia mogą być obsługiwane pod nadzorem prowadzącego ćwiczenia lub za jego zgodą przy ścisłym przestrzeganiu zasad eksploatacji danego urządzenia.
+13. Zabrania się wykonywania samodzielnych napraw urządzeń i aparatury.

@@ -1,3 +1,5 @@
+![Syllabus](images/regulations/Sylabus_biofiz.jpg)
+
 # Ⰵⰻⰵⰼⰵⰽⱂⱑ ⱄⰸⰷⱑⰺⰸ ⰷ ⰵⰻⰵⰺⱂⱀⰾⰽⰸⰺą
 
 ## Ⰿⰾⰴⱁⱂⰰwⰾwⰵ ⰸⰽⱄⰾⱀⰼⰰⱆⰹⰵ

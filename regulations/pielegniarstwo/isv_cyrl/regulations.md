@@ -1,3 +1,5 @@
+![Rules and Regulations](images/regulations/Rules_and_regulations.jpg)
+
 # Правидла а предписы
 
 Правидла а предписы про курз Биофызика

@@ -1,3 +1,5 @@
+![Rules and Regulations](images/regulations/Rules_and_regulations.jpg)
+
 # Předpisy pro výuku biofyziky
 
 ## Lékařská fakulta Lékařské univerzity v Lublinu, Lékařská fakulta

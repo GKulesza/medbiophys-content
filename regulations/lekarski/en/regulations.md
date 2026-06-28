@@ -1,3 +1,5 @@
+![Rules and Regulations](images/regulations/Rules_and_regulations.jpg)
+
 # Regulations for teaching classes in biophysics
 
 ## Faculty of Medicine of the Medical University of Lublin, Faculty of Medicine

@@ -1,3 +1,5 @@
+![About Us](images/about/AboutUS.jpg)
+
 # Katedra Medicinske Biofiziki
 ## Medicinsky Universitet v Białystoku
 

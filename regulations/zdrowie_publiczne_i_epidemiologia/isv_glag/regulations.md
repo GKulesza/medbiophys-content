@@ -1,3 +1,5 @@
+![Rules and Regulations](images/regulations/Rules_and_regulations.jpg)
+
 # Ⰿⱀⰰⰲⰸⰴⰻⰰ ⰰ ⰿⱀⰵⰴⰿⰸⱁⱑ
 
 Ⰿⱀⰰⰲⰸⰴⰻⰰ ⰰ ⰿⱀⰵⰴⰿⰸⱁⱑ ⰿⱀⰾ ⰺⱃⱀⰷ Ⰱⰸⰾⱄⱑⰷⰸⰺⰰ

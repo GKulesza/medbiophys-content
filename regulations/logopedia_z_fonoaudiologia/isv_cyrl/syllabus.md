@@ -1,3 +1,5 @@
+![Syllabus](images/regulations/Sylabus_biofiz.jpg)
+
 # Елементы физыки з електроникą
 
 ## Подстаwоwе информацје

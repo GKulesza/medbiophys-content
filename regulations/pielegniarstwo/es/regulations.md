@@ -1,3 +1,5 @@
+![Rules and Regulations](images/regulations/Rules_and_regulations.jpg)
+
 # Reglas y regulaciones
 
 Normas y Reglamentos para el curso de Biofísica

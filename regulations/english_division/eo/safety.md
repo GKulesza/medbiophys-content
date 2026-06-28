@@ -1,17 +1,19 @@
-# Sekureco en la laboratorio
+![Safety in the laboratory](images/regulations/Safety_in_the_laboratory.jpg)
 
-La laboratorio estas sekura loko por eksperimenti se vi estas singarda. Vi devas preni respondecon pri la sekureco de vi mem kaj de aliaj. Jen kelkaj sekurecaj reguloj por helpi vin protekti vin kaj aliajn kontraŭ vundoj en la laboratorio.
+# Safety in the laboratory
 
-1. Vi devas eniri la konstruaĵon de la Fako de Biofiziko ne pli frue ol 15 minutojn antaŭ la komenco de la klasoj. En la loko de la Sekcio de Biofiziko, protektaj maskoj aŭ vizieroj devas esti portitaj.
-2. Enirinte la konstruaĵon de la Fako de Biofiziko, vi devas desinfekti viajn manojn.
-3. Neniuj subĉielaj ŝuoj aŭ sandaloj estas permesitaj. Laboraj ŝuoj aŭ ŝuoj kovriloj kaj blankaj laboratoriomanteloj estas devigaj alie vi ne povos partopreni en la LAB!
-4. Mantoj ktp devas esti lasitaj en la vestejo. Studentoj ne rajtas porti pezajn eksterajn mantelojn aŭ jakojn al iu ajn laboratorio.
-5. Ne faru eksperimentojn ne rajtigitajn. Ĉiam akiru la permeson de via instruisto.
-6. Studu vian laboratoriotaskon antaŭ ol vi venos al la laboratorio. Se vi dubas pri iu ajn proceduro, petu helpon al via instruisto.
-7. Sciu la lokon de la telefono, fajroestingilo, fajrokovrilo, unuahelpilo kaj kriz-elirejo.
-8. Raportu ajnan akcidenton, vundon aŭ malĝustan proceduron al via instruisto tuj.
-9. Pritraktu danĝerajn materialojn nur sub superrigardo de via instruisto. Se vi verŝas acidon aŭ alian korodan substancon, lavu ĝin tuj per akvo.
-10. Tenu bruleblajn materialojn for de malfermaj flamoj.
-11. Neniam manĝu aŭ trinku ion ajn en la laboratorio.
-12. Metu rompitajn vitrojn kaj solidajn substancojn en difinitajn ujojn. Tenu nesolveblan malŝparon el la lavujo.
-13. Kiam via laboratorio laboro estas finita, purigu vian laborareon. Remetu ĉiujn materialojn kaj aparatojn al siaj taŭgaj lokoj.
+The laboratory is a safe place to experiment if you are careful. You must assume responsibility for the safety of yourself and others. Here are some safety rules to help guide you in protecting yourself and others from injury in the lab.
+
+1. You should enter the building of the Department of Medical Biophysics no earlier than 15 minutes before the start of the classes. On the premises of the Department of Medical Biophysics, protective masks or visors must be worn.
+2. After entering the building of the Department of Medical Biophysics, you should disinfect your hands.
+3. No outdoor shoes or sandals are allowed. Lab shoes or shoe covers and white lab coats are mandatory otherwise you will not be able to participate in the LAB!
+4. Coats, etc. must be left in the cloakroom. Students are not permitted to wear heavy outside coats or jackets to any laboratory.
+5. Do not perform experiments that are unauthorised. Always obtain your teacher's permission.
+6. Study your laboratory assignment before you come to the lab. If you are in doubt about any procedure ask your instructor for help.
+7. Know the location of the phone, fire extinguisher, fire blanket, first aid kit and emergency exit.
+8. Report any accident, injury or incorrect procedure to your teacher at once.
+9. Handle dangerous materials only under supervision of your teacher. If you spill acid or another corrosive substance, wash it off immediately with water.
+10. Keep combustible materials away from open flames.
+11. Never eat or drink anything in the lab.
+12. Place broken glass and solid substances in designated containers. Keep insoluble waste material out of the sink.
+13. When your laboratory work is completed, clean your work area. Return all materials and apparatus to their proper places.

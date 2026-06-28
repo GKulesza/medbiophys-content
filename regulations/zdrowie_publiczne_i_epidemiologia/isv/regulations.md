@@ -1,3 +1,5 @@
+![Rules and Regulations](images/regulations/Rules_and_regulations.jpg)
+
 # Pravidla a predpisy
 
 Pravidla a predpisy pro kurz Biofyzika

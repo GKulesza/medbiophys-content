@@ -1,3 +1,5 @@
+![Rules and Regulations](images/regulations/Rules_and_regulations.jpg)
+
 # Regulamin zajęć dydaktycznych z biofizyki
 
 ## Wydział Lekarski UMB, kierunek Lekarski

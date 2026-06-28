@@ -1,17 +1,19 @@
-# Ⰱⰵⰷⰿⰵⱇⰽⰾⱁⱂ ⰲ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰸ
+![Safety in the laboratory](images/regulations/Safety_in_the_laboratory.jpg)
 
-Ⰻⰰⰱⰾⱀⰰⱂⰾⱀ ⰹⰵ ⰱⰵⰷⰿⰵⱇⰽé ⰼⰸⱁⱂⰾ ⰿⱀⰾ ⰵxⰿⰵⱀⰸⰼⰵⰽⱂⱑ, ⰿⰾⰺⱃⰴ ⰹⱁⱂⰵ ⰾⰿⰰⱂⱀⰽⰸ. Ⰼⱃⱁⰸⱂⰵ ⰿⱀⰵⰲⰷⰸⱂ ⰾⰴⰿⰾⰲⰵⰴⰽⰾⱁⱂ ⰷⰰ ⰱⰵⰷⰿⰵⱇⰽⰾⱁⱂ ⱁⰲⰾⱃ ⰸ ⰾⱁⱂⰰⱂⰽⰸⱆⱅ. Ⰷⰴⰵ ⰹⱁⰾⱃ ⰽⰵⰺⱂⰵⱀá ⰱⰵⰷⰿⰵⱇⰽⰾⱁⱂⰽⰸ ⰿⱀⰰⰲⰸⰴⰻⰰ, ⰺⱂⰵⱀá ⰲáⰼ ⰿⰾⰼⰾⱅⰾⱃ ⱆⱅⱀáⰽⰸⱂ ⱁⰵⰱⰵ ⰰ ⰾⱁⱂⰰⱂⰽⰸ ⰿⱀⰵⰴ ⰷⱀⰰⰽⰵⰽⰸⰼ ⰲ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰸ.
+# Safety in the laboratory
 
-1. Ⰴⰾ ⰱⱃⰴⰾⰲⱑ Úⱁⱂⰰⰲⱃ ⰱⰸⰾⱄⱑⰷⰸⰺⱑ ⰱⱑⱁⱂⰵ ⰼⰵⰻⰸ ⰲⱁⱂⰾⱃⰿⰸⱂ ⰽⰵⰹⰴⱀⰸⰲⰵ 15 ⰼⰸⰽⱃⱂ ⰿⱀⰵⰴ ⰷⰰⱇáⱂⰺⰵⰼ ⰲⱑⱃⰺⱑ. Ⰲ ⰿⱀⰾⱁⱂⰾⱀáⱆⱅ Úⱁⱂⰰⰲⱃ ⰱⰸⰾⱄⱑⰷⰸⰺⱑ ⰹⰵ ⰽⱃⱂⰽé ⰽⰾⱁⰸⱂ ⰾⱆⱅⱀⰰⰽⰽé ⰼⰰⱁⰺⱑ ⰽⰵⰱⰾ ⱈⱂⰸⱂⱑ.
-2. Ⰿⰾ ⰲⱁⱂⱃⰿⱃ ⰴⰾ ⰱⱃⰴⰾⰲⱑ Úⱁⱂⰰⰲⱃ ⰱⰸⰾⱄⱑⰷⰸⰺⱑ ⱁⰸ ⰴⰵⰷⰸⰽⱄⰸⰺⱃⰹⱂⰵ ⱀⱃⱆⰵ.
-3. Ⰽⰵⰹⱁⰾⱃ ⰿⰾⰲⰾⰻⰵⰽⱑ ⰶáⰴⰽé ⰲⰵⰽⰺⰾⰲⰽⰸ ⰱⰾⱂⱑ ⰰⰽⰸ ⱁⰰⰽⰴáⰻⱑ. Ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰽⰸ ⰱⰾⱂⱑ ⰽⰵⰱⰾ ⰽáⰲⰻⰵⰺⱑ ⰽⰰ ⰱⰾⱂⱑ ⰰ ⰱⰸⰻé ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰽⰸ ⰿⰻáⱈⱂⰵ ⰹⱁⰾⱃ ⰿⰾⰲⰸⰽⰽé, ⰹⰸⰽⰰⰺ ⱁⰵ ⰽⰵⰱⱃⰴⰵⱂⰵ ⰼⰾⱆⰸ ⰷúⱇⰰⱁⱂⰽⰸⱂ ⰋⰀⰁ!
-4. Ⰺⰰⰱáⱂⱑ ⰰⰿⰾⰴ. ⰹⰵ ⰽⱃⱂⰽé ⰿⰾⰽⰵⱆⱅⰰⱂ ⰲ ⱈⰰⱂⰽⰵ. Ⱁⱂⱃⰴⰵⰽⱂⱃⰼ ⰽⰵⰽⰸ ⰴⰾⰲⰾⰻⰵⰽⰾ ⰽⰾⱁⰸⱂ ⱂⰵⰶⰺé ⰲⰽⰵⰹⱈⰸ ⰿⰻáⱈⱂⰵ ⰽⰵⰱⰾ ⰱⱃⰽⰴⱑ ⰴⰾ ⰶáⰴⰽé ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰵ.
-5. Ⰽⰵⰿⱀⰾⰲáⰴⰵⰹⱂⰵ ⰽⰵⰾⰿⱀáⰲⰽⰵⰽé ⰵxⰿⰵⱀⰸⰼⰵⰽⱂⱑ. Ⰲⰶⰴⱑ ⱁⰸ ⰲⱑⰶáⰴⰵⰹⱂⰵ ⱁⰾⱃⱅⰻⰰⱁ ⱃⱇⰸⱂⰵⰻⰵ.
-6. Ⰽⰵⰶ ⰿⱀⰸⰹⰴⰵⱂⰵ ⰴⰾ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰵ, ⰿⱀⰾⱁⱂⱃⰴⱃⰹⱂⰵ ⱁⰸ ⱁⰲⱃⰹ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰽⰸ úⰺⰾⰻ. Ⰿⰾⰺⱃⰴ ⰼáⱂⰵ ⰿⰾⱆⱅⱑⰱⰽⰾⱁⱂⰸ ⰾ ⰹⰰⰺéⰼⰺⰾⰻⰸ ⰿⰾⱁⱂⱃⰿⱃ, ⰿⰾⰶáⰴⰵⰹⱂⰵ ⰾ ⰿⰾⰼⰾⱆ ⱁⰲéⱅⰾ ⰸⰽⱁⱂⱀⱃⰺⱂⰾⱀⰰ.
-7. Ⰷⰽáⱂ ⱃⰼⰸⱁⱂⰵⰽⰸ ⱂⰵⰻⰵⱄⰾⰽⱃ, ⱅⰰⱁⰸⱆⰸⱅⰾ ⰿⱀⰸⱁⱂⱀⰾⰹⰵ, ⱅⰰⱁⰸⱇⱁⰺé ⰴⰵⰺⱑ, ⰻéⰺáⱀⰽⰸⱇⰺⱑ ⰰ ⰽⰾⱃⰷⰾⰲéⱅⰾ ⰲⱑⱆⱅⰾⰴⱃ.
-8. Ⰺⰰⰶⰴⰾⱃ ⰽⰵⱅⰾⰴⱃ, ⰷⱀⰰⰽⰵⰽⰸ ⰽⰵⰱⰾ ⰽⰵⱁⰿⱀáⰲⰽⱑ ⰿⰾⱁⱂⱃⰿ ⰸⱅⰽⰵⰴ ⰽⰰⱅⰻⰰⱁⱂⰵ ⱁⰲéⰼⱃ ⱃⱇⰸⱂⰵⰻⰸ.
-9. Ⱁ ⰽⰵⰱⰵⰷⰿⰵⱇⰽⱑⰼⰸ ⰻáⱂⰺⰰⰼⰸ ⰼⰰⰽⰸⰿⱃⰻⱃⰹⱂⰵ ⰿⰾⱃⰷⰵ ⰿⰾⰴ ⰴⰾⱅⰻⰵⰴⰵⰼ ⱃⱇⰸⱂⰵⰻⰵ. Ⰿⰾⰺⱃⰴ ⱀⰾⰷⰻⰸⰹⰵⱂⰵ ⰺⱑⱁⰵⰻⰸⰽⱃ ⰽⰵⰱⰾ ⰹⰸⰽⰾⱃ ⰶⰸⱀⰰⰲⰾⱃ ⰻáⱂⰺⱃ, ⰾⰺⰰⰼⰶⰸⱂⰵ ⰹⰸ ⰾⰼⱑⰹⱂⰵ ⰲⰾⰴⰾⱃ.
-10. Ⱃⰴⱀⰶⱃⰹⱂⰵ ⱅⰾⱀⰻⰰⰲé ⰼⰰⱂⰵⱀⰸáⰻⱑ ⰼⰸⰼⰾ ⰴⰾⱁⰰⱅ ⰾⱂⰵⰲⱀⰵⰽéⱅⰾ ⰾⱅⰽⰵ.
-11. Ⰲ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰸ ⰽⰸⰺⰴⱑ ⰽⰸⱆ ⰽⰵⰹⰵⰷⱂⰵ ⰰⰽⰸ ⰽⰵⰿⰸⰹⱂⰵ.
-12. Ⱀⰾⰷⰱⰸⱂé ⱁⰺⰻⰾ ⰰ ⰿⰵⰲⰽé ⰻáⱂⰺⱑ ⱃⰼⰸⱁⱂⰵⱂⰵ ⰴⰾ ⰽáⰴⰾⰱ ⰺ ⱂⰾⰼⱃ ⱃⱀⱇⰵⰽⱑⱆⱅ. Ⱃⰴⱀⰶⱃⰹⱂⰵ ⰽⰵⱀⰾⰷⰿⱃⱁⱂⰽⱑ ⰾⰴⰿⰰⰴ ⰼⰸⰼⰾ ⰴⱀⰵⰷ.
-13. Ⰿⰾ ⰴⰾⰺⰾⰽⱇⰵⰽⰸ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰽⰸ ⰿⱀáⱆⰵ ⰲⱑⱇⰸⱁⱂⰵⱂⰵ ⰿⱀⰰⱆⰾⰲⰽⰸ ⰿⱀⰾⱁⱂⰾⱀ. Ⰲⱀⰰťⱂⰵ ⰲⱈⰵⱆⱅⰽⱑ ⰼⰰⱂⰵⱀⰸáⰻⱑ ⰰ ⰷⰰⱀⰸⰷⰵⰽⰸ ⰽⰰ ⰹⰵⰹⰸⱆⱅ ⱁⰿⱀáⰲⰽá ⰼⰸⱁⱂⰰ.
+The laboratory is a safe place to experiment if you are careful. You must assume responsibility for the safety of yourself and others. Here are some safety rules to help guide you in protecting yourself and others from injury in the lab.
+
+1. You should enter the building of the Department of Medical Biophysics no earlier than 15 minutes before the start of the classes. On the premises of the Department of Medical Biophysics, protective masks or visors must be worn.
+2. After entering the building of the Department of Medical Biophysics, you should disinfect your hands.
+3. No outdoor shoes or sandals are allowed. Lab shoes or shoe covers and white lab coats are mandatory otherwise you will not be able to participate in the LAB!
+4. Coats, etc. must be left in the cloakroom. Students are not permitted to wear heavy outside coats or jackets to any laboratory.
+5. Do not perform experiments that are unauthorised. Always obtain your teacher's permission.
+6. Study your laboratory assignment before you come to the lab. If you are in doubt about any procedure ask your instructor for help.
+7. Know the location of the phone, fire extinguisher, fire blanket, first aid kit and emergency exit.
+8. Report any accident, injury or incorrect procedure to your teacher at once.
+9. Handle dangerous materials only under supervision of your teacher. If you spill acid or another corrosive substance, wash it off immediately with water.
+10. Keep combustible materials away from open flames.
+11. Never eat or drink anything in the lab.
+12. Place broken glass and solid substances in designated containers. Keep insoluble waste material out of the sink.
+13. When your laboratory work is completed, clean your work area. Return all materials and apparatus to their proper places.

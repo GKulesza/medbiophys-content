@@ -1,3 +1,5 @@
+![Rules and Regulations](images/regulations/Rules_and_regulations.jpg)
+
 # Ⰿřⰵⰴⰿⰸⱁⱑ ⰿⱀⰾ ⰲýⱃⰺⱃ ⰱⰸⰾⱄⱑⰷⰸⰺⱑ
 
 ## Ⰻéⰺⰰřⱁⰺá ⱄⰰⰺⱃⰻⱂⰰ Ⰻéⰺⰰřⱁⰺé ⱃⰽⰸⰲⰵⱀⰷⰸⱂⱑ ⰲ Ⰻⱃⰱⰻⰸⰽⱃ, Ⰻéⰺⰰřⱁⰺá ⱄⰰⰺⱃⰻⱂⰰ

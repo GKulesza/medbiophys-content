@@ -1,3 +1,5 @@
+![Rules and Regulations](images/regulations/Rules_and_regulations.jpg)
+
 # Regularo por instruado de klasoj en biofiziko
 
 ## Fakultato de Medicino de la Medicina Universitato de Lublin, Fakultato de Medicino

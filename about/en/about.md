@@ -1,3 +1,5 @@
+![About Us](images/about/AboutUS.jpg)
+
 # Department of Medical Biophysics
 ## Medical University of Białystok
 

@@ -1,3 +1,5 @@
+![Rules and Regulations](images/regulations/Rules_and_regulations.jpg)
+
 # Rules and Regulations for the Biophysics Course
 
 ## Basic Information

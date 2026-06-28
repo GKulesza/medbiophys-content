@@ -1,17 +1,19 @@
-# Ⰱⰵⰷⰿⰵⱇⰽⰾⱁⱂ ⰲ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰸ
+![Safety in the laboratory](images/regulations/Safety_in_the_laboratory.jpg)
 
-Ⰻⰰⰱⰾⱀⰰⱂⰾⱀ ⰹⰵ ⰱⰵⰷⰿⰵⱇⰽé ⰼⰸⱁⱂⰾ ⰿⱀⰾ ⰵxⰿⰵⱀⰸⰼⰵⰽⱂⱑ, ⰿⰾⰺⱃⰴ ⰹⱁⱂⰵ ⰾⰿⰰⱂⱀⰽⰸ. Ⰼⱃⱁⰸⱂⰵ ⰿⱀⰵⰲⰷⰸⱂ ⰾⰴⰿⰾⰲⰵⰴⰽⰾⱁⱂ ⰷⰰ ⰱⰵⰷⰿⰵⱇⰽⰾⱁⱂ ⱁⰲⰾⱃ ⰸ ⰾⱁⱂⰰⱂⰽⰸⱆⱅ. Ⰷⰴⰵ ⰹⱁⰾⱃ ⰽⰵⰺⱂⰵⱀá ⰱⰵⰷⰿⰵⱇⰽⰾⱁⱂⰽⰸ ⰿⱀⰰⰲⰸⰴⰻⰰ, ⰺⱂⰵⱀá ⰲáⰼ ⰿⰾⰼⰾⱅⰾⱃ ⱆⱅⱀáⰽⰸⱂ ⱁⰵⰱⰵ ⰰ ⰾⱁⱂⰰⱂⰽⰸ ⰿⱀⰵⰴ ⰷⱀⰰⰽⰵⰽⰸⰼ ⰲ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰸ.
+# Szkolenie BHP
 
-1. Ⰴⰾ ⰱⱃⰴⰾⰲⱑ Úⱁⱂⰰⰲⱃ ⰱⰸⰾⱄⱑⰷⰸⰺⱑ ⰱⱑⱁⱂⰵ ⰼⰵⰻⰸ ⰲⱁⱂⰾⱃⰿⰸⱂ ⰽⰵⰹⰴⱀⰸⰲⰵ 15 ⰼⰸⰽⱃⱂ ⰿⱀⰵⰴ ⰷⰰⱇáⱂⰺⰵⰼ ⰲⱑⱃⰺⱑ. Ⰲ ⰿⱀⰾⱁⱂⰾⱀáⱆⱅ Úⱁⱂⰰⰲⱃ ⰱⰸⰾⱄⱑⰷⰸⰺⱑ ⰹⰵ ⰽⱃⱂⰽé ⰽⰾⱁⰸⱂ ⰾⱆⱅⱀⰰⰽⰽé ⰼⰰⱁⰺⱑ ⰽⰵⰱⰾ ⱈⱂⰸⱂⱑ.
-2. Ⰿⰾ ⰲⱁⱂⱃⰿⱃ ⰴⰾ ⰱⱃⰴⰾⰲⱑ Úⱁⱂⰰⰲⱃ ⰱⰸⰾⱄⱑⰷⰸⰺⱑ ⱁⰸ ⰴⰵⰷⰸⰽⱄⰸⰺⱃⰹⱂⰵ ⱀⱃⱆⰵ.
-3. Ⰽⰵⰹⱁⰾⱃ ⰿⰾⰲⰾⰻⰵⰽⱑ ⰶáⰴⰽé ⰲⰵⰽⰺⰾⰲⰽⰸ ⰱⰾⱂⱑ ⰰⰽⰸ ⱁⰰⰽⰴáⰻⱑ. Ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰽⰸ ⰱⰾⱂⱑ ⰽⰵⰱⰾ ⰽáⰲⰻⰵⰺⱑ ⰽⰰ ⰱⰾⱂⱑ ⰰ ⰱⰸⰻé ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰽⰸ ⰿⰻáⱈⱂⰵ ⰹⱁⰾⱃ ⰿⰾⰲⰸⰽⰽé, ⰹⰸⰽⰰⰺ ⱁⰵ ⰽⰵⰱⱃⰴⰵⱂⰵ ⰼⰾⱆⰸ ⰷúⱇⰰⱁⱂⰽⰸⱂ ⰋⰀⰁ!
-4. Ⰺⰰⰱáⱂⱑ ⰰⰿⰾⰴ. ⰹⰵ ⰽⱃⱂⰽé ⰿⰾⰽⰵⱆⱅⰰⱂ ⰲ ⱈⰰⱂⰽⰵ. Ⱁⱂⱃⰴⰵⰽⱂⱃⰼ ⰽⰵⰽⰸ ⰴⰾⰲⰾⰻⰵⰽⰾ ⰽⰾⱁⰸⱂ ⱂⰵⰶⰺé ⰲⰽⰵⰹⱈⰸ ⰿⰻáⱈⱂⰵ ⰽⰵⰱⰾ ⰱⱃⰽⰴⱑ ⰴⰾ ⰶáⰴⰽé ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰵ.
-5. Ⰽⰵⰿⱀⰾⰲáⰴⰵⰹⱂⰵ ⰽⰵⰾⰿⱀáⰲⰽⰵⰽé ⰵxⰿⰵⱀⰸⰼⰵⰽⱂⱑ. Ⰲⰶⰴⱑ ⱁⰸ ⰲⱑⰶáⰴⰵⰹⱂⰵ ⱁⰾⱃⱅⰻⰰⱁ ⱃⱇⰸⱂⰵⰻⰵ.
-6. Ⰽⰵⰶ ⰿⱀⰸⰹⰴⰵⱂⰵ ⰴⰾ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰵ, ⰿⱀⰾⱁⱂⱃⰴⱃⰹⱂⰵ ⱁⰸ ⱁⰲⱃⰹ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰽⰸ úⰺⰾⰻ. Ⰿⰾⰺⱃⰴ ⰼáⱂⰵ ⰿⰾⱆⱅⱑⰱⰽⰾⱁⱂⰸ ⰾ ⰹⰰⰺéⰼⰺⰾⰻⰸ ⰿⰾⱁⱂⱃⰿⱃ, ⰿⰾⰶáⰴⰵⰹⱂⰵ ⰾ ⰿⰾⰼⰾⱆ ⱁⰲéⱅⰾ ⰸⰽⱁⱂⱀⱃⰺⱂⰾⱀⰰ.
-7. Ⰷⰽáⱂ ⱃⰼⰸⱁⱂⰵⰽⰸ ⱂⰵⰻⰵⱄⰾⰽⱃ, ⱅⰰⱁⰸⱆⰸⱅⰾ ⰿⱀⰸⱁⱂⱀⰾⰹⰵ, ⱅⰰⱁⰸⱇⱁⰺé ⰴⰵⰺⱑ, ⰻéⰺáⱀⰽⰸⱇⰺⱑ ⰰ ⰽⰾⱃⰷⰾⰲéⱅⰾ ⰲⱑⱆⱅⰾⰴⱃ.
-8. Ⰺⰰⰶⰴⰾⱃ ⰽⰵⱅⰾⰴⱃ, ⰷⱀⰰⰽⰵⰽⰸ ⰽⰵⰱⰾ ⰽⰵⱁⰿⱀáⰲⰽⱑ ⰿⰾⱁⱂⱃⰿ ⰸⱅⰽⰵⰴ ⰽⰰⱅⰻⰰⱁⱂⰵ ⱁⰲéⰼⱃ ⱃⱇⰸⱂⰵⰻⰸ.
-9. Ⱁ ⰽⰵⰱⰵⰷⰿⰵⱇⰽⱑⰼⰸ ⰻáⱂⰺⰰⰼⰸ ⰼⰰⰽⰸⰿⱃⰻⱃⰹⱂⰵ ⰿⰾⱃⰷⰵ ⰿⰾⰴ ⰴⰾⱅⰻⰵⰴⰵⰼ ⱃⱇⰸⱂⰵⰻⰵ. Ⰿⰾⰺⱃⰴ ⱀⰾⰷⰻⰸⰹⰵⱂⰵ ⰺⱑⱁⰵⰻⰸⰽⱃ ⰽⰵⰱⰾ ⰹⰸⰽⰾⱃ ⰶⰸⱀⰰⰲⰾⱃ ⰻáⱂⰺⱃ, ⰾⰺⰰⰼⰶⰸⱂⰵ ⰹⰸ ⰾⰼⱑⰹⱂⰵ ⰲⰾⰴⰾⱃ.
-10. Ⱃⰴⱀⰶⱃⰹⱂⰵ ⱅⰾⱀⰻⰰⰲé ⰼⰰⱂⰵⱀⰸáⰻⱑ ⰼⰸⰼⰾ ⰴⰾⱁⰰⱅ ⰾⱂⰵⰲⱀⰵⰽéⱅⰾ ⰾⱅⰽⰵ.
-11. Ⰲ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰸ ⰽⰸⰺⰴⱑ ⰽⰸⱆ ⰽⰵⰹⰵⰷⱂⰵ ⰰⰽⰸ ⰽⰵⰿⰸⰹⱂⰵ.
-12. Ⱀⰾⰷⰱⰸⱂé ⱁⰺⰻⰾ ⰰ ⰿⰵⰲⰽé ⰻáⱂⰺⱑ ⱃⰼⰸⱁⱂⰵⱂⰵ ⰴⰾ ⰽáⰴⰾⰱ ⰺ ⱂⰾⰼⱃ ⱃⱀⱇⰵⰽⱑⱆⱅ. Ⱃⰴⱀⰶⱃⰹⱂⰵ ⰽⰵⱀⰾⰷⰿⱃⱁⱂⰽⱑ ⰾⰴⰿⰰⰴ ⰼⰸⰼⰾ ⰴⱀⰵⰷ.
-13. Ⰿⰾ ⰴⰾⰺⰾⰽⱇⰵⰽⰸ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰽⰸ ⰿⱀáⱆⰵ ⰲⱑⱇⰸⱁⱂⰵⱂⰵ ⰿⱀⰰⱆⰾⰲⰽⰸ ⰿⱀⰾⱁⱂⰾⱀ. Ⰲⱀⰰťⱂⰵ ⰲⱈⰵⱆⱅⰽⱑ ⰼⰰⱂⰵⱀⰸáⰻⱑ ⰰ ⰷⰰⱀⰸⰷⰵⰽⰸ ⰽⰰ ⰹⰵⰹⰸⱆⱅ ⱁⰿⱀáⰲⰽá ⰼⰸⱁⱂⰰ.
+**Zasady zachowania się studentów podczas ćwiczeń z Biofizyki.**
+
+1. Studentów obowiązują zasady BHP przedstawione na szkoleniu studentów rozpoczynających naukę w UMB.
+2. Przed wejściem na salę ćwiczeń studentów obowiązuje nałożenie **czystego** fartucha i zmiana obuwia.
+3. W pracowni mogą przebywać tylko studenci odrabiający ćwiczenia oraz osoba prowadząca zajęcia. Opuszczenie pomieszczenia przez studenta może się odbyć tylko za zgodą prowadzącego zajęcia.
+4. Studenci mogą wykonywać czynności zgodne z poleceniami prowadzącego zajęcia.
+5. W czasie poruszania się po laboratorium należy zachować szczególną ostrożność.
+6. W pomieszczeniach, w których odbywają się zajęcia należy zachować ciszę, spokój i porządek.
+7. Na zajęciach obowiązuje całkowity zakaz palenia papierosów (i e-papierosów) oraz zakaz spożywania napojów i posiłków, żucie gumy oraz korzystanie z telefonów komórkowych w salach ćwiczeniowych i wykładowych.
+8. Na stołach laboratoryjnych mogą znajdować się tylko niezbędne przyrządy i przybory.
+9. Wszelkiego rodzaju nieprawidłowości i nieprzewidziane zdarzenia (np. rozlanie odczynnika, uszkodzenie przyrządu) muszą być niezwłocznie zgłoszone prowadzącemu zajęcia.
+10. Zabrania się wynoszenia z pracowni jakichkolwiek odczynników, preparatów i próbek radioaktywnych.
+11. Wszystkie odczynniki należy pobierać przy użyciu pipet automatycznych.
+12. Aparatura i urządzenia mogą być obsługiwane pod nadzorem prowadzącego ćwiczenia lub za jego zgodą przy ścisłym przestrzeganiu zasad eksploatacji danego urządzenia.
+13. Zabrania się wykonywania samodzielnych napraw urządzeń i aparatury.

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentSetId": "2026-06-28-content",
-  "publishedAt": "2026-06-28T12:41:07Z",
+  "publishedAt": "2026-06-28T14:11:26Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -4816,41 +4816,41 @@
     {
       "id": "images/regulations/Q_and_A.jpg",
       "path": "images/regulations/Q_and_A.jpg",
-      "version": "2",
-      "sha256": "07fb63461fce3406ad67ab6ecebfca14e560f1bb272d99ef779f2e5bc9aca8fc",
-      "sizeBytes": 75285,
+      "version": "3",
+      "sha256": "ef5e60b1a0d45014526ca3c0547bc70d11d7d36d00414ed5f10cbb2b4649e361",
+      "sizeBytes": 100971,
       "locale": "regulations"
     },
     {
       "id": "images/regulations/Rules_and_regulations.jpg",
       "path": "images/regulations/Rules_and_regulations.jpg",
-      "version": "3",
-      "sha256": "ab0da75448f8968bb36bfbef508a9a31732da7017d05d1cf629cfc69192b02d6",
-      "sizeBytes": 86166,
+      "version": "4",
+      "sha256": "0815ac49622b5232ff1da282bd5fc66170d66b8b73f4b22d85f14fe4828fa9aa",
+      "sizeBytes": 101084,
       "locale": "regulations"
     },
     {
       "id": "images/regulations/Safety_in_the_laboratory.jpg",
       "path": "images/regulations/Safety_in_the_laboratory.jpg",
-      "version": "2",
-      "sha256": "135d54d9d4974605669c259b78e7d205dccc0e992a57187488c0418c60569add",
-      "sizeBytes": 104605,
+      "version": "3",
+      "sha256": "02e0234fced21585a37438e0b03cec9c98cb169d2c207a0cc82750db271303a0",
+      "sizeBytes": 123746,
       "locale": "regulations"
     },
     {
       "id": "images/regulations/Sylabus_biofiz.jpg",
       "path": "images/regulations/Sylabus_biofiz.jpg",
-      "version": "2",
-      "sha256": "2caebdf4c5aa9237f60be8ce289a8bd9af8aa56b56284f616af147bdcfa4c1b0",
-      "sizeBytes": 107882,
+      "version": "3",
+      "sha256": "49b1c1cca6fd9436594025ee49a2527bacd218e976e271a163bc90813fd780c3",
+      "sizeBytes": 94244,
       "locale": "regulations"
     },
     {
       "id": "images/about/AboutUS.jpg",
       "path": "images/about/AboutUS.jpg",
-      "version": "4",
-      "sha256": "98fd7314e8fdaa505cace4654532a5992e93ef9c2ca7cd70e285f2484e4eaf60",
-      "sizeBytes": 100988,
+      "version": "5",
+      "sha256": "dda30649c4400a7c4158072377ce2e09ae5d0309bf6adb794d841d41adbee1a1",
+      "sizeBytes": 91793,
       "locale": "about"
     },
     {

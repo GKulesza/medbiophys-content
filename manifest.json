@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentSetId": "2026-06-28-content",
-  "publishedAt": "2026-06-28T11:08:43Z",
+  "publishedAt": "2026-06-28T12:33:07Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -4816,33 +4816,33 @@
     {
       "id": "images/regulations/Q_and_A.jpg",
       "path": "images/regulations/Q_and_A.jpg",
-      "version": "1",
-      "sha256": "55f9c09e60e17c6175234213d01ab242c5766d756dbf5eab792714454b3c8f75",
-      "sizeBytes": 121302,
+      "version": "2",
+      "sha256": "07fb63461fce3406ad67ab6ecebfca14e560f1bb272d99ef779f2e5bc9aca8fc",
+      "sizeBytes": 75285,
       "locale": "regulations"
     },
     {
       "id": "images/regulations/Rules_and_regulations.jpg",
       "path": "images/regulations/Rules_and_regulations.jpg",
-      "version": "2",
-      "sha256": "efa2fc1e1f9824241428ecf121beef98340d36b31757eda6e4d7cb5a9321a163",
-      "sizeBytes": 96198,
+      "version": "3",
+      "sha256": "ab0da75448f8968bb36bfbef508a9a31732da7017d05d1cf629cfc69192b02d6",
+      "sizeBytes": 86166,
       "locale": "regulations"
     },
     {
       "id": "images/regulations/Safety_in_the_laboratory.jpg",
       "path": "images/regulations/Safety_in_the_laboratory.jpg",
-      "version": "1",
-      "sha256": "fb4d5c4e3ebbb02d4baca2d3019f0c88cc02b88aa5d36f4f517afa17901ce6de",
-      "sizeBytes": 134526,
+      "version": "2",
+      "sha256": "135d54d9d4974605669c259b78e7d205dccc0e992a57187488c0418c60569add",
+      "sizeBytes": 104605,
       "locale": "regulations"
     },
     {
       "id": "images/regulations/Sylabus_biofiz.jpg",
       "path": "images/regulations/Sylabus_biofiz.jpg",
-      "version": "1",
-      "sha256": "bcc0d0ef16b11d65660f1f71cfcb8541a032ac3f92a73aa9984850d6195706de",
-      "sizeBytes": 125820,
+      "version": "2",
+      "sha256": "2caebdf4c5aa9237f60be8ce289a8bd9af8aa56b56284f616af147bdcfa4c1b0",
+      "sizeBytes": 107882,
       "locale": "regulations"
     },
     {

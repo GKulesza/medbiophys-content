@@ -1,4 +1,4 @@
-![ ](contact_banner.jpg)
+![Kontakt](images/contact/contact_banner.jpg)
 
 # Jak do nas trafić?
 
@@ -10,9 +10,9 @@ Zakład Biofizyki Medycznej znajduje się przy ul. Mickiewicza 2A w Białymstoku
 
 ![Dojście do Zakładu Biofizyki Medycznej](images/contact/location3.jpg)
 
-![Idź prosto przy parku, przez bramę i później w lewo wzdłu budynku](images/contact/location4.jpg)
+![Idź prosto przy parku, przez bramę i później w lewo wzdłuż budynku](images/contact/location4.jpg)
 
-![Miejsce wejscia - oznaczonek krzyzykiem](images/contact/location5.jpg)
+![Miejsce wejścia — oznaczone krzyżykiem](images/contact/location5.jpg)
 
 ## Sekretariat
 
@@ -29,16 +29,20 @@ W sprawach pilnych poza wyznaczonymi godzinami prosimy o kontakt drogą mailową
 **[biofizyk@umb.edu.pl](mailto:biofizyk@umb.edu.pl)**
 
 ## Dane kontaktowe
+
 * **Adres:** ul. Mickiewicza 2A, 15-222 Białystok
 * **Telefon sekretariatu:** (85) 748 56 67
 * **E-mail:** [biofizyk@umb.edu.pl](mailto:biofizyk@umb.edu.pl)
 
 ## Kierownik Zakładu
+
 **dr hab. Beata Modzelewska**
+
 * **Telefon:** (85) 748 56 70
 * **E-mail:** [beata.modzelewska@umb.edu.pl](mailto:beata.modzelewska@umb.edu.pl)
 
 ## Prowadzący zajęcia
+
 Kontakt z osobami prowadzącymi zajęcia odbywa się drogą e-mailową.
 
 Adresy e-mail pracowników są dostępne w zakładce **Staff**.

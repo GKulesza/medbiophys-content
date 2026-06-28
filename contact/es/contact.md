@@ -1,25 +1,46 @@
-# Contacto
+![Contacto](images/contact/contact_banner.jpg)
 
-Departamento de Biofísica Médica  
-Universidad Médica de Białystok
+# Cómo llegar
 
-## Horario de atención
+El Departamento de Biofísica Médica se encuentra en ul. Mickiewicza 2A en Białystok. Las fotos siguientes muestran el camino al departamento y la entrada al edificio.
 
-Lunes–viernes: 8:00–15:00
+![Department entrance with covered walkway](images/contact/location1.jpg)
 
-## Correo electrónico
+![Enter through the gate or walk toward the bus stop](images/contact/location2.jpg)
 
-[biofizyka@umb.edu.pl](mailto:biofizyka@umb.edu.pl)
+![Path to the Department of Medical Biophysics](images/contact/location3.jpg)
 
-## Teléfono
+![Walk straight past the park, through the gate, then left along the building](images/contact/location4.jpg)
 
-+48 85 748 54 20
+![Entrance marked with a cross](images/contact/location5.jpg)
 
-## Dirección
+## Secretaría
 
-ul. Jana Kilińskiego 1  
-15-089 Białystok, Polonia
+La secretaría del departamento atiende asuntos estudiantiles en el siguiente horario:
 
-## Mapa
+* **Lunes:** 9:00–15:00
+* **Martes:** cerrado
+* **Miércoles:** cerrado
+* **Jueves:** 8:30–14:30
+* **Viernes:** cerrado
 
-[Sitio web del departamento](https://www.umb.edu.pl/wl/zaklad-biofizyki) · [Abrir en Google Maps](https://www.google.com/maps/search/Medical+University+of+Bialystok)
+Para asuntos urgentes fuera de este horario, escriba por correo electrónico.
+
+**[biofizyk@umb.edu.pl](mailto:biofizyk@umb.edu.pl)**
+
+## Datos de contacto
+
+* **Dirección:** ul. Mickiewicza 2A, 15-222 Białystok
+* **Teléfono de secretaría:** +48 85 748 56 67
+* **Correo:** [biofizyk@umb.edu.pl](mailto:biofizyk@umb.edu.pl)
+
+## Jefa del departamento
+
+**dr hab. Beata Modzelewska**
+
+* **Teléfono:** +48 85 748 56 70
+* **Correo:** [beata.modzelewska@umb.edu.pl](mailto:beata.modzelewska@umb.edu.pl)
+
+## Profesores
+
+Contacte con los profesores por correo electrónico. Las direcciones están en **Staff**.

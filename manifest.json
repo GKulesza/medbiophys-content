@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentSetId": "2026-06-28-content",
-  "publishedAt": "2026-06-28T17:42:33Z",
+  "publishedAt": "2026-06-28T18:12:14Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -176,57 +176,57 @@
     {
       "id": "contact/en/contact",
       "path": "contact/en/contact.md",
-      "version": "1",
-      "sha256": "55ce2bf9c457881c19240f807bfca4962ecb485539d4a2a0eb3157678e9beee6",
-      "sizeBytes": 450,
+      "version": "2",
+      "sha256": "a30b6dd54207b81961d6f63d6101cb814890062329d1235684e66fb9c5281620",
+      "sizeBytes": 1434,
       "locale": "en"
     },
     {
       "id": "contact/pl/contact",
       "path": "contact/pl/contact.md",
-      "version": "12",
-      "sha256": "4629ec7a91c9fcb470ab9b1760effe0d4bdf04b1b8bfb4489197832cb789b94f",
-      "sizeBytes": 1544,
+      "version": "13",
+      "sha256": "a1bbb07dad0245d4907a0639261e7439404d7daf55a112b526f560e6890d08dd",
+      "sizeBytes": 1572,
       "locale": "pl"
     },
     {
       "id": "contact/es/contact",
       "path": "contact/es/contact.md",
-      "version": "1",
-      "sha256": "08dfe88681f7f6e6da177f4542d61fad15a6b3d41e75bda17fc5a6afc60acd87",
-      "sizeBytes": 494,
+      "version": "2",
+      "sha256": "9df5d7b7656ebf36ad35317fc9281f005bea69db5c9a776aaa8fbacf21ba4947",
+      "sizeBytes": 1481,
       "locale": "es"
     },
     {
       "id": "contact/eo/contact",
       "path": "contact/eo/contact.md",
-      "version": "1",
-      "sha256": "2f13222dd419af4524eb2e7e6b1c455b8339df13ed2c2ab90210eb4b9d43097d",
-      "sizeBytes": 460,
+      "version": "2",
+      "sha256": "98120e9351e63de9155492484c75d30421aedd46162314091805dfd7c7aafae9",
+      "sizeBytes": 1366,
       "locale": "eo"
     },
     {
       "id": "contact/isv/contact",
       "path": "contact/isv/contact.md",
-      "version": "1",
-      "sha256": "49857cf3a4d35c6367c1b939bd3db94c78ff0800f26115662d2f587aa6a3a503",
-      "sizeBytes": 450,
+      "version": "2",
+      "sha256": "12d0bb21a9512bf0c0a87e8cedef0670eecfcc7704507c2df9ca1f497c2ac0f2",
+      "sizeBytes": 1368,
       "locale": "isv"
     },
     {
       "id": "contact/isv_cyrl/contact",
       "path": "contact/isv_cyrl/contact.md",
-      "version": "1",
-      "sha256": "40cd05d2079e228ad6b8c58c01529ac015e84f251a67900f85d2b91802aff298",
-      "sizeBytes": 567,
+      "version": "2",
+      "sha256": "3651e96db928093f381fe8730de1b5f6e1b76635ebb95a1e651a6d99291c64cc",
+      "sizeBytes": 1751,
       "locale": "isv_cyrl"
     },
     {
       "id": "contact/isv_glag/contact",
       "path": "contact/isv_glag/contact.md",
-      "version": "1",
-      "sha256": "9af74273e678d02d43ebb76d67bb31ab568cd65f33b0f6e0d7a2b85e32802bea",
-      "sizeBytes": 567,
+      "version": "2",
+      "sha256": "327534a6abd51e893d55f643497e88c216738ef707ea9a8b7a66732b469efe52",
+      "sizeBytes": 1327,
       "locale": "isv_glag"
     },
     {

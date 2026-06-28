@@ -1,25 +1,46 @@
-# Контакт
+![Контакт](images/contact/contact_banner.jpg)
 
-Одѣл медицинскои биофизики  
-Медицинскы университет в Бiałystoku
+# Како доћи
 
-## Офисне часы
+Одељење медицинске биофизике налази се на адреси ul. Mickiewicza 2A у Бјалистоку. Доле фотографије показују пут до одељења и улаз у зграду.
 
-Понедѣлок–петок: 8:00–15:00
+![Department entrance with covered walkway](images/contact/location1.jpg)
 
-## Емail
+![Enter through the gate or walk toward the bus stop](images/contact/location2.jpg)
 
-[biofizyka@umb.edu.pl](mailto:biofizyka@umb.edu.pl)
+![Path to the Department of Medical Biophysics](images/contact/location3.jpg)
 
-## Телефон
+![Walk straight past the park, through the gate, then left along the building](images/contact/location4.jpg)
 
-+48 85 748 54 20
+![Entrance marked with a cross](images/contact/location5.jpg)
 
-## Адреса
+## Секретариат
 
-ul. Jana Kilińskiego 1  
-15-089 Białystok, Полска
+Секретариат обавља студентске послове у следећим терминима:
 
-## Мапа
+* **Понедељак:** 9:00–15:00
+* **Уторак:** затворено
+* **Среда:** затворено
+* **Четвртак:** 8:30–14:30
+* **Петак:** затворено
 
-[Сајт одѣла](https://www.umb.edu.pl/wl/zaklad-biofizyki) · [Отворити в Google Maps](https://www.google.com/maps/search/Medical+University+of+Bialystok)
+За хитне случајеве ван термина пишите на е-пошту.
+
+**[biofizyk@umb.edu.pl](mailto:biofizyk@umb.edu.pl)**
+
+## Контактни подаци
+
+* **Адреса:** ul. Mickiewicza 2A, 15-222 Białystok
+* **Телефон секретариата:** +48 85 748 56 67
+* **Е-пошта:** [biofizyk@umb.edu.pl](mailto:biofizyk@umb.edu.pl)
+
+## Шеф одељења
+
+**dr hab. Beata Modzelewska**
+
+* **Телефон:** +48 85 748 56 70
+* **Е-пошта:** [beata.modzelewska@umb.edu.pl](mailto:beata.modzelewska@umb.edu.pl)
+
+## Предавачи
+
+Контактирајте предаваче е-поштом. Адресе су у одељку **Staff**.

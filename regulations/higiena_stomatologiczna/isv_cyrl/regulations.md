@@ -1,4 +1,4 @@
-![Rules and Regulations](images/regulations/Rules_and_regulations.jpg)
+![Рулес анд Регулатионс](images/regulations/Rules_and_regulations.jpg)
 
 # Правидла а предписы
 

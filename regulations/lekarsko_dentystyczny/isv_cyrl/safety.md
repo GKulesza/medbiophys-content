@@ -1,19 +1,19 @@
-![Safety in the laboratory](images/regulations/Safety_in_the_laboratory.jpg)
+![Сафеты ин тхе лабораторы](images/regulations/Safety_in_the_laboratory.jpg)
 
-# Szkolenie BHP
+# Сзколение БХП
 
-**Zasady zachowania się studentów podczas ćwiczeń z Biofizyki.**
+**Засады зацхоwаниа сиę студентów подцзас ćwицзеń з Биофизыки.**
 
-1. Studentów obowiązują zasady BHP przedstawione na szkoleniu studentów rozpoczynających naukę w UMB.
-2. Przed wejściem na salę ćwiczeń studentów obowiązuje nałożenie **czystego** fartucha i zmiana obuwia.
-3. W pracowni mogą przebywać tylko studenci odrabiający ćwiczenia oraz osoba prowadząca zajęcia. Opuszczenie pomieszczenia przez studenta może się odbyć tylko za zgodą prowadzącego zajęcia.
-4. Studenci mogą wykonywać czynności zgodne z poleceniami prowadzącego zajęcia.
-5. W czasie poruszania się po laboratorium należy zachować szczególną ostrożność.
-6. W pomieszczeniach, w których odbywają się zajęcia należy zachować ciszę, spokój i porządek.
-7. Na zajęciach obowiązuje całkowity zakaz palenia papierosów (i e-papierosów) oraz zakaz spożywania napojów i posiłków, żucie gumy oraz korzystanie z telefonów komórkowych w salach ćwiczeniowych i wykładowych.
-8. Na stołach laboratoryjnych mogą znajdować się tylko niezbędne przyrządy i przybory.
-9. Wszelkiego rodzaju nieprawidłowości i nieprzewidziane zdarzenia (np. rozlanie odczynnika, uszkodzenie przyrządu) muszą być niezwłocznie zgłoszone prowadzącemu zajęcia.
-10. Zabrania się wynoszenia z pracowni jakichkolwiek odczynników, preparatów i próbek radioaktywnych.
-11. Wszystkie odczynniki należy pobierać przy użyciu pipet automatycznych.
-12. Aparatura i urządzenia mogą być obsługiwane pod nadzorem prowadzącego ćwiczenia lub za jego zgodą przy ścisłym przestrzeganiu zasad eksploatacji danego urządzenia.
-13. Zabrania się wykonywania samodzielnych napraw urządzeń i aparatury.
+1. Студентów обоwиąзујą засады БХП прзедстаwионе на сзколениу студентów розпоцзынајąцыцх наукę w УМБ.
+2. Прзед wејśцием на салę ćwицзеń студентów обоwиąзује наłоżение **цзыстего** фартуцха и змиана обуwиа.
+3. W працоwни могą прзебыwаć тылко студенци одрабиајąцы ćwицзениа ораз особа проwадзąца зајęциа. Опусзцзение помиесзцзениа прзез студента моżе сиę одбыć тылко за згодą проwадзąцего зајęциа.
+4. Студенци могą wыконыwаć цзынноśци згодне з полецениами проwадзąцего зајęциа.
+5. W цзасие порусзаниа сиę по лабораториум налеżы зацхоwаć сзцзегóлнą остроżноść.
+6. W помиесзцзениацх, w ктóрыцх одбыwајą сиę зајęциа налеżы зацхоwаć цисзę, спокóј и порзąдек.
+7. На зајęциацх обоwиąзује цаłкоwиты заказ палениа папиеросów (и е-папиеросów) ораз заказ споżыwаниа напојów и посиłкów, żуцие гумы ораз корзыстание з телефонów комóркоwыцх w салацх ćwицзениоwыцх и wыкłадоwыцх.
+8. На стоłацх лабораторыјныцх могą знајдоwаć сиę тылко ниезбęдне прзырзąды и прзыборы.
+9. Wсзелкиего родзају ниепраwидłоwоśци и ниепрзеwидзиане здарзениа (нп. розлание одцзынника, усзкодзение прзырзąду) мусзą быć ниезwłоцзние згłосзоне проwадзąцему зајęциа.
+10. Забраниа сиę wыносзениа з працоwни јакицхколwиек одцзынникów, препаратów и прóбек радиоактыwныцх.
+11. Wсзысткие одцзынники налеżы побиераć прзы уżыциу пипет аутоматыцзныцх.
+12. Апаратура и урзąдзениа могą быć обсłугиwане под надзорем проwадзąцего ćwицзениа луб за јего згодą прзы śцисłым прзестрзеганиу засад експлоатацји данего урзąдзениа.
+13. Забраниа сиę wыконыwаниа самодзиелныцх напраw урзąдзеń и апаратуры.

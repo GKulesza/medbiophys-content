@@ -1,4 +1,4 @@
-![Syllabus](images/regulations/Sylabus_biofiz.jpg)
+![Ⱁⱑⰻⰻⰰⰱⱃⱁ](images/regulations/Sylabus_biofiz.jpg)
 
 # Ⱀⰰⰴⰸⰾⰱⰸⰾⰻⰾⰳⰸⰰ ⰸ ⰾⱆⱅⱀⰾⰽⰰ ⱀⰰⰴⰸⰾⰻⰾⰳⰸⱆⰷⰽⰰ
 

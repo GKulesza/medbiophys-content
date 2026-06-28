@@ -9,12 +9,12 @@
     },
     {
       "id": "resource_handbook",
-      "title": "Handbook",
+      "title": "Studentsky podrěčnik",
       "description": "Studentsky podrěčnik dlja English Division."
     },
     {
       "id": "resource_theory_book",
-      "title": "Theory Book",
+      "title": "Podrěčnik teorije",
       "description": "Podrěčnik k laboratorijam iz biofiziky dlja English Division."
     },
     {
@@ -29,12 +29,12 @@
     },
     {
       "id": "resource_fundamentals_physics",
-      "title": "Fundamentals of Physics",
+      "title": "Osnovy fiziki",
       "description": "Učebnik Fundamentals of Physics avtorov Halliday, Resnick i Walker."
     },
     {
       "id": "resource_biophysics_intro",
-      "title": "Biophysics An Introduction",
+      "title": "Vvedenje v biofiziku",
       "description": "Učebnik Biophysics An Introduction avtora Rodney Cotterill."
     },
     {
@@ -49,7 +49,7 @@
     },
     {
       "id": "resource_popsci_video",
-      "title": "Popular science medicine MUB",
+      "title": "Popularna nauka o medicině UMB",
       "description": "Medicina jest univerzalna nauka, ktora gluboko vlije na život kazdago člověka. Jej složne izsledovanja trěbujut byti prěvedene v popularnu nauku, aby odpovědati očekivanjam obščestva i zapolniti proru v razuměnju."
     },
     {

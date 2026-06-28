@@ -1,19 +1,19 @@
-![Safety in the laboratory](images/regulations/Safety_in_the_laboratory.jpg)
+![Ⱁⰰⱄⰵⱂⱑ ⰸⰽ ⱂⱅⰵ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⱑ](images/regulations/Safety_in_the_laboratory.jpg)
 
-# Szkolenie BHP
+# Ⱁⰷⰺⰾⰻⰵⰽⰸⰵ ⰁⰕⰏ
 
-**Zasady zachowania się studentów podczas ćwiczeń z Biofizyki.**
+**Ⰷⰰⱁⰰⰴⱑ ⰷⰰⱆⱅⰾwⰰⰽⰸⰰ ⱁⰸę ⱁⱂⱃⰴⰵⰽⱂów ⰿⰾⰴⱆⰷⰰⱁ ćwⰸⱆⰷⰵń ⰷ Ⰱⰸⰾⱄⰸⰷⱑⰺⰸ.**
 
-1. Studentów obowiązują zasady BHP przedstawione na szkoleniu studentów rozpoczynających naukę w UMB.
-2. Przed wejściem na salę ćwiczeń studentów obowiązuje nałożenie **czystego** fartucha i zmiana obuwia.
-3. W pracowni mogą przebywać tylko studenci odrabiający ćwiczenia oraz osoba prowadząca zajęcia. Opuszczenie pomieszczenia przez studenta może się odbyć tylko za zgodą prowadzącego zajęcia.
-4. Studenci mogą wykonywać czynności zgodne z poleceniami prowadzącego zajęcia.
-5. W czasie poruszania się po laboratorium należy zachować szczególną ostrożność.
-6. W pomieszczeniach, w których odbywają się zajęcia należy zachować ciszę, spokój i porządek.
-7. Na zajęciach obowiązuje całkowity zakaz palenia papierosów (i e-papierosów) oraz zakaz spożywania napojów i posiłków, żucie gumy oraz korzystanie z telefonów komórkowych w salach ćwiczeniowych i wykładowych.
-8. Na stołach laboratoryjnych mogą znajdować się tylko niezbędne przyrządy i przybory.
-9. Wszelkiego rodzaju nieprawidłowości i nieprzewidziane zdarzenia (np. rozlanie odczynnika, uszkodzenie przyrządu) muszą być niezwłocznie zgłoszone prowadzącemu zajęcia.
-10. Zabrania się wynoszenia z pracowni jakichkolwiek odczynników, preparatów i próbek radioaktywnych.
-11. Wszystkie odczynniki należy pobierać przy użyciu pipet automatycznych.
-12. Aparatura i urządzenia mogą być obsługiwane pod nadzorem prowadzącego ćwiczenia lub za jego zgodą przy ścisłym przestrzeganiu zasad eksploatacji danego urządzenia.
-13. Zabrania się wykonywania samodzielnych napraw urządzeń i aparatury.
+1. Ⱁⱂⱃⰴⰵⰽⱂów ⰾⰱⰾwⰸąⰷⱃⰹą ⰷⰰⱁⰰⰴⱑ ⰁⰕⰏ ⰿⱀⰷⰵⰴⱁⱂⰰwⰸⰾⰽⰵ ⰽⰰ ⱁⰷⰺⰾⰻⰵⰽⰸⱃ ⱁⱂⱃⰴⰵⰽⱂów ⱀⰾⰷⰿⰾⱆⰷⱑⰽⰰⰹąⱆⱑⱆⱅ ⰽⰰⱃⰺę w ⰓⰌⰁ.
+2. Ⰿⱀⰷⰵⰴ wⰵⰹśⱆⰸⰵⰼ ⰽⰰ ⱁⰰⰻę ćwⰸⱆⰷⰵń ⱁⱂⱃⰴⰵⰽⱂów ⰾⰱⰾwⰸąⰷⱃⰹⰵ ⰽⰰłⰾżⰵⰽⰸⰵ **ⱆⰷⱑⱁⱂⰵⰳⰾ** ⱄⰰⱀⱂⱃⱆⱅⰰ ⰸ ⰷⰼⰸⰰⰽⰰ ⰾⰱⱃwⰸⰰ.
+3. W ⰿⱀⰰⱆⰾwⰽⰸ ⰼⰾⰳą ⰿⱀⰷⰵⰱⱑwⰰć ⱂⱑⰻⰺⰾ ⱁⱂⱃⰴⰵⰽⱆⰸ ⰾⰴⱀⰰⰱⰸⰰⰹąⱆⱑ ćwⰸⱆⰷⰵⰽⰸⰰ ⰾⱀⰰⰷ ⰾⱁⰾⰱⰰ ⰿⱀⰾwⰰⰴⰷąⱆⰰ ⰷⰰⰹęⱆⰸⰰ. Ⰾⰿⱃⱁⰷⱆⰷⰵⰽⰸⰵ ⰿⰾⰼⰸⰵⱁⰷⱆⰷⰵⰽⰸⰰ ⰿⱀⰷⰵⰷ ⱁⱂⱃⰴⰵⰽⱂⰰ ⰼⰾżⰵ ⱁⰸę ⰾⰴⰱⱑć ⱂⱑⰻⰺⰾ ⰷⰰ ⰷⰳⰾⰴą ⰿⱀⰾwⰰⰴⰷąⱆⰵⰳⰾ ⰷⰰⰹęⱆⰸⰰ.
+4. Ⱁⱂⱃⰴⰵⰽⱆⰸ ⰼⰾⰳą wⱑⰺⰾⰽⱑwⰰć ⱆⰷⱑⰽⰽⰾśⱆⰸ ⰷⰳⰾⰴⰽⰵ ⰷ ⰿⰾⰻⰵⱆⰵⰽⰸⰰⰼⰸ ⰿⱀⰾwⰰⰴⰷąⱆⰵⰳⰾ ⰷⰰⰹęⱆⰸⰰ.
+5. W ⱆⰷⰰⱁⰸⰵ ⰿⰾⱀⱃⱁⰷⰰⰽⰸⰰ ⱁⰸę ⰿⰾ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰸⱃⰼ ⰽⰰⰻⰵżⱑ ⰷⰰⱆⱅⰾwⰰć ⱁⰷⱆⰷⰵⰳóⰻⰽą ⰾⱁⱂⱀⰾżⰽⰾść.
+6. W ⰿⰾⰼⰸⰵⱁⰷⱆⰷⰵⰽⰸⰰⱆⱅ, w ⰺⱂóⱀⱑⱆⱅ ⰾⰴⰱⱑwⰰⰹą ⱁⰸę ⰷⰰⰹęⱆⰸⰰ ⰽⰰⰻⰵżⱑ ⰷⰰⱆⱅⰾwⰰć ⱆⰸⱁⰷę, ⱁⰿⰾⰺóⰹ ⰸ ⰿⰾⱀⰷąⰴⰵⰺ.
+7. Ⰽⰰ ⰷⰰⰹęⱆⰸⰰⱆⱅ ⰾⰱⰾwⰸąⰷⱃⰹⰵ ⱆⰰłⰺⰾwⰸⱂⱑ ⰷⰰⰺⰰⰷ ⰿⰰⰻⰵⰽⰸⰰ ⰿⰰⰿⰸⰵⱀⰾⱁów (ⰸ ⰵ-ⰿⰰⰿⰸⰵⱀⰾⱁów) ⰾⱀⰰⰷ ⰷⰰⰺⰰⰷ ⱁⰿⰾżⱑwⰰⰽⰸⰰ ⰽⰰⰿⰾⰹów ⰸ ⰿⰾⱁⰸłⰺów, żⱃⱆⰸⰵ ⰳⱃⰼⱑ ⰾⱀⰰⰷ ⰺⰾⱀⰷⱑⱁⱂⰰⰽⰸⰵ ⰷ ⱂⰵⰻⰵⱄⰾⰽów ⰺⰾⰼóⱀⰺⰾwⱑⱆⱅ w ⱁⰰⰻⰰⱆⱅ ćwⰸⱆⰷⰵⰽⰸⰾwⱑⱆⱅ ⰸ wⱑⰺłⰰⰴⰾwⱑⱆⱅ.
+8. Ⰽⰰ ⱁⱂⰾłⰰⱆⱅ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⱑⰹⰽⱑⱆⱅ ⰼⰾⰳą ⰷⰽⰰⰹⰴⰾwⰰć ⱁⰸę ⱂⱑⰻⰺⰾ ⰽⰸⰵⰷⰱęⰴⰽⰵ ⰿⱀⰷⱑⱀⰷąⰴⱑ ⰸ ⰿⱀⰷⱑⰱⰾⱀⱑ.
+9. Wⱁⰷⰵⰻⰺⰸⰵⰳⰾ ⱀⰾⰴⰷⰰⰹⱃ ⰽⰸⰵⰿⱀⰰwⰸⰴłⰾwⰾśⱆⰸ ⰸ ⰽⰸⰵⰿⱀⰷⰵwⰸⰴⰷⰸⰰⰽⰵ ⰷⰴⰰⱀⰷⰵⰽⰸⰰ (ⰽⰿ. ⱀⰾⰷⰻⰰⰽⰸⰵ ⰾⰴⱆⰷⱑⰽⰽⰸⰺⰰ, ⱃⱁⰷⰺⰾⰴⰷⰵⰽⰸⰵ ⰿⱀⰷⱑⱀⰷąⰴⱃ) ⰼⱃⱁⰷą ⰱⱑć ⰽⰸⰵⰷwłⰾⱆⰷⰽⰸⰵ ⰷⰳłⰾⱁⰷⰾⰽⰵ ⰿⱀⰾwⰰⰴⰷąⱆⰵⰼⱃ ⰷⰰⰹęⱆⰸⰰ.
+10. Ⰷⰰⰱⱀⰰⰽⰸⰰ ⱁⰸę wⱑⰽⰾⱁⰷⰵⰽⰸⰰ ⰷ ⰿⱀⰰⱆⰾwⰽⰸ ⰹⰰⰺⰸⱆⱅⰺⰾⰻwⰸⰵⰺ ⰾⰴⱆⰷⱑⰽⰽⰸⰺów, ⰿⱀⰵⰿⰰⱀⰰⱂów ⰸ ⰿⱀóⰱⰵⰺ ⱀⰰⰴⰸⰾⰰⰺⱂⱑwⰽⱑⱆⱅ.
+11. Wⱁⰷⱑⱁⱂⰺⰸⰵ ⰾⰴⱆⰷⱑⰽⰽⰸⰺⰸ ⰽⰰⰻⰵżⱑ ⰿⰾⰱⰸⰵⱀⰰć ⰿⱀⰷⱑ ⱃżⱑⱆⰸⱃ ⰿⰸⰿⰵⱂ ⰰⱃⱂⰾⰼⰰⱂⱑⱆⰷⰽⱑⱆⱅ.
+12. Ⰰⰿⰰⱀⰰⱂⱃⱀⰰ ⰸ ⱃⱀⰷąⰴⰷⰵⰽⰸⰰ ⰼⰾⰳą ⰱⱑć ⰾⰱⱁłⱃⰳⰸwⰰⰽⰵ ⰿⰾⰴ ⰽⰰⰴⰷⰾⱀⰵⰼ ⰿⱀⰾwⰰⰴⰷąⱆⰵⰳⰾ ćwⰸⱆⰷⰵⰽⰸⰰ ⰻⱃⰱ ⰷⰰ ⰹⰵⰳⰾ ⰷⰳⰾⰴą ⰿⱀⰷⱑ śⱆⰸⱁłⱑⰼ ⰿⱀⰷⰵⱁⱂⱀⰷⰵⰳⰰⰽⰸⱃ ⰷⰰⱁⰰⰴ ⰵⰺⱁⰿⰻⰾⰰⱂⰰⱆⰹⰸ ⰴⰰⰽⰵⰳⰾ ⱃⱀⰷąⰴⰷⰵⰽⰸⰰ.
+13. Ⰷⰰⰱⱀⰰⰽⰸⰰ ⱁⰸę wⱑⰺⰾⰽⱑwⰰⰽⰸⰰ ⱁⰰⰼⰾⰴⰷⰸⰵⰻⰽⱑⱆⱅ ⰽⰰⰿⱀⰰw ⱃⱀⰷąⰴⰷⰵń ⰸ ⰰⰿⰰⱀⰰⱂⱃⱀⱑ.

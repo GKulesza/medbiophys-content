@@ -1,4 +1,4 @@
-![Rules and Regulations](images/regulations/Rules_and_regulations.jpg)
+![Ⱀⱃⰻⰵⱁ ⰰⰽⰴ Ⱀⰵⰳⱃⰻⰰⱂⰸⰾⰽⱁ](images/regulations/Rules_and_regulations.jpg)
 
 # Ⰿřⰵⰴⰿⰸⱁⱑ ⰿⱀⰾ ⰲýⱃⰺⱃ ⰱⰸⰾⱄⱑⰷⰸⰺⱑ
 

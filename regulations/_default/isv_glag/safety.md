@@ -1,19 +1,19 @@
-![Safety in the laboratory](images/regulations/Safety_in_the_laboratory.jpg)
+![Ⱁⰰⱄⰵⱂⱑ ⰸⰽ ⱂⱅⰵ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⱑ](images/regulations/Safety_in_the_laboratory.jpg)
 
-# Szkolenie BHP
+# Ⰾⰱⱃⱇⰵⰽⰸⰵ ⰿⰾ ⰱⰵⰷⰿⰵⱇⰽⰾⱁⱂⰸ ⰸ ⰷⰴⱀⰰⰲⰹⱃ ⰿⱀⰸ ⰿⱀⰰⱆⰸ (ⰁⰕⰏ)
 
-**Zasady zachowania się studentów podczas ćwiczeń z Biofizyki.**
+**Ⰿⱀⰰⰲⰸⰻⰰ ⰿⰾⰲⰵⰴⰵⱘⰰ ⱁⱂⱃⰴⰵⰽⱂⰾⰲ ⰽⰰ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰽⱑⱅ ⰷⰰⱘⰰⱂⰹⰰⱅ ⰿⰾ ⰼⰵⰴⰸⱆⰸⰽⱁⰺⰾⰹ ⰱⰸⰾⱄⰸⰷⰸⰺⰸ.**
 
-1. Studentów obowiązują zasady BHP przedstawione na szkoleniu studentów rozpoczynających naukę w UMB.
-2. Przed wejściem na salę ćwiczeń studentów obowiązuje nałożenie **czystego** fartucha i zmiana obuwia.
-3. W pracowni mogą przebywać tylko studenci odrabiający ćwiczenia oraz osoba prowadząca zajęcia. Opuszczenie pomieszczenia przez studenta może się odbyć tylko za zgodą prowadzącego zajęcia.
-4. Studenci mogą wykonywać czynności zgodne z poleceniami prowadzącego zajęcia.
-5. W czasie poruszania się po laboratorium należy zachować szczególną ostrożność.
-6. W pomieszczeniach, w których odbywają się zajęcia należy zachować ciszę, spokój i porządek.
-7. Na zajęciach obowiązuje całkowity zakaz palenia papierosów (i e-papierosów) oraz zakaz spożywania napojów i posiłków, żucie gumy oraz korzystanie z telefonów komórkowych w salach ćwiczeniowych i wykładowych.
-8. Na stołach laboratoryjnych mogą znajdować się tylko niezbędne przyrządy i przybory.
-9. Wszelkiego rodzaju nieprawidłowości i nieprzewidziane zdarzenia (np. rozlanie odczynnika, uszkodzenie przyrządu) muszą być niezwłocznie zgłoszone prowadzącemu zajęcia.
-10. Zabrania się wynoszenia z pracowni jakichkolwiek odczynników, preparatów i próbek radioaktywnych.
-11. Wszystkie odczynniki należy pobierać przy użyciu pipet automatycznych.
-12. Aparatura i urządzenia mogą być obsługiwane pod nadzorem prowadzącego ćwiczenia lub za jego zgodą przy ścisłym przestrzeganiu zasad eksploatacji danego urządzenia.
-13. Zabrania się wykonywania samodzielnych napraw urządzeń i aparatury.
+1. Ⱁⱂⱃⰴⰵⰽⱂⱑ ⰾⰱⰵⰷⰰⰽⱑ ⱁⰾⰱľⱃⰴⰰⱂⰸ ⰿⱀⰰⰲⰸⰻⰰ ⰁⰕⰏ, ⰿⱀⰵⰴⱁⱂⰰⰲⰻⰵⰽⰽⱑⰹⰵ ⰽⰰ ⱃⰲⰾⰴⰽⰾⰼ ⰾⰱⱃⱇⰵⱘⱃ ⰴⱙⰰ ⰽⰾⰲⱑⱅ ⱁⱂⱃⰴⰵⰽⱂⰾⰲ ⰓⰌⰁ.
+2. Ⰿⰵⱀⰵⰴ ⰲⱅⰾⰴⰾⰼ ⰲ ⱃⱇⰵⰱⰽⱃⰹⱃ ⰺⰾⰼⰽⰰⱂⱃ ⱁⱂⱃⰴⰵⰽⱂⱑ ⰾⰱⰵⰷⰰⰽⱑ ⰽⰰⰴⱑⱂⰸ **ⱇⰸⱁⱂⱑⰹ** ⱅⰰⰻⰰⱂ ⰸ ⱁⰼⱑⰽⰸⱂⰸ ⰾⰱⱃⰲ.
+3. Ⰲ ⰿⰾⰼⱑⱈⱇⰵⰽⰸⰸ ⰼⰾⰳⱃⱂ ⰽⰰⱅⰾⰴⰸⱂⰸ ⱁⰵ ⱂⰾⰻⰺⰾ ⱁⱂⱃⰴⰵⰽⱂⱑ, ⰲⱑⰿⰾⰻⱘⰰⰹⱃⱈⱇⰸⰹⰵ ⱃⰿⱀⰰⰶⰽⰵⰽⰸⰹⰵ, ⰸ ⰿⱀⰵⰿⰾⰴⰰⰲⰰⱂⰵⰻ. Ⱁⱂⱃⰴⰵⰽⱂ ⰼⰾⰶⰵ ⰲⱑⰹⱂⰸ ⱂⰾⰻⰺⰾ ⱁ ⱀⰰⰷⱀⰵⱈⰵⰽⰸⰹⰰ ⰿⱀⰵⰿⰾⰴⰰⰲⰰⱂⰵⱙⰰ.
+4. Ⱁⱂⱃⰴⰵⰽⱂⱑ ⰼⰾⰳⱃⱂ ⰲⱑⰿⰾⰻⱘⰰⱂⰸ ⱂⰾⰻⰺⰾ ⰴⰵⰹⱁⱂⰲⰸⰹⰰ, ⱃⰺⰰⰷⰰⰽⰽⱑⰹⰵ ⰿⱀⰵⰿⰾⰴⰰⰲⰰⱂⰵⰻⰵⰼ.
+5. Ⰿⱀⰸ ⰿⰵⱀⰵⰴⰲⰸⰶⰵⰽⰸⰹⰸ ⰿⰾ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰸⰸ ⰽⱃⰶⰽⰾ ⱁⰾⰱⱙⱃⰴⰰⱂⰸ ⰾⱁⰾⰱⱃⰹⱃ ⰾⱁⱂⰾⱀⰾⰷⱅⰽⰾⱁⱂ.
+6. Ⰲ ⱃⱇⰵⰱⰽⱑⱅ ⰿⰾⰼⱑⱈⱇⰵⰽⰸⰹⰰⱅ ⰽⱃⰶⰽⰾ ⱁⰾⰱⱙⱃⰴⰰⱂⰸ ⱂⰸⱈⰸⰽⱃ, ⱁⰿⰾⰺⰾⰹⱁⱂⰲⰾ ⰸ ⰿⰾⱀⰹⰰⰴⰾⰺ.
+7. Ⰽⰰ ⰷⰰⱘⰰⱂⰹⰰⱅ ⰿⰾⰻⰽⰾⱁⱂⰹⱃ ⰷⰰⰿⱀⰵⱈⱇⰵⰽⰾ ⰺⱃⱀⰸⱂⰸ (ⰲⰺⱙⱃⱇⰰⰹⰰ ⰵ-ⱆⰸⰳⰰⱀⰵⱂⱑ), ⰹⰵⱁⱂ, ⰿⰸⱂ, ⰶⰵⰲⰰⱂ ⰶⰲⰰⰺⱃ ⰸ ⰺⰾⱀⰸⱁⱂⰰⱂⰸ ⰼⰾⰱⰸⰻⰽⱑⰹⰵ ⱂⰵⰻⰵⱄⰾⰽⱑ ⰲ ⱃⱇⰵⰱⰽⱑⱅ ⰸ ⰻⰵⰺⱆⰸⰾⰽⰽⱑⱅ ⰺⰾⰼⰽⰰⱂⰰⱅ.
+8. Ⰽⰰ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰽⱑⱅ ⱁⱂⰾⰻⰰⱅ ⰼⰾⰳⱃⱂ ⰽⰰⱅⰾⰴⰸⱂⰸ ⱁⰵ ⱂⰾⰻⰺⰾ ⰽⰵⰾⰱⱅⰾⰴⰸⰼⱑⰹⰵ ⰿⱀⰸⰱⰾⱀⱑ ⰸ ⰼⰰⱂⰵⱀⰸⰰⰻⱑ.
+9. Ⰲⱁⰵ ⰽⰵⰿⱀⰰⰲⰸⰻⰽⰾⱁⱂⰸ ⰸ ⰽⰵⰿⱀⰵⰴⰲⰸđⰵⰽⰽⱑⰹⰵ ⱁⰾⰱⱑⱂⰸⰹⰰ (ⰽⰰⰿⱀ. ⱀⰰⰷⰻⰸⱂⰸⰹⰵ ⱀⰵⰰⰳⰵⰽⱂⰰ, ⰿⰾⰲⱀⰵⰶⰴⰵⰽⰸⰹⰵ ⰿⱀⰸⰱⰾⱀⰰ) ⰴⰾⰻⰶⰽⱑ ⰱⱑⱂⰸ ⰽⰵⰼⰵⰴⰻⰵⰽⰽⰾ ⱁⰾⰾⰱⱈⱇⰵⰽⱑ ⰿⱀⰵⰿⰾⰴⰰⰲⰰⱂⰵⱙⱃ.
+10. Ⰷⰰⰿⱀⰵⱈⱇⰵⰽⰾ ⰲⱑносⰸⱂⰸ ⰸⰷ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰸⰸ ⰺⰰⰺⰸⰹⰵ-ⰻⰸⰱⰾ ⱀⰵⰰⰳⰵⰽⱂⱑ, ⰿⱀⰵⰿⰰⱀⰰⱂⱑ ⰸ ⱀⰰⰴⰸⰾⰰⰺⱂⰸⰲⰽⱑⰹⰵ ⰾⰱⱀⰰⰷⱆⱑ.
+11. Ⰲⱁⰵ ⱀⰵⰰⰳⰵⰽⱂⱑ ⰽⱃⰶⰽⰾ ⰱⱀⰰⱂⰸ ⱁ ⰿⰾⰼⰾⱈⱇⰹⱃ ⰰⰲⱂⰾⰼⰰⱂⰸⱆⱅⰵⱁⰺⰸⱅ ⰿⰸⰿⰵⱂⰾⰺ.
+12. Ⰰⰿⰿⰰⱀⰰⱂⱃⱀⱃ ⰼⰾⰶⰽⰾ ⰾⰱⱁⰻⱃⰶⰸⰲⰰⱂⰸ ⱂⰾⰻⰺⰾ ⰿⰾⰴ ⰽⰰⰴⰷⰾⱀⰾⰼ ⰿⱀⰵⰿⰾⰴⰰⰲⰰⱂⰵⱙⰰ ⰸⰻⰸ ⱁ ⰹⰵⰳⰾ ⱁⰾⰳⰻⰰⱁⰸⰹⰰ, ⱁⱂⱀⰾⰳⰾ ⱁⰾⰱľⱃⰴⰰⰹⰰ ⰿⱀⰰⰲⰸⰻⰰ ⰵⰺⱁⰿⰻⱃⰰⱂⰰⱆⰸⰸ ⰴⰰⰽⰾⰳⰾ ⱃⱁⱂⱀⰾⰹⱁⱂⰲⰰ.
+13. Ⰷⰰⰿⱀⰵⱈⱇⰵⰽⰾ ⱁⰰⰼⰾⱁⱂⰾⰹⰰⱂⰵⰻⰽⰾ ⱀⰵⰼⰾⰽⱂⰸⱀⰾⰲⰰⱂⰸ ⱃⱁⱂⱀⰾⰹⱁⱂⰲⰰ ⰸ ⰰⰿⰿⰰⱀⰰⱂⱃⱀⱃ.

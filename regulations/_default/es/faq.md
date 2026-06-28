@@ -1,29 +1,29 @@
 ![FAQ](images/regulations/Q_and_A.jpg)
 
-# Frequently Asked Questions
+# Preguntas frecuentes
 
-Answers to common questions about the Medical Biophysics course at UMB.
+Respuestas a las preguntas habituales sobre la asignatura de Biofísica Médica en la UMB.
 
-## When and where are laboratory classes held?
+## ¿Cuándo y dónde se realizan las prácticas de laboratorio?
 
-Laboratory classes take place at the Department of Medical Biophysics. Your group schedule lists the room and time for each session. Arrive on time and check the notice board if the room changes.
+Las prácticas tienen lugar en el Departamento de Biofísica Médica. La fecha y el aula figuran en el horario de tu grupo. Llega puntual y consulta el tablón de anuncios si cambia la sala.
 
-## What should I bring to the laboratory?
+## ¿Qué debo llevar al laboratorio?
 
-Bring your student ID, appropriate clothing for the lab, and any materials your instructor lists before the session. Read the assigned theory and complete preparatory calculations when they are required.
+Lleva el carné de estudiante, ropa adecuada para el laboratorio y los materiales que indique el profesor. Lee la teoría asignada y realiza los ejercicios preparatorios cuando sean obligatorios.
 
-## How is the course assessed?
+## ¿Cómo se evalúa la asignatura?
 
-Assessment combines laboratory work, a written test, and a final examination. See **Rules and Regulations** and the **Syllabus** in this section for point breakdowns and grading scales.
+La evaluación combina el trabajo en el laboratorio, una prueba escrita y un examen final. Consulta el **Reglamento de clases** y el **Programa de estudios** en esta sección para ver la puntuación y la escala de calificaciones.
 
-## What if I miss a laboratory class?
+## ¿Qué hago si falto a una práctica?
 
-Each absence must be justified according to university regulations. Missed laboratory work must be made up at a time agreed with the course teacher.
+Cada ausencia debe justificarse según el reglamento de la universidad. Las prácticas pendientes deben recuperarse en un plazo acordado con el profesor.
 
-## Where can I find formulas for the final exam?
+## ¿Dónde encuentro las fórmulas para el examen final?
 
-The **Resources** section includes a PDF with formulas for the biophysics final examination. Your laboratory workbook also lists key relationships used during classes.
+En la sección **Materiales** hay un PDF con fórmulas para el examen final de biofísica. Las relaciones clave también aparecen en el manual de prácticas de laboratorio.
 
-## Who should I contact with questions?
+## ¿A quién puedo dirigir mis preguntas?
 
-For course-specific questions, contact your laboratory instructor or the Department of Medical Biophysics. Contact details are listed under **Contact** in the app.
+Para dudas sobre la asignatura, contacta con el profesor de laboratorio o con el Departamento de Biofísica Médica. Los datos de contacto están en la sección **Contacto** de la aplicación.

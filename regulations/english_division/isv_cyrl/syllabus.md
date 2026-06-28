@@ -1,4 +1,4 @@
-![Syllabus](images/regulations/Sylabus_biofiz.jpg)
+![Сыллабус](images/regulations/Sylabus_biofiz.jpg)
 
 # Сылабус
 

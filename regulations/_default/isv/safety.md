@@ -1,19 +1,19 @@
 ![Safety in the laboratory](images/regulations/Safety_in_the_laboratory.jpg)
 
-# Szkolenie BHP
+# Obučenie po bezpečnosti i zdravju pri praci (BHP)
 
-**Zasady zachowania się studentów podczas ćwiczeń z Biofizyki.**
+**Pravila povedenja studentov na laboratornyh zanjatjah po medicinskoj biofiziki.**
 
-1. Studentów obowiązują zasady BHP przedstawione na szkoleniu studentów rozpoczynających naukę w UMB.
-2. Przed wejściem na salę ćwiczeń studentów obowiązuje nałożenie **czystego** fartucha i zmiana obuwia.
-3. W pracowni mogą przebywać tylko studenci odrabiający ćwiczenia oraz osoba prowadząca zajęcia. Opuszczenie pomieszczenia przez studenta może się odbyć tylko za zgodą prowadzącego zajęcia.
-4. Studenci mogą wykonywać czynności zgodne z poleceniami prowadzącego zajęcia.
-5. W czasie poruszania się po laboratorium należy zachować szczególną ostrożność.
-6. W pomieszczeniach, w których odbywają się zajęcia należy zachować ciszę, spokój i porządek.
-7. Na zajęciach obowiązuje całkowity zakaz palenia papierosów (i e-papierosów) oraz zakaz spożywania napojów i posiłków, żucie gumy oraz korzystanie z telefonów komórkowych w salach ćwiczeniowych i wykładowych.
-8. Na stołach laboratoryjnych mogą znajdować się tylko niezbędne przyrządy i przybory.
-9. Wszelkiego rodzaju nieprawidłowości i nieprzewidziane zdarzenia (np. rozlanie odczynnika, uszkodzenie przyrządu) muszą być niezwłocznie zgłoszone prowadzącemu zajęcia.
-10. Zabrania się wynoszenia z pracowni jakichkolwiek odczynników, preparatów i próbek radioaktywnych.
-11. Wszystkie odczynniki należy pobierać przy użyciu pipet automatycznych.
-12. Aparatura i urządzenia mogą być obsługiwane pod nadzorem prowadzącego ćwiczenia lub za jego zgodą przy ścisłym przestrzeganiu zasad eksploatacji danego urządzenia.
-13. Zabrania się wykonywania samodzielnych napraw urządzeń i aparatury.
+1. Studenty obezany sobľudati pravila BHP, predstavlennyje na uvodnom obučenju dlja novyh studentov UMB.
+2. Pered vhodom v učebnuju komnatu studenty obezany naděti **čistyj** halat i směniti obuv.
+3. V poměščenii mogut nahoditi se tolko studenty, vypolnjajuščije upražnenije, i prepodavatel. Student može vyjti tolko s razrešenija prepodavatelja.
+4. Studenty mogut vypolnjati tolko dejstvija, ukazannyje prepodavatelem.
+5. Pri peredviženiji po laboratorii nužno sobljudati osobuju ostorozhnost.
+6. V učebnyh poměščenijah nužno sobljudati tišinu, spokojstvo i porjadok.
+7. Na zanjatjah polnostju zapreščeno kuriti (vključaja e-cigarety), jest, pit, ževat žvaku i koristati mobilnyje telefony v učebnyh i lekcionnyh komnatah.
+8. Na laboratornyh stolah mogut nahoditi se tolko neobhodimyje pribory i materialy.
+9. Vse nepravilnosti i nepredviđennyje sobytija (napr. razlitije reagenta, povreždenije pribora) dolžny byti nemedlenno soobščeny prepodavatelju.
+10. Zapreščeno vyносiti iz laboratorii kakije-libo reagenty, preparaty i radioaktivnyje obrazcy.
+11. Vse reagenty nužno brati s pomoščju avtomaticheskih pipetok.
+12. Apparaturu možno obsluživati tolko pod nadzorom prepodavatelja ili s jego soglasija, strogo sobľudaja pravila ekspluatacii danogo ustrojstva.
+13. Zapreščeno samostojatelno remontirovati ustrojstva i apparaturu.

@@ -1,29 +1,29 @@
-![FAQ](images/regulations/Q_and_A.jpg)
+![ⰔⰀQ](images/regulations/Q_and_A.jpg)
 
-# Frequently Asked Questions
+# Ⱇⰵⱁⱂⰾ ⰷⰰⰴⰰⰲⰰⰹⰵⰼⱑⰹⰵ ⰲⰾⰿⱀⰾⱁⱑ
 
-Answers to common questions about the Medical Biophysics course at UMB.
+Ⰾⱂⰲⱑⱂⱑ ⰽⰰ ⱂⰸⰿⰸⱇⰽⱑⰹⰵ ⰲⰾⰿⱀⰾⱁⱑ ⰾ ⰺⱃⱀⱁⱃ ⰼⰵⰴⰸⱆⰸⰽⱁⰺⰵⰹ ⰱⰸⰾⱄⰸⰷⰸⰺⰸ ⰲ ⰓⰌⰁ.
 
-## When and where are laboratory classes held?
+## Ⰺⰾⰳⰴⰰ ⰸ ⰳⰴⰵ ⰿⱀⰾⱅⰾⰴⰹⰰⱂ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰽⱑⰹⰵ ⰷⰰⱘⰰⱂⰸⰹⰰ?
 
-Laboratory classes take place at the Department of Medical Biophysics. Your group schedule lists the room and time for each session. Arrive on time and check the notice board if the room changes.
+Ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰽⱑⰹⰵ ⰷⰰⱘⰰⱂⰸⰹⰰ ⰿⱀⰾⱅⰾⰴⰹⰰⱂ ⰲ ⰾⱂⰴⱑⰻⱃ ⰼⰵⰴⰸⱆⰸⰽⱁⰺⰵⰹ ⰱⰸⰾⱄⰸⰷⰸⰺⰸ. Ⰴⰰⱂⱃⰼ ⰸ ⰰⱃⰴⰸⱂⰾⱀⰸⰹⰰ ⱃⰺⰰⰷⰰⰽⱑ ⰲ ⱀⰰⱁⰿⰸⱁⰰⰽⰸⰸ ⰲⰰⱈⰵⰹ ⰳⱀⱃⰿⱑ. Ⰿⱀⰸⱅⰾⰴⰸⱂⰵ ⰲⰾⰲⱀⰵⰼⰹⰰ ⰸ ⰿⱀⰾⰲⰵⱀⰸⱂⰵ ⰴⰾⱁⰺⱃ ⰾⰱⰰⰲⰻⰵⰽⰸⰹ, ⰹⰵⱁⱂⰻⰸ ⰰⱃⰴⰸⱂⰾⱀⰸⰹⰰ ⰸⰷⰼⱑⰽⰸⰻⰰ ⱁⰵ.
 
-## What should I bring to the laboratory?
+## Ⱇⱂⰾ ⰲⰷⰹⰰⱂⰸ ⱁ ⱁⰾⰱⰾⰹ ⰲ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰸⰹⱃ?
 
-Bring your student ID, appropriate clothing for the lab, and any materials your instructor lists before the session. Read the assigned theory and complete preparatory calculations when they are required.
+Ⰲⰾⰷⰼⰸⱂⰵ ⱁⱂⱃⰴⰵⰽⱂⱁⰺⰸⰹ ⰱⰸⰻⰵⱂ, ⰾⰴⰵⰶⰴⱃ, ⰿⰾⰴⱅⰾⰴⰹⰰⱈⱇⱃⰹⱃ ⰴⱙⰰ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰸⰸ, ⰸ ⰼⰰⱂⰵⱀⰸⰰⰻⱑ, ⱃⰺⰰⰷⰰⰽⰽⱑⰹⰵ ⰿⱀⰵⰿⰾⰴⰰⰲⰰⱂⰵⰻⰵⰼ. Ⰿⱀⰾⱇⰸⱂⰰⰹⱂⰵ ⰽⰰⰷⰽⰰⱇⰵⰽⰽⱃⰹⱃ ⱂⰵⰾⱀⰸⰹⱃ ⰸ ⰲⱑⰿⰾⰻⰽⰸⱂⰵ ⰿⰾⰴⰳⰾⱂⰾⰲⰸⱂⰵⰻⰽⱑⰹⰵ ⰷⰰⰴⰰⰽⰸⰹⰰ, ⰺⰾⰳⰴⰰ ⰾⰽⰸ ⱂⱀⰵⰱⱃⰹⱃⱂⱁⰹⰰ.
 
-## How is the course assessed?
+## Ⰺⰰⰺ ⰾⱆⰵⰽⰸⰲⰰⰵⱂⱁⰹⰰ ⰺⱃⱀⱁ?
 
-Assessment combines laboratory work, a written test, and a final examination. See **Rules and Regulations** and the **Syllabus** in this section for point breakdowns and grading scales.
+Ⰾⱆⰵⰽⰺⰰ ⰲⰺⰻⰸⱃⱇⰰⰹⰵ ⱀⰰⰱⰾⱂⱃ ⰲ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰸⰸ, ⰿⰸⱁⰵⰼⰽⱑⰹ ⱂⰵⱁⱂ ⰸ ⰷⰰⰺⱙⱃⱇⰸⱂⰵⰻⰽⱑⰹ ⰵⰺⰷⰰⰼⰵⰽ. Ⰿⰾⰴⱀⰾⰱⰽⰾⱁⱂⰸ ⰾ ⰱⰰⰻⰻⰰⱅ ⰸ ⱈⰺⰰⰻⰵ ⰾⱆⰵⰽⰾⰺ ⱁⰼⰾⱂⱀⰸⱂⰵ ⰲ **Ⰿⱀⰰⰲⰸⰻⰰⱅ ⰷⰰⱘⰰⱂⰸⰹ** ⰸ **Ⱁⱑⰻⰰⰱⱃⱁⰵ** ⰲ ⱂⰵⰹ ⱁⰵⰺⱆⰸⰸ.
 
-## What if I miss a laboratory class?
+## Ⱇⱂⰾ ⰴⰵⰻⰰⱂⰸ, ⰹⰵⱁⱂⰻⰸ ⰹⰰ ⰿⱀⰾⰿⱃⱁⱂⰸⰻ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰸⰹⱃ?
 
-Each absence must be justified according to university regulations. Missed laboratory work must be made up at a time agreed with the course teacher.
+Ⰺⰰⰶⰴⰾⰵ ⰾⱂⱁⱃⱂⱁⱂⰲⰸⰹⰵ ⰴⰾⰻⰶⰽⰾ ⰱⱑⱂⰸ ⰾⰿⱀⰰⰲⰴⰰⰽⰾ ⱁⰾⰳⰻⰰⱁⰽⰾ ⰿⱀⰰⰲⰸⰻⰰⰼ ⱃⰽⰸⰲⰵⱀⱁⰸⱂⰵⱂⰰ. Ⰿⱀⰾⰿⱃⱈⱇⰵⰽⰽⱑⰹⰵ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰸⰸ ⰽⱃⰶⰽⰾ ⰾⱂработⰰⱂⰸ ⰲ ⱁⱀⰾⰺ, ⱁⰾⰳⰻⰰⱁⰾⰲⰰⰽⰽⱑⰹ ⱁ ⰿⱀⰵⰿⰾⰴⰰⰲⰰⱂⰵⰻⰵⰼ.
 
-## Where can I find formulas for the final exam?
+## Ⰳⰴⰵ ⰽⰰⰹⱂⰸ ⱄⰾⱀⰼⱃⰻⱑ ⰴⱙⰰ ⰷⰰⰺⱙⱃⱇⰸⱂⰵⰻⰽⰾⰳⰾ ⰵⰺⰷⰰⰼⰵⰽⰰ?
 
-The **Resources** section includes a PDF with formulas for the biophysics final examination. Your laboratory workbook also lists key relationships used during classes.
+Ⰲ ⱁⰵⰺⱆⰸⰸ **Ⰼⰰⱂⰵⱀⰸⰰⰻⱑ** ⰴⰾⱁⱂⱃⰿⰵⰽ ⰏⰄⰔ ⱁ ⱄⰾⱀⰼⱃⰻⰰⰼⰸ ⰴⱙⰰ ⰷⰰⰺⱙⱃⱇⰸⱂⰵⰻⰽⰾⰳⰾ ⰵⰺⰷⰰⰼⰵⰽⰰ ⰸⰷ ⰱⰸⰾⱄⰸⰷⰸⰺⰸ. Ⰺⱙⱃⱇⰵⰲⱑⰹⰵ ⰷⰰⰲⰸⱁⰸⰼⰾⱁⱂⰸ ⱂⰰⰺⰾⰶⰵ ⰲ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰽⰾⰼ ⰿⱀⰰⰺⱂⰸⰺⱃⰼⰵ.
 
-## Who should I contact with questions?
+## Ⰺ ⰺⰾⰼⱃ ⰾⰱⱀⰰⱈⱇⰰⱂⱁⰹⰰ ⱁ ⰲⰾⰿⱀⰾⱁⰰⰼⰸ?
 
-For course-specific questions, contact your laboratory instructor or the Department of Medical Biophysics. Contact details are listed under **Contact** in the app.
+Ⰿⰾ ⰲⰾⰿⱀⰾⱁⰰⰼ ⰺⱃⱀⱁⰰ ⰾⰱⱀⰰⱈⱇⰰⰹⱂⰵⱁ ⰺ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⰽⰾⰼⱃ ⰿⱀⰵⰿⰾⰴⰰⰲⰰⱂⰵⱙⱃ ⰸⰻⰸ ⰲ ⰾⱂⰴⱑⰻ ⰼⰵⰴⰸⱆⰸⰽⱁⰺⰵⰹ ⰱⰸⰾⱄⰸⰷⰸⰺⰸ. Ⰺⰾⰽⱂⰰⰺⱂⰽⱑⰹⰵ ⰴⰰⰽⰽⱑⰹⰵ ⰽⰰⰲⰵⰴⰵⰽⱑ ⰲ ⱁⰵⰺⱆⰸⰸ **Ⰺⰾⰽⱂⰰⰺⱂ** ⰲ ⰰⰿⰻⰸⰺⰰⱆⰸⰸ.

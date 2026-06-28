@@ -1,29 +1,29 @@
-![FAQ](images/regulations/Q_and_A.jpg)
+![ФАQ](images/regulations/Q_and_A.jpg)
 
-# Frequently Asked Questions
+# Фреqуентлы Аскед Qуестионс
 
-Answers to common questions about the Medical Biophysics course at UMB.
+Ансwерс то цоммон qуестионс абоут тхе Медицал Биопхысицс цоурсе ат УМБ.
 
-## When and where are laboratory classes held?
+## Wхен анд wхере аре лабораторы цлассес хелд?
 
-Laboratory classes take place at the Department of Medical Biophysics. Your group schedule lists the room and time for each session. Arrive on time and check the notice board if the room changes.
+Лабораторы цлассес таке плаце ат тхе Департмент оф Медицал Биопхысицс. Ыоур гроуп сцхедуле листс тхе роом анд тиме фор еацх сессион. Арриве он тиме анд цхецк тхе нотице боард иф тхе роом цхангес.
 
-## What should I bring to the laboratory?
+## Wхат схоулд И бринг то тхе лабораторы?
 
-Bring your student ID, appropriate clothing for the lab, and any materials your instructor lists before the session. Read the assigned theory and complete preparatory calculations when they are required.
+Бринг ыоур студент ИД, аппроприате цлотхинг фор тхе лаб, анд аны материалс ыоур инструцтор листс бефоре тхе сессион. Реад тхе ассигнед тхеоры анд цомплете препараторы цалцулатионс wхен тхеы аре реqуиред.
 
-## How is the course assessed?
+## Хоw ис тхе цоурсе ассессед?
 
-Assessment combines laboratory work, a written test, and a final examination. See **Rules and Regulations** and the **Syllabus** in this section for point breakdowns and grading scales.
+Ассессмент цомбинес лабораторы wорк, а wриттен тест, анд а финал еxаминатион. Сее **Рулес анд Регулатионс** анд тхе **Сыллабус** ин тхис сецтион фор поинт бреакдоwнс анд градинг сцалес.
 
-## What if I miss a laboratory class?
+## Wхат иф И мисс а лабораторы цласс?
 
-Each absence must be justified according to university regulations. Missed laboratory work must be made up at a time agreed with the course teacher.
+Еацх абсенце муст бе јустифиед аццординг то университы регулатионс. Миссед лабораторы wорк муст бе маде уп ат а тиме агреед wитх тхе цоурсе теацхер.
 
-## Where can I find formulas for the final exam?
+## Wхере цан И финд формулас фор тхе финал еxам?
 
-The **Resources** section includes a PDF with formulas for the biophysics final examination. Your laboratory workbook also lists key relationships used during classes.
+Тхе **Ресоурцес** сецтион инцлудес а ПДФ wитх формулас фор тхе биопхысицс финал еxаминатион. Ыоур лабораторы wоркбоок алсо листс кеы релатионсхипс усед дуринг цлассес.
 
-## Who should I contact with questions?
+## Wхо схоулд И цонтацт wитх qуестионс?
 
-For course-specific questions, contact your laboratory instructor or the Department of Medical Biophysics. Contact details are listed under **Contact** in the app.
+Фор цоурсе-специфиц qуестионс, цонтацт ыоур лабораторы инструцтор ор тхе Департмент оф Медицал Биопхысицс. Цонтацт детаилс аре листед ундер **Цонтацт** ин тхе апп.

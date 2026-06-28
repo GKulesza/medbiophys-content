@@ -9,12 +9,12 @@
     },
     {
       "id": "resource_handbook",
-      "title": "Handbook",
+      "title": "Manual del estudiante",
       "description": "Manual del estudiante para la English Division."
     },
     {
       "id": "resource_theory_book",
-      "title": "Theory Book",
+      "title": "Libro de teoría",
       "description": "Manual de laboratorio de biofísica para la English Division."
     },
     {
@@ -29,12 +29,12 @@
     },
     {
       "id": "resource_fundamentals_physics",
-      "title": "Fundamentals of Physics",
+      "title": "Fundamentos de física",
       "description": "Libro de texto: Fundamentals of Physics de Halliday, Resnick y Walker."
     },
     {
       "id": "resource_biophysics_intro",
-      "title": "Biophysics An Introduction",
+      "title": "Introducción a la biofísica",
       "description": "Libro de texto: Biophysics An Introduction de Rodney Cotterill."
     },
     {
@@ -49,7 +49,7 @@
     },
     {
       "id": "resource_popsci_video",
-      "title": "Popular science medicine MUB",
+      "title": "Divulgación científica en medicina UMB",
       "description": "La medicina es una ciencia universal que impacta profundamente la vida de todas las personas. Su investigación compleja debe traducirse a divulgación científica para responder a las expectativas del público y reducir la brecha de comprensión."
     },
     {

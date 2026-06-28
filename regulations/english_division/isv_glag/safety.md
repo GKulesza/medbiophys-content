@@ -1,19 +1,19 @@
-![Safety in the laboratory](images/regulations/Safety_in_the_laboratory.jpg)
+![Ⱁⰰⱄⰵⱂⱑ ⰸⰽ ⱂⱅⰵ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⱑ](images/regulations/Safety_in_the_laboratory.jpg)
 
-# Safety in the laboratory
+# Ⱁⰰⱄⰵⱂⱑ ⰸⰽ ⱂⱅⰵ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⱑ
 
-The laboratory is a safe place to experiment if you are careful. You must assume responsibility for the safety of yourself and others. Here are some safety rules to help guide you in protecting yourself and others from injury in the lab.
+Ⱂⱅⰵ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⱑ ⰸⱁ ⰰ ⱁⰰⱄⰵ ⰿⰻⰰⱆⰵ ⱂⰾ ⰵxⰿⰵⱀⰸⰼⰵⰽⱂ ⰸⱄ ⱑⰾⱃ ⰰⱀⰵ ⱆⰰⱀⰵⱄⱃⰻ. Yⰾⱃ ⰼⱃⱁⱂ ⰰⱁⱁⱃⰼⰵ ⱀⰵⱁⰿⰾⰽⱁⰸⰱⰸⰻⰸⱂⱑ ⱄⰾⱀ ⱂⱅⰵ ⱁⰰⱄⰵⱂⱑ ⰾⱄ ⱑⰾⱃⱀⱁⰵⰻⱄ ⰰⰽⰴ ⰾⱂⱅⰵⱀⱁ. Ⱅⰵⱀⰵ ⰰⱀⰵ ⱁⰾⰼⰵ ⱁⰰⱄⰵⱂⱑ ⱀⱃⰻⰵⱁ ⱂⰾ ⱅⰵⰻⰿ ⰳⱃⰸⰴⰵ ⱑⰾⱃ ⰸⰽ ⰿⱀⰾⱂⰵⱆⱂⰸⰽⰳ ⱑⰾⱃⱀⱁⰵⰻⱄ ⰰⰽⰴ ⰾⱂⱅⰵⱀⱁ ⱄⱀⰾⰼ ⰸⱘⱃⱀⱑ ⰸⰽ ⱂⱅⰵ ⰻⰰⰱ.
 
-1. You should enter the building of the Department of Medical Biophysics no earlier than 15 minutes before the start of the classes. On the premises of the Department of Medical Biophysics, protective masks or visors must be worn.
-2. After entering the building of the Department of Medical Biophysics, you should disinfect your hands.
-3. No outdoor shoes or sandals are allowed. Lab shoes or shoe covers and white lab coats are mandatory otherwise you will not be able to participate in the LAB!
-4. Coats, etc. must be left in the cloakroom. Students are not permitted to wear heavy outside coats or jackets to any laboratory.
-5. Do not perform experiments that are unauthorised. Always obtain your teacher's permission.
-6. Study your laboratory assignment before you come to the lab. If you are in doubt about any procedure ask your instructor for help.
-7. Know the location of the phone, fire extinguisher, fire blanket, first aid kit and emergency exit.
-8. Report any accident, injury or incorrect procedure to your teacher at once.
-9. Handle dangerous materials only under supervision of your teacher. If you spill acid or another corrosive substance, wash it off immediately with water.
-10. Keep combustible materials away from open flames.
-11. Never eat or drink anything in the lab.
-12. Place broken glass and solid substances in designated containers. Keep insoluble waste material out of the sink.
-13. When your laboratory work is completed, clean your work area. Return all materials and apparatus to their proper places.
+1. Yⰾⱃ ⱁⱅⰾⱃⰻⰴ ⰵⰽⱂⰵⱀ ⱂⱅⰵ ⰱⱃⰸⰻⰴⰸⰽⰳ ⰾⱄ ⱂⱅⰵ Ⰴⰵⰿⰰⱀⱂⰼⰵⰽⱂ ⰾⱄ Ⰼⰵⰴⰸⱆⰰⰻ Ⰱⰸⰾⰿⱅⱑⱁⰸⱆⱁ ⰽⰾ ⰵⰰⱀⰻⰸⰵⱀ ⱂⱅⰰⰽ 15 ⰼⰸⰽⱃⱂⰵⱁ ⰱⰵⱄⰾⱀⰵ ⱂⱅⰵ ⱁⱂⰰⱀⱂ ⰾⱄ ⱂⱅⰵ ⱆⰻⰰⱁⱁⰵⱁ. Ⰾⰽ ⱂⱅⰵ ⰿⱀⰵⰼⰸⱁⰵⱁ ⰾⱄ ⱂⱅⰵ Ⰴⰵⰿⰰⱀⱂⰼⰵⰽⱂ ⰾⱄ Ⰼⰵⰴⰸⱆⰰⰻ Ⰱⰸⰾⰿⱅⱑⱁⰸⱆⱁ, ⰿⱀⰾⱂⰵⱆⱂⰸⰲⰵ ⰼⰰⱁⰺⱁ ⰾⱀ ⰲⰸⱁⰾⱀⱁ ⰼⱃⱁⱂ ⰱⰵ wⰾⱀⰽ.
+2. Ⰰⱄⱂⰵⱀ ⰵⰽⱂⰵⱀⰸⰽⰳ ⱂⱅⰵ ⰱⱃⰸⰻⰴⰸⰽⰳ ⰾⱄ ⱂⱅⰵ Ⰴⰵⰿⰰⱀⱂⰼⰵⰽⱂ ⰾⱄ Ⰼⰵⰴⰸⱆⰰⰻ Ⰱⰸⰾⰿⱅⱑⱁⰸⱆⱁ, ⱑⰾⱃ ⱁⱅⰾⱃⰻⰴ ⰴⰸⱁⰸⰽⱄⰵⱆⱂ ⱑⰾⱃⱀ ⱅⰰⰽⰴⱁ.
+3. Ⰽⰾ ⰾⱃⱂⰴⰾⰾⱀ ⱁⱅⰾⰵⱁ ⰾⱀ ⱁⰰⰽⰴⰰⰻⱁ ⰰⱀⰵ ⰰⰻⰻⰾwⰵⰴ. Ⰻⰰⰱ ⱁⱅⰾⰵⱁ ⰾⱀ ⱁⱅⰾⰵ ⱆⰾⰲⰵⱀⱁ ⰰⰽⰴ wⱅⰸⱂⰵ ⰻⰰⰱ ⱆⰾⰰⱂⱁ ⰰⱀⰵ ⰼⰰⰽⰴⰰⱂⰾⱀⱑ ⰾⱂⱅⰵⱀwⰸⱁⰵ ⱑⰾⱃ wⰸⰻⰻ ⰽⰾⱂ ⰱⰵ ⰰⰱⰻⰵ ⱂⰾ ⰿⰰⱀⱂⰸⱆⰸⰿⰰⱂⰵ ⰸⰽ ⱂⱅⰵ ⰋⰀⰁ!
+4. Ⱆⰾⰰⱂⱁ, ⰵⱂⱆ. ⰼⱃⱁⱂ ⰱⰵ ⰻⰵⱄⱂ ⰸⰽ ⱂⱅⰵ ⱆⰻⰾⰰⰺⱀⰾⰾⰼ. Ⱁⱂⱃⰴⰵⰽⱂⱁ ⰰⱀⰵ ⰽⰾⱂ ⰿⰵⱀⰼⰸⱂⱂⰵⰴ ⱂⰾ wⰵⰰⱀ ⱅⰵⰰⰲⱑ ⰾⱃⱂⱁⰸⰴⰵ ⱆⰾⰰⱂⱁ ⰾⱀ ⰹⰰⱆⰺⰵⱂⱁ ⱂⰾ ⰰⰽⱑ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⱑ.
+5. Ⰴⰾ ⰽⰾⱂ ⰿⰵⱀⱄⰾⱀⰼ ⰵxⰿⰵⱀⰸⰼⰵⰽⱂⱁ ⱂⱅⰰⱂ ⰰⱀⰵ ⱃⰽⰰⱃⱂⱅⰾⱀⰸⱁⰵⰴ. Ⰰⰻwⰰⱑⱁ ⰾⰱⱂⰰⰸⰽ ⱑⰾⱃⱀ ⱂⰵⰰⱆⱅⰵⱀ'ⱁ ⰿⰵⱀⰼⰸⱁⱁⰸⰾⰽ.
+6. Ⱁⱂⱃⰴⱑ ⱑⰾⱃⱀ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⱑ ⰰⱁⱁⰸⰳⰽⰼⰵⰽⱂ ⰱⰵⱄⰾⱀⰵ ⱑⰾⱃ ⱆⰾⰼⰵ ⱂⰾ ⱂⱅⰵ ⰻⰰⰱ. Ⰸⱄ ⱑⰾⱃ ⰰⱀⰵ ⰸⰽ ⰴⰾⱃⰱⱂ ⰰⰱⰾⱃⱂ ⰰⰽⱑ ⰿⱀⰾⱆⰵⰴⱃⱀⰵ ⰰⱁⰺ ⱑⰾⱃⱀ ⰸⰽⱁⱂⱀⱃⱆⱂⰾⱀ ⱄⰾⱀ ⱅⰵⰻⰿ.
+7. Ⰺⰽⰾw ⱂⱅⰵ ⰻⰾⱆⰰⱂⰸⰾⰽ ⰾⱄ ⱂⱅⰵ ⰿⱅⰾⰽⰵ, ⱄⰸⱀⰵ ⰵxⱂⰸⰽⰳⱃⰸⱁⱅⰵⱀ, ⱄⰸⱀⰵ ⰱⰻⰰⰽⰺⰵⱂ, ⱄⰸⱀⱁⱂ ⰰⰸⰴ ⰺⰸⱂ ⰰⰽⰴ ⰵⰼⰵⱀⰳⰵⰽⱆⱑ ⰵxⰸⱂ.
+8. Ⱀⰵⰿⰾⱀⱂ ⰰⰽⱑ ⰰⱆⱆⰸⰴⰵⰽⱂ, ⰸⱘⱃⱀⱑ ⰾⱀ ⰸⰽⱆⰾⱀⱀⰵⱆⱂ ⰿⱀⰾⱆⰵⰴⱃⱀⰵ ⱂⰾ ⱑⰾⱃⱀ ⱂⰵⰰⱆⱅⰵⱀ ⰰⱂ ⰾⰽⱆⰵ.
+9. Ⱅⰰⰽⰴⰻⰵ ⰴⰰⰽⰳⰵⱀⰾⱃⱁ ⰼⰰⱂⰵⱀⰸⰰⰻⱁ ⰾⰽⰻⱑ ⱃⰽⰴⰵⱀ ⱁⱃⰿⰵⱀⰲⰸⱁⰸⰾⰽ ⰾⱄ ⱑⰾⱃⱀ ⱂⰵⰰⱆⱅⰵⱀ. Ⰸⱄ ⱑⰾⱃ ⱁⰿⰸⰻⰻ ⰰⱆⰸⰴ ⰾⱀ ⰰⰽⰾⱂⱅⰵⱀ ⱆⰾⱀⱀⰾⱁⰸⰲⰵ ⱁⱃⰱⱁⱂⰰⰽⱆⰵ, wⰰⱁⱅ ⰸⱂ ⰾⱄⱄ ⰸⰼⰼⰵⰴⰸⰰⱂⰵⰻⱑ wⰸⱂⱅ wⰰⱂⰵⱀ.
+10. Ⰺⰵⰵⰿ ⱆⰾⰼⰱⱃⱁⱂⰸⰱⰻⰵ ⰼⰰⱂⰵⱀⰸⰰⰻⱁ ⰰwⰰⱑ ⱄⱀⰾⰼ ⰾⰿⰵⰽ ⱄⰻⰰⰼⰵⱁ.
+11. Ⰽⰵⰲⰵⱀ ⰵⰰⱂ ⰾⱀ ⰴⱀⰸⰽⰺ ⰰⰽⱑⱂⱅⰸⰽⰳ ⰸⰽ ⱂⱅⰵ ⰻⰰⰱ.
+12. Ⰿⰻⰰⱆⰵ ⰱⱀⰾⰺⰵⰽ ⰳⰻⰰⱁⱁ ⰰⰽⰴ ⱁⰾⰻⰸⰴ ⱁⱃⰱⱁⱂⰰⰽⱆⰵⱁ ⰸⰽ ⰴⰵⱁⰸⰳⰽⰰⱂⰵⰴ ⱆⰾⰽⱂⰰⰸⰽⰵⱀⱁ. Ⰺⰵⰵⰿ ⰸⰽⱁⰾⰻⱃⰱⰻⰵ wⰰⱁⱂⰵ ⰼⰰⱂⰵⱀⰸⰰⰻ ⰾⱃⱂ ⰾⱄ ⱂⱅⰵ ⱁⰸⰽⰺ.
+13. Wⱅⰵⰽ ⱑⰾⱃⱀ ⰻⰰⰱⰾⱀⰰⱂⰾⱀⱑ wⰾⱀⰺ ⰸⱁ ⱆⰾⰼⰿⰻⰵⱂⰵⰴ, ⱆⰻⰵⰰⰽ ⱑⰾⱃⱀ wⰾⱀⰺ ⰰⱀⰵⰰ. Ⱀⰵⱂⱃⱀⰽ ⰰⰻⰻ ⰼⰰⱂⰵⱀⰸⰰⰻⱁ ⰰⰽⰴ ⰰⰿⰿⰰⱀⰰⱂⱃⱁ ⱂⰾ ⱂⱅⰵⰸⱀ ⰿⱀⰾⰿⰵⱀ ⰿⰻⰰⱆⰵⱁ.

@@ -1,29 +1,29 @@
-![FAQ](images/regulations/Q_and_A.jpg)
+![ФАQ](images/regulations/Q_and_A.jpg)
 
-# Frequently Asked Questions
+# Често задавајемыје вопросы
 
-Answers to common questions about the Medical Biophysics course at UMB.
+Отвєты на типичныје вопросы о курсу медицинскеј биофизики в УМБ.
 
-## When and where are laboratory classes held?
+## Когда и где проходјат лабораторныје зањатија?
 
-Laboratory classes take place at the Department of Medical Biophysics. Your group schedule lists the room and time for each session. Arrive on time and check the notice board if the room changes.
+Лабораторныје зањатија проходјат в отдєлу медицинскеј биофизики. Датум и аудиторија указаны в расписании вашеј групы. Приходите вовремја и проверите доску обавлениј, јестли аудиторија измєнила се.
 
-## What should I bring to the laboratory?
+## Что взјати с собој в лабораторију?
 
-Bring your student ID, appropriate clothing for the lab, and any materials your instructor lists before the session. Read the assigned theory and complete preparatory calculations when they are required.
+Возмите студентскиј билет, одежду, подходјашчују дља лаборатории, и материалы, указанныје преподавателем. Прочитајте назначеннују теорију и выполните подготовителныје заданија, когда они требујутсја.
 
-## How is the course assessed?
+## Как оцениваетсја курс?
 
-Assessment combines laboratory work, a written test, and a final examination. See **Rules and Regulations** and the **Syllabus** in this section for point breakdowns and grading scales.
+Оценка вклиучаје работу в лаборатории, писемныј тест и закључителныј екзамен. Подробности о баллах и шкале оценок смотрите в **Правилах зањатиј** и **Сылабусе** в теј секции.
 
-## What if I miss a laboratory class?
+## Что делати, јестли ја пропустил лабораторију?
 
-Each absence must be justified according to university regulations. Missed laboratory work must be made up at a time agreed with the course teacher.
+Каждое отсутствије должно быти оправдано согласно правилам университета. Пропушченныје лаборатории нужно отработати в срок, согласованныј с преподавателем.
 
-## Where can I find formulas for the final exam?
+## Где најти формулы дља закључителного екзамена?
 
-The **Resources** section includes a PDF with formulas for the biophysics final examination. Your laboratory workbook also lists key relationships used during classes.
+В секции **Материалы** доступен ПДФ с формулами дља закључителного екзамена из биофизики. Кључевыје зависимости такоже в лабораторном практикуме.
 
-## Who should I contact with questions?
+## К кому обрашчатсја с вопросами?
 
-For course-specific questions, contact your laboratory instructor or the Department of Medical Biophysics. Contact details are listed under **Contact** in the app.
+По вопросам курса обрашчајтес к лабораторному преподаватељу или в отдєл медицинскеј биофизики. Контактныје данныје наведены в секции **Контакт** в апликации.

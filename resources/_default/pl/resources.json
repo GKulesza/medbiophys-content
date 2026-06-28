@@ -9,12 +9,12 @@
     },
     {
       "id": "resource_handbook",
-      "title": "Handbook",
+      "title": "Podręcznik studenta",
       "description": "Podręcznik studenta English Division."
     },
     {
       "id": "resource_theory_book",
-      "title": "Theory Book",
+      "title": "Podręcznik teorii",
       "description": "Podręcznik do ćwiczeń z biofizyki dla kierunku English Division."
     },
     {
@@ -49,7 +49,7 @@
     },
     {
       "id": "resource_popsci_video",
-      "title": "Popular science medicine MUB",
+      "title": "Nauka popularna w medycynie UMB",
       "description": "Medycyna to uniwersalna nauka, która głęboko wpływa na życie każdego człowieka. Jej złożone badania muszą być przekładane na język popularnonaukowy, aby sprostać oczekiwaniom społeczeństwa i wypełnić lukę w zrozumieniu."
     },
     {

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentSetId": "2026-06-28-content",
-  "publishedAt": "2026-06-28T10:36:05Z",
+  "publishedAt": "2026-06-28T11:08:43Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -4824,9 +4824,9 @@
     {
       "id": "images/regulations/Rules_and_regulations.jpg",
       "path": "images/regulations/Rules_and_regulations.jpg",
-      "version": "1",
-      "sha256": "bdb35ca27cea661c33c19cdee93c22ec194794648dd53f6ecf17224d82dffe98",
-      "sizeBytes": 137681,
+      "version": "2",
+      "sha256": "efa2fc1e1f9824241428ecf121beef98340d36b31757eda6e4d7cb5a9321a163",
+      "sizeBytes": 96198,
       "locale": "regulations"
     },
     {

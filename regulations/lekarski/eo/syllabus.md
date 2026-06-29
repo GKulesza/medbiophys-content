@@ -1,96 +1,96 @@
 ![Syllabus](images/regulations/Sylabus_biofiz.jpg)
 
-# Biofizyka
+# Biofiziko
 
-## Podstawowe informacje
+## Bazaj informoj
 
-* **Kierunek:** Lekarski
-* **Rok studiów:** I
-* **Semestr:** 1
-* **Forma studiów:** stacjonarne i niestacjonarne
-* **Punkty ECTS:** 3,5
+* **Studfako:** Medicino
+* **Studjaro:** I
+* **Semestro:** 1
+* **Studmaniero:** ĉeestado kaj neĉeestado
+* **ECTS-kreditpunktoj:** 3,5
 
-### Liczba godzin
+### Kontaktaj horoj
 
-* 📖 Wykłady – **10 h**
-* 💬 Seminaria – **10 h**
-* 🧪 Ćwiczenia laboratoryjne – **25 h**
-
----
-
-## O przedmiocie
-
-Biofizyka stanowi pomost pomiędzy naukami podstawowymi a medycyną. Podczas zajęć poznasz prawa fizyki i zjawiska biofizyczne wykorzystywane do wyjaśniania funkcjonowania organizmu człowieka oraz zrozumiesz fizyczne podstawy współczesnych metod diagnostycznych i terapeutycznych.
+* 📖 Prelegoj – **10 h**
+* 💬 Seminaroj – **10 h**
+* 🧪 Laboratoriaj praktikoj – **25 h**
 
 ---
 
-## Czego się nauczysz?
+## Pri la kurso
 
-Po ukończeniu kursu będziesz potrafił:
-
-* wyjaśnić biofizyczne podstawy funkcjonowania komórek, tkanek i narządów,
-* rozumieć mechanizmy działania czynników fizycznych na organizm człowieka,
-* interpretować podstawowe zjawiska biofizyczne zachodzące w organizmie,
-* rozumieć fizyczne podstawy nowoczesnych metod diagnostycznych i terapeutycznych,
-* bezpiecznie pracować z promieniowaniem jonizującym i znać zasady ochrony radiologicznej,
-* analizować wyniki prostych eksperymentów laboratoryjnych.
+Biofiziko estas ponto inter bazaj sciencoj kaj medicino. Dum la kurso vi lernos fizikajn leĝojn kaj biofizikajn fenomenojn por klarigi kiel funkcias la homa korpo, kaj komprenos la fizikajn fundamentojn de modernaj diagnozaj kaj kuracaj metodoj.
 
 ---
 
-## Tematyka zajęć
+## Lernaj rezultoj
 
-Podczas kursu omawiane są między innymi:
+Post la kurso vi kapablos:
 
-* układ krążenia i prawa przepływu cieczy,
-* termodynamika organizmu,
-* błony biologiczne i transport przez błony,
-* bioelektryczność,
-* przewodzenie impulsów nerwowych,
-* biofizyka mięśni,
-* wpływ temperatury na organizm,
-* rezonans magnetyczny (MRI),
-* promieniowanie jonizujące i jego zastosowanie w medycynie,
-* ochrona radiologiczna,
-* metody detekcji promieniowania,
-* biofizyka słuchu i audiometria,
-* elektrokardiografia (EKG),
-* pomiar ciśnienia tętniczego,
-* ultradźwięki i efekt Dopplera,
-* metody spektrometryczne i refraktometryczne,
-* optyka oka,
-* analiza sygnałów biomedycznych z wykorzystaniem komputera.
+* klarigi la biofizikajn bazojn de funkcio de ĉeloj, histoj kaj organoj,
+* kompreni kiel fizikaj faktoroj agas sur la homan korpon,
+* interpreti bazajn biofizikajn fenomenojn en la korpo,
+* kompreni la fizikajn fundamentojn de modernaj diagnozaj kaj kuracaj metodoj,
+* sekure labori kun jonizanta radiado kaj koni principojn de radiologia protekto,
+* analizi rezultojn de simplaj laboratoriaj eksperimentoj.
 
 ---
 
-## Literatura
+## Temoj de la kurso
 
-### Podstawowa
+La kurso inter aliaj traktas:
+
+* la sangocirkulan sistemon kaj leĝojn de fluida fluo,
+* termodinamikon de la korpo,
+* biologiajn membranojn kaj transporton tra membranoj,
+* bioelektecon,
+* kondukon de nervaj impulsoj,
+* muskola biofiziko,
+* efikon de temperaturo sur la korpon,
+* magnetan resonancon (MRT),
+* jonizantan radiadon kaj ĝian uzon en medicino,
+* radiologian protekton,
+* metodojn por detekti radiadon,
+* biofizikon de aŭdo kaj audiometrion,
+* elektrokardiografion (EKG),
+* mezuradon de sangopremo,
+* ultrasonon kaj Dopleran efikon,
+* spektrometriajn kaj refraktometriajn metodojn,
+* optikon de la okulo,
+* komputilan analizon de biomedikaj signaloj.
+
+---
+
+## Literaturo
+
+### Ĉefa
 
 * Kubisz L. **Biofizyka.** PZWL, Warszawa, 2024.
-* *Materiały do ćwiczeń z biofizyki* pod red. A. Kostrzewskiej.
+* *Materiały do ćwiczeń z biofizyki* sub redakto de A. Kostrzewska.
 
-### Uzupełniająca
+### Plia
 
 * Jaroszyk F. (red.) **Biofizyka. Podręcznik dla studentów.**
 * Hewitt P.G. **Fizyka wokół nas.**
 
 ---
 
-## Zaliczenie przedmiotu
+## Taksado
 
-Przedmiot obejmuje:
+La kurso inkluzivas:
 
-* wykłady,
-* seminaria,
-* ćwiczenia laboratoryjne,
-* egzamin końcowy.
+* prelegojn,
+* seminarojn,
+* laboratoriajn praktikojn,
+* finan ekzamenon.
 
-Do egzaminu można przystąpić po:
+Vi povas prezentiĝi al la ekzameno post:
 
-* zaliczeniu wszystkich ćwiczeń laboratoryjnych,
-* zaliczeniu seminariów,
-* zaliczeniu wykładów.
+* pasado de ĉiuj laboratoriaj praktikoj,
+* pasado de seminaroj,
+* pasado de prelegoj.
 
-Podczas ćwiczeń wymagane jest przygotowanie teoretyczne, wykonanie doświadczeń oraz opracowanie wyników w zeszycie ćwiczeń.
+Ĉe la praktikoj postuliĝas teoria preparo, farado de eksperimentoj kaj prilaborado de rezultoj en la laboratorio kajnotlibro.
 
-Szczegółowe zasady oceniania, obecności oraz popraw znajdują się w zakładce **Regulations**.
+Detalaj reguloj pri notado, ĉeesto kaj retaksoj troviĝas en la langeto **Regulations**.

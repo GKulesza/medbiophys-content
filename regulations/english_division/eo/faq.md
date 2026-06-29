@@ -1,29 +1,29 @@
 ![FAQ](images/regulations/Q_and_A.jpg)
 
-# Frequently Asked Questions
+# Oftaj demandoj
 
-Answers to common questions about the Medical Biophysics course at UMB.
+Respondoj al oftaj demandoj pri la kurso de Medicina Biofiziko ĉe UMB.
 
-## When and where are laboratory classes held?
+## Kiam kaj kie okazas laboratoriaj klasoj?
 
-Laboratory classes take place at the Department of Medical Biophysics. Your group schedule lists the room and time for each session. Arrive on time and check the notice board if the room changes.
+Laboratoriaj klasoj okazas ĉe la Fako de Medicina Biofiziko. La horaro de via grupo montras la ĉambron kaj tempon de ĉiu sesio. Alvenu ĝustatempe kaj kontrolu la anonctabulon, se la ĉambro ŝanĝiĝas.
 
-## What should I bring to the laboratory?
+## Kion mi devas kunporti al la laboratorio?
 
-Bring your student ID, appropriate clothing for the lab, and any materials your instructor lists before the session. Read the assigned theory and complete preparatory calculations when they are required.
+Kunportu vian studentan identigilon, taŭgan laboratorian veston kaj la materialojn, kiujn la instruisto listigas antaŭ la sesio. Legu la asignitan teorion kaj faru preparajn kalkulojn kiam ili estas postulataj.
 
-## How is the course assessed?
+## Kiel oni taksas la kurson?
 
-Assessment combines laboratory work, a written test, and a final examination. See **Rules and Regulations** and the **Syllabus** in this section for point breakdowns and grading scales.
+Taksado kombinas laboratorian laboron, skriban teston kaj finan ekzamenon. Vidu **Regulojn** kaj la **Programon** en ĉi tiu sekcio por detaloj pri poentoj kaj notskaloj.
 
-## What if I miss a laboratory class?
+## Kio okazas, se mi maltrafas laboratorian klason?
 
-Each absence must be justified according to university regulations. Missed laboratory work must be made up at a time agreed with the course teacher.
+Ĉiu foresto devas esti pravigita laŭ universitataj reguloj. Maltrafita laboratorio laboro devas esti reprenita je tempo interkonsentita kun la instruisto.
 
-## Where can I find formulas for the final exam?
+## Kie mi trovas formulojn por la fina ekzameno?
 
-The **Resources** section includes a PDF with formulas for the biophysics final examination. Your laboratory workbook also lists key relationships used during classes.
+La sekcio **Rimedoj** inkluzivas PDF-on kun formuloj por la fina biofizika ekzameno. Via laboratorio kajnotlibro ankaŭ listigas ŝlosilajn rilatojn uzatajn dum la klasoj.
 
-## Who should I contact with questions?
+## Al kiu mi turnu min kun demandoj?
 
-For course-specific questions, contact your laboratory instructor or the Department of Medical Biophysics. Contact details are listed under **Contact** in the app.
+Por demandoj pri la kurso, kontaktu vian laboratorian instruiston aŭ la Fakon de Medicina Biofiziko. Kontaktaj detaloj estas sub **Kontakto** en la aplikaĵo.

@@ -1,0 +1,2130 @@
+{
+  "schemaVersion": 1,
+  "locale": "en",
+  "tasks": [
+    {
+      "id": "em_001",
+      "category": "EM",
+      "difficulty": 1,
+      "type": "open",
+      "question": "A defibrillator delivers a biphasic shock through paddles on the chest. Name the two electrical quantities that quantify the shock delivered to the tissue.",
+      "answer": "Voltage (potential difference) and energy (joules in the pulse). Clinicians select energy; the voltage across the chest depends on tissue impedance.",
+      "assets": [],
+      "tags": [
+        "defibrillator",
+        "energy"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_002",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "An ECG lead measures the potential difference between two electrodes. Why is a right-leg electrode often used as a reference instead of an active recording lead?",
+      "answer": "It sits near body potential and gives the amplifier a stable reference, improving common-mode rejection so small cardiac signals can be measured with less noise.",
+      "assets": [],
+      "tags": [
+        "ecg",
+        "electrodes",
+        "reference"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_003",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "A pacemaker senses R waves and inhibits its own pacing spikes when intrinsic rhythm is present. What clinical problem appears if sensitivity is set too high?",
+      "answer": "Oversensing: T waves, muscle artefact, or interference are counted as R waves, so pacing is inhibited inappropriately and the patient may become bradycardic.",
+      "assets": [],
+      "tags": [
+        "pacemaker",
+        "sensing"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_004",
+      "category": "EM",
+      "difficulty": 1,
+      "type": "open",
+      "question": "A pulse oximeter clips onto a fingertip and reports oxygen saturation. What physical property of arterial blood does it compare at two wavelengths?",
+      "answer": "Light absorption (or optical density). Oxyhaemoglobin and deoxyhaemoglobin absorb red and infrared light differently, and the pulsatile arterial component is used to estimate SpO₂.",
+      "assets": [],
+      "tags": [
+        "pulse-oximetry",
+        "optics"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_005",
+      "category": "EM",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Why is conductive gel placed between an ECG electrode and the skin?",
+      "answer": "It fills air gaps and lowers contact impedance so the electrode couples efficiently to the skin and the ECG signal is not attenuated.",
+      "assets": [],
+      "tags": [
+        "ecg",
+        "electrodes",
+        "impedance"
+      ],
+      "estimatedMinutes": 2,
+      "version": 1
+    },
+    {
+      "id": "em_006",
+      "category": "EM",
+      "difficulty": 1,
+      "type": "open",
+      "question": "In biopotential recording, what is the main purpose of a patient ground or reference connection?",
+      "answer": "It ties the measurement system to the patient's body potential for safety and noise reduction, helping the amplifier reject common-mode interference.",
+      "assets": [],
+      "hint": "Think about what happens when the amplifier and patient sit at different potentials.",
+      "tags": [
+        "grounding",
+        "safety",
+        "ecg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_007",
+      "category": "EM",
+      "difficulty": 1,
+      "type": "open",
+      "question": "At typical TENS therapy intensities, which nerve fibres are mainly recruited: large sensory fibres or motor fibres driving strong muscle contraction?",
+      "answer": "Large sensory (afferent) fibres. TENS is usually set below motor threshold to stimulate sensory pathways for pain modulation.",
+      "assets": [],
+      "tags": [
+        "tens",
+        "pain"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_008",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "In a standard limb lead ECG, why does lead II often show a relatively tall R wave in healthy adults?",
+      "answer": "The mean electrical axis of ventricular depolarization projects strongly toward the positive electrode of lead II (left leg relative to right arm).",
+      "assets": [],
+      "hint": "Relate the lead vector to the direction of ventricular depolarization.",
+      "tags": [
+        "ecg",
+        "cardiac-axis"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "em_009",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Why is poor skin contact a problem for external defibrillation pads?",
+      "answer": "High contact impedance wastes delivered energy as heat at the skin, risks burns, and reduces current through the heart so defibrillation may fail.",
+      "assets": [],
+      "tags": [
+        "defibrillator",
+        "impedance"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_010",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "What biophysical signal does surface EMG primarily record?",
+      "answer": "The summed extracellular electrical activity of muscle fibres (motor units) near the electrodes during contraction.",
+      "assets": [],
+      "tags": [
+        "emg",
+        "muscle"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_011",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Short-wave or microwave diathermy delivers high-frequency electromagnetic energy to tissue. What therapeutic effect is intended?",
+      "answer": "Deep heating of tissue, which increases blood flow and can relieve pain or stiffness in physical therapy.",
+      "assets": [],
+      "tags": [
+        "diathermy",
+        "heating"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_012",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "If a demand pacemaker's sensing threshold is set too low (insufficient sensitivity), what sensing failure can occur?",
+      "answer": "Undersensing: intrinsic R waves are missed, so the pacemaker may pace on top of intrinsic beats or fail to inhibit when it should.",
+      "assets": [],
+      "hint": "Contrast this with oversensing in em_003.",
+      "tags": [
+        "pacemaker",
+        "sensing"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_013",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Why can a very small leakage current through an indwelling cardiac catheter pose a greater arrhythmia risk than macroshock across intact chest skin?",
+      "answer": "Microshock: current is delivered directly to the heart along a low-impedance pathway, so microamperes can induce ventricular fibrillation.",
+      "assets": [],
+      "hint": "Compare the current density reaching myocardium in each situation.",
+      "tags": [
+        "microshock",
+        "safety"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "em_014",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Why does patient movement often produce artefact on a surface ECG trace?",
+      "answer": "Movement changes skin–electrode contact and the impedance of the electrode–gel–skin interface, creating voltage fluctuations that mimic cardiac signal.",
+      "assets": [],
+      "tags": [
+        "ecg",
+        "artefact",
+        "impedance"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_015",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Name one clinical advantage of biphasic defibrillation waveforms over older monophasic shocks.",
+      "answer": "Biphasic shocks achieve defibrillation at lower selected energy, reducing myocardial injury while maintaining efficacy.",
+      "assets": [],
+      "tags": [
+        "defibrillator",
+        "waveform"
+      ],
+      "estimatedMinutes": 3,
+      "version": 1
+    },
+    {
+      "id": "em_016",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "During poor peripheral perfusion or vasoconstriction, pulse oximetry readings become unreliable. What signal feature is weakened?",
+      "answer": "The pulsatile (AC) component of transmitted light. Without a strong arterial pulse waveform, the device cannot reliably separate arterial absorption from venous and tissue background.",
+      "assets": [],
+      "hint": "Pulse oximeters rely on changes synchronized with each heartbeat.",
+      "tags": [
+        "pulse-oximetry",
+        "perfusion"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_017",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "In electrosurgery, why is a concentrated return electrode (patient plate) used instead of letting current exit through any grounded surface?",
+      "answer": "It lowers current density at the exit site and confines the return path, reducing the risk of stray burns at unintended grounding points.",
+      "assets": [],
+      "tags": [
+        "diathermy",
+        "safety",
+        "grounding"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_018",
+      "category": "EM",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Why must a biopotential amplifier present a very high input impedance at its recording electrodes?",
+      "answer": "The electrode–skin interface has high impedance; a low amplifier input impedance would form a voltage divider and severely attenuate the small bioelectric signal.",
+      "assets": [],
+      "hint": "Model the electrode impedance and amplifier input as a divider.",
+      "tags": [
+        "amplifier",
+        "impedance",
+        "ecg"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "em_019",
+      "category": "EM",
+      "difficulty": 4,
+      "type": "open",
+      "question": "How does the primary therapeutic role of an implantable cardioverter-defibrillator (ICD) differ from a standard pacemaker?",
+      "answer": "An ICD can detect ventricular tachyarrhythmias and deliver high-energy shocks for defibrillation or cardioversion; a pacemaker primarily provides low-energy pacing.",
+      "assets": [],
+      "tags": [
+        "icd",
+        "pacemaker",
+        "defibrillator"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_020",
+      "category": "EM",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Mains-frequency (50/60 Hz) interference often appears on ECG recordings. Name one coupling mechanism and one practical way to reduce it.",
+      "answer": "Coupling can be capacitive or magnetic from nearby power lines and equipment. Reduction methods include shielded cables, proper grounding, right-leg drive, and notch filtering.",
+      "assets": [],
+      "hint": "The interference frequency matches the AC power line.",
+      "tags": [
+        "ecg",
+        "interference",
+        "noise"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "em_021",
+      "category": "EM",
+      "difficulty": 4,
+      "type": "open",
+      "question": "During vigorous exercise, EMG artefact can contaminate a simultaneously recorded ECG. Why do the signals overlap in the recorded trace?",
+      "answer": "Both potentials are picked up by surface electrodes and share similar frequency content; muscle potentials are much larger and can swamp the millivolt-scale cardiac signal.",
+      "assets": [],
+      "tags": [
+        "emg",
+        "ecg",
+        "artefact"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_022",
+      "category": "EM",
+      "difficulty": 4,
+      "type": "open",
+      "question": "According to gate-control theory, how can high-frequency TENS reduce pain perception?",
+      "answer": "It activates large-diameter Aβ sensory fibres, which inhibit transmission of nociceptive signals in the spinal dorsal horn ('closing the gate').",
+      "assets": [],
+      "tags": [
+        "tens",
+        "pain",
+        "neurophysiology"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "em_023",
+      "category": "EM",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Why is MRI generally hazardous for patients with older non-MRI-conditional pacemaker leads even when the device is programmed off?",
+      "answer": "Time-varying magnetic fields can induce heating and voltages in the lead, causing tissue damage or inappropriate pacing/shocks; ferromagnetic components may also be displaced.",
+      "assets": [],
+      "tags": [
+        "pacemaker",
+        "mri",
+        "safety"
+      ],
+      "estimatedMinutes": 6,
+      "version": 1
+    },
+    {
+      "id": "em_024",
+      "category": "EM",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Before applying ECG electrodes, skin is often cleaned with alcohol, lightly abraded, and dried. Explain the purpose of each step for measurement quality.",
+      "answer": "Alcohol removes oils and sweat; abrasion thins the stratum corneum to lower skin impedance; drying ensures adhesive contact and stable gel coupling.",
+      "assets": [
+        "workshop_lab.png"
+      ],
+      "hint": "The outer dead layer of skin is a poor conductor.",
+      "tags": [
+        "electrodes",
+        "skin-prep",
+        "lab"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "em_025",
+      "category": "EM",
+      "difficulty": 5,
+      "type": "open",
+      "question": "In an operating room, equipotential grounding connects metal surfaces to a common reference. What patient hazard does this reduce?",
+      "answer": "Differences in ground potential between devices can drive current through the patient; bonding surfaces to the same reference prevents hazardous potential gradients.",
+      "assets": [],
+      "tags": [
+        "grounding",
+        "safety",
+        "microshock"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "op_001",
+      "category": "OP",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Light travels from air (n ≈ 1.00) into corneal tissue (n ≈ 1.38) at normal incidence. Does the ray bend toward or away from the surface normal inside the cornea?",
+      "answer": "Toward the normal, because light enters an optically denser medium (higher refractive index).",
+      "assets": [],
+      "tags": [
+        "refraction",
+        "eye"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_002",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Why can a collimated Class 3B laser damage the retina at a power that would be safe for a household bulb?",
+      "answer": "The eye focuses the narrow beam to a very small retinal spot, so power density becomes extremely high even when total power seems modest.",
+      "assets": [],
+      "tags": [
+        "laser",
+        "eye",
+        "safety"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_003",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "In fluorescence microscopy, emitted light has a longer wavelength than the excitation light. Why is that useful?",
+      "answer": "Filters can block excitation light while transmitting fluorescence, so weak emitted signals are easier to separate from the illuminating beam.",
+      "assets": [],
+      "tags": [
+        "fluorescence",
+        "microscopy"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_004",
+      "category": "OP",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Parallel rays incident on a thin convex lens are brought together at which characteristic point?",
+      "answer": "The focal point (primary focus) on the opposite side of the lens.",
+      "assets": [],
+      "tags": [
+        "lenses",
+        "focal-length"
+      ],
+      "estimatedMinutes": 2,
+      "version": 1
+    },
+    {
+      "id": "op_005",
+      "category": "OP",
+      "difficulty": 1,
+      "type": "open",
+      "question": "In myopia (nearsightedness), where does the image of a distant object form before any corrective lens is used?",
+      "answer": "In front of the retina, because the eye focuses too strongly or the axial length is too long.",
+      "assets": [],
+      "hint": "A concave (diverging) lens is prescribed to push the image back.",
+      "tags": [
+        "eye",
+        "refraction",
+        "myopia"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_006",
+      "category": "OP",
+      "difficulty": 1,
+      "type": "open",
+      "question": "An object at the bottom of a pool appears closer to the surface than it really is when viewed from air. What optical effect causes this?",
+      "answer": "Refraction at the air–water interface bends rays toward the normal, so the apparent depth is shallower than the true depth.",
+      "assets": [],
+      "tags": [
+        "refraction",
+        "snell"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_007",
+      "category": "OP",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Human colour vision relies on three cone types with different spectral sensitivities. What perceptual capability does this trichromatic arrangement provide?",
+      "answer": "Discrimination among wavelengths across the visible spectrum by comparing responses of the three cone classes (colour and hue perception).",
+      "assets": [],
+      "tags": [
+        "color-vision",
+        "eye"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_008",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "According to Snell's law, when light enters a medium with higher refractive index, does the refracted ray bend toward or away from the surface normal?",
+      "answer": "Toward the normal, because the sine of the angle of refraction is smaller than the sine of the angle of incidence.",
+      "assets": [],
+      "hint": "Higher n means slower light speed in the medium.",
+      "tags": [
+        "snell",
+        "refraction"
+      ],
+      "estimatedMinutes": 3,
+      "version": 1
+    },
+    {
+      "id": "op_009",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "For a simple magnifier used at the near point, how does a shorter focal length affect angular magnification?",
+      "answer": "A shorter focal length allows a closer object distance and produces greater angular magnification.",
+      "assets": [],
+      "tags": [
+        "magnification",
+        "lenses"
+      ],
+      "estimatedMinutes": 3,
+      "version": 1
+    },
+    {
+      "id": "op_010",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "In microscopy, why does using shorter wavelength illumination generally improve resolution of fine detail?",
+      "answer": "The diffraction limit scales with wavelength; smaller λ (Rayleigh criterion) allows smaller resolvable separation between point sources.",
+      "assets": [],
+      "hint": "Rayleigh resolution is proportional to wavelength divided by NA.",
+      "tags": [
+        "resolution",
+        "microscopy"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_011",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Optical fibres guide light by total internal reflection. What condition must the ray meet at the core–cladding boundary?",
+      "answer": "Light must travel in the higher-index core and strike the boundary at an angle of incidence greater than the critical angle.",
+      "assets": [],
+      "hint": "The cladding has a lower refractive index than the core.",
+      "tags": [
+        "fiber-optics",
+        "refraction"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_012",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Astigmatism produces blurred vision at all distances. What is different about the eye's focusing in different meridians?",
+      "answer": "Refractive power varies with orientation: one meridian is focused differently from the perpendicular meridian, so no single focal plane forms on the retina.",
+      "assets": [],
+      "tags": [
+        "eye",
+        "aberration"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_013",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Retinal laser photocoagulation often uses green or yellow wavelengths. Why are these wavelengths chosen over deep ultraviolet?",
+      "answer": "They are transmitted through ocular media and absorbed by retinal pigment and blood, delivering energy to target tissue while avoiding UV damage to the lens and cornea.",
+      "assets": [],
+      "tags": [
+        "laser",
+        "eye",
+        "therapy"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "op_014",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "How does increasing a microscope objective's numerical aperture (NA) affect resolution and depth of field?",
+      "answer": "Higher NA improves lateral resolution but reduces depth of field, so only a thinner slice of the specimen stays sharply in focus.",
+      "assets": [],
+      "tags": [
+        "microscopy",
+        "resolution"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_015",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Chromatic aberration in a simple glass lens causes coloured fringes in an image. What property of the lens material causes it?",
+      "answer": "Dispersion: refractive index depends on wavelength, so different colours are refracted by different amounts and do not share one focal point.",
+      "assets": [],
+      "hint": "Blue light is usually bent more than red in crown glass.",
+      "tags": [
+        "aberration",
+        "lenses"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_016",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "What does the visual acuity notation 20/20 (or 6/6) indicate about a person's spatial resolution compared with a reference observer?",
+      "answer": "At the test distance (20 ft or 6 m), the person can resolve detail that a reference normal eye also resolves at that same distance.",
+      "assets": [],
+      "tags": [
+        "visual-acuity",
+        "eye"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_017",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "After moving from bright light into a dark room, scotopic (rod-mediated) vision takes many minutes to reach full sensitivity. Why is this adaptation slow?",
+      "answer": "Rhodopsin in rods must regenerate after bleaching, and neural gain in the rod pathway increases gradually; cones adapt much faster.",
+      "assets": [],
+      "tags": [
+        "eye",
+        "adaptation"
+      ],
+      "estimatedMinutes": 3,
+      "version": 1
+    },
+    {
+      "id": "op_018",
+      "category": "OP",
+      "difficulty": 4,
+      "type": "open",
+      "question": "In bright-field microscopy, stopping down the aperture diaphragm increases depth of field but can blur fine detail. Explain the trade-off.",
+      "answer": "A smaller aperture reduces diffraction-limited resolution and light throughput, so more of the specimen appears in focus but fine structure is less resolved.",
+      "assets": [],
+      "tags": [
+        "microscopy",
+        "resolution"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_019",
+      "category": "OP",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Presbyopia makes near reading difficult in middle age even when distance vision is corrected. What age-related change in the eye causes it?",
+      "answer": "The crystalline lens stiffens and loses accommodative power, so the eye cannot increase optical power enough to focus near objects.",
+      "assets": [],
+      "hint": "Accommodation depends on changing lens shape.",
+      "tags": [
+        "eye",
+        "accommodation"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "op_020",
+      "category": "OP",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Compared with conventional widefield fluorescence microscopy, what is the main contrast advantage of confocal imaging?",
+      "answer": "A pinhole rejects out-of-focus fluorescence, so light mainly from the focal plane contributes to the image, improving axial resolution and contrast.",
+      "assets": [],
+      "hint": "Consider what happens to fluorescence emitted above and below the focal plane.",
+      "tags": [
+        "microscopy",
+        "fluorescence"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "op_021",
+      "category": "OP",
+      "difficulty": 4,
+      "type": "open",
+      "question": "The critical angle for total internal reflection depends on the refractive indices of the two media. Write the relationship qualitatively: if n₁ is the core and n₂ is the cladding with n₁ > n₂, what happens to the critical angle when n₂ is reduced?",
+      "answer": "The critical angle becomes smaller (sin θ_c = n₂/n₁), so a wider range of rays inside the core undergo total internal reflection.",
+      "assets": [],
+      "tags": [
+        "fiber-optics",
+        "snell"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_022",
+      "category": "OP",
+      "difficulty": 4,
+      "type": "open",
+      "question": "A Class 1 laser product is considered safe for intrabeam viewing under normal use. What design features typically justify this classification?",
+      "answer": "Inherently low accessible power, or a fully enclosed high-power source so no hazardous beam can reach the user during intended operation.",
+      "assets": [],
+      "tags": [
+        "laser",
+        "safety"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_023",
+      "category": "OP",
+      "difficulty": 5,
+      "type": "open",
+      "question": "According to the Abbe diffraction limit, the smallest resolvable distance in a microscope scales with λ/NA. If wavelength is halved while NA is unchanged, how does the resolution limit change?",
+      "answer": "It is halved (improved by a factor of two): smaller wavelength permits resolving finer detail at the same NA.",
+      "assets": [],
+      "hint": "Resolution improves when the minimum resolvable distance decreases.",
+      "tags": [
+        "resolution",
+        "microscopy"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "op_024",
+      "category": "OP",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Two-photon fluorescence microscopy uses near-infrared excitation instead of visible light. Name two reasons this helps when imaging deep in scattering tissue.",
+      "answer": "Longer wavelengths scatter less and penetrate deeper; excitation requires simultaneous absorption of two photons so fluorescence is localized mainly at the focal volume.",
+      "assets": [],
+      "hint": "Think about both tissue penetration and where excitation probability is highest.",
+      "tags": [
+        "fluorescence",
+        "microscopy",
+        "imaging"
+      ],
+      "estimatedMinutes": 6,
+      "version": 1
+    },
+    {
+      "id": "op_025",
+      "category": "OP",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Frits Zernike received the Nobel Prize for phase-contrast microscopy, which makes unstained transparent cells visible. What property of light passing through the specimen is converted into detectable amplitude contrast?",
+      "answer": "Optical phase delay introduced by the specimen; the phase plate shifts the phase of undiffracted light so small phase differences become intensity differences in the image.",
+      "assets": [
+        "nobel_imaging.png"
+      ],
+      "tags": [
+        "microscopy",
+        "history",
+        "imaging"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "ra_001",
+      "category": "RA",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Define the gray (Gy) as a unit of absorbed dose.",
+      "answer": "1 gray = 1 joule of ionizing radiation energy absorbed per kilogram of material (1 J/kg).",
+      "assets": [],
+      "hint": "Think joules absorbed per kilogram of tissue.",
+      "tags": [
+        "dosimetry",
+        "units",
+        "absorbed-dose"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_002",
+      "category": "RA",
+      "difficulty": 2,
+      "type": "open",
+      "question": "On a diagnostic X-ray image, why does bone usually appear brighter than soft tissue?",
+      "answer": "Bone has higher density and effective atomic number, so it attenuates more X-rays and less radiation reaches the detector behind it.",
+      "assets": [],
+      "hint": "Compare how much each tissue stops the beam.",
+      "tags": [
+        "x-ray",
+        "contrast",
+        "attenuation"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_003",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "If the half-value layer (HVL) of an X-ray beam increases, does the beam penetrate tissue more or less effectively?",
+      "answer": "More effectively. A thicker absorber is needed to halve the beam intensity, so photons penetrate more deeply.",
+      "assets": [],
+      "hint": "A larger HVL means more material to halve intensity.",
+      "tags": [
+        "half-value-layer",
+        "x-ray",
+        "penetration"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_004",
+      "category": "RA",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Define the sievert (Sv) as a unit used in radiation protection.",
+      "answer": "The sievert quantifies equivalent or effective dose — absorbed dose (Gy) weighted by radiation type and tissue sensitivity. It estimates biological harm.",
+      "assets": [],
+      "hint": "It weights absorbed dose for biological effect.",
+      "tags": [
+        "sievert",
+        "dosimetry",
+        "radiation-protection"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_005",
+      "category": "RA",
+      "difficulty": 1,
+      "type": "open",
+      "question": "In radiological physics, what does exposure measure?",
+      "answer": "Exposure measures X-ray or gamma-ray ionisation in air, historically in roentgens (R) or SI coulombs per kilogram (C/kg). It describes how much the beam ionises air, not energy deposited in tissue.",
+      "assets": [],
+      "hint": "Focus on ionisation produced in air by the beam.",
+      "tags": [
+        "exposure",
+        "dosimetry",
+        "units"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_006",
+      "category": "RA",
+      "difficulty": 2,
+      "type": "open",
+      "question": "State the ALARA principle used in medical radiation protection.",
+      "answer": "ALARA means keeping occupational and patient doses As Low As Reasonably Achievable, balancing diagnostic benefit against unnecessary exposure.",
+      "assets": [],
+      "hint": "The acronym describes minimising dose when practical.",
+      "tags": [
+        "ALARA",
+        "radiation-protection",
+        "clinical"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_007",
+      "category": "RA",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Why does wearing a lead apron reduce radiation dose to staff near an X-ray source?",
+      "answer": "Lead has a high atomic number and strongly attenuates X-rays by photoelectric absorption and scattering, so fewer photons reach the wearer.",
+      "assets": [],
+      "hint": "High-Z material preferentially stops diagnostic photons.",
+      "tags": [
+        "radiation-protection",
+        "attenuation",
+        "shielding"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_008",
+      "category": "RA",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Why do iodinated contrast agents improve soft-tissue visibility on X-ray or CT images?",
+      "answer": "Iodine has a high atomic number and strongly attenuates X-rays, so blood vessels and organs containing contrast absorb more photons and stand out against surrounding tissue.",
+      "assets": [
+        "digital_xray.png"
+      ],
+      "hint": "Contrast agents increase local beam attenuation.",
+      "tags": [
+        "contrast",
+        "x-ray",
+        "ct"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_009",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "In the exponential attenuation law I = I₀·e^(−μx), what does the linear attenuation coefficient μ represent?",
+      "answer": "μ is the probability per unit path length that a photon interacts with the material. Larger μ means faster beam weakening with depth.",
+      "assets": [],
+      "hint": "It sets how quickly intensity falls with thickness.",
+      "tags": [
+        "attenuation",
+        "dosimetry",
+        "x-ray"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_010",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "An X-ray beam passes through two tissues with different linear attenuation coefficients. Which tissue produces more contrast on the transmitted image?",
+      "answer": "The tissue with the larger difference in μ from its neighbours, because transmitted intensity changes more across the boundary and the detector records a stronger brightness step.",
+      "assets": [
+        "tissue_attenuation.png"
+      ],
+      "hint": "Contrast grows when neighbouring regions attenuate differently.",
+      "tags": [
+        "attenuation",
+        "contrast",
+        "x-ray"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_011",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "In computed tomography (CT), why does the gantry rotate the X-ray tube and detectors around the patient?",
+      "answer": "Rotation collects many projection angles through the body. A computer reconstructs cross-sectional maps of attenuation from those projections.",
+      "assets": [
+        "ct_scanner.png"
+      ],
+      "hint": "Many angles are needed to solve for internal structure.",
+      "tags": [
+        "ct",
+        "x-ray",
+        "imaging"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_012",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "On a CT image, why is the Hounsfield scale defined so that water is 0 HU?",
+      "answer": "Water is a convenient reference attenuation for soft tissue. Other tissues are reported relative to water, simplifying comparison and windowing.",
+      "assets": [
+        "hounsfield_ct.png"
+      ],
+      "hint": "Soft tissue attenuation is close to water.",
+      "tags": [
+        "ct",
+        "hounsfield",
+        "contrast"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_013",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "How is the half-value layer (HVL) related to the linear attenuation coefficient μ for a narrow monoenergetic beam?",
+      "answer": "HVL = ln(2)/μ ≈ 0.693/μ. After one HVL thickness, intensity falls to half its initial value.",
+      "assets": [],
+      "hint": "Set I₀/2 = I₀·e^(−μ·HVL) and solve for thickness.",
+      "tags": [
+        "half-value-layer",
+        "attenuation",
+        "dosimetry"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_014",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Name two natural sources that contribute to background radiation exposure on Earth.",
+      "answer": "Cosmic radiation from space and terrestrial radionuclides (e.g. uranium, thorium, radon in soil and building materials) are major natural sources.",
+      "assets": [],
+      "hint": "Consider both sky and ground contributions.",
+      "tags": [
+        "background-radiation",
+        "radiation-protection",
+        "environment"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_015",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Why does cosmic radiation exposure increase at high altitude and during airline flights?",
+      "answer": "The atmosphere shields against energetic charged particles and secondary neutrons. Less air above means fewer interactions and higher dose rates at altitude.",
+      "assets": [
+        "cosmic_radiation.png"
+      ],
+      "hint": "Less atmospheric shielding means more primary particles arrive.",
+      "tags": [
+        "background-radiation",
+        "cosmic-radiation",
+        "radiation-protection"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_016",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "In positron emission tomography (PET), what happens when a positron meets an electron in tissue?",
+      "answer": "They annihilate and produce two 511 keV gamma photons travelling in nearly opposite directions, which the scanner detects in coincidence.",
+      "assets": [
+        "pet_scanner.png"
+      ],
+      "hint": "Annihilation yields back-to-back 511 keV photons.",
+      "tags": [
+        "PET",
+        "isotopes",
+        "imaging"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_017",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Why is fluorodeoxyglucose (FDG) widely used as a PET tracer in oncology?",
+      "answer": "Many tumours have elevated glucose metabolism. FDG is taken up like glucose but trapped after phosphorylation, concentrating in metabolically active lesions.",
+      "assets": [],
+      "hint": "Tumours often show increased glucose uptake.",
+      "tags": [
+        "PET",
+        "isotopes",
+        "clinical"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_018",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Why is technetium-99m (⁹⁹ᵐTc) commonly used in nuclear medicine imaging?",
+      "answer": "It emits a 140 keV gamma ray suitable for detection, has a short half-life (~6 h) limiting patient dose, and can be attached to many pharmaceuticals via a generator source.",
+      "assets": [],
+      "hint": "Consider half-life, photon energy, and labelling flexibility.",
+      "tags": [
+        "isotopes",
+        "imaging",
+        "dosimetry"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_019",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "In proton therapy, what is the Bragg peak and why is it clinically useful?",
+      "answer": "The Bragg peak is the depth where protons deposit most of their energy before stopping. It lets planners concentrate dose in a tumour while sparing tissue beyond.",
+      "assets": [
+        "proton_bragg.png"
+      ],
+      "hint": "Protons release maximum dose near their range end.",
+      "tags": [
+        "proton-therapy",
+        "dosimetry",
+        "radiation-protection"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_020",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "How does absorbed dose (Gy) differ from equivalent dose (Sv)?",
+      "answer": "Gy measures energy deposited per mass regardless of radiation type. Sv applies radiation-weighting factors (and tissue weighting for effective dose) to reflect biological harm.",
+      "assets": [],
+      "hint": "Sv includes weighting for radiation and tissue sensitivity.",
+      "tags": [
+        "dosimetry",
+        "sievert",
+        "radiation-protection"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_021",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Distinguish stochastic from deterministic effects of ionizing radiation.",
+      "answer": "Stochastic effects (e.g. cancer) have no threshold; probability rises with dose. Deterministic effects (e.g. skin erythema) appear above a threshold and severity increases with dose.",
+      "assets": [],
+      "hint": "One class needs a threshold; the other does not.",
+      "tags": [
+        "radiation-protection",
+        "dosimetry",
+        "clinical"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_022",
+      "category": "RA",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Why does a typical chest CT deliver a higher effective dose than a single posteroanterior chest radiograph?",
+      "answer": "CT acquires hundreds of projection angles with the beam on throughout the scan volume, so more tissue is irradiated per examination than in one 2D projection radiograph.",
+      "assets": [],
+      "hint": "Compare how many beam-on projections cover the volume.",
+      "tags": [
+        "ct",
+        "x-ray",
+        "dosimetry"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_023",
+      "category": "RA",
+      "difficulty": 5,
+      "type": "open",
+      "question": "An X-ray beam has an HVL of 2.0 mm aluminium. What thickness of aluminium reduces the intensity to one quarter of its initial value?",
+      "answer": "4.0 mm (two HVLs). One HVL halves intensity; two HVLs reduce it to one quarter (½ × ½ = ¼).",
+      "assets": [],
+      "hint": "Each HVL multiplies surviving intensity by one half.",
+      "tags": [
+        "half-value-layer",
+        "dosimetry",
+        "attenuation"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_024",
+      "category": "RA",
+      "difficulty": 5,
+      "type": "open",
+      "question": "In radiation protection, how do increased distance, reduced time, and shielding each lower dose to staff?",
+      "answer": "Distance reduces dose by inverse-square law for a point source; less time lowers integrated exposure; shielding attenuates the beam before it reaches the worker.",
+      "assets": [],
+      "hint": "Recall the three classic factors in protection.",
+      "tags": [
+        "radiation-protection",
+        "ALARA",
+        "shielding"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_025",
+      "category": "RA",
+      "difficulty": 5,
+      "type": "open",
+      "question": "A patient receives 2 Gy during radiotherapy and 0.002 Gy from a diagnostic CT in the same month. Which exposure is primarily intended to control disease, and which is mainly a by-product of imaging?",
+      "answer": "The 2 Gy therapeutic fraction is prescribed to treat disease. The 0.002 Gy CT dose is incidental imaging exposure — much lower but still managed under ALARA.",
+      "assets": [],
+      "hint": "Compare typical therapeutic versus diagnostic dose magnitudes.",
+      "tags": [
+        "dosimetry",
+        "radiation-protection",
+        "clinical"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_001",
+      "category": "MF",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Convert 50 mGy to gray (Gy).",
+      "answer": "0.05 Gy. Since 1 mGy = 10⁻³ Gy, 50 mGy = 50 × 10⁻³ Gy = 0.05 Gy.",
+      "assets": [],
+      "hint": "Milli- means multiply by ten to minus three.",
+      "tags": [
+        "units",
+        "conversions",
+        "dosimetry"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_002",
+      "category": "MF",
+      "difficulty": 2,
+      "type": "open",
+      "question": "For a very fast membrane voltage change (microsecond scale), which property usually dominates first: membrane capacitance or cytoplasmic resistance?",
+      "answer": "Membrane capacitance, because charging the membrane dominates the earliest part of the transient.",
+      "assets": [],
+      "hint": "Capacitive charging is fastest at very short times.",
+      "tags": [
+        "membrane-physics",
+        "capacitance",
+        "cable-equation"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_003",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "According to the Beer–Lambert law I = I₀·e^(−μx), what happens to transmitted intensity if μ doubles while thickness x stays the same?",
+      "answer": "Transmitted intensity decreases because the exponent doubles: I becomes I₀·e^(−2μx), which is smaller than I₀·e^(−μx).",
+      "assets": [],
+      "hint": "A larger exponent means more attenuation at fixed thickness.",
+      "tags": [
+        "spectrophotometry",
+        "attenuation",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_004",
+      "category": "MF",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Convert 25 °C to kelvin (K).",
+      "answer": "298 K (K = °C + 273.15 ≈ 25 + 273 = 298 K).",
+      "assets": [],
+      "hint": "Add the Celsius offset to the absolute zero reference.",
+      "tags": [
+        "temperature",
+        "units",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_005",
+      "category": "MF",
+      "difficulty": 1,
+      "type": "open",
+      "question": "What is the SI unit of pressure, and how is it defined?",
+      "answer": "The pascal (Pa), defined as one newton of force per square metre (N/m²).",
+      "assets": [],
+      "hint": "Force per unit area in SI base units.",
+      "tags": [
+        "pressure",
+        "units",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_006",
+      "category": "MF",
+      "difficulty": 2,
+      "type": "open",
+      "question": "In a blood vessel, how does hydrostatic pressure differ from osmotic pressure across the capillary wall?",
+      "answer": "Hydrostatic pressure pushes fluid out of the vessel along the pressure gradient. Osmotic pressure from plasma proteins tends to draw water back into capillaries.",
+      "assets": [],
+      "hint": "One is mechanical push; one is solute-driven pull.",
+      "tags": [
+        "pressure",
+        "flow",
+        "membrane-physics"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_007",
+      "category": "MF",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Which ion gradients chiefly set the resting membrane potential in excitable cells?",
+      "answer": "Potassium and sodium gradients across the membrane, with potassium permeability dominating at rest so the potential sits near E_K.",
+      "assets": [],
+      "hint": "Resting potential is closest to which ion's equilibrium?",
+      "tags": [
+        "membrane-physics",
+        "Nernst",
+        "diffusion"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_008",
+      "category": "MF",
+      "difficulty": 2,
+      "type": "open",
+      "question": "In the Nernst equation, which quantities determine the equilibrium potential of an ion?",
+      "answer": "The charge of the ion and the ratio of its concentrations (or activities) inside versus outside the cell, at a given temperature.",
+      "assets": [],
+      "hint": "Logarithm of inside-to-outside concentration ratio matters.",
+      "tags": [
+        "Nernst",
+        "membrane-physics",
+        "units"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_009",
+      "category": "MF",
+      "difficulty": 2,
+      "type": "open",
+      "question": "In spectrophotometry, what physical quantity does absorbance A directly relate to?",
+      "answer": "Absorbance is related to the fraction of light absorbed (or transmitted) by the sample: A = −log₁₀(T), where T is transmittance.",
+      "assets": [],
+      "hint": "It is the negative base-ten logarithm of transmittance.",
+      "tags": [
+        "spectrophotometry",
+        "lab-calculations",
+        "units"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_010",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "In the Beer–Lambert law A = ε·l·c, state what each symbol represents.",
+      "answer": "ε is the molar absorptivity (L·mol⁻¹·cm⁻¹), l is path length through the sample (cm), and c is molar concentration (mol·L⁻¹).",
+      "assets": [],
+      "hint": "Absorbance scales with concentration and path length.",
+      "tags": [
+        "spectrophotometry",
+        "lab-calculations",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_011",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "For laminar flow in a tube, how are volumetric flow rate Q, cross-sectional area A, and mean velocity v related?",
+      "answer": "Q = A·v. Flow rate equals the area the fluid passes through multiplied by mean axial velocity.",
+      "assets": [],
+      "hint": "Volume per time equals area times speed.",
+      "tags": [
+        "flow",
+        "units",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_012",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "According to Poiseuille's law, how does halving the tube radius affect volumetric flow if all other factors stay constant?",
+      "answer": "Flow decreases sixteenfold, because Q ∝ r⁴ and (½)⁴ = 1/16.",
+      "assets": [],
+      "hint": "Radius appears to the fourth power in Poiseuille's law.",
+      "tags": [
+        "flow",
+        "viscosity",
+        "pressure"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_013",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Why does blood viscosity influence arterial pressure and cardiac workload?",
+      "answer": "Higher viscosity increases resistance to flow (Poiseuille's law), so the heart must generate more pressure to maintain the same flow rate.",
+      "assets": [],
+      "hint": "Viscosity enters directly into flow resistance.",
+      "tags": [
+        "viscosity",
+        "flow",
+        "pressure"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_014",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "State Fick's first law of diffusion in words.",
+      "answer": "The diffusive flux is proportional to the negative concentration gradient: particles move from higher to lower concentration, with rate set by the diffusion coefficient.",
+      "assets": [],
+      "hint": "Flux follows the slope of concentration versus position.",
+      "tags": [
+        "diffusion",
+        "membrane-physics",
+        "units"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_015",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "In the cable equation, what does the length constant λ (lambda) describe?",
+      "answer": "λ is the distance over which a steady subthreshold signal decays to about 37% (1/e) of its value along an extended cable such as an axon or dendrite.",
+      "assets": [],
+      "hint": "It measures spatial decay of passive voltage spread.",
+      "tags": [
+        "cable-equation",
+        "membrane-physics",
+        "flow"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_016",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "You need 250 mL of 0.10 mol·L⁻¹ saline from a 1.0 mol·L⁻¹ stock. What volume of stock should you measure?",
+      "answer": "25 mL (C₁V₁ = C₂V₂ → V₁ = 0.10 × 250 / 1.0 = 25 mL), then dilute to 250 mL total.",
+      "assets": [
+        "workshop_lab.png"
+      ],
+      "hint": "Use C₁V₁ = C₂V₂ before topping up with solvent.",
+      "tags": [
+        "lab-calculations",
+        "conversions",
+        "lab-prep"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_017",
+      "category": "MF",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Convert 760 mmHg to pascals, using 1 mmHg ≈ 133 Pa.",
+      "answer": "≈ 1.01 × 10⁵ Pa (760 × 133 Pa ≈ 101 000 Pa, near standard atmospheric pressure).",
+      "assets": [],
+      "hint": "Multiply millimetres of mercury by the Pa factor.",
+      "tags": [
+        "pressure",
+        "units",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_018",
+      "category": "MF",
+      "difficulty": 4,
+      "type": "open",
+      "question": "For a cell membrane, how is the membrane time constant τ related to resistance R and capacitance C?",
+      "answer": "τ = R·C. It sets how quickly the membrane potential responds to a step change in current.",
+      "assets": [],
+      "hint": "Product of resistance and capacitance gives seconds.",
+      "tags": [
+        "membrane-physics",
+        "capacitance",
+        "cable-equation"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_019",
+      "category": "MF",
+      "difficulty": 4,
+      "type": "open",
+      "question": "In a spectrophotometry experiment with fixed concentration, how does doubling the cuvette path length affect absorbance?",
+      "answer": "Absorbance doubles, because A = ε·l·c and l is proportional to A when ε and c are constant.",
+      "assets": [],
+      "hint": "Beer–Lambert says absorbance is linear in path length.",
+      "tags": [
+        "spectrophotometry",
+        "lab-calculations",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_020",
+      "category": "MF",
+      "difficulty": 4,
+      "type": "open",
+      "question": "What does the Reynolds number indicate about blood flow in a vessel?",
+      "answer": "It compares inertial to viscous forces. Low Re indicates laminar flow; high Re suggests turbulence may appear, affecting energy loss and vessel wall stress.",
+      "assets": [],
+      "hint": "It is a ratio of inertial to viscous effects.",
+      "tags": [
+        "flow",
+        "viscosity",
+        "pressure"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_021",
+      "category": "MF",
+      "difficulty": 4,
+      "type": "open",
+      "question": "If extracellular potassium concentration doubles while intracellular [K⁺] stays constant, does the Nernst potassium potential E_K become more positive or more negative?",
+      "answer": "More positive (less negative). A higher outside concentration reduces the inside/outside ratio, depolarising E_K.",
+      "assets": [],
+      "hint": "The Nernst log term depends on inside over outside.",
+      "tags": [
+        "Nernst",
+        "membrane-physics",
+        "diffusion"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_022",
+      "category": "MF",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Blood flows through an arteriole of radius 0.30 mm at 2.0 mL·s⁻¹. If radius narrows to 0.20 mm with viscosity and pressure drop unchanged, what is the new flow rate?",
+      "answer": "≈ 0.39 mL·s⁻¹. Q ∝ r⁴, so Q₂ = 2.0 × (0.20/0.30)⁴ ≈ 2.0 × 0.198 ≈ 0.39 mL·s⁻¹.",
+      "assets": [],
+      "hint": "Apply the fourth-power radius scaling from Poiseuille.",
+      "tags": [
+        "flow",
+        "viscosity",
+        "lab-calculations"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_023",
+      "category": "MF",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Why does an electrotonic potential decay with distance along an unmyelinated axon according to the cable equation?",
+      "answer": "Axial current leaks across the membrane resistance and charges membrane capacitance, so less signal reaches distant sites — decay is characterised by the length constant λ.",
+      "assets": [],
+      "hint": "Membrane leak and capacitance drain current along the cable.",
+      "tags": [
+        "cable-equation",
+        "membrane-physics",
+        "flow"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_024",
+      "category": "MF",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Express standard atmospheric pressure (760 mmHg) in kilopascals (kPa).",
+      "answer": "≈ 101 kPa (760 mmHg × 133 Pa·mmHg⁻¹ ≈ 1.01 × 10⁵ Pa = 101 kPa).",
+      "assets": [],
+      "hint": "Convert mmHg to Pa, then divide by one thousand.",
+      "tags": [
+        "pressure",
+        "units",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_025",
+      "category": "MF",
+      "difficulty": 5,
+      "type": "open",
+      "question": "A protein solution has absorbance 0.60 in a 1.0 cm cuvette. If ε = 1.2 × 10⁴ L·mol⁻¹·cm⁻¹, what is the molar concentration?",
+      "answer": "5.0 × 10⁻⁵ mol·L⁻¹ (c = A/(ε·l) = 0.60 / (1.2 × 10⁴ × 1.0) = 5.0 × 10⁻⁵ mol·L⁻¹).",
+      "assets": [],
+      "hint": "Rearrange A = ε·l·c to solve for c.",
+      "tags": [
+        "spectrophotometry",
+        "lab-calculations",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "wl_001",
+      "category": "WL",
+      "difficulty": 1,
+      "type": "open",
+      "question": "State Ohm's law for a linear resistor.",
+      "answer": "V = I × R (voltage equals current multiplied by resistance).",
+      "assets": [],
+      "hint": "Relate voltage, current, and resistance.",
+      "tags": [
+        "electricity",
+        "ohm-law",
+        "impedance"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_002",
+      "category": "WL",
+      "difficulty": 2,
+      "type": "open",
+      "question": "If extracellular potassium concentration rises, what happens to the potassium equilibrium potential (E_K)?",
+      "answer": "E_K becomes less negative (depolarizes), so the resting membrane potential is shifted toward depolarization.",
+      "assets": [],
+      "hint": "Think about the Nernst equation sign.",
+      "tags": [
+        "membrane",
+        "nernst-potential",
+        "potassium"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_003",
+      "category": "WL",
+      "difficulty": 3,
+      "type": "open",
+      "question": "In MRI, why are magnetic field gradients needed in addition to the main static field B₀?",
+      "answer": "Gradients make precession frequency depend on position, allowing spatial encoding of the signal during image reconstruction.",
+      "assets": [
+        "mri_scan.png"
+      ],
+      "hint": "Frequency must vary with position.",
+      "tags": [
+        "mri",
+        "spatial-encoding",
+        "gradients"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_004",
+      "category": "WL",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Define the wavelength of a periodic wave.",
+      "answer": "Wavelength (λ) is the spatial distance between two consecutive points in the same phase, such as crest to crest.",
+      "assets": [],
+      "hint": "Measure crest-to-crest distance.",
+      "tags": [
+        "waves",
+        "wavelength",
+        "basics"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_005",
+      "category": "WL",
+      "difficulty": 1,
+      "type": "open",
+      "question": "How are frequency (f) and period (T) of a wave related?",
+      "answer": "They are reciprocals: f = 1/T (and T = 1/f). Higher frequency means a shorter period.",
+      "assets": [],
+      "hint": "They are mathematical reciprocals.",
+      "tags": [
+        "waves",
+        "frequency",
+        "period"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_006",
+      "category": "WL",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Are audible sound waves in air longitudinal or transverse?",
+      "answer": "Longitudinal. Particles oscillate parallel to the direction of propagation, forming compressions and rarefactions.",
+      "assets": [],
+      "hint": "Particle motion parallels propagation direction.",
+      "tags": [
+        "sound",
+        "waves",
+        "longitudinal"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_007",
+      "category": "WL",
+      "difficulty": 2,
+      "type": "open",
+      "question": "A diagnostic ultrasound pulse has frequency 5 MHz in soft tissue where sound speed is about 1540 m/s. What is its wavelength?",
+      "answer": "λ = v/f ≈ 1540 m/s ÷ 5×10⁶ Hz ≈ 0.31 mm (about 0.3 mm).",
+      "assets": [],
+      "hint": "Use λ equals v over f.",
+      "tags": [
+        "ultrasound",
+        "wavelength",
+        "frequency"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_008",
+      "category": "WL",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Why can a piezoelectric crystal both transmit and receive ultrasound pulses?",
+      "answer": "An applied voltage deforms the crystal to emit sound; returning echoes mechanically deform it and generate a measurable voltage.",
+      "assets": [
+        "ultrasound_probe.png"
+      ],
+      "hint": "Mechanical strain and voltage couple.",
+      "tags": [
+        "ultrasound",
+        "piezoelectric",
+        "transducer"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_009",
+      "category": "WL",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Why must acoustic coupling gel be used between an ultrasound transducer and the skin?",
+      "answer": "Air has very high acoustic impedance mismatch with tissue; gel displaces air and improves acoustic coupling so more ultrasound enters the body.",
+      "assets": [],
+      "hint": "Air blocks ultrasound very strongly.",
+      "tags": [
+        "ultrasound",
+        "coupling-gel",
+        "impedance"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_010",
+      "category": "WL",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Acoustic intensity is often reported in watts per square metre (W/m²). What two wave quantities does intensity depend on?",
+      "answer": "Pressure amplitude (or particle displacement) and frequency, combined through the medium's acoustic impedance; higher amplitude at a given frequency means higher intensity.",
+      "assets": [],
+      "hint": "Amplitude and medium properties matter.",
+      "tags": [
+        "acoustic-intensity",
+        "sound",
+        "ultrasound"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_011",
+      "category": "WL",
+      "difficulty": 4,
+      "type": "open",
+      "question": "In colour Doppler ultrasound, blood moving toward the probe is often shown in red. What physical change in the reflected echo causes this?",
+      "answer": "The echo frequency is shifted upward (positive Doppler shift) because the moving scatterers shorten the effective round-trip path, increasing the received frequency.",
+      "assets": [
+        "doppler_ultrasound.png"
+      ],
+      "hint": "Motion changes received echo frequency.",
+      "tags": [
+        "doppler",
+        "ultrasound",
+        "frequency"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_012",
+      "category": "WL",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Why does bone appear bright on an ultrasound B-mode image while air-filled bowel often casts a distal shadow?",
+      "answer": "Bone has high acoustic impedance and reflects most of the beam; air has a huge impedance mismatch with tissue, reflecting and scattering strongly so little energy passes through.",
+      "assets": [],
+      "hint": "Large impedance mismatch reflects energy.",
+      "tags": [
+        "ultrasound",
+        "impedance",
+        "attenuation"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_013",
+      "category": "WL",
+      "difficulty": 5,
+      "type": "open",
+      "question": "In MRI at 1.5 T, proton Larmor frequency is about 64 MHz. If B₀ doubles to 3 T, what happens to Larmor frequency?",
+      "answer": "It doubles to about 128 MHz, because Larmor frequency is proportional to B₀ (ω = γB₀).",
+      "assets": [
+        "magnet_diagram.png"
+      ],
+      "hint": "Larmor frequency scales with B₀.",
+      "tags": [
+        "mri",
+        "larmor-frequency",
+        "magnetic-field"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_014",
+      "category": "WL",
+      "difficulty": 1,
+      "type": "open",
+      "question": "In nuclear magnetic resonance (NMR), what nuclear property is detected as the macroscopic signal?",
+      "answer": "Net magnetization from aligned nuclear spins (commonly ¹H protons) precessing in an external magnetic field.",
+      "assets": [],
+      "hint": "Aligned spins create detectable magnetization.",
+      "tags": [
+        "nmr",
+        "mri",
+        "spin"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_015",
+      "category": "WL",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Why must the RF pulse in MRI be tuned near the Larmor frequency?",
+      "answer": "Energy transfer is efficient only at resonance; off-resonance pulses fail to tip spins coherently into the transverse plane.",
+      "assets": [],
+      "hint": "Resonance maximizes energy absorption.",
+      "tags": [
+        "mri",
+        "resonance",
+        "rf-pulse"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_016",
+      "category": "WL",
+      "difficulty": 3,
+      "type": "open",
+      "question": "A blood cell reflects an ultrasound echo while moving away from the probe. Is the received frequency higher or lower than the transmitted frequency?",
+      "answer": "Lower. Motion away lengthens the round-trip path, producing a negative Doppler shift (received f < transmitted f).",
+      "assets": [],
+      "hint": "Receding motion lowers received frequency.",
+      "tags": [
+        "doppler",
+        "ultrasound",
+        "frequency"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_017",
+      "category": "WL",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Acoustic impedance Z is defined as Z = ρc, where ρ is density and c is sound speed. Why does a large impedance difference at a tissue boundary cause strong reflection?",
+      "answer": "Reflection coefficient grows with impedance mismatch; when Z₁ and Z₂ differ greatly, little energy crosses the boundary and most is reflected.",
+      "assets": [],
+      "hint": "Mismatched Z means more reflection.",
+      "tags": [
+        "impedance",
+        "ultrasound",
+        "reflection"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_018",
+      "category": "WL",
+      "difficulty": 5,
+      "type": "open",
+      "question": "After an RF excitation pulse in MRI, why does the detectable signal decay even if B₀ is perfectly uniform?",
+      "answer": "Spin–spin (T₂) interactions and field inhomogeneities dephase transverse magnetization; local frequency differences cause vectors to fan out and cancel.",
+      "assets": [],
+      "hint": "Spins lose phase coherence over time.",
+      "tags": [
+        "mri",
+        "nmr",
+        "t2-decay"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_019",
+      "category": "WL",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Harmonic imaging in ultrasound often transmits at frequency f and receives at 2f. Why can this improve image quality?",
+      "answer": "Harmonics are generated mainly as the wave travels through tissue, so received 2f echoes originate deeper and suffer less from superficial reverberation artefacts.",
+      "assets": [],
+      "hint": "Harmonics form during tissue propagation.",
+      "tags": [
+        "ultrasound",
+        "harmonic-imaging",
+        "frequency"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_020",
+      "category": "WL",
+      "difficulty": 4,
+      "type": "open",
+      "question": "An organ pipe open at both ends resonates at wavelength λ = 2L/n for mode n. For the fundamental (n = 1), where are the pressure nodes?",
+      "answer": "At both open ends; an antinode sits at the centre. Open ends are pressure nodes because the air there is free to move.",
+      "assets": [],
+      "hint": "Open ends are pressure nodes.",
+      "tags": [
+        "sound",
+        "resonance",
+        "standing-waves"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "fn_001",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "A physicist walks into a bar with a magnet. The bartender refuses service. What is the punchline based on?",
+      "answer": "Magnetic monopoles are not observed in ordinary matter — magnets always have north and south poles together.",
+      "assets": [],
+      "tags": [
+        "magnetism",
+        "monopole",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_002",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "A student claims they can detect individual 2.4 GHz Wi‑Fi photons by touch. Is that biophysically plausible?",
+      "answer": "No. Each photon energy is far below thermal fluctuations at body temperature, so individual quanta are not perceptible.",
+      "assets": [],
+      "tags": [
+        "photons",
+        "thermal-noise",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_003",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Why might an ultrasound probe and a CT scanner be a poor romantic match?",
+      "answer": "One prefers soft tissue and coupling gel; the other is more interested in high attenuation and bone contrast.",
+      "assets": [],
+      "tags": [
+        "ultrasound",
+        "ct",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_004",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "A med student names their pet goldfish 'Tesla' and insists it aligns with Earth's magnetic field when swimming. Plausible?",
+      "answer": "No. Biological magnetoreception in fish involves specialised tissue and tiny field strengths; a bowl goldfish is not a compass needle.",
+      "assets": [],
+      "tags": [
+        "magnetism",
+        "biology",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_005",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Why did the membrane potential break up with the action potential?",
+      "answer": "It said the relationship had too much depolarisation and not enough repolarisation — they needed more stable resting boundaries.",
+      "assets": [],
+      "hint": "Think resting potential versus spike.",
+      "tags": [
+        "membrane",
+        "action-potential",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_006",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "A radiographer jokes that X-rays are just very antisocial light. What real property is the joke exaggerating?",
+      "answer": "High photon energy and short wavelength let X-rays penetrate soft tissue; unlike visible light, they are absorbed mainly in dense structures such as bone.",
+      "assets": [],
+      "tags": [
+        "x-ray",
+        "photons",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_007",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Could you tune a violin string to the Larmor frequency of protons at 1.5 T?",
+      "answer": "No. Larmor frequency at 1.5 T is about 64 MHz — far above audible range and any practical string fundamental.",
+      "assets": [],
+      "tags": [
+        "mri",
+        "larmor-frequency",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_008",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "A classmate says they skip ultrasound gel because lotion smells nicer. What biophysical problem does that create?",
+      "answer": "Lotion still leaves air gaps and poor acoustic coupling; without gel, most ultrasound reflects at the skin–air interface and the image degrades.",
+      "assets": [],
+      "tags": [
+        "ultrasound",
+        "coupling-gel",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_009",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Why is shouting 'resonance!' in an MRI suite a bad idea even if the magnet does not care?",
+      "answer": "RF pulses and receivers are tuned to Larmor resonance; acoustic noise is unrelated, but safety rules and patient anxiety still make it a bad idea in a controlled clinical zone.",
+      "assets": [],
+      "tags": [
+        "mri",
+        "resonance",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_010",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "An ECG lead and a ground electrode walk into a differential amplifier. Who carries the cardiac signal?",
+      "answer": "The active recording leads carry the cardiac signal; the ground or reference electrode stabilises common-mode voltage so the amplifier can measure the small potential difference from the heart.",
+      "assets": [],
+      "tags": [
+        "ecg",
+        "differential-amplifier",
+        "easter-egg"
+      ],
+      "version": 1
+    }
+  ]
+}

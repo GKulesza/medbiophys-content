@@ -1,19 +1,19 @@
 ![Safety in the laboratory](images/regulations/Safety_in_the_laboratory.jpg)
 
-# Safety in the laboratory
+# Bezpečnost v laboratoriju
 
-The laboratory is a safe place to experiment if you are careful. You must assume responsibility for the safety of yourself and others. Here are some safety rules to help guide you in protecting yourself and others from injury in the lab.
+Laboratorija jest bezpečno mesto za eksperimenty, ako budete ostorozhni. Vy nesete odgovornost za svoju bezpečnost i bezpečnost drugyh. Eti pravila pomagajut vam i drugim izběgati povređenij v laboratoriju.
 
-1. You should enter the building of the Department of Medical Biophysics no earlier than 15 minutes before the start of the classes. On the premises of the Department of Medical Biophysics, protective masks or visors must be worn.
-2. After entering the building of the Department of Medical Biophysics, you should disinfect your hands.
-3. No outdoor shoes or sandals are allowed. Lab shoes or shoe covers and white lab coats are mandatory otherwise you will not be able to participate in the LAB!
-4. Coats, etc. must be left in the cloakroom. Students are not permitted to wear heavy outside coats or jackets to any laboratory.
-5. Do not perform experiments that are unauthorised. Always obtain your teacher's permission.
-6. Study your laboratory assignment before you come to the lab. If you are in doubt about any procedure ask your instructor for help.
-7. Know the location of the phone, fire extinguisher, fire blanket, first aid kit and emergency exit.
-8. Report any accident, injury or incorrect procedure to your teacher at once.
-9. Handle dangerous materials only under supervision of your teacher. If you spill acid or another corrosive substance, wash it off immediately with water.
-10. Keep combustible materials away from open flames.
-11. Never eat or drink anything in the lab.
-12. Place broken glass and solid substances in designated containers. Keep insoluble waste material out of the sink.
-13. When your laboratory work is completed, clean your work area. Return all materials and apparatus to their proper places.
+1. Do zdanija Katedry medicinskej biofiziky možno vojti ne raněje čem za 15 minut do začatka zanjatij. Na teritorii Katedry obvezno nositi zaščitnuju masku ili vizor.
+2. Posle vhoda v zdanije Katedry medicinskej biofiziky nužno dezinfikovati ruki.
+3. Uličnaja obuv i sandalii zapreščeny. Obvezatelny laboratornyje boty ili čehly i belyje halaty — inače vy ne smozete učastvovati v laboratorii.
+4. Palto i verhnjaja odežda ostavajutsja v garderobe. Studenty ne mogut vhoditi v laboratoriju v tolstyh uličnyh kurtkah.
+5. Ne provodite neodobrenyh eksperimentov. Vsegda polučajte razrešenie učitelja.
+6. Izučite laboratornoje zadanie pered prihodom. Pri somnenijah obratites k instruktoru.
+7. Znajte raspoloženije telefona, ognetušitelja, protivopožarnogo odejala, aptečki i avariijnogo vyhoda.
+8. Nemedlenno soobščajte učitelju o ljuboj avarii, travme ili nepravilnoj procedure.
+9. Opasnyje materialy obrabatyvajte tolko pod nadzorom učitelja. Pri razlive kisloty ili drugogo korrozijnogo vещества nemedlenno smyjte vodoj.
+10. Goryučije materialy držite podalje ot otkrytogo ognja.
+11. V laboratorii zapreščeno jest i pit.
+12. Razbitoje steklo i tverdyje vещества poměščajte v naznačennyje kontejnery. Nerastvorimye othody ne vylivajte v rakovinu.
+13. Po okončanii raboty uberte svojo rabočee mesto. Vernite vse materialy i pribory na mesto.

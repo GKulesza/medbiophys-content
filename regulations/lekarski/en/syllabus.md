@@ -1,96 +1,96 @@
 ![Syllabus](images/regulations/Sylabus_biofiz.jpg)
 
-# Biofizyka
+# Biophysics
 
-## Podstawowe informacje
+## Basic information
 
-* **Kierunek:** Lekarski
-* **Rok studiów:** I
-* **Semestr:** 1
-* **Forma studiów:** stacjonarne i niestacjonarne
-* **Punkty ECTS:** 3,5
+* **Programme:** Medicine
+* **Year of study:** I
+* **Semester:** 1
+* **Mode of study:** full-time and part-time
+* **ECTS credits:** 3.5
 
-### Liczba godzin
+### Contact hours
 
-* 📖 Wykłady – **10 h**
-* 💬 Seminaria – **10 h**
-* 🧪 Ćwiczenia laboratoryjne – **25 h**
-
----
-
-## O przedmiocie
-
-Biofizyka stanowi pomost pomiędzy naukami podstawowymi a medycyną. Podczas zajęć poznasz prawa fizyki i zjawiska biofizyczne wykorzystywane do wyjaśniania funkcjonowania organizmu człowieka oraz zrozumiesz fizyczne podstawy współczesnych metod diagnostycznych i terapeutycznych.
+* 📖 Lectures – **10 h**
+* 💬 Seminars – **10 h**
+* 🧪 Laboratory classes – **25 h**
 
 ---
 
-## Czego się nauczysz?
+## About the course
 
-Po ukończeniu kursu będziesz potrafił:
-
-* wyjaśnić biofizyczne podstawy funkcjonowania komórek, tkanek i narządów,
-* rozumieć mechanizmy działania czynników fizycznych na organizm człowieka,
-* interpretować podstawowe zjawiska biofizyczne zachodzące w organizmie,
-* rozumieć fizyczne podstawy nowoczesnych metod diagnostycznych i terapeutycznych,
-* bezpiecznie pracować z promieniowaniem jonizującym i znać zasady ochrony radiologicznej,
-* analizować wyniki prostych eksperymentów laboratoryjnych.
+Biophysics bridges basic sciences and medicine. During the course you will learn the laws of physics and biophysical phenomena used to explain how the human body works, and you will understand the physical foundations of modern diagnostic and therapeutic methods.
 
 ---
 
-## Tematyka zajęć
+## Learning outcomes
 
-Podczas kursu omawiane są między innymi:
+After completing the course you will be able to:
 
-* układ krążenia i prawa przepływu cieczy,
-* termodynamika organizmu,
-* błony biologiczne i transport przez błony,
-* bioelektryczność,
-* przewodzenie impulsów nerwowych,
-* biofizyka mięśni,
-* wpływ temperatury na organizm,
-* rezonans magnetyczny (MRI),
-* promieniowanie jonizujące i jego zastosowanie w medycynie,
-* ochrona radiologiczna,
-* metody detekcji promieniowania,
-* biofizyka słuchu i audiometria,
-* elektrokardiografia (EKG),
-* pomiar ciśnienia tętniczego,
-* ultradźwięki i efekt Dopplera,
-* metody spektrometryczne i refraktometryczne,
-* optyka oka,
-* analiza sygnałów biomedycznych z wykorzystaniem komputera.
+* explain the biophysical basis of how cells, tissues and organs function,
+* understand how physical factors act on the human body,
+* interpret basic biophysical phenomena in the body,
+* understand the physical foundations of modern diagnostic and therapeutic methods,
+* work safely with ionising radiation and know the principles of radiological protection,
+* analyse the results of simple laboratory experiments.
 
 ---
 
-## Literatura
+## Course topics
 
-### Podstawowa
+The course covers, among others:
+
+* the circulatory system and laws of fluid flow,
+* body thermodynamics,
+* biological membranes and transport across membranes,
+* bioelectricity,
+* nerve impulse conduction,
+* muscle biophysics,
+* the effect of temperature on the body,
+* magnetic resonance imaging (MRI),
+* ionising radiation and its use in medicine,
+* radiological protection,
+* methods of radiation detection,
+* hearing biophysics and audiometry,
+* electrocardiography (ECG),
+* blood pressure measurement,
+* ultrasound and the Doppler effect,
+* spectrometric and refractometric methods,
+* optics of the eye,
+* computer analysis of biomedical signals.
+
+---
+
+## Literature
+
+### Core
 
 * Kubisz L. **Biofizyka.** PZWL, Warszawa, 2024.
-* *Materiały do ćwiczeń z biofizyki* pod red. A. Kostrzewskiej.
+* *Materiały do ćwiczeń z biofizyki* edited by A. Kostrzewska.
 
-### Uzupełniająca
+### Supplementary
 
-* Jaroszyk F. (red.) **Biofizyka. Podręcznik dla studentów.**
+* Jaroszyk F. (ed.) **Biofizyka. Podręcznik dla studentów.**
 * Hewitt P.G. **Fizyka wokół nas.**
 
 ---
 
-## Zaliczenie przedmiotu
+## Assessment
 
-Przedmiot obejmuje:
+The course includes:
 
-* wykłady,
-* seminaria,
-* ćwiczenia laboratoryjne,
-* egzamin końcowy.
+* lectures,
+* seminars,
+* laboratory classes,
+* a final examination.
 
-Do egzaminu można przystąpić po:
+You may take the examination after:
 
-* zaliczeniu wszystkich ćwiczeń laboratoryjnych,
-* zaliczeniu seminariów,
-* zaliczeniu wykładów.
+* passing all laboratory classes,
+* passing seminars,
+* passing lectures.
 
-Podczas ćwiczeń wymagane jest przygotowanie teoretyczne, wykonanie doświadczeń oraz opracowanie wyników w zeszycie ćwiczeń.
+Laboratory work requires theoretical preparation, carrying out experiments and reporting results in the laboratory notebook.
 
-Szczegółowe zasady oceniania, obecności oraz popraw znajdują się w zakładce **Regulations**.
+Detailed rules on grading, attendance and retakes are in the **Regulations** tab.

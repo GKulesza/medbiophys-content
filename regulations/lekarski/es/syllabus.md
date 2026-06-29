@@ -1,96 +1,96 @@
 ![Syllabus](images/regulations/Sylabus_biofiz.jpg)
 
-# Biofizyka
+# Biofísica
 
-## Podstawowe informacje
+## Información básica
 
-* **Kierunek:** Lekarski
-* **Rok studiów:** I
-* **Semestr:** 1
-* **Forma studiów:** stacjonarne i niestacjonarne
-* **Punkty ECTS:** 3,5
+* **Programa:** Medicina
+* **Curso:** I
+* **Semestre:** 1
+* **Modalidad:** presencial y no presencial
+* **Créditos ECTS:** 3,5
 
-### Liczba godzin
+### Horas de contacto
 
-* 📖 Wykłady – **10 h**
-* 💬 Seminaria – **10 h**
-* 🧪 Ćwiczenia laboratoryjne – **25 h**
-
----
-
-## O przedmiocie
-
-Biofizyka stanowi pomost pomiędzy naukami podstawowymi a medycyną. Podczas zajęć poznasz prawa fizyki i zjawiska biofizyczne wykorzystywane do wyjaśniania funkcjonowania organizmu człowieka oraz zrozumiesz fizyczne podstawy współczesnych metod diagnostycznych i terapeutycznych.
+* 📖 Clases magistrales – **10 h**
+* 💬 Seminarios – **10 h**
+* 🧪 Prácticas de laboratorio – **25 h**
 
 ---
 
-## Czego się nauczysz?
+## Sobre la asignatura
 
-Po ukończeniu kursu będziesz potrafił:
-
-* wyjaśnić biofizyczne podstawy funkcjonowania komórek, tkanek i narządów,
-* rozumieć mechanizmy działania czynników fizycznych na organizm człowieka,
-* interpretować podstawowe zjawiska biofizyczne zachodzące w organizmie,
-* rozumieć fizyczne podstawy nowoczesnych metod diagnostycznych i terapeutycznych,
-* bezpiecznie pracować z promieniowaniem jonizującym i znać zasady ochrony radiologicznej,
-* analizować wyniki prostych eksperymentów laboratoryjnych.
+La biofísica es un puente entre las ciencias básicas y la medicina. Durante el curso conocerás las leyes de la física y los fenómenos biofísicos que explican el funcionamiento del cuerpo humano, y comprenderás los fundamentos físicos de los métodos diagnósticos y terapéuticos modernos.
 
 ---
 
-## Tematyka zajęć
+## Resultados de aprendizaje
 
-Podczas kursu omawiane są między innymi:
+Al finalizar el curso serás capaz de:
 
-* układ krążenia i prawa przepływu cieczy,
-* termodynamika organizmu,
-* błony biologiczne i transport przez błony,
-* bioelektryczność,
-* przewodzenie impulsów nerwowych,
-* biofizyka mięśni,
-* wpływ temperatury na organizm,
-* rezonans magnetyczny (MRI),
-* promieniowanie jonizujące i jego zastosowanie w medycynie,
-* ochrona radiologiczna,
-* metody detekcji promieniowania,
-* biofizyka słuchu i audiometria,
-* elektrokardiografia (EKG),
-* pomiar ciśnienia tętniczego,
-* ultradźwięki i efekt Dopplera,
-* metody spektrometryczne i refraktometryczne,
-* optyka oka,
-* analiza sygnałów biomedycznych z wykorzystaniem komputera.
+* explicar las bases biofísicas del funcionamiento de células, tejidos y órganos,
+* comprender los mecanismos de acción de los factores físicos sobre el organismo,
+* interpretar fenómenos biofísicos básicos en el cuerpo,
+* comprender los fundamentos físicos de los métodos diagnósticos y terapéuticos modernos,
+* trabajar de forma segura con radiación ionizante y conocer los principios de protección radiológica,
+* analizar los resultados de experimentos sencillos de laboratorio.
 
 ---
 
-## Literatura
+## Temas del curso
 
-### Podstawowa
+Entre otros, el curso aborda:
+
+* el sistema circulatorio y las leyes del flujo de fluidos,
+* termodinámica del organismo,
+* membranas biológicas y transporte a través de membranas,
+* bioelectricidad,
+* conducción del impulso nervioso,
+* biofísica muscular,
+* efecto de la temperatura sobre el organismo,
+* resonancia magnética (RM),
+* radiación ionizante y su uso en medicina,
+* protección radiológica,
+* métodos de detección de radiación,
+* biofísica de la audición y audiometría,
+* electrocardiografía (ECG),
+* medición de la presión arterial,
+* ultrasonidos y efecto Doppler,
+* métodos espectrométricos y refractométricos,
+* óptica del ojo,
+* análisis informático de señales biomédicas.
+
+---
+
+## Bibliografía
+
+### Básica
 
 * Kubisz L. **Biofizyka.** PZWL, Warszawa, 2024.
-* *Materiały do ćwiczeń z biofizyki* pod red. A. Kostrzewskiej.
+* *Materiały do ćwiczeń z biofizyki* bajo la dirección de A. Kostrzewska.
 
-### Uzupełniająca
+### Complementaria
 
-* Jaroszyk F. (red.) **Biofizyka. Podręcznik dla studentów.**
+* Jaroszyk F. (ed.) **Biofizyka. Podręcznik dla studentów.**
 * Hewitt P.G. **Fizyka wokół nas.**
 
 ---
 
-## Zaliczenie przedmiotu
+## Evaluación
 
-Przedmiot obejmuje:
+La asignatura incluye:
 
-* wykłady,
-* seminaria,
-* ćwiczenia laboratoryjne,
-* egzamin końcowy.
+* clases magistrales,
+* seminarios,
+* prácticas de laboratorio,
+* examen final.
 
-Do egzaminu można przystąpić po:
+Puedes presentarte al examen después de:
 
-* zaliczeniu wszystkich ćwiczeń laboratoryjnych,
-* zaliczeniu seminariów,
-* zaliczeniu wykładów.
+* aprobar todas las prácticas de laboratorio,
+* aprobar los seminarios,
+* aprobar las clases magistrales.
 
-Podczas ćwiczeń wymagane jest przygotowanie teoretyczne, wykonanie doświadczeń oraz opracowanie wyników w zeszycie ćwiczeń.
+En las prácticas se exige preparación teórica, realización de los experimentos y elaboración de resultados en el cuaderno de laboratorio.
 
-Szczegółowe zasady oceniania, obecności oraz popraw znajdują się w zakładce **Regulations**.
+Las normas detalladas de calificación, asistencia y recuperación están en la pestaña **Regulations**.

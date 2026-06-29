@@ -1,0 +1,2130 @@
+{
+  "schemaVersion": 1,
+  "locale": "eo",
+  "tasks": [
+    {
+      "id": "em_001",
+      "category": "EM",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Malfibrilaciilo liveras dufazan ŝokon per padeloj sur la brusto. Nomu la du elektrajn kvantojn, kiuj kvantigas la ŝokon liverita al la histo.",
+      "answer": "Tensio (potenca diferenco) kaj energio (jouloj en la pulso). Klinikistoj elektas energion; la tensio trans la brusto dependas de hista impedanco.",
+      "assets": [],
+      "tags": [
+        "defibrillator",
+        "energy"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_002",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "ECG plumbo mezuras la potencialdiferencon inter du elektrodoj. Kial dekstra krura elektrodo estas ofte uzata kiel referenco anstataŭ aktiva registra plumbo?",
+      "answer": "Ĝi sidas proksime de korpa potencialo kaj donas al la amplifilo stabilan referencon, plibonigante komunreĝiman malakcepton tiel malgrandaj korsignaloj povas esti mezuritaj kun malpli bruo.",
+      "assets": [],
+      "tags": [
+        "ecg",
+        "electrodes",
+        "reference"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_003",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Korstimulilo sentas R-ondojn kaj malhelpas siajn proprajn paŝadpiklojn kiam interna ritmo ĉeestas. Kia klinika problemo aperas se sentemo estas tro alta?",
+      "answer": "Supersensado: T-ondoj, muskolartefakto, aŭ interfero estas nombritaj kiel R-ondoj, tiel ke paŝado estas malhelpita malkonvene kaj la paciento povas iĝi bradikardia.",
+      "assets": [],
+      "tags": [
+        "pacemaker",
+        "sensing"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_004",
+      "category": "EM",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Pulsoksimetro alkroĉas al fingropinto kaj raportas oksigensaturiĝon. Kiun fizikan posedaĵon de arteria sango ĝi komparas ĉe du ondolongoj?",
+      "answer": "Lumo-sorbado (aŭ optika denseco). Oksihemoglobino kaj deoksihemoglobino sorbas ruĝan kaj infraruĝan lumon alimaniere, kaj la pulsatile arteria komponento kutimas taksi SpO₂.",
+      "assets": [],
+      "tags": [
+        "pulse-oximetry",
+        "optics"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_005",
+      "category": "EM",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Kial kondukta ĝelo estas metita inter ECG elektrodo kaj la haŭto?",
+      "answer": "Ĝi plenigas aerinterspacojn kaj malaltigas kontaktoimpedancon tiel la elektrodo kuniĝas efike al la haŭto kaj la ECG signalo ne estas mildigita.",
+      "assets": [],
+      "tags": [
+        "ecg",
+        "electrodes",
+        "impedance"
+      ],
+      "estimatedMinutes": 2,
+      "version": 1
+    },
+    {
+      "id": "em_006",
+      "category": "EM",
+      "difficulty": 1,
+      "type": "open",
+      "question": "En biopotenca registrado, kio estas la ĉefa celo de pacienca grundo aŭ referenca konekto?",
+      "answer": "Ĝi ligas la mezursistemon al la korpa potencialo de la paciento por sekureco kaj bruoredukto, helpante al la amplifilo malakcepti komunreĝiman interferon.",
+      "assets": [],
+      "hint": "Pensu pri kio okazas kiam la amplifilo kaj paciento sidas ĉe malsamaj potencialoj.",
+      "tags": [
+        "grounding",
+        "safety",
+        "ecg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_007",
+      "category": "EM",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Ĉe tipaj TENS-terapiaj intensoj, kiuj nervaj fibroj estas ĉefe rekrutitaj: grandaj sensaj fibroj aŭ motoraj fibroj kondukantaj fortan muskola kuntiriĝo?",
+      "answer": "Grandaj sensaj (aferentaj) fibroj. TENS estas kutime metita sub motora sojlo por stimuli sensajn vojojn por dolormodulado.",
+      "assets": [],
+      "tags": [
+        "tens",
+        "pain"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_008",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "En norma membroplumbo ECG, kial plumbo II ofte montras relative altan R-ondon ĉe sanaj plenkreskuloj?",
+      "answer": "La averaĝa elektra akso de ventrikla malpolariĝo projekcias forte direkte al la pozitiva elektrodo de plumbo II (maldekstra gambo relative al dekstra brako).",
+      "assets": [],
+      "hint": "Rilati la plumbovektoron al la direkto de ventrikla malpolariĝo.",
+      "tags": [
+        "ecg",
+        "cardiac-axis"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "em_009",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Kial malriĉa haŭtokontakto estas problemo por eksteraj malfibrilaj kusenetoj?",
+      "answer": "Alta kontakta impedanco malŝparas energion kiel varmego ĉe la haŭto, riskas brulvundojn, kaj reduktas fluon tra la koro tiel ke malfibrilado povas malsukcesi.",
+      "assets": [],
+      "tags": [
+        "defibrillator",
+        "impedance"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_010",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Kian biofizikan signalon surfaca EMG ĉefe registras?",
+      "answer": "La sumigita eksterĉela elektra agado de muskolfibroj (motoraj unuoj) proksime de la elektrodoj dum kuntiriĝo.",
+      "assets": [],
+      "tags": [
+        "emg",
+        "muscle"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_011",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Mallonga ondo aŭ mikroonda diatermio liveras altfrekvencan elektromagnetan energion al histo. Kian terapian efikon oni celas?",
+      "answer": "Profunda hejtado de histo, kiu pliigas sangan fluon kaj povas malpezigi doloron aŭ rigidecon en fizika terapio.",
+      "assets": [],
+      "tags": [
+        "diathermy",
+        "heating"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_012",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Se la senta sojlo de postula korstimulilo estas tro malalta (nesufiĉa sentemo), kia senta fiasko povas okazi?",
+      "answer": "Subsensado: internaj R-ondoj estas maltrafitaj, do la korstimulilo povas paŝadi aldone al internaj taktoj aŭ malsukcesi malhelpi kiam ĝi devus.",
+      "assets": [],
+      "hint": "Komparu ĉi tion kun supersensado en em_003.",
+      "tags": [
+        "pacemaker",
+        "sensing"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_013",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Kial tre malgranda elflua fluo tra enloĝa kora katetero povas prezenti pli grandan arritmian riskon ol makroŝoko tra nerompita brusta haŭto?",
+      "answer": "Mikroŝoko: fluo estas liverita rekte al la koro laŭ malalt-impedanca pado, tiel ke mikroamperoj povas stimuli ventriklan fibriladon.",
+      "assets": [],
+      "hint": "Komparu la nunan densecon atingantan miokardon en ĉiu situacio.",
+      "tags": [
+        "microshock",
+        "safety"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "em_014",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Kial pacienca movo ofte produktas artefakton sur surfaco ECG spuro?",
+      "answer": "Movado ŝanĝas haŭto-elektrodan kontakton kaj la impedancon de la elektrodo-ĝelo-haŭta interfaco, kreante tensiajn fluktuojn kiuj imitas korsignalon.",
+      "assets": [],
+      "tags": [
+        "ecg",
+        "artefact",
+        "impedance"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_015",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Nomu unu klinikan avantaĝon de bifazaj malfibrilaciaj ondoformoj super pli malnovaj monofazaj ŝokoj.",
+      "answer": "Dufazaj ŝokoj atingas malfibriladon ĉe pli malalta elektita energio, reduktante miokardian vundon konservante efikecon.",
+      "assets": [],
+      "tags": [
+        "defibrillator",
+        "waveform"
+      ],
+      "estimatedMinutes": 3,
+      "version": 1
+    },
+    {
+      "id": "em_016",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Dum malbona periferia trafluado aŭ vasokonstrikto, pulsoksimetriaj valoroj iĝas nefidindaj. Kiu signala trajto estas malfortigita?",
+      "answer": "La pulsatile (AC) komponento de elsendita lumo. Sen forta arteria pulsondo, la aparato ne povas fidinde apartigi arterian sorbadon de vejna kaj hista fono.",
+      "assets": [],
+      "hint": "Pulsoksimetroj dependas de ŝanĝoj sinkronigitaj kun ĉiu korbato.",
+      "tags": [
+        "pulse-oximetry",
+        "perfusion"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_017",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "En elektroĥirurgio, kial estas uzata densa revenelektrodo (pacienta plato) anstataŭ lasi kurenton eliri tra iu ajn surterigita surfaco?",
+      "answer": "Ĝi malaltigas nunan densecon ĉe la elirejloko kaj limigas la revenvojon, reduktante la riskon de devagaj brulvundoj ĉe neintencita surgrundiĝaj punktoj.",
+      "assets": [],
+      "tags": [
+        "diathermy",
+        "safety",
+        "grounding"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_018",
+      "category": "EM",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Kial biopotenciala amplifilo devas prezenti tre altan enigan impedancon ĉe siaj registraj elektrodoj?",
+      "answer": "La elektrodo-haŭta interfaco havas altan impedancon; malalta amplifila eniga impedanco formus tensiodividilon kaj grave mildigus la malgrandan bioelektran signalon.",
+      "assets": [],
+      "hint": "Modelu la elektrodan impedancon kaj amplifilan enigon kiel disigilon.",
+      "tags": [
+        "amplifier",
+        "impedance",
+        "ecg"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "em_019",
+      "category": "EM",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Kiel la primara terapia rolo de enplantebla kardioverter-malfibrilaciilo (ICD) diferencas de norma korstimulilo?",
+      "answer": "ICD povas detekti ventriklajn takiarritmiojn kaj liveri alt-energiajn ŝokojn por malfibrilado aŭ kardioversio; korstimulilo ĉefe disponigas malalt-energian paŝadon.",
+      "assets": [],
+      "tags": [
+        "icd",
+        "pacemaker",
+        "defibrillator"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_020",
+      "category": "EM",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Ĉeffrekvenca (50/60 Hz) interfero ofte aperas sur ECG registradoj. Nomu unu kunligan mekanismon kaj unu praktikan manieron redukti ĝin.",
+      "answer": "Kuplado povas esti kapacita aŭ magneta de proksimaj alttensiaj kurentkonduktiloj kaj ekipaĵo. Reduktometodoj inkluzivas ŝirmitajn kablojn, bonordan surgrundilon, dekstran veturadon kaj noĉan filtradon.",
+      "assets": [],
+      "hint": "La interferfrekvenco kongruas kun la AC-potenclinio.",
+      "tags": [
+        "ecg",
+        "interference",
+        "noise"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "em_021",
+      "category": "EM",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Dum vigla ekzercado, EMG-artefakto povas polui samtempe registritan ECG. Kial la signaloj interkovras en la registrita spuro?",
+      "answer": "Ambaŭ potencialoj estas kolektitaj per surfacelektrodoj kaj dividas similan frekvencenhavon; muskolpotencialoj estas multe pli grandaj kaj povas marŝi la milivolt-skalan korsignalon.",
+      "assets": [],
+      "tags": [
+        "emg",
+        "ecg",
+        "artefact"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_022",
+      "category": "EM",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Laŭ la teorio de pordego-kontrolo, kiel altfrekvenca TENS povas redukti doloran percepton?",
+      "answer": "Ĝi aktivigas grand-diametrajn Aβ-sensajn fibrojn, kiuj malhelpas dissendon de nociceptivaj signaloj en la mjela dorskorno (\"fermante la pordegon\").",
+      "assets": [],
+      "tags": [
+        "tens",
+        "pain",
+        "neurophysiology"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "em_023",
+      "category": "EM",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Kial MRI estas ĝenerale danĝera por pacientoj kun pli malnovaj ne-MRI-kondiĉaj korstimulkonduktiloj eĉ kiam la aparato estas malŝaltita?",
+      "answer": "Temp-variaj magnetaj kampoj povas stimuli hejton kaj tensiojn en la antaŭeco, kaŭzante histodamaĝon aŭ malkonvenan paŝadon/ŝokojn; feromagnetaj komponentoj ankaŭ povas esti delokigitaj.",
+      "assets": [],
+      "tags": [
+        "pacemaker",
+        "mri",
+        "safety"
+      ],
+      "estimatedMinutes": 6,
+      "version": 1
+    },
+    {
+      "id": "em_024",
+      "category": "EM",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Antaŭ apliki ECG elektrodojn, haŭto ofte estas purigita per alkoholo, iomete abrazita kaj sekigita. Klarigu la celon de ĉiu paŝo por mezurkvalito.",
+      "answer": "Alkoholo forigas oleojn kaj ŝviton; abrazio maldensigas la kornan tavolon por malaltigi haŭtan impedancon; sekigado certigas gluan kontakton kaj stabilan ĝelan kupladon.",
+      "assets": [
+        "workshop_lab.png"
+      ],
+      "hint": "La ekstera morta tavolo de haŭto estas malbona konduktoro.",
+      "tags": [
+        "electrodes",
+        "skin-prep",
+        "lab"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "em_025",
+      "category": "EM",
+      "difficulty": 5,
+      "type": "open",
+      "question": "En operaciejo, ekvipotenca surteriĝo ligas metalsurfacojn al ofta referenco. Kian paciencan danĝeron ĉi tio reduktas?",
+      "answer": "Diferencoj en grunda potencialo inter aparatoj povas movi fluon tra la paciento; ligado de surfacoj al la sama referenco malhelpas danĝerajn eblajn gradientojn.",
+      "assets": [],
+      "tags": [
+        "grounding",
+        "safety",
+        "microshock"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "op_001",
+      "category": "OP",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Lumo vojaĝas de aero (n ≈ 1.00) en kornea histo (n ≈ 1.38) ĉe normala incidenco. Ĉu la radio kliniĝas al aŭ for de la surfaco normala ene de la korneo?",
+      "answer": "Al la normalo, ĉar lumo eniras optike pli densan medion (pli alta refrakta indico).",
+      "assets": [],
+      "tags": [
+        "refraction",
+        "eye"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_002",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Kial kolimita Klaso 3B lasero povas damaĝi la retinon je potenco kiu estus sekura por hejma bulbo?",
+      "answer": "La okulo enfokusigas la mallarĝan trabon al tre malgranda retina punkto, tiel ke potencodenseco iĝas ekstreme alta eĉ kiam totala potenco ŝajnas modesta.",
+      "assets": [],
+      "tags": [
+        "laser",
+        "eye",
+        "safety"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_003",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "En fluoreskecmikroskopio, elsendita lumo havas pli longan ondolongon ol la ekscita lumo. Kial tio utilas?",
+      "answer": "Filtriloj povas bloki ekscitan lumon dum elsendado de fluoreskeco, do malfortaj elsenditaj signaloj estas pli facile apartigeblaj de la lumradio.",
+      "assets": [],
+      "tags": [
+        "fluorescence",
+        "microscopy"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_004",
+      "category": "OP",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Paralelaj radioj okazantaj sur maldika konveksa lenso estas kunigitaj je kiu karakteriza punkto?",
+      "answer": "La fokuso (primara fokuso) sur la kontraŭa flanko de la lenso.",
+      "assets": [],
+      "tags": [
+        "lenses",
+        "focal-length"
+      ],
+      "estimatedMinutes": 2,
+      "version": 1
+    },
+    {
+      "id": "op_005",
+      "category": "OP",
+      "difficulty": 1,
+      "type": "open",
+      "question": "En miopeco (miopio), kie formiĝas la bildo de malproksima objekto antaŭ ol iu korekta lenso estas uzata?",
+      "answer": "Antaŭ la retino, ĉar la okulo fokusiĝas tro forte aŭ la aksa longo estas tro longa.",
+      "assets": [],
+      "hint": "Konkava (diverĝa) lenso estas preskribita por puŝi la bildon reen.",
+      "tags": [
+        "eye",
+        "refraction",
+        "myopia"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_006",
+      "category": "OP",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Objekto ĉe la fundo de naĝejo aperas pli proksime al la surfaco ol ĝi vere estas rigardita de aero. Kia optika efiko kaŭzas ĉi tion?",
+      "answer": "Refrakto ĉe la aero-akva interfaco fleksas radiojn direkte al la normalo, tiel ke la ŝajna profundo estas pli malprofunda ol la vera profundo.",
+      "assets": [],
+      "tags": [
+        "refraction",
+        "snell"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_007",
+      "category": "OP",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Homa kolorvizio dependas de tri konustipoj kun malsamaj spektraj sentemoj. Kian perceptkapablon provizas ĉi tiu trikromata aranĝo?",
+      "answer": "Diskriminacio inter ondolongoj trans la videbla spektro komparante respondojn de la tri konusklasoj (koloro kaj nuancpercepto).",
+      "assets": [],
+      "tags": [
+        "color-vision",
+        "eye"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_008",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Laŭ la leĝo de Snell, kiam lumo eniras medion kun pli alta refrakta indico, ĉu la refrakta radio fleksas al aŭ for de la surfaco normala?",
+      "answer": "Al la normalo, ĉar la sinuso de la angulo de refrakto estas pli malgranda ol la sinuso de la angulo de incidenco.",
+      "assets": [],
+      "hint": "Pli alta n signifas pli malrapidan lumrapidecon en la medio.",
+      "tags": [
+        "snell",
+        "refraction"
+      ],
+      "estimatedMinutes": 3,
+      "version": 1
+    },
+    {
+      "id": "op_009",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Por simpla pligrandilo uzata ĉe la proksima punkto, kiel pli mallonga fokusa distanco influas angulan pligrandigon?",
+      "answer": "Pli mallonga fokusa distanco permesas pli proksiman objektodistancon kaj produktas pli grandan angulpligrandigon.",
+      "assets": [],
+      "tags": [
+        "magnification",
+        "lenses"
+      ],
+      "estimatedMinutes": 3,
+      "version": 1
+    },
+    {
+      "id": "op_010",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "En mikroskopio, kial uzi pli mallongan ondolongan lumigadon ĝenerale plibonigas rezolucion de fajnaj detaloj?",
+      "answer": "La difrakta limo skalas kun ondolongo; pli malgranda λ (Rayleigh-kriterio) permesas pli malgrandan solveblan apartigon inter punktfontoj.",
+      "assets": [],
+      "hint": "Rayleigh-rezolucio estas proporcia al ondolongo dividita per NA.",
+      "tags": [
+        "resolution",
+        "microscopy"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_011",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Optikaj fibroj gvidas lumon per totala interna reflektado. Kiun kondiĉon devas renkonti la radion ĉe la kern-tega limo?",
+      "answer": "Lumo devas vojaĝi en la pli alta-indeksa kerno kaj frapi la limon laŭ incid-angulo pli granda ol la kritika angulo.",
+      "assets": [],
+      "hint": "La tegaĵo havas pli malaltan refraktan indicon ol la kerno.",
+      "tags": [
+        "fiber-optics",
+        "refraction"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_012",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Astigmatismo produktas neklaran vidadon je ĉiuj distancoj. Kio estas malsama pri la fokuso de la okulo en malsamaj meridianoj?",
+      "answer": "Refrakta potenco varias laŭ orientiĝo: unu meridiano estas enfokusigita alimaniere de la perpendikulara meridiano, tiel ke neniu ununura fokusa ebeno formiĝas sur la retino.",
+      "assets": [],
+      "tags": [
+        "eye",
+        "aberration"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_013",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Retina lasera fotokoagulado ofte uzas verdajn aŭ flavajn ondolongojn. Kial ĉi tiuj ondolongoj estas elektitaj super profunda ultraviola?",
+      "answer": "Ili estas transdonitaj per okulmedio kaj absorbitaj de retina pigmento kaj sango, liverante energion al cela histo evitante UV-difekton al la lenso kaj korneo.",
+      "assets": [],
+      "tags": [
+        "laser",
+        "eye",
+        "therapy"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "op_014",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Kiel pliigi la nombra aperturo (NA) de mikroskopa celo influas rezolucion kaj kampan profundon?",
+      "answer": "Pli alta NA plibonigas flankan rezolucion sed reduktas kampan profundon, do nur pli maldika tranĉaĵo de la specimeno restas akre enfokusigita.",
+      "assets": [],
+      "tags": [
+        "microscopy",
+        "resolution"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_015",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Kromata aberacio en simpla vitra lenso kaŭzas kolorajn franĝojn en bildo. Kia propraĵo de la lensmaterialo kaŭzas ĝin?",
+      "answer": "Disvastiĝo: refrakta indico dependas de ondolongo, tiel ke malsamaj koloroj estas refraktaj per malsamaj kvantoj kaj ne dividas unu fokuson.",
+      "assets": [],
+      "hint": "Blua lumo estas kutime fleksita pli ol ruĝa en kronvitro.",
+      "tags": [
+        "aberration",
+        "lenses"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_016",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Kion indikas la vidakreca notacio 20/20 (aŭ 6/6) pri la spaca rezolucio de persono kompare kun referenca observanto?",
+      "answer": "Ĉe la testdistanco (20 ft aŭ 6 m), la persono povas solvi detalon ke referenca normala okulo ankaŭ solvas ĉe tiu sama distanco.",
+      "assets": [],
+      "tags": [
+        "visual-acuity",
+        "eye"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_017",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Post moviĝado de hela lumo en malluman ĉambron, skotopa (bast-mediata) vizio daŭras multajn minutojn por atingi plenan sentemon. Kial ĉi tiu adaptado malrapidas?",
+      "answer": "Rodopsino en bastonoj devas regeneriĝi post blankigado, kaj neŭrala gajno en la bastonpado pliiĝas iom post iom; konusoj adaptiĝas multe pli rapide.",
+      "assets": [],
+      "tags": [
+        "eye",
+        "adaptation"
+      ],
+      "estimatedMinutes": 3,
+      "version": 1
+    },
+    {
+      "id": "op_018",
+      "category": "OP",
+      "difficulty": 4,
+      "type": "open",
+      "question": "En lumkampa mikroskopio, ĉesigi la aperturdiafragmon pliigas kampan profundon sed povas malklarigi bonan detalon. Klarigu la interŝanĝon.",
+      "answer": "Pli malgranda aperturo reduktas difrakt-limigitan rezolucion kaj malpezan trairon, tiel ke pli de la specimeno aperas en fokuso sed bona strukturo estas malpli solvita.",
+      "assets": [],
+      "tags": [
+        "microscopy",
+        "resolution"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_019",
+      "category": "OP",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Presbiopeco malfaciligas proksiman legadon en meza aĝo eĉ kiam distanca vizio estas korektita. Kia aĝo-rilata ŝanĝo en la okulo kaŭzas ĝin?",
+      "answer": "La kristala lenso rigidiĝas kaj perdas akomodan potencon, tiel ke la okulo ne povas pliigi optikan potencon sufiĉe por fokusigi proksime de objektoj.",
+      "assets": [],
+      "hint": "Loĝado dependas de ŝanĝiĝanta lensoformo.",
+      "tags": [
+        "eye",
+        "accommodation"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "op_020",
+      "category": "OP",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Kompare kun konvencia larĝakampa fluoreskeca mikroskopio, kio estas la ĉefa kontrasta avantaĝo de konfokusa bildigo?",
+      "answer": "Pintruo malakceptas eksterfokusan fluoreskecon, do lumo ĉefe de la fokusa ebeno kontribuas al la bildo, plibonigante aksan rezolucion kaj kontraston.",
+      "assets": [],
+      "hint": "Konsideru kio okazas al fluoreskeco elsendita super kaj sub la fokusa ebeno.",
+      "tags": [
+        "microscopy",
+        "fluorescence"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "op_021",
+      "category": "OP",
+      "difficulty": 4,
+      "type": "open",
+      "question": "La kritika angulo por totala interna reflektado dependas de la refraktaj indicoj de la du amaskomunikilaro. Skribu la rilaton kvalite: se n₁ estas la kerno kaj n₂ estas la tegaĵo kun n₁ > n₂, kio okazas al la kritika angulo kiam n₂ estas reduktita?",
+      "answer": "La kritika angulo iĝas pli malgranda (sin θ_c = n₂/n₁), do pli larĝa gamo de radioj ene de la kerno spertas totalan internan reflektadon.",
+      "assets": [],
+      "tags": [
+        "fiber-optics",
+        "snell"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_022",
+      "category": "OP",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Klaso 1 laserprodukto estas konsiderita sekura por intraradia spektado sub normala uzo. Kiuj dezajnaj trajtoj tipe pravigas ĉi tiun klasifikon?",
+      "answer": "Esence malalta alirebla potenco, aŭ plene enfermita alt-forta fonto tiel neniu danĝera trabo povas atingi la uzanton dum celita operacio.",
+      "assets": [],
+      "tags": [
+        "laser",
+        "safety"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_023",
+      "category": "OP",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Laŭ la Abbe-difraktolimo, la plej malgranda solvebla distanco en mikroskopo skalas kun λ/NA. Se ondolongo estas duonigita dum NA estas senŝanĝa, kiel ŝanĝiĝas la rezolucia limo?",
+      "answer": "Ĝi estas duonigita (plibonigita je dufaktoro): pli malgranda ondolongo permesas solvi pli bonan detalon ĉe la sama NA.",
+      "assets": [],
+      "hint": "Rezolucio pliboniĝas kiam la minimuma solvebla distanco malpliiĝas.",
+      "tags": [
+        "resolution",
+        "microscopy"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "op_024",
+      "category": "OP",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Du-fotona fluoreskecmikroskopio uzas preskaŭ-infraruĝan eksciton anstataŭe de videbla lumo. Nomu du kialojn, kial tio helpas dum bildigo profunde en disĵetanta histo.",
+      "answer": "Pli longaj ondolongoj disiĝas malpli kaj penetras pli profunde; ekscito postulas samtempan sorbadon de du fotonoj tiel fluoreskeco estas lokalizita plejparte ĉe la fokusa volumeno.",
+      "assets": [],
+      "hint": "Pensu pri ambaŭ histopenetro kaj kie ekscitprobablo estas plej alta.",
+      "tags": [
+        "fluorescence",
+        "microscopy",
+        "imaging"
+      ],
+      "estimatedMinutes": 6,
+      "version": 1
+    },
+    {
+      "id": "op_025",
+      "category": "OP",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Frits Zernike ricevis la nobelpremion por fazkontrasta mikroskopio, kiu igas nemakulajn travideblajn ĉelojn videblaj. Kiu posedaĵo de lumo pasanta tra la specimeno estas konvertita en detektebla ampleksokontrasto?",
+      "answer": "Optika fazprokrasto enkondukita de la specimeno; la fazplato ŝanĝas la fazon de nedifraktita lumo tiel malgrandaj fazdiferencoj iĝas intensecdiferencoj en la bildo.",
+      "assets": [
+        "nobel_imaging.png"
+      ],
+      "tags": [
+        "microscopy",
+        "history",
+        "imaging"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "ra_001",
+      "category": "RA",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Difinu la grizon (Gy) kiel unuon de sorbita dozo.",
+      "answer": "1 grizo = 1 ĵulo da joniga radiada energio absorbita per kilogramo da materialo (1 J/kg).",
+      "assets": [],
+      "hint": "Pensu ĵulojn absorbitajn per kilogramo da histo.",
+      "tags": [
+        "dosimetry",
+        "units",
+        "absorbed-dose"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_002",
+      "category": "RA",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Sur diagnoza Rentgenfota bildo, kial osto kutime aperas pli hela ol mola histo?",
+      "answer": "Osto havas pli altan densecon kaj efikan atomnumeron, do ĝi mildigas pli da Rentgenradioj kaj malpli da radiado atingas la detektilon malantaŭ ĝi.",
+      "assets": [],
+      "hint": "Komparu kiom ĉiu histo haltigas la trabon.",
+      "tags": [
+        "x-ray",
+        "contrast",
+        "attenuation"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_003",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Se la duonvalora tavolo (HVL) de rentgenradia fasko pliiĝas, ĉu la trabo penetras histon pli-malpli efike?",
+      "answer": "Pli efike. Pli dika absorbilo estas necesa por duonigi la radiointensecon, tiel ke fotonoj penetras pli profunde.",
+      "assets": [],
+      "hint": "Pli granda HVL signifas pli da materialo por duonigi intensecon.",
+      "tags": [
+        "half-value-layer",
+        "x-ray",
+        "penetration"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_004",
+      "category": "RA",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Difinu la sievert (Sv) kiel unuon uzitan en radia protekto.",
+      "answer": "La sievert kvantigas ekvivalentan aŭ efikan dozon - sorbitan dozon (Gy) pezbalancitan per radiadspeco kaj histo-sentemo. Ĝi taksas biologian damaĝon.",
+      "assets": [],
+      "hint": "Ĝi pesas absorbitan dozon por biologia efiko.",
+      "tags": [
+        "sievert",
+        "dosimetry",
+        "radiation-protection"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_005",
+      "category": "RA",
+      "difficulty": 1,
+      "type": "open",
+      "question": "En radiologia fiziko, kion mezuras ekspozicio?",
+      "answer": "Ekspono mezuras Rentgenradian aŭ gamaradian jonigon en aero, historie en roentgens (R) aŭ SI-kulombojn je kilogramo (C/kg). Ĝi priskribas kiom multe la trabo jonigas aeron, ne energion deponitan en histo.",
+      "assets": [],
+      "hint": "Fokuso sur jonigo produktita en aero per la trabo.",
+      "tags": [
+        "exposure",
+        "dosimetry",
+        "units"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_006",
+      "category": "RA",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Deklaru la principon de ALARA uzata en medicina radioprotekto.",
+      "answer": "ALARA signifas teni laborajn kaj paciencajn dozojn Tiel Malaltaj Kiel Racie Atingeblaj, ekvilibrigi diagnozan profiton kontraŭ nenecesa ekspozicio.",
+      "assets": [],
+      "hint": "La akronimo priskribas minimumigi dozon kiam praktike.",
+      "tags": [
+        "ALARA",
+        "radiation-protection",
+        "clinical"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_007",
+      "category": "RA",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Kial portado de plumba antaŭtuko reduktas radiadozon al personaro proksime de rentgenfonto?",
+      "answer": "Plumbo havas altan atomnumeron kaj forte mildigas Rentgenradiojn per fotoelektra sorbado kaj disvastigo, do malpli da fotonoj atingas la portanton.",
+      "assets": [],
+      "hint": "Alt-Z-materialo prefere ĉesigas diagnozajn fotonojn.",
+      "tags": [
+        "radiation-protection",
+        "attenuation",
+        "shielding"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_008",
+      "category": "RA",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Kial jodaj kontrastaj agentoj plibonigas la videblecon de molhisto sur Rentgenfotaj aŭ CT bildoj?",
+      "answer": "Jodo havas altan atomnumeron kaj forte mildigas Rentgenradiojn, do sangaj glasoj kaj organoj enhavantaj kontraston sorbas pli da fotonoj kaj elstaras kontraŭ ĉirkaŭa histo.",
+      "assets": [
+        "digital_xray.png"
+      ],
+      "hint": "Kontrastaj agentoj pliigas lokan radiomalfortiĝon.",
+      "tags": [
+        "contrast",
+        "x-ray",
+        "ct"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_009",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "En la eksponenta malfortiga leĝo I = I₀·e^(−μx), kion reprezentas la lineara malfortigkoeficiento μ?",
+      "answer": "μ estas la probableco per unuopada longo ke fotono interagas kun la materialo. Pli granda μ signifas pli rapidan trabon malfortiĝantan kun profundo.",
+      "assets": [],
+      "hint": "Ĝi fiksas kiom rapide intenseco falas kun dikeco.",
+      "tags": [
+        "attenuation",
+        "dosimetry",
+        "x-ray"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_010",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Rentgenfota trabo pasas tra du histoj kun malsamaj liniaj malfortiĝkoeficientoj. Kiu histo produktas pli da kontrasto sur la elsendita bildo?",
+      "answer": "La histo kun la pli granda diferenco en μ de siaj najbaroj, ĉar elsendita intenseco ŝanĝiĝas pli trans la limo kaj la detektilo registras pli fortan brilpaŝon.",
+      "assets": [
+        "tissue_attenuation.png"
+      ],
+      "hint": "Kontrasto kreskas kiam najbaraj regionoj malsame mildiĝas.",
+      "tags": [
+        "attenuation",
+        "contrast",
+        "x-ray"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_011",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "En komputita tomografio (CT), kial la gantry rotacias la Rentgenfotan tubon kaj detektilojn ĉirkaŭ la paciento?",
+      "answer": "Rotacio kolektas multajn projekciajn angulojn tra la korpo. Komputilo rekonstruas sekcajn mapojn de malfortiĝo de tiuj projekcioj.",
+      "assets": [
+        "ct_scanner.png"
+      ],
+      "hint": "Multaj anguloj estas necesaj por solvi por interna strukturo.",
+      "tags": [
+        "ct",
+        "x-ray",
+        "imaging"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_012",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Sur CT bildo, kial la Hounsfield-skalo estas difinita tiel ke akvo estas 0 HU?",
+      "answer": "Akvo estas oportuna referenca mildigo por mola histo. Aliaj histoj estas raportitaj relative al akvo, simpligante komparon kaj fenestradon.",
+      "assets": [
+        "hounsfield_ct.png"
+      ],
+      "hint": "Malfortiĝo de mola histo estas proksima al akvo.",
+      "tags": [
+        "ct",
+        "hounsfield",
+        "contrast"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_013",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Kiel la duonvalora tavolo (HVL) rilatas al la lineara malfortiga koeficiento μ por mallarĝa monoenergia trabo?",
+      "answer": "HVL = ln(2)/μ ≈ 0,693/μ. Post unu HVL-dikeco, intenseco falas al duono de sia komenca valoro.",
+      "assets": [],
+      "hint": "Starigu I₀/2 = I₀·e^(−μ·HVL) kaj solvu por dikeco.",
+      "tags": [
+        "half-value-layer",
+        "attenuation",
+        "dosimetry"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_014",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Nomu du naturajn fontojn kiuj kontribuas al fona radiada ekspozicio sur la Tero.",
+      "answer": "Kosma radiado de spaco kaj surteraj radionukleidoj (ekz. uranio, torio, radono en grundo kaj konstrumaterialoj) estas gravaj naturaj fontoj.",
+      "assets": [],
+      "hint": "Konsideru kaj ĉielajn kaj terajn kontribuojn.",
+      "tags": [
+        "background-radiation",
+        "radiation-protection",
+        "environment"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_015",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Kial eksponiĝo al kosma radiado pliiĝas ĉe alta altitudo kaj dum flugkompaniaj flugoj?",
+      "answer": "La atmosfero ŝirmas kontraŭ energiaj ŝarĝitaj partikloj kaj sekundaraj neŭtronoj. Malpli aero supre signifas malpli da interagoj kaj pli altaj dozaj tarifoj ĉe alteco.",
+      "assets": [
+        "cosmic_radiation.png"
+      ],
+      "hint": "Malpli atmosfera ŝirmado signifas ke pli da primaraj partikloj alvenas.",
+      "tags": [
+        "background-radiation",
+        "cosmic-radiation",
+        "radiation-protection"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_016",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "En positrona emisiotomografio (PET), kio okazas kiam positrono renkontas elektronon en histo?",
+      "answer": "Ili neniigas kaj produktas du 511 keV gama-fotonojn vojaĝantajn en preskaŭ kontraŭaj indikoj, kiujn la skanilo detektas koincide.",
+      "assets": [
+        "pet_scanner.png"
+      ],
+      "hint": "Neniigo donas dors-al-dorsajn 511 keV fotonojn.",
+      "tags": [
+        "PET",
+        "isotopes",
+        "imaging"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_017",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Kial fluorodeoksiglukozo (FDG) estas vaste uzata kiel PET spurilo en onkologio?",
+      "answer": "Multaj tumoroj altigis glukozmetabolon. FDG estas prenita kiel glukozo sed kaptita post fosforiligo, koncentriĝante en metabolaj aktivaj lezoj.",
+      "assets": [],
+      "hint": "Tumoroj ofte montras pliigitan konsumadon de glukozo.",
+      "tags": [
+        "PET",
+        "isotopes",
+        "clinical"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_018",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Kial teknecio-99m (⁹⁹ᵐTc) estas ofte uzata en bildigo de nuklea medicino?",
+      "answer": "Ĝi elsendas 140 keV gamaradion taŭgan por detekto, havas mallongan duoniĝotempon (~6 h) limigantan paciencan dozon, kaj povas esti alkroĉita al multaj farmaciaĵoj per generatorfonto.",
+      "assets": [],
+      "hint": "Konsideru duoniĝotempon, fotonan energion kaj etikedan flekseblecon.",
+      "tags": [
+        "isotopes",
+        "imaging",
+        "dosimetry"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_019",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "En protonterapio, kio estas la Bragg-pinto kaj kial ĝi estas klinike utila?",
+      "answer": "La Bragg-pinto estas la profundo kie protonoj deponas la plej grandan parton de sia energio antaŭ ĉesi. Ĝi ebligas al planistoj koncentri dozon en tumoro dum ŝparante histon pretere.",
+      "assets": [
+        "proton_bragg.png"
+      ],
+      "hint": "Protonoj liberigas maksimuman dozon proksime de sia intervalfino.",
+      "tags": [
+        "proton-therapy",
+        "dosimetry",
+        "radiation-protection"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_020",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Kiel sorbita dozo (Gy) diferencas de ekvivalenta dozo (Sv)?",
+      "answer": "Gy mezuras energion deponitan per maso sendepende de radiada tipo. Sv aplikas radiad-pezigajn faktorojn (kaj histopezadon por efika dozo) por reflekti biologian damaĝon.",
+      "assets": [],
+      "hint": "Sv inkluzivas ponderadon por radiado kaj histo-sentemo.",
+      "tags": [
+        "dosimetry",
+        "sievert",
+        "radiation-protection"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_021",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Distingu stokastikajn de determinismajn efikojn de joniga radiado.",
+      "answer": "Stokastikaj efikoj (ekz. kancero) havas neniun sojlon; probablo pliiĝas kun dozo. Determinismaj efikoj (ekz. haŭta eritemo) aperas super sojlo kaj severeco pliiĝas kun dozo.",
+      "assets": [],
+      "hint": "Unu klaso bezonas sojlon; la alia ne faras.",
+      "tags": [
+        "radiation-protection",
+        "dosimetry",
+        "clinical"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_022",
+      "category": "RA",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Kial tipa brusto CT liveras pli altan efikan dozon ol ununura posteroantaŭa torakradiografio?",
+      "answer": "CT akiras centojn da projekciaj anguloj kun la trabo ŝaltita tra la skana volumo, do pli da histo estas surradiita per ekzameno ol en unu 2D projekcia radiografio.",
+      "assets": [],
+      "hint": "Komparu kiom da trabo-surprojekcioj kovras la volumenon.",
+      "tags": [
+        "ct",
+        "x-ray",
+        "dosimetry"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_023",
+      "category": "RA",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Rentgenfota trabo havas HVL de 2.0 mm aluminio. Kio dikeco de aluminio reduktas la intensecon al kvarono de ĝia komenca valoro?",
+      "answer": "4.0 mm (du HVL-oj). Unu HVL duonigas intensecon; du HVLoj reduktas ĝin al unu kvarono (½ × ½ = ¼).",
+      "assets": [],
+      "hint": "Ĉiu HVL multobligas pluvivan intensecon je duono.",
+      "tags": [
+        "half-value-layer",
+        "dosimetry",
+        "attenuation"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_024",
+      "category": "RA",
+      "difficulty": 5,
+      "type": "open",
+      "question": "En radioprotekto, kiel pliigi distancon, reduktitan tempon kaj ŝirmi ĉiun pli malaltan dozon al dungitaro?",
+      "answer": "Distanco reduktas dozon per invers-kvadrata leĝo por punktfonto; malpli da tempo malaltigas integran ekspozicion; ŝirmado mildigas la trabon antaŭ ol ĝi atingas la laboriston.",
+      "assets": [],
+      "hint": "Memoru la tri klasikajn faktorojn en protekto.",
+      "tags": [
+        "radiation-protection",
+        "ALARA",
+        "shielding"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_025",
+      "category": "RA",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Paciento ricevas 2 Gy dum radioterapio kaj 0.002 Gy de diagnozo CT en la sama monato. Kiu ekspozicio estas ĉefe celita por kontroli malsanon, kaj kiu estas ĉefe kromprodukto de bildigo?",
+      "answer": "La 2 Gy terapia frakcio estas preskribita por trakti malsanon. La 0.002 Gy CT dozo estas hazarda bildiga ekspozicio - multe pli malalta sed ankoraŭ administrita sub ALARA.",
+      "assets": [],
+      "hint": "Komparu tipajn terapiajn kontraŭ diagnozajn grandojn de dozo.",
+      "tags": [
+        "dosimetry",
+        "radiation-protection",
+        "clinical"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_001",
+      "category": "MF",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Konverti 50 mGy al griza (Gy).",
+      "answer": "0.05 Gy. Ĉar 1 mGy = 10⁻³ Gy, 50 mGy = 50 × 10⁻³ Gy = 0.05 Gy.",
+      "assets": [],
+      "hint": "Mili- signifas multobligi per dek ĝis minus tri.",
+      "tags": [
+        "units",
+        "conversions",
+        "dosimetry"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_002",
+      "category": "MF",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Por tre rapida membrantensioŝanĝo (mikrosekunda skalo), kiu posedaĵo kutime dominas unue: membrankapacitanco aŭ citoplasma rezisto?",
+      "answer": "Membran kapacitanco, ĉar ŝargado de la membrano dominas la plej fruan parton de la pasemo.",
+      "assets": [],
+      "hint": "Kapacita ŝargado estas plej rapida je tre mallongaj tempoj.",
+      "tags": [
+        "membrane-physics",
+        "capacitance",
+        "cable-equation"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_003",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Laŭ la leĝo de Beer-Lambert I = I₀·e^(−μx), kio okazas al transdonita intenseco se μ duobliĝas dum dikeco x restas sama?",
+      "answer": "Transdona intenseco malpliiĝas ĉar la eksponento duobliĝas: I fariĝas I₀·e^(−2μx), kiu estas pli malgranda ol I₀·e^(−μx).",
+      "assets": [],
+      "hint": "Pli granda eksponento signifas pli da malfortiĝo ĉe fiksa dikeco.",
+      "tags": [
+        "spectrophotometry",
+        "attenuation",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_004",
+      "category": "MF",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Konverti 25 °C al kelvino (K).",
+      "answer": "298 K (K = °C + 273,15 ≈ 25 + 273 = 298 K).",
+      "assets": [],
+      "hint": "Aldonu la celsiusan ofseton al la absoluta nula referenco.",
+      "tags": [
+        "temperature",
+        "units",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_005",
+      "category": "MF",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Kio estas la SI-unuo de premo, kaj kiel ĝi estas difinita?",
+      "answer": "La paskalo (Pa), difinita kiel unu neŭtono de forto je kvadrata metro (N/m²).",
+      "assets": [],
+      "hint": "Forto per unuo-areo en SI-bazunuoj.",
+      "tags": [
+        "pressure",
+        "units",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_006",
+      "category": "MF",
+      "difficulty": 2,
+      "type": "open",
+      "question": "En sanga vaskulo, kiel hidrostatika premo diferencas de osmoza premo trans la kapilara muro?",
+      "answer": "Hidrostatika premo puŝas likvaĵon for el la ŝipo laŭ la premgradiento. Osmoza premo de plasmoproteinoj tendencas tiri akvon reen en kapilarojn.",
+      "assets": [],
+      "hint": "Unu estas mekanika puŝo; unu estas solute-movita tiro.",
+      "tags": [
+        "pressure",
+        "flow",
+        "membrane-physics"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_007",
+      "category": "MF",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Kiuj jonaj gradientoj ĉefe starigas la ripozan membranpotencialon en eksciteblaj ĉeloj?",
+      "answer": "Kaliaj kaj natriaj gradientoj trans la membrano, kun kaliopermeablo dominas ripoze tiel la potencialo sidas proksime de E_K.",
+      "assets": [],
+      "hint": "Ripoza potencialo estas plej proksima al la ekvilibro de kiu jono?",
+      "tags": [
+        "membrane-physics",
+        "Nernst",
+        "diffusion"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_008",
+      "category": "MF",
+      "difficulty": 2,
+      "type": "open",
+      "question": "En la Nernst-ekvacio, kiuj kvantoj determinas la ekvilibran potencialon de jono?",
+      "answer": "La ŝargo de la jono kaj la rilatumo de ĝiaj koncentriĝoj (aŭ agadoj) interne kontraŭ ekster la ĉelo, ĉe antaŭfiksita temperaturo.",
+      "assets": [],
+      "hint": "Logaritmo de interna-al-ekstera koncentriĝproporcio gravas.",
+      "tags": [
+        "Nernst",
+        "membrane-physics",
+        "units"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_009",
+      "category": "MF",
+      "difficulty": 2,
+      "type": "open",
+      "question": "En spektrofotometrio, al kiu fizika kvanto absorbanco A rekte rilatas?",
+      "answer": "Absorbance estas rilatita al la frakcio de lumo absorbita (aŭ elsendita) per la provaĵo: A = −log₁₀(T), kie T estas transmitance.",
+      "assets": [],
+      "hint": "Ĝi estas la negativa bazdek-logaritmo de transmitance.",
+      "tags": [
+        "spectrophotometry",
+        "lab-calculations",
+        "units"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_010",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "En la Beer-Lambert leĝo A = ε·l·c, deklaru kion ĉiu simbolo reprezentas.",
+      "answer": "ε estas la mola absorbiveco (L·mol⁻¹·cm⁻¹), l estas padlongo tra la provaĵo (cm), kaj c estas mola koncentriĝo (mol·L⁻¹).",
+      "assets": [],
+      "hint": "Absorbanco-skvamoj kun koncentriĝo kaj padlongo.",
+      "tags": [
+        "spectrophotometry",
+        "lab-calculations",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_011",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Por lamena fluo en tubo, kiel estas volumetra flukvanto Q, sekca areo A, kaj meza rapideco v rilatas?",
+      "answer": "Q = A·v. Flukvanto egalas al la areo, tra kiu trapasas likvaĵo, multiplikita per averaĝa aksa rapido.",
+      "assets": [],
+      "hint": "Volumo po tempo egalas areo-oble rapido.",
+      "tags": [
+        "flow",
+        "units",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_012",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Laŭ la leĝo de Poiseuille, kiel duonigi la tubradiuson influas volumetran fluon se ĉiuj aliaj faktoroj restas konstantaj?",
+      "answer": "Fluo malpliiĝas deksesoble, ĉar Q ∝ r⁴ kaj (½)⁴ = 1/16.",
+      "assets": [],
+      "hint": "Radiuso aperas al la kvara potenco en la leĝo de Poiseuille.",
+      "tags": [
+        "flow",
+        "viscosity",
+        "pressure"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_013",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Kial sangoviskozeco influas arterian premon kaj koran laborŝarĝon?",
+      "answer": "Pli alta viskozeco pliigas reziston al fluo (leĝo de Poiseuille), tiel ke la koro devas generi pli da premo por konservi la saman flukvanton.",
+      "assets": [],
+      "hint": "Viskozeco eniras rekte en fluoreziston.",
+      "tags": [
+        "viscosity",
+        "flow",
+        "pressure"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_014",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Deklaru la unuan leĝon de disvastigo de Fick en vortoj.",
+      "answer": "La difuza fluo estas proporcia al la negativa koncentriĝgradiento: partikloj moviĝas de pli alta al pli malalta koncentriĝo, kun indico metita per la difuzkoeficiento.",
+      "assets": [],
+      "hint": "Fluo sekvas la deklivon de koncentriĝo kontraŭ pozicio.",
+      "tags": [
+        "diffusion",
+        "membrane-physics",
+        "units"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_015",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "En la kabla ekvacio, kion priskribas la longkonstanto λ (lambda)?",
+      "answer": "λ estas la distanco super kiu stabila subsojla signalo kadukiĝas al proksimume 37% (1/e) de sia valoro laŭ plilongigita kablo kiel ekzemple aksono aŭ dendrito.",
+      "assets": [],
+      "hint": "Ĝi mezuras spacan kadukiĝon de pasiva tensiodisvastiĝo.",
+      "tags": [
+        "cable-equation",
+        "membrane-physics",
+        "flow"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_016",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Vi bezonas 250 mL da 0,10 mol·L⁻¹ saloza el 1,0 mol·L⁻¹ stoko. Kian volumon de stoko vi mezuru?",
+      "answer": "25 mL (C₁V₁ = C₂V₂ → V₁ = 0.10 × 250 / 1.0 = 25 mL), tiam diluu al 250 mL entute.",
+      "assets": [
+        "workshop_lab.png"
+      ],
+      "hint": "Uzu C₁V₁ = C₂V₂ antaŭ plenigi per solvilo.",
+      "tags": [
+        "lab-calculations",
+        "conversions",
+        "lab-prep"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_017",
+      "category": "MF",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Konvertu 760 mmHg al paskaloj, uzante 1 mmHg ≈ 133 Pa.",
+      "answer": "≈ 1.01 × 10⁵ Pa (760 × 133 Pa ≈ 101 000 Pa, proksime de norma atmosfera premo).",
+      "assets": [],
+      "hint": "Multipliku milimetrojn da hidrargo per la Pa-faktoro.",
+      "tags": [
+        "pressure",
+        "units",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_018",
+      "category": "MF",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Por ĉelmembrano, kiel la membrantempa konstanto τ rilatas al rezisto R kaj kapacitanco C?",
+      "answer": "τ = R·C. Ĝi fiksas kiom rapide la membranpotencialo respondas al paŝoŝanĝo en fluo.",
+      "assets": [],
+      "hint": "Produkto de rezisto kaj kapacitanco donas sekundojn.",
+      "tags": [
+        "membrane-physics",
+        "capacitance",
+        "cable-equation"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_019",
+      "category": "MF",
+      "difficulty": 4,
+      "type": "open",
+      "question": "En spektrofotometria eksperimento kun fiksa koncentriĝo, kiel duobligi la kuvetvojlongon influas absorbadon?",
+      "answer": "Absorbanco duobliĝas, ĉar A = ε·l·c kaj l estas proporcia al A kiam ε kaj c estas konstantaj.",
+      "assets": [],
+      "hint": "Beer-Lambert diras ke absorbado estas linia en padlongo.",
+      "tags": [
+        "spectrophotometry",
+        "lab-calculations",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_020",
+      "category": "MF",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Kion indikas la Reynolds-numero pri sangofluo en vazo?",
+      "answer": "Ĝi komparas inerciajn al viskozaj fortoj. Malalta Re indikas lamenan fluon; alta Re sugestas ke turbuleco povas aperi, influante energian perdon kaj vazan murstreson.",
+      "assets": [],
+      "hint": "Ĝi estas rilatumo de inerciaj al viskozaj efikoj.",
+      "tags": [
+        "flow",
+        "viscosity",
+        "pressure"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_021",
+      "category": "MF",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Se eksterĉela kaliokoncentriĝo duobliĝas dum intraĉela [K⁺] restas konstanta, ĉu la Nernst-kalia potencialo E_K iĝas pli pozitiva aŭ pli negativa?",
+      "answer": "Pli pozitiva (malpli negativa). Pli alta ekstera koncentriĝo reduktas la internan/eksteran rilatumon, malpolarigante E_K.",
+      "assets": [],
+      "hint": "La Nernst-registra termino dependas de interne super ekstere.",
+      "tags": [
+        "Nernst",
+        "membrane-physics",
+        "diffusion"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_022",
+      "category": "MF",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Sango fluas tra arteriolo de radiuso 0.30 mm je 2.0 mL·s⁻¹. Se radiuso mallarĝiĝas al 0.20 mm kun viskozeco kaj premofalo senŝanĝaj, kio estas la nova flukvanto?",
+      "answer": "≈ 0,39 mL·s⁻¹. Q ∝ r⁴, do Q₂ = 2.0 × (0.20/0.30)⁴ ≈ 2.0 × 0.198 ≈ 0.39 mL⟦P6⟹s.",
+      "assets": [],
+      "hint": "Apliki la kvara-potencan radiusan skalon de Poiseuille.",
+      "tags": [
+        "flow",
+        "viscosity",
+        "lab-calculations"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_023",
+      "category": "MF",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Kial elektrotona potencialo kadukiĝas kun distanco laŭ nemjelina aksono laŭ la kabla ekvacio?",
+      "answer": "Aksa kurento likas trans la membranrezisto kaj ŝargas membrankapacitancon, tiel ke malpli signalo atingas malproksimajn ejojn - kadukiĝo estas karakterizita per la longkonstanto λ.",
+      "assets": [],
+      "hint": "Membran liko kaj kapacitanco drenas fluon laŭ la kablo.",
+      "tags": [
+        "cable-equation",
+        "membrane-physics",
+        "flow"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_024",
+      "category": "MF",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Esprimu norman atmosferan premon (760 mmHg) en kilopaskaloj (kPa).",
+      "answer": "Proksimume 101 kPa (760 mmHg × 133 Pa·mmHg⁻¹ ≈ 1,01 × 10⁵ Pa = 101 kPa).",
+      "assets": [],
+      "hint": "Konverti mmHg al Pa, tiam dividu per mil.",
+      "tags": [
+        "pressure",
+        "units",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_025",
+      "category": "MF",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Proteina solvaĵo havas absorbadon 0.60 en 1.0 cm kuveto. Se ε = 1.2 × 10⁴ L·mol⁻¹·cm⁻¹, kio estas la molara koncentriĝo?",
+      "answer": "5.0 × 10⁻⁵ mol·L⁻¹ (c = A/(ε·l) = 0.60 / (1.2 × 10⁴ × 1.0⁴ × 1.0) = ⟦0.50⟧ mol·L⁻¹).",
+      "assets": [],
+      "hint": "Reordigu A = ε·l·c por solvi por c.",
+      "tags": [
+        "spectrophotometry",
+        "lab-calculations",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "wl_001",
+      "category": "WL",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Konfirmu la leĝon de Ohm por lineara rezistilo.",
+      "answer": "V = I × R (tensio egalas al kurento multiplikita per rezisto).",
+      "assets": [],
+      "hint": "Rilatu tensio, kurento kaj rezisto.",
+      "tags": [
+        "electricity",
+        "ohm-law",
+        "impedance"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_002",
+      "category": "WL",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Se eksterĉela kaliokoncentriĝo pliiĝas, kio okazas al la kalio-ekvilibra potencialo (E_K)?",
+      "answer": "E_K iĝas malpli negativa (malpolarigas), tiel ke la ripoza membranpotencialo estas ŝanĝita direkte al malpolariĝo.",
+      "assets": [],
+      "hint": "Pensu pri la Nernst-ekvacia signo.",
+      "tags": [
+        "membrane",
+        "nernst-potential",
+        "potassium"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_003",
+      "category": "WL",
+      "difficulty": 3,
+      "type": "open",
+      "question": "En MRI, kial magnetkampaj gradientoj estas bezonataj krom la ĉefa senmova kampo B₀?",
+      "answer": "Gradentoj igas precesiofrekvencon dependi de pozicio, permesante spacan kodigon de la signalo dum bildrekonstruo.",
+      "assets": [
+        "mri_scan.png"
+      ],
+      "hint": "Ofteco devas varii laŭ pozicio.",
+      "tags": [
+        "mri",
+        "spatial-encoding",
+        "gradients"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_004",
+      "category": "WL",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Difinu la ondolongon de perioda ondo.",
+      "answer": "Ondolongo (λ) estas la spaca distanco inter du sinsekvaj punktoj en la sama fazo, kiel kresto al spino.",
+      "assets": [],
+      "hint": "Mezuru kresto-al-kresto-distancon.",
+      "tags": [
+        "waves",
+        "wavelength",
+        "basics"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_005",
+      "category": "WL",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Kiel rilatas frekvenco (f) kaj periodo (T) de ondo?",
+      "answer": "Ili estas reciprokaj: f = 1/T (kaj T = 1/f). Pli alta ofteco signifas pli mallongan periodon.",
+      "assets": [],
+      "hint": "Ili estas matematikaj reciprokoj.",
+      "tags": [
+        "waves",
+        "frequency",
+        "period"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_006",
+      "category": "WL",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Ĉu aŭdeblaj sonondoj en aero estas longitudaj aŭ transversaj?",
+      "answer": "Longitudaj. Partikloj oscilas paralele al la direkto de disvastigo, formante kunpremojn kaj maloftigojn.",
+      "assets": [],
+      "hint": "Partiklomovo paralelas disvastigdirekton.",
+      "tags": [
+        "sound",
+        "waves",
+        "longitudinal"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_007",
+      "category": "WL",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Diagnoza ultrasona pulso havas frekvencon 5 MHz en mola histo kie sonrapideco estas proksimume 1540 m/s. Kio estas ĝia ondolongo?",
+      "answer": "λ = v/f ≈ 1540 m/s ÷ 5×10⁶ Hz ≈ 0.31 mm (ĉirkaŭ 0.3 mm).",
+      "assets": [],
+      "hint": "Uzu λ egalas v super f.",
+      "tags": [
+        "ultrasound",
+        "wavelength",
+        "frequency"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_008",
+      "category": "WL",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Kial piezoelektra kristalo povas ambaŭ transdoni kaj ricevi ultrasonajn pulsojn?",
+      "answer": "Aplikita tensio misformas la kristalon por elsendi sonon; revenantaj eĥoj meĥanike deformas ĝin kaj generas mezureblan tension.",
+      "assets": [
+        "ultrasound_probe.png"
+      ],
+      "hint": "Mekanika streĉo kaj tensio paro.",
+      "tags": [
+        "ultrasound",
+        "piezoelectric",
+        "transducer"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_009",
+      "category": "WL",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Kial oni devas uzi akustikan kunligan ĝelon inter ultrasona transduktilo kaj la haŭto?",
+      "answer": "Aero havas tre altan akustikan impedancan miskongruon kun histo; ĝelo delokigas aeron kaj plibonigas akustikan kupladon tiel pli da ultrasono eniras la korpon.",
+      "assets": [],
+      "hint": "Aero tre forte blokas ultrasonon.",
+      "tags": [
+        "ultrasound",
+        "coupling-gel",
+        "impedance"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_010",
+      "category": "WL",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Akustika intenseco ofte estas raportita en vatoj je kvadrata metro (W/m²). De kiuj du ondokvantoj dependas intenseco?",
+      "answer": "Premamplitudo (aŭ partiklodelokiĝo) kaj frekvenco, kombinitaj tra la akustika impedanco de la mediumo; pli alta amplitudo ĉe antaŭfiksita frekvenco signifas pli altan intensecon.",
+      "assets": [],
+      "hint": "Amplekso kaj mezaj propraĵoj gravas.",
+      "tags": [
+        "acoustic-intensity",
+        "sound",
+        "ultrasound"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_011",
+      "category": "WL",
+      "difficulty": 4,
+      "type": "open",
+      "question": "En kolordoplera ultrasono, sango moviĝanta direkte al la enketo ofte estas montrita en ruĝa. Kia fizika ŝanĝo en la reflektita eĥo kaŭzas ĉi tion?",
+      "answer": "La eĥfrekvenco estas ŝanĝita supren (pozitiva doplera movo) ĉar la moviĝantaj disvastigiloj mallongigas la efikan rondveturan padon, pliigante la ricevitan frekvencon.",
+      "assets": [
+        "doppler_ultrasound.png"
+      ],
+      "hint": "Movŝanĝoj ricevis eĥoftecon.",
+      "tags": [
+        "doppler",
+        "ultrasound",
+        "frequency"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_012",
+      "category": "WL",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Kial osto aperas hela sur ultrasona B-reĝima bildo dum aerplena intesto ofte ĵetas distalan ombron?",
+      "answer": "Osto havas altan akustikan impedancon kaj reflektas la plej grandan parton de la trabo; aero havas grandegan impedancan miskongruon kun histo, reflektante kaj disvastigante forte tiel malmulte da energio pasas tra.",
+      "assets": [],
+      "hint": "Granda impedanca miskongruo reflektas energion.",
+      "tags": [
+        "ultrasound",
+        "impedance",
+        "attenuation"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_013",
+      "category": "WL",
+      "difficulty": 5,
+      "type": "open",
+      "question": "En MRI je 1.5 T, protona Larmor-frekvenco estas proksimume 64 MHz. Se B₀ duobliĝas al 3 T, kio okazas al Larmor-frekvenco?",
+      "answer": "Ĝi duobliĝas al proksimume 128 MHz, ĉar Larmor-frekvenco estas proporcia al B₀ (ω = γB₀).",
+      "assets": [
+        "magnet_diagram.png"
+      ],
+      "hint": "Larmor-frekvenco skalas kun B₀.",
+      "tags": [
+        "mri",
+        "larmor-frequency",
+        "magnetic-field"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_014",
+      "category": "WL",
+      "difficulty": 1,
+      "type": "open",
+      "question": "En nuklea magneta resonanco (NMR), kia nuklea posedaĵo estas detektita kiel la makroskopa signalo?",
+      "answer": "Reta magnetigo de vicigitaj nukleaj spinoj (ofte ¹H-protonoj) precesantaj en ekstera kampo.",
+      "assets": [],
+      "hint": "Vicigitaj spinoj kreas videblan magnetigon.",
+      "tags": [
+        "nmr",
+        "mri",
+        "spin"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_015",
+      "category": "WL",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Kial la RF pulso en MRI devas esti agordita proksime de la Larmor-frekvenco?",
+      "answer": "Energitransigo estas efika nur ĉe resonanco; ekster-resonancaj pulsoj malsukcesas renversi spinojn kohere en la transversan ebenon.",
+      "assets": [],
+      "hint": "Resonanco maksimumigas energian sorbadon.",
+      "tags": [
+        "mri",
+        "resonance",
+        "rf-pulse"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_016",
+      "category": "WL",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Sangoĉelo reflektas ultrasonan eĥon moviĝante for de la sondilo. Ĉu la ricevita frekvenco estas pli alta aŭ pli malalta ol la elsendita frekvenco?",
+      "answer": "Malsupre. Movo for plilongigas la rondveturan vojon, produktante negativan dopleran movon (ricevita f < elsendita f).",
+      "assets": [],
+      "hint": "Revenanta moviĝo malaltigas ricevitan frekvencon.",
+      "tags": [
+        "doppler",
+        "ultrasound",
+        "frequency"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_017",
+      "category": "WL",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Akustika impedanco Z estas difinita kiel Z = ρc, kie ρ estas denseco kaj c estas sonrapideco. Kial granda impedancdiferenco ĉe hista limo kaŭzas fortan reflektadon?",
+      "answer": "Reflekta koeficiento kreskas kun impedanca miskongruo; kiam Z₁ kaj Z₂ tre malsamas, malmulte da energio transiras la limon kaj la plej granda parto estas reflektita.",
+      "assets": [],
+      "hint": "Miskongrua Z signifas pli da reflektado.",
+      "tags": [
+        "impedance",
+        "ultrasound",
+        "reflection"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_018",
+      "category": "WL",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Post RF ekscitpulso en MRI, kial la detektebla signalo kadukiĝas eĉ se B₀ estas tute unuforma?",
+      "answer": "Spin-spina (T₂) interagoj kaj kampaj malhomogenecoj malfazas transversan magnetigon; lokaj frekvencdiferencoj igas vektorojn ventumi kaj nuligi.",
+      "assets": [],
+      "hint": "Spinoj perdas fazkoherecon laŭlonge de la tempo.",
+      "tags": [
+        "mri",
+        "nmr",
+        "t2-decay"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_019",
+      "category": "WL",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Harmonia bildigo en ultrasono ofte elsendas ĉe frekvenco f kaj ricevas ĉe 2f. Kial ĉi tio povas plibonigi bildokvaliton?",
+      "answer": "Harmonikoj estas generitaj plejparte kiam la ondo vojaĝas tra histo, do ricevitaj 2f-eĥoj originas pli profunde kaj suferas malpli de supraĵaj reverberaj artefaktoj.",
+      "assets": [],
+      "hint": "Harmonikoj formiĝas dum histodisvastigo.",
+      "tags": [
+        "ultrasound",
+        "harmonic-imaging",
+        "frequency"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_020",
+      "category": "WL",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Orgentubo malfermita ĉe ambaŭ finoj resonas je ondolongo λ = 2L/n por reĝimo n. Por la fundamenta (n = 1), kie estas la premnodoj?",
+      "answer": "Ĉe ambaŭ malfermitaj finoj; antinodo sidas en la centro. Malfermaj finoj estas premnodoj ĉar la aero tie estas libera moviĝi.",
+      "assets": [],
+      "hint": "Malfermaj finoj estas premnodoj.",
+      "tags": [
+        "sound",
+        "resonance",
+        "standing-waves"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "fn_001",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Fizikisto eniras trinkejon kun magneto. La drinkejisto rifuzas servon. Sur kio baziĝas la punklinio?",
+      "answer": "Magnetaj monopoloj ne estas observataj en ordinara materio - magnetoj ĉiam havas nordajn kaj sudan polusojn kune.",
+      "assets": [],
+      "tags": [
+        "magnetism",
+        "monopole",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_002",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Studento asertas, ke ili povas detekti individuajn 2.4 GHz Wi-Fi-fotonojn per tuŝo. Ĉu tio estas biofizike kredebla?",
+      "answer": "Ne. Ĉiu fotona energio estas multe sub termikaj fluktuoj ĉe korpotemperaturo, do individuaj kvantoj ne estas percepteblaj.",
+      "assets": [],
+      "tags": [
+        "photons",
+        "thermal-noise",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_003",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Kial ultrasona sondilo kaj CT skanilo povus esti malbona romantika matĉo?",
+      "answer": "Oni preferas molajn histojn kaj kunligan ĝelon; la alia pli interesiĝas pri alta malfortiĝo kaj osta kontrasto.",
+      "assets": [],
+      "tags": [
+        "ultrasound",
+        "ct",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_004",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Medicina studento nomas ilian dorlotbeston orfiŝon \"Tesla\" kaj insistas ke ĝi akordiĝas kun la magneta kampo de la Tero dum naĝado. Kredeble?",
+      "answer": "Ne. Biologia magnetorecepto en fiŝoj implikas specialiĝintajn histojn kaj etajn kampofortojn; bovlo orfiŝo ne estas kompaspinglo.",
+      "assets": [],
+      "tags": [
+        "magnetism",
+        "biology",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_005",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Kial la membranpotencialo disiĝis kun la agopotencialo?",
+      "answer": "Ĝi diris, ke la rilato havis tro da malpolariĝo kaj ne sufiĉe da repolariĝo - ili bezonis pli stabilajn ripozajn limojn.",
+      "assets": [],
+      "hint": "Pensu ripozan potencialon kontraŭ pikilo.",
+      "tags": [
+        "membrane",
+        "action-potential",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_006",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Radiografo ŝercas ke Rentgenradioj estas nur tre malsocia lumo. Kiun nemoveblaĵon troigas la ŝerco?",
+      "answer": "Alta fotona energio kaj mallonga ondolongo lasas rentgenradiojn penetri molajn histojn; male al videbla lumo, ili estas absorbitaj plejparte en densaj strukturoj kiel ekzemple osto.",
+      "assets": [],
+      "tags": [
+        "x-ray",
+        "photons",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_007",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Ĉu vi povus agordi violonkordon al la Larmor-frekvenco de protonoj je 1,5 T?",
+      "answer": "Ne. Larmor-frekvenco ĉe 1.5 T estas proksimume 64 MHz — multe super aŭdebla intervalo kaj ajna praktika kordo fundamenta.",
+      "assets": [],
+      "tags": [
+        "mri",
+        "larmor-frequency",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_008",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Samklasano diras, ke ili preterlasas ultrasonan ĝelon ĉar locio odoras pli agrable. Kian biofizikan problemon tio kreas?",
+      "answer": "Locio ankoraŭ lasas aerinterspacojn kaj malbonan akustikan kupladon; sen ĝelo, plej multe de la ultrasono reflektas ĉe la haŭto-aera interfaco kaj la bildo degradas.",
+      "assets": [],
+      "tags": [
+        "ultrasound",
+        "coupling-gel",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_009",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Kial krias 'resonanco!' en MRI suite ĉu malbona ideo eĉ se la magneto ne zorgas?",
+      "answer": "RF pulsoj kaj riceviloj estas agorditaj al Larmor-resonanco; akustika bruo estas senrilata, sed sekurecaj reguloj kaj pacienca angoro ankoraŭ faras ĝin malbona ideo en kontrolita klinika zono.",
+      "assets": [],
+      "tags": [
+        "mri",
+        "resonance",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_010",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "ECG plumbo kaj grunda elektrodo piediras en diferencialan amplifilon. Kiu portas la koran signalon?",
+      "answer": "La aktivaj registradkonduktiloj portas la koran signalon; la grundo aŭ referenca elektrodo stabiligas komunreĝiman tension tiel la amplifilo povas mezuri la malgrandan potencialdiferencon de la koro.",
+      "assets": [],
+      "tags": [
+        "ecg",
+        "differential-amplifier",
+        "easter-egg"
+      ],
+      "version": 1
+    }
+  ]
+}

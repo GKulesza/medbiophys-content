@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentSetId": "2026-06-28-content",
-  "publishedAt": "2026-06-28T18:12:14Z",
+  "contentSetId": "2026-06-29-content",
+  "publishedAt": "2026-06-29T12:41:09Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -240,49 +240,49 @@
     {
       "id": "resources/_default/pl",
       "path": "resources/_default/pl/resources.json",
-      "version": "1",
-      "sha256": "0657398daada0318dbc0e31c0e9af9be8f29367f0b9f62dc865e949496f8edfb",
-      "sizeBytes": 2355,
+      "version": "3",
+      "sha256": "1a3b1439fa6936c8ea772217850a5fd8b9f55e0391fde0fa5e80c37902cf946f",
+      "sizeBytes": 2377,
       "locale": "pl"
     },
     {
       "id": "resources/_default/es",
       "path": "resources/_default/es/resources.json",
-      "version": "1",
-      "sha256": "4ade5c09d87525154d1ac8a2c4fd74ec226e4121e0d6a5f8247a0cbf12330b32",
-      "sizeBytes": 2394,
+      "version": "2",
+      "sha256": "6f02e6ae362e958be38b61c109ac3aedb0f291c1edc80c55e7cec99ec989350d",
+      "sizeBytes": 2426,
       "locale": "es"
     },
     {
       "id": "resources/_default/eo",
       "path": "resources/_default/eo/resources.json",
-      "version": "1",
-      "sha256": "d0644f7e00569587a3825afa2eaf39f474be44e0c921fb2def5ac37d2208f632",
-      "sizeBytes": 2324,
+      "version": "2",
+      "sha256": "1f285390cdebb5608da7091f64801592e5a92a5cc5f69c88dfce550ba84d45d0",
+      "sizeBytes": 2332,
       "locale": "eo"
     },
     {
       "id": "resources/_default/isv",
       "path": "resources/_default/isv/resources.json",
-      "version": "1",
-      "sha256": "998b08d2ea71e6f3beaa41ca5ee1a72d192440b0c6359a7ff488603917072738",
-      "sizeBytes": 2320,
+      "version": "2",
+      "sha256": "5b4c8d435ca16d13f5a06229c33291216bd856163c3f634d830b3fc64916db17",
+      "sizeBytes": 2329,
       "locale": "isv"
     },
     {
       "id": "resources/_default/isv_cyrl",
       "path": "resources/_default/isv_cyrl/resources.json",
-      "version": "1",
-      "sha256": "7091844d873a73ee55c0740f435ba7ba2ceb2ea4758f9fd1dface1939c6d8fbc",
-      "sizeBytes": 3248,
+      "version": "2",
+      "sha256": "fa4b5c8f9cfc3890d667b259a78c8a754d69425d66ae1e590cdeaab8b4ca448b",
+      "sizeBytes": 3253,
       "locale": "isv_cyrl"
     },
     {
       "id": "resources/_default/isv_glag",
       "path": "resources/_default/isv_glag/resources.json",
-      "version": "1",
-      "sha256": "060b975041bb5b0151f077d481115746b1008858bc8a284365bc9dcbcbe77a6e",
-      "sizeBytes": 4201,
+      "version": "2",
+      "sha256": "efc593c333cc9a6ad27cda5f8918ce6c951fb524bd1e1f37803a2b35bb44a4de",
+      "sizeBytes": 4208,
       "locale": "isv_glag"
     },
     {
@@ -304,41 +304,41 @@
     {
       "id": "resources/lekarski/es",
       "path": "resources/lekarski/es/resources.json",
-      "version": "1",
-      "sha256": "4ade5c09d87525154d1ac8a2c4fd74ec226e4121e0d6a5f8247a0cbf12330b32",
-      "sizeBytes": 2394,
+      "version": "2",
+      "sha256": "6f02e6ae362e958be38b61c109ac3aedb0f291c1edc80c55e7cec99ec989350d",
+      "sizeBytes": 2426,
       "locale": "es"
     },
     {
       "id": "resources/lekarski/eo",
       "path": "resources/lekarski/eo/resources.json",
-      "version": "1",
-      "sha256": "d0644f7e00569587a3825afa2eaf39f474be44e0c921fb2def5ac37d2208f632",
-      "sizeBytes": 2324,
+      "version": "2",
+      "sha256": "1f285390cdebb5608da7091f64801592e5a92a5cc5f69c88dfce550ba84d45d0",
+      "sizeBytes": 2332,
       "locale": "eo"
     },
     {
       "id": "resources/lekarski/isv",
       "path": "resources/lekarski/isv/resources.json",
-      "version": "1",
-      "sha256": "998b08d2ea71e6f3beaa41ca5ee1a72d192440b0c6359a7ff488603917072738",
-      "sizeBytes": 2320,
+      "version": "2",
+      "sha256": "5b4c8d435ca16d13f5a06229c33291216bd856163c3f634d830b3fc64916db17",
+      "sizeBytes": 2329,
       "locale": "isv"
     },
     {
       "id": "resources/lekarski/isv_cyrl",
       "path": "resources/lekarski/isv_cyrl/resources.json",
-      "version": "1",
-      "sha256": "7091844d873a73ee55c0740f435ba7ba2ceb2ea4758f9fd1dface1939c6d8fbc",
-      "sizeBytes": 3248,
+      "version": "2",
+      "sha256": "fa4b5c8f9cfc3890d667b259a78c8a754d69425d66ae1e590cdeaab8b4ca448b",
+      "sizeBytes": 3253,
       "locale": "isv_cyrl"
     },
     {
       "id": "resources/lekarski/isv_glag",
       "path": "resources/lekarski/isv_glag/resources.json",
-      "version": "1",
-      "sha256": "060b975041bb5b0151f077d481115746b1008858bc8a284365bc9dcbcbe77a6e",
-      "sizeBytes": 4201,
+      "version": "2",
+      "sha256": "efc593c333cc9a6ad27cda5f8918ce6c951fb524bd1e1f37803a2b35bb44a4de",
+      "sizeBytes": 4208,
       "locale": "isv_glag"
     },
     {
@@ -408,49 +408,49 @@
     {
       "id": "tasks/pl",
       "path": "tasks/pl/tasks.json",
-      "version": "4",
-      "sha256": "48f00f3826eee0d5f4053bba516545e3165c6a26820f598ebd48a4ada0a0ab1c",
-      "sizeBytes": 75438,
+      "version": "5",
+      "sha256": "4f3d5d9483356f026109dbe871ecbf1a9338e1bde33b8215b61364cf9ec969ff",
+      "sizeBytes": 81995,
       "locale": "pl"
     },
     {
       "id": "tasks/es",
       "path": "tasks/es/tasks.json",
-      "version": "4",
-      "sha256": "fe9e30c1131b484beb6fd746dc21cd73483f592795968c1fb057d510dc8b54eb",
-      "sizeBytes": 75442,
+      "version": "5",
+      "sha256": "1ce9b377c24f6b31f9e3ab23395cfef3f16e95fffbe22e67a23cd3c3d6688760",
+      "sizeBytes": 83026,
       "locale": "es"
     },
     {
       "id": "tasks/eo",
       "path": "tasks/eo/tasks.json",
-      "version": "4",
-      "sha256": "babc57ad99e9a6f25bc114873fe761ade393c4e91c9b2342aafe144b2d309a7e",
-      "sizeBytes": 75442,
+      "version": "5",
+      "sha256": "fcb95728116769cb5d85a994c841009f9208d4403d1d3acea9fda1acfaf3f9af",
+      "sizeBytes": 76032,
       "locale": "eo"
     },
     {
       "id": "tasks/isv",
       "path": "tasks/isv/tasks.json",
-      "version": "4",
-      "sha256": "eedb5ac08bbe0b7d487e4ec977318284906cfece9497ff3df586464147266777",
-      "sizeBytes": 75443,
+      "version": "5",
+      "sha256": "a071361d5da937c54efb39493550fbeed4b13f7a44b665da1bbb2af32e310d2f",
+      "sizeBytes": 76894,
       "locale": "isv"
     },
     {
       "id": "tasks/isv_cyrl",
       "path": "tasks/isv_cyrl/tasks.json",
-      "version": "4",
-      "sha256": "5e1fd59c201c5191ae97f713d8c8c0c689b73f146b3a8563e9f254e115093734",
-      "sizeBytes": 75448,
+      "version": "5",
+      "sha256": "7786b3b00f7480dcced8f8f5bb180c6e8a735395ffedee045a1ac3f40ff28ce4",
+      "sizeBytes": 103737,
       "locale": "isv_cyrl"
     },
     {
       "id": "tasks/isv_glag",
       "path": "tasks/isv_glag/tasks.json",
-      "version": "4",
-      "sha256": "1b49feec9a9440f37c4dac49d5ce5293e155d8fde72cc21fbe4f5ea5fb0b1e2e",
-      "sizeBytes": 75448,
+      "version": "5",
+      "sha256": "3be0e6a31aa8017937190795107df979c888ebd6de535416ef2cec698038c308",
+      "sizeBytes": 131351,
       "locale": "isv_glag"
     },
     {
@@ -464,9 +464,9 @@
     {
       "id": "regulations/_default/en/safety",
       "path": "regulations/_default/en/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "a44af6005ece56a2e4025de60d62f5d36445c92a4e8d69b737e8d5267602d718",
+      "sizeBytes": 1479,
       "locale": "en"
     },
     {
@@ -560,9 +560,9 @@
     {
       "id": "regulations/_default/es/safety",
       "path": "regulations/_default/es/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "bed6eeb889a77fd89b783aa9e3d577b7b9bc459e7379d85f67ba89d9cacad96a",
+      "sizeBytes": 1682,
       "locale": "es"
     },
     {
@@ -592,9 +592,9 @@
     {
       "id": "regulations/_default/es/faq",
       "path": "regulations/_default/es/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "5c74fcfb47eebb0451d0c0cac891bcd4f7652cc9043a19bd5fc158b0348057b4",
+      "sizeBytes": 1586,
       "locale": "es"
     },
     {
@@ -608,9 +608,9 @@
     {
       "id": "regulations/_default/eo/safety",
       "path": "regulations/_default/eo/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "edebcc7e648862c88d5a592706189f3e5b00283e1ec760d44ce9afd990c282d9",
+      "sizeBytes": 1473,
       "locale": "eo"
     },
     {
@@ -640,9 +640,9 @@
     {
       "id": "regulations/_default/eo/faq",
       "path": "regulations/_default/eo/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "dc1f263c5ce030429e42de26929e75914e19e32ac7c6d10c8c3de5c1064bcd79",
+      "sizeBytes": 1424,
       "locale": "eo"
     },
     {
@@ -656,9 +656,9 @@
     {
       "id": "regulations/_default/isv/safety",
       "path": "regulations/_default/isv/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "30d443e1db34f2b0ba6f37ccbc2c00dd24a34f332567e36826aaeab7c29fa66b",
+      "sizeBytes": 1595,
       "locale": "isv"
     },
     {
@@ -688,25 +688,25 @@
     {
       "id": "regulations/_default/isv/faq",
       "path": "regulations/_default/isv/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "2739d55867a25e921724f6477518f79bd32e8c919741a32e4c9c2b1b97c8b6ac",
+      "sizeBytes": 1472,
       "locale": "isv"
     },
     {
       "id": "regulations/_default/isv_cyrl/regulations",
       "path": "regulations/_default/isv_cyrl/regulations.md",
-      "version": "3",
-      "sha256": "2b45459ddcbda32d297ed49f4d795a1cd82d132a11db88688472652750ecdfd8",
-      "sizeBytes": 4271,
+      "version": "4",
+      "sha256": "a07e5e590bce84cb8511a7bb3ad6b6c692c2cf8b5ee2b5bd428caff913f1c83c",
+      "sizeBytes": 4290,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/_default/isv_cyrl/safety",
       "path": "regulations/_default/isv_cyrl/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "5391545d6cb931964ce8dbb300912bc9c22a2d24b43dce1f95c8ddfe30147cb3",
+      "sizeBytes": 2749,
       "locale": "isv_cyrl"
     },
     {
@@ -728,33 +728,33 @@
     {
       "id": "regulations/_default/isv_cyrl/syllabus",
       "path": "regulations/_default/isv_cyrl/syllabus.md",
-      "version": "3",
-      "sha256": "9576f10d7f18e7186355009071e67505e02288558c134c0446f8a4e4383bfe76",
-      "sizeBytes": 8018,
+      "version": "4",
+      "sha256": "c23cb039e597e4686e71dc695431a923bc55cc1f87cf60857419704fea1fc98d",
+      "sizeBytes": 8026,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/_default/isv_cyrl/faq",
       "path": "regulations/_default/isv_cyrl/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "3562c18e5c7ab7e2a9f27d8ff1465464511fab17cc8d7c1a136f524db8ba1a42",
+      "sizeBytes": 2565,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/_default/isv_glag/regulations",
       "path": "regulations/_default/isv_glag/regulations.md",
-      "version": "3",
-      "sha256": "1309503adecd5131227d0d95b4dc312de8080dafb63470b9f409fe42c62e0e1d",
-      "sizeBytes": 5983,
+      "version": "4",
+      "sha256": "937c528d92dc3e17438d1f9180d2c074a085823478c7f37391ec8f929e4fc870",
+      "sizeBytes": 6021,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/_default/isv_glag/safety",
       "path": "regulations/_default/isv_glag/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "a5577b7f7abc96d76879cccbd8654eef67158733e1768c848668238b664b4005",
+      "sizeBytes": 3958,
       "locale": "isv_glag"
     },
     {
@@ -776,17 +776,17 @@
     {
       "id": "regulations/_default/isv_glag/syllabus",
       "path": "regulations/_default/isv_glag/syllabus.md",
-      "version": "3",
-      "sha256": "c9f7e907e9fb93b3cf3bafe130c229363cf396ee3ef1e83881f4121f1cfafff2",
-      "sizeBytes": 11341,
+      "version": "4",
+      "sha256": "7876763d37c1c7bbc2c750938c1242d16e4ca23907e0967b452b14ff42bdc724",
+      "sizeBytes": 11357,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/_default/isv_glag/faq",
       "path": "regulations/_default/isv_glag/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "50797ef9ba65c08f38e437c6ea725a6bd754c760e61fc02cacb8fcb02ce66b94",
+      "sizeBytes": 3699,
       "locale": "isv_glag"
     },
     {
@@ -1032,17 +1032,17 @@
     {
       "id": "regulations/elektroradiologia/isv_cyrl/regulations",
       "path": "regulations/elektroradiologia/isv_cyrl/regulations.md",
-      "version": "3",
-      "sha256": "2b45459ddcbda32d297ed49f4d795a1cd82d132a11db88688472652750ecdfd8",
-      "sizeBytes": 4271,
+      "version": "4",
+      "sha256": "a07e5e590bce84cb8511a7bb3ad6b6c692c2cf8b5ee2b5bd428caff913f1c83c",
+      "sizeBytes": 4290,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/elektroradiologia/isv_cyrl/safety",
       "path": "regulations/elektroradiologia/isv_cyrl/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "deca6cd3fc0da35ce0b01e9293849a97fc8a582154a39fc2684e5a36f9b6a5d0",
+      "sizeBytes": 3005,
       "locale": "isv_cyrl"
     },
     {
@@ -1064,33 +1064,33 @@
     {
       "id": "regulations/elektroradiologia/isv_cyrl/syllabus",
       "path": "regulations/elektroradiologia/isv_cyrl/syllabus.md",
-      "version": "5",
-      "sha256": "3549eaeb700ee911aa1a10b67f4ea29cfa34668fe2c27eedb74e60e7e65ff873",
-      "sizeBytes": 4926,
+      "version": "6",
+      "sha256": "1ef61cf112e164e843e08834ff708b2ec41ff798ce4d05dde854c7a9d27daffe",
+      "sizeBytes": 4934,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/elektroradiologia/isv_cyrl/faq",
       "path": "regulations/elektroradiologia/isv_cyrl/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "2d5c2d8515893ae6c72893da709973ff227ec0c6c271ff42e44de42c8911c580",
+      "sizeBytes": 2583,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/elektroradiologia/isv_glag/regulations",
       "path": "regulations/elektroradiologia/isv_glag/regulations.md",
-      "version": "3",
-      "sha256": "1309503adecd5131227d0d95b4dc312de8080dafb63470b9f409fe42c62e0e1d",
-      "sizeBytes": 5983,
+      "version": "4",
+      "sha256": "937c528d92dc3e17438d1f9180d2c074a085823478c7f37391ec8f929e4fc870",
+      "sizeBytes": 6021,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/elektroradiologia/isv_glag/safety",
       "path": "regulations/elektroradiologia/isv_glag/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "e13b0c7434824e4550caca105a1ee7b8ab2b9891390461e0bba21f0f18e38aee",
+      "sizeBytes": 4210,
       "locale": "isv_glag"
     },
     {
@@ -1112,17 +1112,17 @@
     {
       "id": "regulations/elektroradiologia/isv_glag/syllabus",
       "path": "regulations/elektroradiologia/isv_glag/syllabus.md",
-      "version": "4",
-      "sha256": "3763267db10c77456b24f3644ed33a89216b8e08ada9ad3915f81319ee49598b",
-      "sizeBytes": 6951,
+      "version": "5",
+      "sha256": "89f965f44cc6ed768c5638c919d610c6cedb75c13999cc8ac3189eb7a6b93ef7",
+      "sizeBytes": 6967,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/elektroradiologia/isv_glag/faq",
       "path": "regulations/elektroradiologia/isv_glag/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "71aae5c2af5b480cbafeba892b3065a8f1ad5062ad5c9f7570446984b9fb1980",
+      "sizeBytes": 3694,
       "locale": "isv_glag"
     },
     {
@@ -1184,9 +1184,9 @@
     {
       "id": "regulations/english_division/pl/safety",
       "path": "regulations/english_division/pl/safety.md",
-      "version": "2",
-      "sha256": "921f69b950520c18a4a0f08886b9707804468c514350798d93041b7b6546d6da",
-      "sizeBytes": 1877,
+      "version": "3",
+      "sha256": "f7c15e6eb4d803a22c8589a333e97001f81c3dc9c1f627efdee3220850d33fee",
+      "sizeBytes": 1809,
       "locale": "pl"
     },
     {
@@ -1216,9 +1216,9 @@
     {
       "id": "regulations/english_division/pl/faq",
       "path": "regulations/english_division/pl/faq.md",
-      "version": "1",
-      "sha256": "35780c0cb6209b76025ae8f6c6a8090eede87e3cd5f822e3d1e17052771a3782",
-      "sizeBytes": 1500,
+      "version": "2",
+      "sha256": "16d9edc13c38b779d7b62c06a2b0bd4395ce43847e85587573fec03fea26ca78",
+      "sizeBytes": 1575,
       "locale": "pl"
     },
     {
@@ -1232,9 +1232,9 @@
     {
       "id": "regulations/english_division/es/safety",
       "path": "regulations/english_division/es/safety.md",
-      "version": "3",
-      "sha256": "921f69b950520c18a4a0f08886b9707804468c514350798d93041b7b6546d6da",
-      "sizeBytes": 1877,
+      "version": "4",
+      "sha256": "fd786062c405d7f382bf0c8ce0d10e6997f6d7e7d287e14d82dc7ef39c690900",
+      "sizeBytes": 1871,
       "locale": "es"
     },
     {
@@ -1264,9 +1264,9 @@
     {
       "id": "regulations/english_division/es/faq",
       "path": "regulations/english_division/es/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "289428ff92d5539c733501f38c2406952f124027b9dae21ad7c824c9bc17f4b7",
+      "sizeBytes": 1602,
       "locale": "es"
     },
     {
@@ -1280,9 +1280,9 @@
     {
       "id": "regulations/english_division/eo/safety",
       "path": "regulations/english_division/eo/safety.md",
-      "version": "3",
-      "sha256": "921f69b950520c18a4a0f08886b9707804468c514350798d93041b7b6546d6da",
-      "sizeBytes": 1877,
+      "version": "4",
+      "sha256": "9acd7a9ba7b83bc3ab4f4ce772d5cb11805c6f998eb085a018fea6353b794ef2",
+      "sizeBytes": 1761,
       "locale": "eo"
     },
     {
@@ -1312,9 +1312,9 @@
     {
       "id": "regulations/english_division/eo/faq",
       "path": "regulations/english_division/eo/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "1356db5f01ae670aab9bb5556f29526fe0cda3b4c89066f99902dc6d82a8e0db",
+      "sizeBytes": 1479,
       "locale": "eo"
     },
     {
@@ -1328,9 +1328,9 @@
     {
       "id": "regulations/english_division/isv/safety",
       "path": "regulations/english_division/isv/safety.md",
-      "version": "3",
-      "sha256": "921f69b950520c18a4a0f08886b9707804468c514350798d93041b7b6546d6da",
-      "sizeBytes": 1877,
+      "version": "4",
+      "sha256": "58967488ccb33ae613c92a5e9934c28089f997671fd5f62b8a724c17134cf1e4",
+      "sizeBytes": 1713,
       "locale": "isv"
     },
     {
@@ -1360,25 +1360,25 @@
     {
       "id": "regulations/english_division/isv/faq",
       "path": "regulations/english_division/isv/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "5763c58752f45c201b03bebfe0856d5e7516efd14a5f7fb0338686d1e9d79036",
+      "sizeBytes": 1547,
       "locale": "isv"
     },
     {
       "id": "regulations/english_division/isv_cyrl/regulations",
       "path": "regulations/english_division/isv_cyrl/regulations.md",
-      "version": "3",
-      "sha256": "2b45459ddcbda32d297ed49f4d795a1cd82d132a11db88688472652750ecdfd8",
-      "sizeBytes": 4271,
+      "version": "4",
+      "sha256": "a07e5e590bce84cb8511a7bb3ad6b6c692c2cf8b5ee2b5bd428caff913f1c83c",
+      "sizeBytes": 4290,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/english_division/isv_cyrl/safety",
       "path": "regulations/english_division/isv_cyrl/safety.md",
-      "version": "3",
-      "sha256": "921f69b950520c18a4a0f08886b9707804468c514350798d93041b7b6546d6da",
-      "sizeBytes": 1877,
+      "version": "5",
+      "sha256": "dde5f1ad1abd2d689efec1c728c284468f51ad128c1eb9ed13fb84060f29d7d7",
+      "sizeBytes": 2955,
       "locale": "isv_cyrl"
     },
     {
@@ -1400,33 +1400,33 @@
     {
       "id": "regulations/english_division/isv_cyrl/syllabus",
       "path": "regulations/english_division/isv_cyrl/syllabus.md",
-      "version": "3",
-      "sha256": "9576f10d7f18e7186355009071e67505e02288558c134c0446f8a4e4383bfe76",
-      "sizeBytes": 8018,
+      "version": "4",
+      "sha256": "c23cb039e597e4686e71dc695431a923bc55cc1f87cf60857419704fea1fc98d",
+      "sizeBytes": 8026,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/english_division/isv_cyrl/faq",
       "path": "regulations/english_division/isv_cyrl/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "3",
+      "sha256": "72e074c014df4f6b67c36cc5c485bab8e08ccd76472c1871db4e928bd96b9f08",
+      "sizeBytes": 2664,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/english_division/isv_glag/regulations",
       "path": "regulations/english_division/isv_glag/regulations.md",
-      "version": "3",
-      "sha256": "1309503adecd5131227d0d95b4dc312de8080dafb63470b9f409fe42c62e0e1d",
-      "sizeBytes": 5983,
+      "version": "4",
+      "sha256": "937c528d92dc3e17438d1f9180d2c074a085823478c7f37391ec8f929e4fc870",
+      "sizeBytes": 6021,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/english_division/isv_glag/safety",
       "path": "regulations/english_division/isv_glag/safety.md",
-      "version": "3",
-      "sha256": "921f69b950520c18a4a0f08886b9707804468c514350798d93041b7b6546d6da",
-      "sizeBytes": 1877,
+      "version": "5",
+      "sha256": "00775914246f85e8803bc73b19a0d93c97dd106a35f24c4be2934c38c8ff3280",
+      "sizeBytes": 4248,
       "locale": "isv_glag"
     },
     {
@@ -1448,17 +1448,17 @@
     {
       "id": "regulations/english_division/isv_glag/syllabus",
       "path": "regulations/english_division/isv_glag/syllabus.md",
-      "version": "3",
-      "sha256": "c9f7e907e9fb93b3cf3bafe130c229363cf396ee3ef1e83881f4121f1cfafff2",
-      "sizeBytes": 11341,
+      "version": "4",
+      "sha256": "7876763d37c1c7bbc2c750938c1242d16e4ca23907e0967b452b14ff42bdc724",
+      "sizeBytes": 11357,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/english_division/isv_glag/faq",
       "path": "regulations/english_division/isv_glag/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "3",
+      "sha256": "b062337099610316db70b5718e39ea939c417129cd97c9d0dc0c4e9b0722e9a0",
+      "sizeBytes": 3842,
       "locale": "isv_glag"
     },
     {
@@ -1704,17 +1704,17 @@
     {
       "id": "regulations/fizjoterapia/isv_cyrl/regulations",
       "path": "regulations/fizjoterapia/isv_cyrl/regulations.md",
-      "version": "3",
-      "sha256": "2b45459ddcbda32d297ed49f4d795a1cd82d132a11db88688472652750ecdfd8",
-      "sizeBytes": 4271,
+      "version": "4",
+      "sha256": "a07e5e590bce84cb8511a7bb3ad6b6c692c2cf8b5ee2b5bd428caff913f1c83c",
+      "sizeBytes": 4290,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/fizjoterapia/isv_cyrl/safety",
       "path": "regulations/fizjoterapia/isv_cyrl/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "deca6cd3fc0da35ce0b01e9293849a97fc8a582154a39fc2684e5a36f9b6a5d0",
+      "sizeBytes": 3005,
       "locale": "isv_cyrl"
     },
     {
@@ -1736,33 +1736,33 @@
     {
       "id": "regulations/fizjoterapia/isv_cyrl/syllabus",
       "path": "regulations/fizjoterapia/isv_cyrl/syllabus.md",
-      "version": "5",
-      "sha256": "32b695b9c563d89c290dd195c43f10e48d575709a4a087e055111b9b50305826",
-      "sizeBytes": 3855,
+      "version": "6",
+      "sha256": "1217fcb3cc9f390b0ac1b05edf14b7057bf50156724599c62a12d5acb5f87851",
+      "sizeBytes": 3863,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/fizjoterapia/isv_cyrl/faq",
       "path": "regulations/fizjoterapia/isv_cyrl/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "2d5c2d8515893ae6c72893da709973ff227ec0c6c271ff42e44de42c8911c580",
+      "sizeBytes": 2583,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/fizjoterapia/isv_glag/regulations",
       "path": "regulations/fizjoterapia/isv_glag/regulations.md",
-      "version": "3",
-      "sha256": "1309503adecd5131227d0d95b4dc312de8080dafb63470b9f409fe42c62e0e1d",
-      "sizeBytes": 5983,
+      "version": "4",
+      "sha256": "937c528d92dc3e17438d1f9180d2c074a085823478c7f37391ec8f929e4fc870",
+      "sizeBytes": 6021,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/fizjoterapia/isv_glag/safety",
       "path": "regulations/fizjoterapia/isv_glag/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "e13b0c7434824e4550caca105a1ee7b8ab2b9891390461e0bba21f0f18e38aee",
+      "sizeBytes": 4210,
       "locale": "isv_glag"
     },
     {
@@ -1784,17 +1784,17 @@
     {
       "id": "regulations/fizjoterapia/isv_glag/syllabus",
       "path": "regulations/fizjoterapia/isv_glag/syllabus.md",
-      "version": "4",
-      "sha256": "cd3e73c585faa97cb1c18fbe321ab2d9d42feac2eb8b1292c49db3dcaa255141",
-      "sizeBytes": 5376,
+      "version": "5",
+      "sha256": "c3640d436233065eb7ae68fc75ab88fdad4720066d77b89bacff7047fff02242",
+      "sizeBytes": 5392,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/fizjoterapia/isv_glag/faq",
       "path": "regulations/fizjoterapia/isv_glag/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "71aae5c2af5b480cbafeba892b3065a8f1ad5062ad5c9f7570446984b9fb1980",
+      "sizeBytes": 3694,
       "locale": "isv_glag"
     },
     {
@@ -2040,17 +2040,17 @@
     {
       "id": "regulations/higiena_stomatologiczna/isv_cyrl/regulations",
       "path": "regulations/higiena_stomatologiczna/isv_cyrl/regulations.md",
-      "version": "2",
-      "sha256": "2b45459ddcbda32d297ed49f4d795a1cd82d132a11db88688472652750ecdfd8",
-      "sizeBytes": 4271,
+      "version": "3",
+      "sha256": "a07e5e590bce84cb8511a7bb3ad6b6c692c2cf8b5ee2b5bd428caff913f1c83c",
+      "sizeBytes": 4290,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/higiena_stomatologiczna/isv_cyrl/safety",
       "path": "regulations/higiena_stomatologiczna/isv_cyrl/safety.md",
-      "version": "2",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "3",
+      "sha256": "deca6cd3fc0da35ce0b01e9293849a97fc8a582154a39fc2684e5a36f9b6a5d0",
+      "sizeBytes": 3005,
       "locale": "isv_cyrl"
     },
     {
@@ -2072,33 +2072,33 @@
     {
       "id": "regulations/higiena_stomatologiczna/isv_cyrl/syllabus",
       "path": "regulations/higiena_stomatologiczna/isv_cyrl/syllabus.md",
-      "version": "2",
-      "sha256": "394abc43d4a48a1bb82a1aa27c90f3876575e8a726e0c703b86371ed425ef864",
-      "sizeBytes": 6316,
+      "version": "3",
+      "sha256": "557e28c999eb5249aca2ab0bd3dd584135742ae6ec60e1872ea61b8b820c7c4e",
+      "sizeBytes": 6324,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/higiena_stomatologiczna/isv_cyrl/faq",
       "path": "regulations/higiena_stomatologiczna/isv_cyrl/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "2d5c2d8515893ae6c72893da709973ff227ec0c6c271ff42e44de42c8911c580",
+      "sizeBytes": 2583,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/higiena_stomatologiczna/isv_glag/regulations",
       "path": "regulations/higiena_stomatologiczna/isv_glag/regulations.md",
-      "version": "2",
-      "sha256": "1309503adecd5131227d0d95b4dc312de8080dafb63470b9f409fe42c62e0e1d",
-      "sizeBytes": 5983,
+      "version": "3",
+      "sha256": "937c528d92dc3e17438d1f9180d2c074a085823478c7f37391ec8f929e4fc870",
+      "sizeBytes": 6021,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/higiena_stomatologiczna/isv_glag/safety",
       "path": "regulations/higiena_stomatologiczna/isv_glag/safety.md",
-      "version": "2",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "3",
+      "sha256": "e13b0c7434824e4550caca105a1ee7b8ab2b9891390461e0bba21f0f18e38aee",
+      "sizeBytes": 4210,
       "locale": "isv_glag"
     },
     {
@@ -2120,17 +2120,17 @@
     {
       "id": "regulations/higiena_stomatologiczna/isv_glag/syllabus",
       "path": "regulations/higiena_stomatologiczna/isv_glag/syllabus.md",
-      "version": "2",
-      "sha256": "2ac6376e79ac2940838d1decc96cc0257171b42f864b3922d5f4f5d644b672e4",
-      "sizeBytes": 8976,
+      "version": "3",
+      "sha256": "cb787dab08653f8f6cc861ccf4423b878fe9c97994ffa21c2aa944b05541e34d",
+      "sizeBytes": 8992,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/higiena_stomatologiczna/isv_glag/faq",
       "path": "regulations/higiena_stomatologiczna/isv_glag/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "71aae5c2af5b480cbafeba892b3065a8f1ad5062ad5c9f7570446984b9fb1980",
+      "sizeBytes": 3694,
       "locale": "isv_glag"
     },
     {
@@ -2144,9 +2144,9 @@
     {
       "id": "regulations/lekarski/en/safety",
       "path": "regulations/lekarski/en/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "a44af6005ece56a2e4025de60d62f5d36445c92a4e8d69b737e8d5267602d718",
+      "sizeBytes": 1479,
       "locale": "en"
     },
     {
@@ -2168,9 +2168,9 @@
     {
       "id": "regulations/lekarski/en/syllabus",
       "path": "regulations/lekarski/en/syllabus.md",
-      "version": "8",
-      "sha256": "5b7f7c0f89f92536a66dfc9206dac29990a4938c30eedf0a209c908a49fb371b",
-      "sizeBytes": 2701,
+      "version": "9",
+      "sha256": "6a9920a86531424d614307cb237253e5beceaaf6a8bed69bd21a2e2f507dc3c3",
+      "sizeBytes": 2502,
       "locale": "en"
     },
     {
@@ -2240,9 +2240,9 @@
     {
       "id": "regulations/lekarski/es/safety",
       "path": "regulations/lekarski/es/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "bed6eeb889a77fd89b783aa9e3d577b7b9bc459e7379d85f67ba89d9cacad96a",
+      "sizeBytes": 1682,
       "locale": "es"
     },
     {
@@ -2264,17 +2264,17 @@
     {
       "id": "regulations/lekarski/es/syllabus",
       "path": "regulations/lekarski/es/syllabus.md",
-      "version": "8",
-      "sha256": "5b7f7c0f89f92536a66dfc9206dac29990a4938c30eedf0a209c908a49fb371b",
-      "sizeBytes": 2701,
+      "version": "9",
+      "sha256": "e014b487f88581f55fcf69b97f16ba3c7e5f90a5622b8e452ac86aa78c278fea",
+      "sizeBytes": 2817,
       "locale": "es"
     },
     {
       "id": "regulations/lekarski/es/faq",
       "path": "regulations/lekarski/es/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "5c74fcfb47eebb0451d0c0cac891bcd4f7652cc9043a19bd5fc158b0348057b4",
+      "sizeBytes": 1586,
       "locale": "es"
     },
     {
@@ -2288,9 +2288,9 @@
     {
       "id": "regulations/lekarski/eo/safety",
       "path": "regulations/lekarski/eo/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "edebcc7e648862c88d5a592706189f3e5b00283e1ec760d44ce9afd990c282d9",
+      "sizeBytes": 1473,
       "locale": "eo"
     },
     {
@@ -2312,17 +2312,17 @@
     {
       "id": "regulations/lekarski/eo/syllabus",
       "path": "regulations/lekarski/eo/syllabus.md",
-      "version": "8",
-      "sha256": "5b7f7c0f89f92536a66dfc9206dac29990a4938c30eedf0a209c908a49fb371b",
-      "sizeBytes": 2701,
+      "version": "9",
+      "sha256": "b1c8cd7f1ab09e62b563d5fc7b358814eea6440c9f4d0fcfc67748b71174f23b",
+      "sizeBytes": 2500,
       "locale": "eo"
     },
     {
       "id": "regulations/lekarski/eo/faq",
       "path": "regulations/lekarski/eo/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "dc1f263c5ce030429e42de26929e75914e19e32ac7c6d10c8c3de5c1064bcd79",
+      "sizeBytes": 1424,
       "locale": "eo"
     },
     {
@@ -2336,9 +2336,9 @@
     {
       "id": "regulations/lekarski/isv/safety",
       "path": "regulations/lekarski/isv/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "30d443e1db34f2b0ba6f37ccbc2c00dd24a34f332567e36826aaeab7c29fa66b",
+      "sizeBytes": 1595,
       "locale": "isv"
     },
     {
@@ -2360,33 +2360,33 @@
     {
       "id": "regulations/lekarski/isv/syllabus",
       "path": "regulations/lekarski/isv/syllabus.md",
-      "version": "8",
-      "sha256": "5b7f7c0f89f92536a66dfc9206dac29990a4938c30eedf0a209c908a49fb371b",
-      "sizeBytes": 2701,
+      "version": "9",
+      "sha256": "f12df8fdd95a8d109ce25cae7903d3d7ef095c3711b0381fad1d19a5239b5c95",
+      "sizeBytes": 2529,
       "locale": "isv"
     },
     {
       "id": "regulations/lekarski/isv/faq",
       "path": "regulations/lekarski/isv/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "2739d55867a25e921724f6477518f79bd32e8c919741a32e4c9c2b1b97c8b6ac",
+      "sizeBytes": 1472,
       "locale": "isv"
     },
     {
       "id": "regulations/lekarski/isv_cyrl/regulations",
       "path": "regulations/lekarski/isv_cyrl/regulations.md",
-      "version": "4",
-      "sha256": "60f8db69d7dfa7bb63f88982664feddca33d1bfc9e5a4777f647775087517ecc",
-      "sizeBytes": 10132,
+      "version": "5",
+      "sha256": "4963a73805c993eb189d4d24f9d1581a8563d6a98a5f2563aae6d4b9d03c1726",
+      "sizeBytes": 10151,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/lekarski/isv_cyrl/safety",
       "path": "regulations/lekarski/isv_cyrl/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "5391545d6cb931964ce8dbb300912bc9c22a2d24b43dce1f95c8ddfe30147cb3",
+      "sizeBytes": 2749,
       "locale": "isv_cyrl"
     },
     {
@@ -2408,33 +2408,33 @@
     {
       "id": "regulations/lekarski/isv_cyrl/syllabus",
       "path": "regulations/lekarski/isv_cyrl/syllabus.md",
-      "version": "7",
-      "sha256": "97e5adfd155103f72e0943c69eb14a463d7f6c8d674bfabcafcfa2a13e514e41",
-      "sizeBytes": 4493,
+      "version": "9",
+      "sha256": "3b5676587793022ae8b110fe77446d6a15ffb96a70cbc924c3ea9be116c83cc4",
+      "sizeBytes": 4230,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/lekarski/isv_cyrl/faq",
       "path": "regulations/lekarski/isv_cyrl/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "3562c18e5c7ab7e2a9f27d8ff1465464511fab17cc8d7c1a136f524db8ba1a42",
+      "sizeBytes": 2565,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/lekarski/isv_glag/regulations",
       "path": "regulations/lekarski/isv_glag/regulations.md",
-      "version": "4",
-      "sha256": "fb1a4be825d7b1fa7204ce8443b19c3efa4653c76359201b99979fc678ddb337",
-      "sizeBytes": 14065,
+      "version": "5",
+      "sha256": "8d770c3222fdb79deb7ded55afb478723e456fdbe1c900ac9a084c3ca2a2102b",
+      "sizeBytes": 14103,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/lekarski/isv_glag/safety",
       "path": "regulations/lekarski/isv_glag/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "a5577b7f7abc96d76879cccbd8654eef67158733e1768c848668238b664b4005",
+      "sizeBytes": 3958,
       "locale": "isv_glag"
     },
     {
@@ -2456,17 +2456,17 @@
     {
       "id": "regulations/lekarski/isv_glag/syllabus",
       "path": "regulations/lekarski/isv_glag/syllabus.md",
-      "version": "6",
-      "sha256": "0d06ca4da4d6670a18f3ec30db373068ad1286eb6187518b7d015d528b75aa7b",
-      "sizeBytes": 6285,
+      "version": "8",
+      "sha256": "e36f3f3f92103cc65187ade1d04af0a3ce2ace4de5fa34e9d3d26f2480e48855",
+      "sizeBytes": 6015,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/lekarski/isv_glag/faq",
       "path": "regulations/lekarski/isv_glag/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "50797ef9ba65c08f38e437c6ea725a6bd754c760e61fc02cacb8fcb02ce66b94",
+      "sizeBytes": 3699,
       "locale": "isv_glag"
     },
     {
@@ -2712,17 +2712,17 @@
     {
       "id": "regulations/lekarsko_dentystyczny/isv_cyrl/regulations",
       "path": "regulations/lekarsko_dentystyczny/isv_cyrl/regulations.md",
-      "version": "3",
-      "sha256": "2b45459ddcbda32d297ed49f4d795a1cd82d132a11db88688472652750ecdfd8",
-      "sizeBytes": 4271,
+      "version": "4",
+      "sha256": "a07e5e590bce84cb8511a7bb3ad6b6c692c2cf8b5ee2b5bd428caff913f1c83c",
+      "sizeBytes": 4290,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/lekarsko_dentystyczny/isv_cyrl/safety",
       "path": "regulations/lekarsko_dentystyczny/isv_cyrl/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "deca6cd3fc0da35ce0b01e9293849a97fc8a582154a39fc2684e5a36f9b6a5d0",
+      "sizeBytes": 3005,
       "locale": "isv_cyrl"
     },
     {
@@ -2744,33 +2744,33 @@
     {
       "id": "regulations/lekarsko_dentystyczny/isv_cyrl/syllabus",
       "path": "regulations/lekarsko_dentystyczny/isv_cyrl/syllabus.md",
-      "version": "5",
-      "sha256": "5b5818cf42dc391cc47bab9026a9158fbead03fa334464932d18c3a50c547604",
-      "sizeBytes": 3949,
+      "version": "6",
+      "sha256": "397f84b2c51f1e637821229992d4dec9321c79f99e249d684f79193c86151c9b",
+      "sizeBytes": 3957,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/lekarsko_dentystyczny/isv_cyrl/faq",
       "path": "regulations/lekarsko_dentystyczny/isv_cyrl/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "2d5c2d8515893ae6c72893da709973ff227ec0c6c271ff42e44de42c8911c580",
+      "sizeBytes": 2583,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/lekarsko_dentystyczny/isv_glag/regulations",
       "path": "regulations/lekarsko_dentystyczny/isv_glag/regulations.md",
-      "version": "3",
-      "sha256": "1309503adecd5131227d0d95b4dc312de8080dafb63470b9f409fe42c62e0e1d",
-      "sizeBytes": 5983,
+      "version": "4",
+      "sha256": "937c528d92dc3e17438d1f9180d2c074a085823478c7f37391ec8f929e4fc870",
+      "sizeBytes": 6021,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/lekarsko_dentystyczny/isv_glag/safety",
       "path": "regulations/lekarsko_dentystyczny/isv_glag/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "e13b0c7434824e4550caca105a1ee7b8ab2b9891390461e0bba21f0f18e38aee",
+      "sizeBytes": 4210,
       "locale": "isv_glag"
     },
     {
@@ -2792,17 +2792,17 @@
     {
       "id": "regulations/lekarsko_dentystyczny/isv_glag/syllabus",
       "path": "regulations/lekarsko_dentystyczny/isv_glag/syllabus.md",
-      "version": "4",
-      "sha256": "83ee4fa1957f15b24233f8cbc7b41d5f30111b720a6f112a3eff4176ca20f18a",
-      "sizeBytes": 5519,
+      "version": "5",
+      "sha256": "168fcfbab7f3bcba271eded8c107efcd27fac6fde28cdd0d5548fef814f06d7e",
+      "sizeBytes": 5535,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/lekarsko_dentystyczny/isv_glag/faq",
       "path": "regulations/lekarsko_dentystyczny/isv_glag/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "71aae5c2af5b480cbafeba892b3065a8f1ad5062ad5c9f7570446984b9fb1980",
+      "sizeBytes": 3694,
       "locale": "isv_glag"
     },
     {
@@ -3048,17 +3048,17 @@
     {
       "id": "regulations/logopedia_z_fonoaudiologia/isv_cyrl/regulations",
       "path": "regulations/logopedia_z_fonoaudiologia/isv_cyrl/regulations.md",
-      "version": "3",
-      "sha256": "2b45459ddcbda32d297ed49f4d795a1cd82d132a11db88688472652750ecdfd8",
-      "sizeBytes": 4271,
+      "version": "4",
+      "sha256": "a07e5e590bce84cb8511a7bb3ad6b6c692c2cf8b5ee2b5bd428caff913f1c83c",
+      "sizeBytes": 4290,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/logopedia_z_fonoaudiologia/isv_cyrl/safety",
       "path": "regulations/logopedia_z_fonoaudiologia/isv_cyrl/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "deca6cd3fc0da35ce0b01e9293849a97fc8a582154a39fc2684e5a36f9b6a5d0",
+      "sizeBytes": 3005,
       "locale": "isv_cyrl"
     },
     {
@@ -3080,33 +3080,33 @@
     {
       "id": "regulations/logopedia_z_fonoaudiologia/isv_cyrl/syllabus",
       "path": "regulations/logopedia_z_fonoaudiologia/isv_cyrl/syllabus.md",
-      "version": "5",
-      "sha256": "8dd384645815dda3cc8d9fb76ee106a65aaec29c39d1fb140b9b70f4c154ee88",
-      "sizeBytes": 4554,
+      "version": "6",
+      "sha256": "5a88b4a02f044d4fb9d97a18d4c8474627a0e806f3ff62a07892ea279483ad35",
+      "sizeBytes": 4562,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/logopedia_z_fonoaudiologia/isv_cyrl/faq",
       "path": "regulations/logopedia_z_fonoaudiologia/isv_cyrl/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "2d5c2d8515893ae6c72893da709973ff227ec0c6c271ff42e44de42c8911c580",
+      "sizeBytes": 2583,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/logopedia_z_fonoaudiologia/isv_glag/regulations",
       "path": "regulations/logopedia_z_fonoaudiologia/isv_glag/regulations.md",
-      "version": "3",
-      "sha256": "1309503adecd5131227d0d95b4dc312de8080dafb63470b9f409fe42c62e0e1d",
-      "sizeBytes": 5983,
+      "version": "4",
+      "sha256": "937c528d92dc3e17438d1f9180d2c074a085823478c7f37391ec8f929e4fc870",
+      "sizeBytes": 6021,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/logopedia_z_fonoaudiologia/isv_glag/safety",
       "path": "regulations/logopedia_z_fonoaudiologia/isv_glag/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "e13b0c7434824e4550caca105a1ee7b8ab2b9891390461e0bba21f0f18e38aee",
+      "sizeBytes": 4210,
       "locale": "isv_glag"
     },
     {
@@ -3128,17 +3128,17 @@
     {
       "id": "regulations/logopedia_z_fonoaudiologia/isv_glag/syllabus",
       "path": "regulations/logopedia_z_fonoaudiologia/isv_glag/syllabus.md",
-      "version": "4",
-      "sha256": "683d1e06a14664dc942c49e3079148439d7eb95501d626e881f2e1186789f61e",
-      "sizeBytes": 6309,
+      "version": "5",
+      "sha256": "87d33484bc3ea198404c7568b47c02eb70305cf6609338da88b06f06824c7f27",
+      "sizeBytes": 6325,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/logopedia_z_fonoaudiologia/isv_glag/faq",
       "path": "regulations/logopedia_z_fonoaudiologia/isv_glag/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "71aae5c2af5b480cbafeba892b3065a8f1ad5062ad5c9f7570446984b9fb1980",
+      "sizeBytes": 3694,
       "locale": "isv_glag"
     },
     {
@@ -3384,17 +3384,17 @@
     {
       "id": "regulations/pielegniarstwo/isv_cyrl/regulations",
       "path": "regulations/pielegniarstwo/isv_cyrl/regulations.md",
-      "version": "3",
-      "sha256": "2b45459ddcbda32d297ed49f4d795a1cd82d132a11db88688472652750ecdfd8",
-      "sizeBytes": 4271,
+      "version": "4",
+      "sha256": "a07e5e590bce84cb8511a7bb3ad6b6c692c2cf8b5ee2b5bd428caff913f1c83c",
+      "sizeBytes": 4290,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/pielegniarstwo/isv_cyrl/safety",
       "path": "regulations/pielegniarstwo/isv_cyrl/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "deca6cd3fc0da35ce0b01e9293849a97fc8a582154a39fc2684e5a36f9b6a5d0",
+      "sizeBytes": 3005,
       "locale": "isv_cyrl"
     },
     {
@@ -3416,33 +3416,33 @@
     {
       "id": "regulations/pielegniarstwo/isv_cyrl/syllabus",
       "path": "regulations/pielegniarstwo/isv_cyrl/syllabus.md",
-      "version": "5",
-      "sha256": "86c8dfb1fc41a03135cc66757fe67b52ac6e1ac5c332b0cbda3926bcd027bfba",
-      "sizeBytes": 4259,
+      "version": "6",
+      "sha256": "e1f4f8fbaabba60dab1cd2e1c4f211c9a9cb6615c5341a34e9cfd3b469bf64a4",
+      "sizeBytes": 4267,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/pielegniarstwo/isv_cyrl/faq",
       "path": "regulations/pielegniarstwo/isv_cyrl/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "2d5c2d8515893ae6c72893da709973ff227ec0c6c271ff42e44de42c8911c580",
+      "sizeBytes": 2583,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/pielegniarstwo/isv_glag/regulations",
       "path": "regulations/pielegniarstwo/isv_glag/regulations.md",
-      "version": "3",
-      "sha256": "1309503adecd5131227d0d95b4dc312de8080dafb63470b9f409fe42c62e0e1d",
-      "sizeBytes": 5983,
+      "version": "4",
+      "sha256": "937c528d92dc3e17438d1f9180d2c074a085823478c7f37391ec8f929e4fc870",
+      "sizeBytes": 6021,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/pielegniarstwo/isv_glag/safety",
       "path": "regulations/pielegniarstwo/isv_glag/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "e13b0c7434824e4550caca105a1ee7b8ab2b9891390461e0bba21f0f18e38aee",
+      "sizeBytes": 4210,
       "locale": "isv_glag"
     },
     {
@@ -3464,17 +3464,17 @@
     {
       "id": "regulations/pielegniarstwo/isv_glag/syllabus",
       "path": "regulations/pielegniarstwo/isv_glag/syllabus.md",
-      "version": "4",
-      "sha256": "477cce741b3eda60b3ba366349d2d6878128816494b51f861b35c0919796a7de",
-      "sizeBytes": 5943,
+      "version": "5",
+      "sha256": "0dfbad4d6cd216457dcb4a12c171491fe15562bfd7b33fb3355776f3fee1a3cb",
+      "sizeBytes": 5959,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/pielegniarstwo/isv_glag/faq",
       "path": "regulations/pielegniarstwo/isv_glag/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "71aae5c2af5b480cbafeba892b3065a8f1ad5062ad5c9f7570446984b9fb1980",
+      "sizeBytes": 3694,
       "locale": "isv_glag"
     },
     {
@@ -3720,17 +3720,17 @@
     {
       "id": "regulations/poloznictwo/isv_cyrl/regulations",
       "path": "regulations/poloznictwo/isv_cyrl/regulations.md",
-      "version": "3",
-      "sha256": "2b45459ddcbda32d297ed49f4d795a1cd82d132a11db88688472652750ecdfd8",
-      "sizeBytes": 4271,
+      "version": "4",
+      "sha256": "a07e5e590bce84cb8511a7bb3ad6b6c692c2cf8b5ee2b5bd428caff913f1c83c",
+      "sizeBytes": 4290,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/poloznictwo/isv_cyrl/safety",
       "path": "regulations/poloznictwo/isv_cyrl/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "deca6cd3fc0da35ce0b01e9293849a97fc8a582154a39fc2684e5a36f9b6a5d0",
+      "sizeBytes": 3005,
       "locale": "isv_cyrl"
     },
     {
@@ -3752,33 +3752,33 @@
     {
       "id": "regulations/poloznictwo/isv_cyrl/syllabus",
       "path": "regulations/poloznictwo/isv_cyrl/syllabus.md",
-      "version": "5",
-      "sha256": "c6cb52e88086121d16c872e197d473946df342ae6cb9cb23db10988b5fcf2db3",
-      "sizeBytes": 3831,
+      "version": "6",
+      "sha256": "5a5fee84dbae80ed571cc4348e2454931a462e0629a4e10a20c2693de67da506",
+      "sizeBytes": 3839,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/poloznictwo/isv_cyrl/faq",
       "path": "regulations/poloznictwo/isv_cyrl/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "2d5c2d8515893ae6c72893da709973ff227ec0c6c271ff42e44de42c8911c580",
+      "sizeBytes": 2583,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/poloznictwo/isv_glag/regulations",
       "path": "regulations/poloznictwo/isv_glag/regulations.md",
-      "version": "3",
-      "sha256": "1309503adecd5131227d0d95b4dc312de8080dafb63470b9f409fe42c62e0e1d",
-      "sizeBytes": 5983,
+      "version": "4",
+      "sha256": "937c528d92dc3e17438d1f9180d2c074a085823478c7f37391ec8f929e4fc870",
+      "sizeBytes": 6021,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/poloznictwo/isv_glag/safety",
       "path": "regulations/poloznictwo/isv_glag/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "e13b0c7434824e4550caca105a1ee7b8ab2b9891390461e0bba21f0f18e38aee",
+      "sizeBytes": 4210,
       "locale": "isv_glag"
     },
     {
@@ -3800,17 +3800,17 @@
     {
       "id": "regulations/poloznictwo/isv_glag/syllabus",
       "path": "regulations/poloznictwo/isv_glag/syllabus.md",
-      "version": "4",
-      "sha256": "317ec91ce49ce6855c8542560589ec827b7c71c4ef9dfd945fe8d37b089430d0",
-      "sizeBytes": 5359,
+      "version": "5",
+      "sha256": "7259183cd82b6d21a941c1b0f0e23e502145de25f174beb9e9c805b406ba15b1",
+      "sizeBytes": 5375,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/poloznictwo/isv_glag/faq",
       "path": "regulations/poloznictwo/isv_glag/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "71aae5c2af5b480cbafeba892b3065a8f1ad5062ad5c9f7570446984b9fb1980",
+      "sizeBytes": 3694,
       "locale": "isv_glag"
     },
     {
@@ -4056,17 +4056,17 @@
     {
       "id": "regulations/ratownictwo_medyczne/isv_cyrl/regulations",
       "path": "regulations/ratownictwo_medyczne/isv_cyrl/regulations.md",
-      "version": "3",
-      "sha256": "2b45459ddcbda32d297ed49f4d795a1cd82d132a11db88688472652750ecdfd8",
-      "sizeBytes": 4271,
+      "version": "4",
+      "sha256": "a07e5e590bce84cb8511a7bb3ad6b6c692c2cf8b5ee2b5bd428caff913f1c83c",
+      "sizeBytes": 4290,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/ratownictwo_medyczne/isv_cyrl/safety",
       "path": "regulations/ratownictwo_medyczne/isv_cyrl/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "deca6cd3fc0da35ce0b01e9293849a97fc8a582154a39fc2684e5a36f9b6a5d0",
+      "sizeBytes": 3005,
       "locale": "isv_cyrl"
     },
     {
@@ -4088,33 +4088,33 @@
     {
       "id": "regulations/ratownictwo_medyczne/isv_cyrl/syllabus",
       "path": "regulations/ratownictwo_medyczne/isv_cyrl/syllabus.md",
-      "version": "5",
-      "sha256": "00c7802347fdc41bc943ae772f2db4d1604839b2f7264f5d666d3d322fb9b4c0",
-      "sizeBytes": 4037,
+      "version": "6",
+      "sha256": "be0629fa2fc0ae0d7bb65b64b561cad1153c3de0a87860a02fd925a671ca8a21",
+      "sizeBytes": 4045,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/ratownictwo_medyczne/isv_cyrl/faq",
       "path": "regulations/ratownictwo_medyczne/isv_cyrl/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "2d5c2d8515893ae6c72893da709973ff227ec0c6c271ff42e44de42c8911c580",
+      "sizeBytes": 2583,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/ratownictwo_medyczne/isv_glag/regulations",
       "path": "regulations/ratownictwo_medyczne/isv_glag/regulations.md",
-      "version": "3",
-      "sha256": "1309503adecd5131227d0d95b4dc312de8080dafb63470b9f409fe42c62e0e1d",
-      "sizeBytes": 5983,
+      "version": "4",
+      "sha256": "937c528d92dc3e17438d1f9180d2c074a085823478c7f37391ec8f929e4fc870",
+      "sizeBytes": 6021,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/ratownictwo_medyczne/isv_glag/safety",
       "path": "regulations/ratownictwo_medyczne/isv_glag/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "e13b0c7434824e4550caca105a1ee7b8ab2b9891390461e0bba21f0f18e38aee",
+      "sizeBytes": 4210,
       "locale": "isv_glag"
     },
     {
@@ -4136,17 +4136,17 @@
     {
       "id": "regulations/ratownictwo_medyczne/isv_glag/syllabus",
       "path": "regulations/ratownictwo_medyczne/isv_glag/syllabus.md",
-      "version": "4",
-      "sha256": "dffefdcdc7c2a1ee83616a25415da79fe48411d3a7115e7fb07abdb08a40137f",
-      "sizeBytes": 5609,
+      "version": "5",
+      "sha256": "2201946ee2cab3d5a70c91618cd717d694f87577a3364440c17ed50015e9d794",
+      "sizeBytes": 5625,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/ratownictwo_medyczne/isv_glag/faq",
       "path": "regulations/ratownictwo_medyczne/isv_glag/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "71aae5c2af5b480cbafeba892b3065a8f1ad5062ad5c9f7570446984b9fb1980",
+      "sizeBytes": 3694,
       "locale": "isv_glag"
     },
     {
@@ -4392,17 +4392,17 @@
     {
       "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv_cyrl/regulations",
       "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv_cyrl/regulations.md",
-      "version": "3",
-      "sha256": "2b45459ddcbda32d297ed49f4d795a1cd82d132a11db88688472652750ecdfd8",
-      "sizeBytes": 4271,
+      "version": "4",
+      "sha256": "a07e5e590bce84cb8511a7bb3ad6b6c692c2cf8b5ee2b5bd428caff913f1c83c",
+      "sizeBytes": 4290,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv_cyrl/safety",
       "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv_cyrl/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "deca6cd3fc0da35ce0b01e9293849a97fc8a582154a39fc2684e5a36f9b6a5d0",
+      "sizeBytes": 3005,
       "locale": "isv_cyrl"
     },
     {
@@ -4424,33 +4424,33 @@
     {
       "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv_cyrl/syllabus",
       "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv_cyrl/syllabus.md",
-      "version": "5",
-      "sha256": "c05e58627eeed594c31fd34f1cecc61352b20a4af5b89491307fa573abd1b089",
-      "sizeBytes": 4150,
+      "version": "6",
+      "sha256": "2a11581b6a0580576ed6e0c7d2c14a9322a51e194c8e39b32fc8b2cf424e251d",
+      "sizeBytes": 4158,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv_cyrl/faq",
       "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv_cyrl/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "2d5c2d8515893ae6c72893da709973ff227ec0c6c271ff42e44de42c8911c580",
+      "sizeBytes": 2583,
       "locale": "isv_cyrl"
     },
     {
       "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv_glag/regulations",
       "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv_glag/regulations.md",
-      "version": "3",
-      "sha256": "1309503adecd5131227d0d95b4dc312de8080dafb63470b9f409fe42c62e0e1d",
-      "sizeBytes": 5983,
+      "version": "4",
+      "sha256": "937c528d92dc3e17438d1f9180d2c074a085823478c7f37391ec8f929e4fc870",
+      "sizeBytes": 6021,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv_glag/safety",
       "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv_glag/safety.md",
-      "version": "3",
-      "sha256": "b1d3f2612dcc840ee5d873570f8531d2ba52b5778b2fa3da0c550959c284e006",
-      "sizeBytes": 1800,
+      "version": "4",
+      "sha256": "e13b0c7434824e4550caca105a1ee7b8ab2b9891390461e0bba21f0f18e38aee",
+      "sizeBytes": 4210,
       "locale": "isv_glag"
     },
     {
@@ -4472,17 +4472,17 @@
     {
       "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv_glag/syllabus",
       "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv_glag/syllabus.md",
-      "version": "4",
-      "sha256": "ed3eb5963feed21c2e9dbc106bf39929f4a3b9fe31229f0ab0de46ec2423939c",
-      "sizeBytes": 5826,
+      "version": "5",
+      "sha256": "789c68e280aff93068dd05ac4741ea57c76b72ff98d94b78f13c91bd5c6150e1",
+      "sizeBytes": 5842,
       "locale": "isv_glag"
     },
     {
       "id": "regulations/zdrowie_publiczne_i_epidemiologia/isv_glag/faq",
       "path": "regulations/zdrowie_publiczne_i_epidemiologia/isv_glag/faq.md",
-      "version": "1",
-      "sha256": "d1536f598df953b52c1ca31b6e9f80a95843e0e42a9e857d57651e1237e939b1",
-      "sizeBytes": 1468,
+      "version": "2",
+      "sha256": "71aae5c2af5b480cbafeba892b3065a8f1ad5062ad5c9f7570446984b9fb1980",
+      "sizeBytes": 3694,
       "locale": "isv_glag"
     },
     {
@@ -4812,6 +4812,46 @@
       "sha256": "f96364f78e30e66a1313a6ac1ca3d18914bb7d8306dc38ece224003d6503a075",
       "sizeBytes": 412913,
       "locale": "news"
+    },
+    {
+      "id": "images/resources/flags/English_language.png",
+      "path": "images/resources/flags/English_language.png",
+      "version": "1",
+      "sha256": "d594cc6bea38f2e1dabf175df76222de6fabfd2bd408d2f73ff0a4933baf3efc",
+      "sizeBytes": 41457,
+      "locale": "resources"
+    },
+    {
+      "id": "images/resources/flags/Flag_of_Esperanto.png",
+      "path": "images/resources/flags/Flag_of_Esperanto.png",
+      "version": "1",
+      "sha256": "17fe09002c1caf28eb40bb7c0a02bf5e8f6e06137ec97c1c7f56ce6fc9909e3f",
+      "sizeBytes": 4602,
+      "locale": "resources"
+    },
+    {
+      "id": "images/resources/flags/Flag_of_Interslavic.png",
+      "path": "images/resources/flags/Flag_of_Interslavic.png",
+      "version": "1",
+      "sha256": "e8a597129b44bba08af9395f6d542ed28c1bfb7a4eb64f49bee2c80b9f196687",
+      "sizeBytes": 3774,
+      "locale": "resources"
+    },
+    {
+      "id": "images/resources/flags/Flag_of_Poland.png",
+      "path": "images/resources/flags/Flag_of_Poland.png",
+      "version": "1",
+      "sha256": "dcd888aa63d40c36a29d9f6a6fed633637b87120084cc7952698a64226065f39",
+      "sizeBytes": 452,
+      "locale": "resources"
+    },
+    {
+      "id": "images/resources/flags/Flag_of_Spain.png",
+      "path": "images/resources/flags/Flag_of_Spain.png",
+      "version": "1",
+      "sha256": "93eaeda82ecd6576032cfaa59ee6a880c9a0a92369384465dcd67e5893ba5476",
+      "sizeBytes": 62705,
+      "locale": "resources"
     },
     {
       "id": "images/regulations/Q_and_A.jpg",

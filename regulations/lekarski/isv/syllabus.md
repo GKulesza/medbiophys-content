@@ -1,96 +1,96 @@
 ![Syllabus](images/regulations/Sylabus_biofiz.jpg)
 
-# Biofizyka
+# Biofizika
 
-## Podstawowe informacje
+## Osnovne informacije
 
-* **Kierunek:** Lekarski
-* **Rok studiów:** I
+* **Program:** Medicina
+* **Godina studij:** I
 * **Semestr:** 1
-* **Forma studiów:** stacjonarne i niestacjonarne
-* **Punkty ECTS:** 3,5
+* **Forma studij:** stacionarna i nestacionarna
+* **ECTS bodovi:** 3,5
 
-### Liczba godzin
+### Broj časov
 
-* 📖 Wykłady – **10 h**
-* 💬 Seminaria – **10 h**
-* 🧪 Ćwiczenia laboratoryjne – **25 h**
-
----
-
-## O przedmiocie
-
-Biofizyka stanowi pomost pomiędzy naukami podstawowymi a medycyną. Podczas zajęć poznasz prawa fizyki i zjawiska biofizyczne wykorzystywane do wyjaśniania funkcjonowania organizmu człowieka oraz zrozumiesz fizyczne podstawy współczesnych metod diagnostycznych i terapeutycznych.
+* 📖 Predavanja – **10 h**
+* 💬 Seminari – **10 h**
+* 🧪 Laboratorijske vježbe – **25 h**
 
 ---
 
-## Czego się nauczysz?
+## O predmetu
 
-Po ukończeniu kursu będziesz potrafił:
-
-* wyjaśnić biofizyczne podstawy funkcjonowania komórek, tkanek i narządów,
-* rozumieć mechanizmy działania czynników fizycznych na organizm człowieka,
-* interpretować podstawowe zjawiska biofizyczne zachodzące w organizmie,
-* rozumieć fizyczne podstawy nowoczesnych metod diagnostycznych i terapeutycznych,
-* bezpiecznie pracować z promieniowaniem jonizującym i znać zasady ochrony radiologicznej,
-* analizować wyniki prostych eksperymentów laboratoryjnych.
+Biofizika jest most među osnovnym naukam i medicinoju. Na kursu budeš učiti fizične zakony i biofizične fenomeny, ktore objašnjajut funkcioniranije čelovečeskogo těla, i razuměti fizične osnovy sovremennyh diagnostičnyh i terapeutičnyh metod.
 
 ---
 
-## Tematyka zajęć
+## Čemu se naučiš?
 
-Podczas kursu omawiane są między innymi:
+Po okončanju kursa budeš mogti:
 
-* układ krążenia i prawa przepływu cieczy,
-* termodynamika organizmu,
-* błony biologiczne i transport przez błony,
-* bioelektryczność,
-* przewodzenie impulsów nerwowych,
-* biofizyka mięśni,
-* wpływ temperatury na organizm,
-* rezonans magnetyczny (MRI),
-* promieniowanie jonizujące i jego zastosowanie w medycynie,
-* ochrona radiologiczna,
-* metody detekcji promieniowania,
-* biofizyka słuchu i audiometria,
-* elektrokardiografia (EKG),
-* pomiar ciśnienia tętniczego,
-* ultradźwięki i efekt Dopplera,
-* metody spektrometryczne i refraktometryczne,
-* optyka oka,
-* analiza sygnałów biomedycznych z wykorzystaniem komputera.
+* objasniti biofizične osnovy funkcioniranija čelij, tkanej i organov,
+* razuměti mehanizmy dějstvija fizičnyh faktorov na čelovečesko telo,
+* interpretovati osnovne biofizične fenomeny v organizmu,
+* razuměti fizične osnovy sovremennyh diagnostičnyh i terapeutičnyh metod,
+* bezpečno rabotati s jonizujučim izluchenjem i znati pravila radiologičnoj zaštity,
+* analizovati rezultaty prostyh laboratornyh eksperimentov.
+
+---
+
+## Tema zanjatij
+
+Na kursu se razgovaraje m.in. o:
+
+* krvnom oběhu i zakonah tečenija tečnosti,
+* termodinamike organizma,
+* biologičnyh membranah i transportu čerez membrane,
+* bioelektričnosti,
+* provodjenju nervnyh impulsov,
+* biofizike mišic,
+* vlijanju temperatury na organizm,
+* magnetnoj rezonancii (MRI),
+* jonizujučem izluchenju i jeho priměnjenju v medicině,
+* radiologičnoj zaštitě,
+* metodah detekcije izluchenja,
+* biofizike sluha i audiometrii,
+* elektrokardiografii (EKG),
+* izměrenju krvnogo davlenja,
+* ultrazvuku i Dopplerovom efektu,
+* spektrometričnyh i refraktometričnyh metodah,
+* optikě oka,
+* kompjuternoj analizě biomedičinskih signalov.
 
 ---
 
 ## Literatura
 
-### Podstawowa
+### Osnovna
 
 * Kubisz L. **Biofizyka.** PZWL, Warszawa, 2024.
-* *Materiały do ćwiczeń z biofizyki* pod red. A. Kostrzewskiej.
+* *Materiały do ćwiczeń z biofizyki* pod redakcijeju A. Kostrzewskiej.
 
-### Uzupełniająca
+### Dopolnitelna
 
 * Jaroszyk F. (red.) **Biofizyka. Podręcznik dla studentów.**
 * Hewitt P.G. **Fizyka wokół nas.**
 
 ---
 
-## Zaliczenie przedmiotu
+## Zalicenje predmeta
 
-Przedmiot obejmuje:
+Predmet oběmima:
 
-* wykłady,
-* seminaria,
-* ćwiczenia laboratoryjne,
-* egzamin końcowy.
+* predavanja,
+* seminari,
+* laboratorijske vježbe,
+* zaključny ispyt.
 
-Do egzaminu można przystąpić po:
+K ispytu možeš pristupiti posle:
 
-* zaliczeniu wszystkich ćwiczeń laboratoryjnych,
-* zaliczeniu seminariów,
-* zaliczeniu wykładów.
+* zalicenja vseh laboratornyh vježb,
+* zalicenja seminarov,
+* zalicenja predavanij.
 
-Podczas ćwiczeń wymagane jest przygotowanie teoretyczne, wykonanie doświadczeń oraz opracowanie wyników w zeszycie ćwiczeń.
+Na laboratorijah jest potrebna teoretična priprava, izvedenje eksperimentov i obrabotka rezultatov v zapisniku.
 
-Szczegółowe zasady oceniania, obecności oraz popraw znajdują się w zakładce **Regulations**.
+Podrobne pravila ocenjivanja, prisutnosti i popravok sut v razdělu **Regulations**.

@@ -1,0 +1,2130 @@
+{
+  "schemaVersion": 1,
+  "locale": "pl",
+  "tasks": [
+    {
+      "id": "em_001",
+      "category": "EM",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Defibrylator dostarcza dwufazowy impuls przez elektrody na klatce piersiowej. Podaj dwie wielkości elektryczne opisujące impuls dostarczony do tkanki.",
+      "answer": "Napięcie (różnica potencjałów) i energia (dżule w impulsie). Klinicznie ustawia się energię; napięcie zależy od impedancji klatki.",
+      "assets": [],
+      "tags": [
+        "defibrillator",
+        "energy"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_002",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Odprowadzenie EKG mierzy różnicę potencjałów między elektrodami. Dlaczego elektroda na nodze prawej często służy jako odniesienie?",
+      "answer": "Leży blisko potencjału ciała i stabilizuje odniesienie wzmacniacza, poprawiając tłumienie składowej wspólnej i pomiar małych sygnałów serca.",
+      "assets": [],
+      "tags": [
+        "ecg",
+        "electrodes",
+        "reference"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_003",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Rozrusznik wykrywa załamki R i hamuje własne impulsy stymulacyjne, gdy występuje wewnętrzny rytm. Jaki problem kliniczny pojawia się w przypadku ustawienia zbyt wysokiej czułości?",
+      "answer": "Nadmierna czułość: Załamki T, artefakty mięśniowe lub zakłócenia są liczone jako załamki R, co powoduje nieprawidłowe hamowanie stymulacji i u pacjenta może wystąpić bradykardia.",
+      "assets": [],
+      "tags": [
+        "pacemaker",
+        "sensing"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_004",
+      "category": "EM",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Pulsoksymetr można założyć na czubek palca i zgłosić saturację tlenem. Jakie właściwości fizyczne krwi tętniczej porównuje przy dwóch długościach fal?",
+      "answer": "Absorpcja światła (lub gęstość optyczna). Oksyhemoglobina i deoksyhemoglobina w różny sposób absorbują światło czerwone i podczerwone, a do oceny SpO₂ wykorzystuje się pulsacyjną składową tętniczą.",
+      "assets": [],
+      "tags": [
+        "pulse-oximetry",
+        "optics"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_005",
+      "category": "EM",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Dlaczego żel przewodzący umieszcza się pomiędzy elektrodą ECG a skórą?",
+      "answer": "Wypełnia szczeliny powietrzne i obniża impedancję styku, dzięki czemu elektroda skutecznie przylega do skóry, a sygnał ECG nie jest tłumiony.",
+      "assets": [],
+      "tags": [
+        "ecg",
+        "electrodes",
+        "impedance"
+      ],
+      "estimatedMinutes": 2,
+      "version": 1
+    },
+    {
+      "id": "em_006",
+      "category": "EM",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Jaki jest główny cel uziemienia pacjenta lub połączenia referencyjnego w rejestracji biopotencjału?",
+      "answer": "Wiąże system pomiarowy z potencjałem ciała pacjenta w celu zapewnienia bezpieczeństwa i redukcji hałasu, pomagając wzmacniaczowi wyeliminować zakłócenia w trybie wspólnym.",
+      "assets": [],
+      "hint": "Pomyśl o tym, co się stanie, gdy wzmacniacz i pacjent znajdą się na różnych potencjałach.",
+      "tags": [
+        "grounding",
+        "safety",
+        "ecg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_007",
+      "category": "EM",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Które włókna nerwowe są angażowane głównie przy typowych intensywnościach terapii TENS: duże włókna czuciowe czy włókna motoryczne odpowiedzialne za silny skurcz mięśni?",
+      "answer": "Duże włókna czuciowe (aferentne). TENS ustawia się zwykle poniżej progu motorycznego, aby stymulować ścieżki czuciowe w celu modulacji bólu.",
+      "assets": [],
+      "tags": [
+        "tens",
+        "pain"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_008",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Dlaczego w standardowym odprowadzeniu kończynowym ECG odprowadzenie II często wykazuje stosunkowo wysoki załamek R u zdrowych dorosłych?",
+      "answer": "Średnia oś elektryczna depolaryzacji komór wystaje silnie w stronę elektrody dodatniej odprowadzenia II (lewa noga względem prawego ramienia).",
+      "assets": [],
+      "hint": "Powiązać wektor elektrody z kierunkiem depolaryzacji komór.",
+      "tags": [
+        "ecg",
+        "cardiac-axis"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "em_009",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Dlaczego słaby kontakt ze skórą w przypadku elektrod do defibrylacji zewnętrznej jest problemem?",
+      "answer": "Wysoka impedancja kontaktowa powoduje marnowanie dostarczonej energii w postaci ciepła działającego na skórę, ryzyko poparzeń i zmniejszenie prądu przepływającego przez serce, co może skutkować niepowodzeniem defibrylacji.",
+      "assets": [],
+      "tags": [
+        "defibrillator",
+        "impedance"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_010",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Jaki sygnał biofizyczny rejestruje głównie powierzchniowe EMG?",
+      "answer": "Suma zewnątrzkomórkowej aktywności elektrycznej włókien mięśniowych (jednostek motorycznych) w pobliżu elektrod podczas skurczu.",
+      "assets": [],
+      "tags": [
+        "emg",
+        "muscle"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_011",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Diatermia krótkofalowa lub mikrofalowa dostarcza do tkanki energię elektromagnetyczną o wysokiej częstotliwości. Jaki efekt terapeutyczny ma zostać zamierzony?",
+      "answer": "Głębokie ogrzewanie tkanki, które zwiększa przepływ krwi i może złagodzić ból lub sztywność podczas fizjoterapii.",
+      "assets": [],
+      "tags": [
+        "diathermy",
+        "heating"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_012",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Jeśli próg wykrywania stymulatora na żądanie jest ustawiony zbyt nisko (niewystarczająca czułość), jaka awaria wykrywania może wystąpić?",
+      "answer": "Niewyczuwanie: wewnętrzne załamki R są pomijane, w związku z czym stymulator może poruszać się zgodnie z wewnętrznymi uderzeniami lub nie hamować, kiedy powinien.",
+      "assets": [],
+      "hint": "Porównaj to z przeczuciem w em_003.",
+      "tags": [
+        "pacemaker",
+        "sensing"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_013",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Dlaczego bardzo mały prąd upływu przez założony na stałe cewnik sercowy może stwarzać większe ryzyko arytmii niż makrowstrząs w przypadku nieuszkodzonej skóry klatki piersiowej?",
+      "answer": "Mikrowstrząsy: prąd jest dostarczany bezpośrednio do serca ścieżką o niskiej impedancji, więc mikroampery mogą wywołać migotanie komór.",
+      "assets": [],
+      "hint": "Porównaj gęstość prądu docierającą do mięśnia sercowego w każdej sytuacji.",
+      "tags": [
+        "microshock",
+        "safety"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "em_014",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Dlaczego ruchy pacjenta często powodują powstawanie artefaktów na śladzie powierzchniowym ECG?",
+      "answer": "Ruch zmienia kontakt skóra–elektroda oraz impedancję styku elektroda–żel–skóra, powodując wahania napięcia imitujące sygnał sercowy.",
+      "assets": [],
+      "tags": [
+        "ecg",
+        "artefact",
+        "impedance"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_015",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Wymień jedną kliniczną zaletę dwufazowych fal defibrylacyjnych w porównaniu ze starszymi wyładowaniami jednofazowymi.",
+      "answer": "Wstrząsy dwufazowe umożliwiają defibrylację przy niższej wybranej energii, zmniejszając uszkodzenie mięśnia sercowego przy jednoczesnym zachowaniu skuteczności.",
+      "assets": [],
+      "tags": [
+        "defibrillator",
+        "waveform"
+      ],
+      "estimatedMinutes": 3,
+      "version": 1
+    },
+    {
+      "id": "em_016",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "W przypadku słabej perfuzji obwodowej lub zwężenia naczyń odczyty pulsoksymetru stają się niewiarygodne. Jaka cecha sygnału jest osłabiona?",
+      "answer": "Pulsacyjna (AC) składowa światła przechodzącego. Bez silnej fali tętna tętniczego urządzenie nie jest w stanie w sposób niezawodny oddzielić absorpcji tętniczej od tła żylnego i tkankowego.",
+      "assets": [],
+      "hint": "Pulsoksymetry opierają się na zmianach zsynchronizowanych z każdym uderzeniem serca.",
+      "tags": [
+        "pulse-oximetry",
+        "perfusion"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_017",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Dlaczego w elektrochirurgii stosuje się skoncentrowaną elektrodę zwrotną (płytę pacjenta) zamiast przepuszczać prąd przez jakąkolwiek uziemioną powierzchnię?",
+      "answer": "Obniża gęstość prądu w miejscu wyjścia i ogranicza ścieżkę powrotną, zmniejszając ryzyko przypadkowych oparzeń w niezamierzonych punktach uziemienia.",
+      "assets": [],
+      "tags": [
+        "diathermy",
+        "safety",
+        "grounding"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_018",
+      "category": "EM",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Dlaczego wzmacniacz biopotencjalny musi wykazywać bardzo wysoką impedancję wejściową na swoich elektrodach rejestrujących?",
+      "answer": "Interfejs elektroda-skóra ma wysoką impedancję; niska impedancja wejściowa wzmacniacza utworzyłaby dzielnik napięcia i poważnie osłabiłaby mały sygnał bioelektryczny.",
+      "assets": [],
+      "hint": "Modeluj impedancję elektrody i wejście wzmacniacza jako dzielnik.",
+      "tags": [
+        "amplifier",
+        "impedance",
+        "ecg"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "em_019",
+      "category": "EM",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Czym różni się podstawowa rola terapeutyczna wszczepialnego kardiowertera-defibrylatora (ICD) od standardowego rozrusznika serca?",
+      "answer": "ICD może wykryć tachyarytmię komorową i dostarczyć wstrząsy o wysokiej energii w celu defibrylacji lub kardiowersji; rozrusznik zapewnia przede wszystkim stymulację niskoenergetyczną.",
+      "assets": [],
+      "tags": [
+        "icd",
+        "pacemaker",
+        "defibrillator"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_020",
+      "category": "EM",
+      "difficulty": 4,
+      "type": "open",
+      "question": "W nagraniach ECG często pojawiają się zakłócenia częstotliwości sieciowej (50/60 Hz). Wymień jeden mechanizm sprzęgający i jeden praktyczny sposób jego ograniczenia.",
+      "answer": "Sprzężenie może być pojemnościowe lub magnetyczne z pobliskich linii energetycznych i sprzętu. Metody redukcji obejmują kable ekranowane, odpowiednie uziemienie, napęd z prawej nogi i filtrowanie wycinające.",
+      "assets": [],
+      "hint": "Częstotliwość zakłóceń jest zgodna z linią zasilania prądem przemiennym.",
+      "tags": [
+        "ecg",
+        "interference",
+        "noise"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "em_021",
+      "category": "EM",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Podczas energicznych ćwiczeń artefakt EMG może zanieczyścić jednocześnie zarejestrowany ECG. Dlaczego sygnały w zarejestrowanym przebiegu nakładają się na siebie?",
+      "answer": "Obydwa potencjały są wychwytywane przez elektrody powierzchniowe i mają podobną zawartość częstotliwości; Potencjały mięśni są znacznie większe i mogą zagłuszać sygnał sercowy w skali miliwoltów.",
+      "assets": [],
+      "tags": [
+        "emg",
+        "ecg",
+        "artefact"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_022",
+      "category": "EM",
+      "difficulty": 4,
+      "type": "open",
+      "question": "W jaki sposób, zgodnie z teorią kontroli bramki, TENS o wysokiej częstotliwości może zmniejszyć odczuwanie bólu?",
+      "answer": "Aktywuje włókna czuciowe Aβ o dużej średnicy, które hamują przekazywanie sygnałów nocyceptywnych w rogu grzbietowym kręgosłupa („zamykanie bramy”).",
+      "assets": [],
+      "tags": [
+        "tens",
+        "pain",
+        "neurophysiology"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "em_023",
+      "category": "EM",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Dlaczego MRI jest ogólnie niebezpieczne dla pacjentów ze starszymi elektrodami stymulatora, innymi niż MRI, nawet jeśli urządzenie jest zaprogramowane w pozycji wyłączonej?",
+      "answer": "Zmienne w czasie pola magnetyczne mogą indukować ogrzewanie i napięcie w przewodzie, powodując uszkodzenie tkanki lub niewłaściwą stymulację/wstrząsy; elementy ferromagnetyczne mogą również ulec przesunięciu.",
+      "assets": [],
+      "tags": [
+        "pacemaker",
+        "mri",
+        "safety"
+      ],
+      "estimatedMinutes": 6,
+      "version": 1
+    },
+    {
+      "id": "em_024",
+      "category": "EM",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Przed nałożeniem elektrod ECG skórę często oczyszcza się alkoholem, lekko przeciera i suszy. Wyjaśnij cel każdego etapu w zakresie jakości pomiaru.",
+      "answer": "Alkohol usuwa oleje i pot; ścieranie rozrzedza warstwę rogową naskórka, obniżając impedancję skóry; suszenie zapewnia kontakt adhezyjny i stabilne połączenie żelu.",
+      "assets": [
+        "workshop_lab.png"
+      ],
+      "hint": "Zewnętrzna martwa warstwa skóry jest słabym przewodnikiem.",
+      "tags": [
+        "electrodes",
+        "skin-prep",
+        "lab"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "em_025",
+      "category": "EM",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Na sali operacyjnej uziemienie ekwipotencjalne łączy powierzchnie metalowe ze wspólnym punktem odniesienia. Jakie ryzyko dla pacjenta to zmniejsza?",
+      "answer": "Różnice w potencjale uziemienia pomiędzy urządzeniami mogą powodować przepływ prądu przez pacjenta; łączenie powierzchni z tym samym punktem odniesienia zapobiega niebezpiecznym gradientom potencjału.",
+      "assets": [],
+      "tags": [
+        "grounding",
+        "safety",
+        "microshock"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "op_001",
+      "category": "OP",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Światło przechodzi z powietrza (n ≈ 1,00) do tkanki rogówki (n ≈ 1,38) z normalnym natężeniem. Czy promień załamuje się w kierunku normalnej powierzchni wewnątrz rogówki, czy też od niej?",
+      "answer": "W stronę normalnej, ponieważ światło przechodzi do optycznie gęstszego ośrodka (wyższy współczynnik załamania światła).",
+      "assets": [],
+      "tags": [
+        "refraction",
+        "eye"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_002",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Dlaczego kolimowany laser klasy 3B może uszkodzić siatkówkę przy mocy bezpiecznej dla domowej żarówki?",
+      "answer": "Oko skupia wąską wiązkę na bardzo małej plamce siatkówki, więc gęstość mocy staje się niezwykle wysoka, nawet gdy całkowita moc wydaje się niewielka.",
+      "assets": [],
+      "tags": [
+        "laser",
+        "eye",
+        "safety"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_003",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "W mikroskopii fluorescencyjnej emitowane światło ma dłuższą długość fali niż światło wzbudzone. Dlaczego to jest przydatne?",
+      "answer": "Filtry mogą blokować światło wzbudzające podczas transmisji fluorescencji, dzięki czemu słabe emitowane sygnały są łatwiejsze do oddzielenia od wiązki oświetlającej.",
+      "assets": [],
+      "tags": [
+        "fluorescence",
+        "microscopy"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_004",
+      "category": "OP",
+      "difficulty": 1,
+      "type": "open",
+      "question": "W jakim charakterystycznym punkcie skupiają się promienie równoległe padające na cienką soczewkę wypukłą?",
+      "answer": "Ognisko (główne ogniskowanie) po przeciwnej stronie obiektywu.",
+      "assets": [],
+      "tags": [
+        "lenses",
+        "focal-length"
+      ],
+      "estimatedMinutes": 2,
+      "version": 1
+    },
+    {
+      "id": "op_005",
+      "category": "OP",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Gdzie w przypadku krótkowzroczności (krótkowzroczności) powstaje obraz odległego obiektu przed zastosowaniem soczewki korekcyjnej?",
+      "answer": "Przed siatkówką, ponieważ oko skupia się zbyt mocno lub długość osiowa jest zbyt duża.",
+      "assets": [],
+      "hint": "Aby odepchnąć obraz, zalecana jest soczewka wklęsła (rozbieżna).",
+      "tags": [
+        "eye",
+        "refraction",
+        "myopia"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_006",
+      "category": "OP",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Obiekt na dnie basenu wydaje się znajdować bliżej powierzchni niż w rzeczywistości, patrząc z powietrza. Jaki efekt optyczny to powoduje?",
+      "answer": "Załamanie na granicy faz powietrze-woda zagina promienie w stronę normalnej, więc pozorna głębokość jest mniejsza niż głębokość rzeczywista.",
+      "assets": [],
+      "tags": [
+        "refraction",
+        "snell"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_007",
+      "category": "OP",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Ludzkie widzenie kolorów opiera się na trzech typach czopków o różnej czułości widmowej. Jakie możliwości percepcyjne zapewnia ten trójchromatyczny układ?",
+      "answer": "Rozróżnianie długości fal w widmie widzialnym poprzez porównanie odpowiedzi trzech klas czopków (percepcja koloru i odcienia).",
+      "assets": [],
+      "tags": [
+        "color-vision",
+        "eye"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_008",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Zgodnie z prawem Snella, kiedy światło przechodzi do ośrodka o wyższym współczynniku załamania światła, czy załamany promień załamuje się w stronę normalnej powierzchni, czy też od niej?",
+      "answer": "W kierunku normalnej, ponieważ sinus kąta załamania jest mniejszy niż sinus kąta padania.",
+      "assets": [],
+      "hint": "Wyższe n oznacza mniejszą prędkość światła w ośrodku.",
+      "tags": [
+        "snell",
+        "refraction"
+      ],
+      "estimatedMinutes": 3,
+      "version": 1
+    },
+    {
+      "id": "op_009",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "W przypadku prostej lupy używanej w bliży, jak krótsza ogniskowa wpływa na powiększenie kątowe?",
+      "answer": "Krótsza ogniskowa pozwala na mniejszą odległość od obiektu i zapewnia większe powiększenie kątowe.",
+      "assets": [],
+      "tags": [
+        "magnification",
+        "lenses"
+      ],
+      "estimatedMinutes": 3,
+      "version": 1
+    },
+    {
+      "id": "op_010",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Dlaczego w mikroskopii stosowanie oświetlenia o krótszej długości fali ogólnie poprawia rozdzielczość drobnych szczegółów?",
+      "answer": "Granica dyfrakcji skaluje się wraz z długością fali; mniejsze λ (kryterium Rayleigha) pozwala na mniejszą rozdzielczą separację między źródłami punktowymi.",
+      "assets": [],
+      "hint": "Rozdzielczość Rayleigha jest proporcjonalna do długości fali podzielonej przez NA.",
+      "tags": [
+        "resolution",
+        "microscopy"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_011",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Światłowody kierują światło na zasadzie całkowitego wewnętrznego odbicia. Jaki warunek musi spełniać promień na granicy rdzeń-płaszcz?",
+      "answer": "Światło musi przemieszczać się w rdzeniu o wyższym indeksie i uderzać w granicę pod kątem padania większym niż kąt krytyczny.",
+      "assets": [],
+      "hint": "Płaszcz ma niższy współczynnik załamania światła niż rdzeń.",
+      "tags": [
+        "fiber-optics",
+        "refraction"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_012",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Astygmatyzm powoduje niewyraźne widzenie na każdą odległość. Czym różni się skupienie oka w różnych meridianach?",
+      "answer": "Moc refrakcyjna zmienia się w zależności od orientacji: jeden południk jest ogniskowany inaczej niż południk prostopadły, więc na siatkówce nie tworzy się pojedyncza płaszczyzna ogniskowa.",
+      "assets": [],
+      "tags": [
+        "eye",
+        "aberration"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_013",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Fotokoagulacja laserowa siatkówki często wykorzystuje zieloną lub żółtą długość fali. Dlaczego wybrano te długości fal, a nie głębokie ultrafiolet?",
+      "answer": "Są one przenoszone przez błonę oczną i wchłaniane przez barwnik siatkówki i krew, dostarczając energię do tkanki docelowej, unikając jednocześnie uszkodzenia soczewki i rogówki przez promieniowanie UV.",
+      "assets": [],
+      "tags": [
+        "laser",
+        "eye",
+        "therapy"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "op_014",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Jak zwiększenie apertury numerycznej (NA) obiektywu mikroskopu wpływa na rozdzielczość i głębię ostrości?",
+      "answer": "Wyższe NA poprawia rozdzielczość boczną, ale zmniejsza głębię ostrości, więc tylko cieńszy wycinek preparatu pozostaje ostry.",
+      "assets": [],
+      "tags": [
+        "microscopy",
+        "resolution"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_015",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Aberracja chromatyczna w prostym szklanym obiektywie powoduje powstawanie kolorowych prążków na obrazie. Jaka właściwość materiału soczewki jest tego przyczyną?",
+      "answer": "Dyspersja: współczynnik załamania światła zależy od długości fali, dlatego różne kolory załamują się w różnym stopniu i nie mają wspólnego punktu ogniskowego.",
+      "assets": [],
+      "hint": "Niebieskie światło jest zwykle bardziej załamane niż czerwone w szkle koronowym.",
+      "tags": [
+        "aberration",
+        "lenses"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_016",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Co oznaczenie ostrości wzroku 20/20 (lub 6/6) wskazuje na rozdzielczość przestrzenną danej osoby w porównaniu z obserwatorem referencyjnym?",
+      "answer": "Z odległości testowej (20 stóp lub 6 m) osoba jest w stanie rozróżnić szczegóły, które normalne oko referencyjne rozpoznaje również z tej samej odległości.",
+      "assets": [],
+      "tags": [
+        "visual-acuity",
+        "eye"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_017",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Po przejściu z jasnego światła do ciemnego pomieszczenia, widzenie skotopowe (za pośrednictwem prętów) potrzebuje wielu minut, aby osiągnąć pełną czułość. Dlaczego ta adaptacja jest powolna?",
+      "answer": "Rodopsyna w pręcikach musi się zregenerować po wybieleniu, a wzmocnienie nerwowe w pręciku stopniowo wzrasta; stożki dostosowują się znacznie szybciej.",
+      "assets": [],
+      "tags": [
+        "eye",
+        "adaptation"
+      ],
+      "estimatedMinutes": 3,
+      "version": 1
+    },
+    {
+      "id": "op_018",
+      "category": "OP",
+      "difficulty": 4,
+      "type": "open",
+      "question": "W mikroskopii w jasnym polu przymknięcie przysłony zwiększa głębię ostrości, ale może spowodować rozmycie drobnych szczegółów. Wyjaśnij kompromis.",
+      "answer": "Mniejsza apertura zmniejsza rozdzielczość i przepustowość ograniczoną dyfrakcją, więc większa część próbki jest ostra, ale drobna struktura jest mniej rozdzielcza.",
+      "assets": [],
+      "tags": [
+        "microscopy",
+        "resolution"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_019",
+      "category": "OP",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Starczowzroczność utrudnia czytanie z bliży w średnim wieku, nawet jeśli skorygowane jest widzenie na odległość. Jaka związana z wiekiem zmiana w oku jest tego przyczyną?",
+      "answer": "Soczewka krystaliczna sztywnieje i traci zdolność akomodacji, więc oko nie jest w stanie zwiększyć mocy optycznej na tyle, aby skupić się na bliskich obiektach.",
+      "assets": [],
+      "hint": "Akomodacja zależy od zmieniającego się kształtu soczewki.",
+      "tags": [
+        "eye",
+        "accommodation"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "op_020",
+      "category": "OP",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Jaka jest główna zaleta obrazowania konfokalnego w porównaniu z konwencjonalną mikroskopią fluorescencyjną o szerokim polu widzenia?",
+      "answer": "Otwór otworkowy odrzuca nieostrą fluorescencję, więc światło głównie z płaszczyzny ogniskowej wpływa na obraz, poprawiając rozdzielczość osiową i kontrast.",
+      "assets": [],
+      "hint": "Zastanów się, co dzieje się z fluorescencją emitowaną powyżej i poniżej płaszczyzny ogniskowej.",
+      "tags": [
+        "microscopy",
+        "fluorescence"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "op_021",
+      "category": "OP",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Kąt krytyczny całkowitego wewnętrznego odbicia zależy od współczynników załamania światła obu ośrodków. Zapisz zależność jakościowo: jeśli n₁ to rdzeń, a n₂ to płaszcz, przy czym n₁ > n₂, co stanie się z kątem krytycznym, gdy n₂ zostanie zmniejszone?",
+      "answer": "Kąt krytyczny staje się mniejszy (sin θ_c = n₂/n₁), przez co większy zakres promieni wewnątrz rdzenia ulega całkowitemu wewnętrznemu odbiciu.",
+      "assets": [],
+      "tags": [
+        "fiber-optics",
+        "snell"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_022",
+      "category": "OP",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Produkt laserowy klasy 1 jest uważany za bezpieczny do oglądania w wiązce w normalnych warunkach użytkowania. Jakie cechy konstrukcyjne zazwyczaj uzasadniają tę klasyfikację?",
+      "answer": "Z natury niska dostępna moc lub całkowicie zamknięte źródło dużej mocy, dzięki czemu żadna niebezpieczna wiązka nie może dotrzeć do użytkownika podczas zamierzonej pracy.",
+      "assets": [],
+      "tags": [
+        "laser",
+        "safety"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_023",
+      "category": "OP",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Zgodnie z granicą dyfrakcyjną Abbego najmniejsza rozpoznawalna odległość w mikroskopie skaluje się z λ/NA. Jeśli długość fali zostanie zmniejszona o połowę, a NA pozostanie niezmieniona, jak zmieni się granica rozdzielczości?",
+      "answer": "Zmniejsza się o połowę (poprawia się dwukrotnie): mniejsza długość fali pozwala na rozdzielenie drobniejszych szczegółów na tej samej NA.",
+      "assets": [],
+      "hint": "Rozdzielczość poprawia się, gdy zmniejsza się minimalna rozpoznawalna odległość.",
+      "tags": [
+        "resolution",
+        "microscopy"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "op_024",
+      "category": "OP",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Dwufotonowa mikroskopia fluorescencyjna wykorzystuje wzbudzenie w bliskiej podczerwieni zamiast światła widzialnego. Wymień dwa powody, dla których jest to pomocne podczas obrazowania głęboko w rozproszonej tkance.",
+      "answer": "Dłuższe fale rozpraszają się mniej i wnikają głębiej; wzbudzenie wymaga jednoczesnej absorpcji dwóch fotonów, zatem fluorescencja zlokalizowana jest głównie w objętości ogniskowej.",
+      "assets": [],
+      "hint": "Weź pod uwagę zarówno penetrację tkanki, jak i miejsce, w którym prawdopodobieństwo wzbudzenia jest największe.",
+      "tags": [
+        "fluorescence",
+        "microscopy",
+        "imaging"
+      ],
+      "estimatedMinutes": 6,
+      "version": 1
+    },
+    {
+      "id": "op_025",
+      "category": "OP",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Frits Zernike otrzymał Nagrodę Nobla za mikroskopię z kontrastem fazowym, która umożliwia widoczność niezabarwionych przezroczystych komórek. Jaka właściwość światła przechodzącego przez próbkę jest przekształcana w wykrywalny kontrast amplitudowy?",
+      "answer": "Opóźnienie fazy optycznej wprowadzone przez próbkę; płytka fazowa przesuwa fazę nieugiętego światła, tak że małe różnice fazowe stają się różnicami w intensywności obrazu.",
+      "assets": [
+        "nobel_imaging.png"
+      ],
+      "tags": [
+        "microscopy",
+        "history",
+        "imaging"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "ra_001",
+      "category": "RA",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Zdefiniuj gray (Gy) jako jednostkę dawki pochłoniętej.",
+      "answer": "1 gray = 1 dżul energii promieniowania jonizującego pochłoniętej na kilogram materii (1 J/kg).",
+      "assets": [],
+      "hint": "Pomyśl o dżulach wchłoniętych na kilogram tkanki.",
+      "tags": [
+        "dosimetry",
+        "units",
+        "absorbed-dose"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_002",
+      "category": "RA",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Dlaczego na diagnostycznym zdjęciu rentgenowskim kość zwykle wydaje się jaśniejsza niż tkanka miękka?",
+      "answer": "Kość ma większą gęstość i efektywną liczbę atomową, dzięki czemu tłumi więcej promieni rentgenowskich i mniej promieniowania dociera do znajdującego się za nią detektora.",
+      "assets": [],
+      "hint": "Porównaj, jak bardzo każda tkanka zatrzymuje wiązkę.",
+      "tags": [
+        "x-ray",
+        "contrast",
+        "attenuation"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_003",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Jeśli warstwa połówkowa (HVL) wiązki promieni rentgenowskich wzrasta, czy wiązka penetruje tkankę bardziej czy mniej skutecznie?",
+      "answer": "Skuteczniej. Aby zmniejszyć o połowę intensywność wiązki, potrzebny jest grubszy absorber, dzięki czemu fotony wnikają głębiej.",
+      "assets": [],
+      "hint": "Większy HVL oznacza więcej materiału, aby zmniejszyć intensywność o połowę.",
+      "tags": [
+        "half-value-layer",
+        "x-ray",
+        "penetration"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_004",
+      "category": "RA",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Zdefiniuj siwert (Sv) jako jednostkę stosowaną w ochronie przed promieniowaniem.",
+      "answer": "Siwert określa dawkę równoważną lub skuteczną — dawkę pochłoniętą (Gy) ważoną w zależności od rodzaju promieniowania i wrażliwości tkanki. Szacuje szkody biologiczne.",
+      "assets": [],
+      "hint": "Waży pochłoniętą dawkę pod kątem efektu biologicznego.",
+      "tags": [
+        "sievert",
+        "dosimetry",
+        "radiation-protection"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_005",
+      "category": "RA",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Co w fizyce radiologicznej mierzy ekspozycję?",
+      "answer": "Narażenie mierzy jonizację promieniami rentgenowskimi lub gamma w powietrzu, historycznie w rentgenach (R) lub kulombach SI na kilogram (C/kg). Opisuje stopień jonizacji powietrza przez wiązkę, a nie energię zdeponowaną w tkance.",
+      "assets": [],
+      "hint": "Skoncentruj się na jonizacji wytwarzanej w powietrzu przez wiązkę.",
+      "tags": [
+        "exposure",
+        "dosimetry",
+        "units"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_006",
+      "category": "RA",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Podaj zasadę ALARA stosowaną w ochronie przed promieniowaniem medycznym.",
+      "answer": "ALARA oznacza utrzymywanie dawek zawodowych i dawek pacjenta na tak niskim poziomie, jak jest to rozsądnie osiągalne, równoważąc korzyści diagnostyczne i niepotrzebne narażenie.",
+      "assets": [],
+      "hint": "Akronim opisuje minimalizację dawki, gdy jest to praktyczne.",
+      "tags": [
+        "ALARA",
+        "radiation-protection",
+        "clinical"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_007",
+      "category": "RA",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Dlaczego noszenie ołowianego fartucha zmniejsza dawkę promieniowania dla personelu znajdującego się w pobliżu źródła promieniowania rentgenowskiego?",
+      "answer": "Ołów ma wysoką liczbę atomową i silnie tłumi promieniowanie rentgenowskie poprzez absorpcję i rozpraszanie fotoelektryczne, dzięki czemu do użytkownika dociera mniej fotonów.",
+      "assets": [],
+      "hint": "Materiał o wysokim Z preferencyjnie zatrzymuje fotony diagnostyczne.",
+      "tags": [
+        "radiation-protection",
+        "attenuation",
+        "shielding"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_008",
+      "category": "RA",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Dlaczego jodowe środki kontrastowe poprawiają widoczność tkanek miękkich na zdjęciach rentgenowskich lub CT?",
+      "answer": "Jod ma wysoką liczbę atomową i silnie tłumi promieniowanie rentgenowskie, dzięki czemu naczynia krwionośne i narządy zawierające kontrast absorbują więcej fotonów i wyróżniają się na tle otaczających tkanek.",
+      "assets": [
+        "digital_xray.png"
+      ],
+      "hint": "Środki kontrastowe zwiększają lokalne tłumienie wiązki.",
+      "tags": [
+        "contrast",
+        "x-ray",
+        "ct"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_009",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Co w wykładniczym prawie tłumienia I = I₀·e^(−μx) oznacza liniowy współczynnik tłumienia μ?",
+      "answer": "μ to prawdopodobieństwo na jednostkę długości ścieżki, że foton oddziałuje z materiałem. Większe μ oznacza szybsze osłabienie wiązki wraz z głębokością.",
+      "assets": [],
+      "hint": "Określa, jak szybko intensywność maleje wraz z grubością.",
+      "tags": [
+        "attenuation",
+        "dosimetry",
+        "x-ray"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_010",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Wiązka promieniowania rentgenowskiego przechodzi przez dwie tkanki o różnych współczynnikach tłumienia liniowego. Która tkanka wytwarza większy kontrast na przesyłanym obrazie?",
+      "answer": "Tkanka o większej różnicy w μ od sąsiadów, ponieważ transmitowane natężenie zmienia się bardziej w poprzek granicy, a detektor rejestruje większy krok jasności.",
+      "assets": [
+        "tissue_attenuation.png"
+      ],
+      "hint": "Kontrast rośnie, gdy sąsiednie regiony tłumią się inaczej.",
+      "tags": [
+        "attenuation",
+        "contrast",
+        "x-ray"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_011",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Dlaczego w tomografii komputerowej (CT) suwnica obraca lampę rentgenowską i detektory wokół pacjenta?",
+      "answer": "Obrót gromadzi wiele kątów projekcji przez ciało. Na podstawie tych rzutów komputer rekonstruuje przekrojowe mapy tłumienia.",
+      "assets": [
+        "ct_scanner.png"
+      ],
+      "hint": "Aby rozwiązać strukturę wewnętrzną, potrzeba wielu kątów.",
+      "tags": [
+        "ct",
+        "x-ray",
+        "imaging"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_012",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Dlaczego na obrazie CT skala Hounsfielda jest zdefiniowana tak, że woda wynosi 0 HU?",
+      "answer": "Woda jest wygodnym tłumieniem referencyjnym dla tkanek miękkich. Inne tkanki podano w odniesieniu do wody, co upraszcza porównanie i okienkowanie.",
+      "assets": [
+        "hounsfield_ct.png"
+      ],
+      "hint": "Tłumienie tkanek miękkich jest zbliżone do poziomu wody.",
+      "tags": [
+        "ct",
+        "hounsfield",
+        "contrast"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_013",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Jak warstwa półwartościowa (HVL) jest powiązana ze współczynnikiem tłumienia liniowego μ dla wąskiej wiązki monoenergetycznej?",
+      "answer": "HVL = ln(2)/μ ≈ 0,693/μ. Po jednej grubości HVL intensywność spada do połowy wartości początkowej.",
+      "assets": [],
+      "hint": "Ustaw I₀/2 = I₀·e^(−μ·HVL) i oblicz grubość.",
+      "tags": [
+        "half-value-layer",
+        "attenuation",
+        "dosimetry"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_014",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Wymień dwa naturalne źródła, które przyczyniają się do narażenia na promieniowanie tła na Ziemi.",
+      "answer": "Głównymi źródłami naturalnymi jest promieniowanie kosmiczne z przestrzeni kosmicznej i radionuklidy ziemskie (np. uran, tor, radon w glebie i materiałach budowlanych).",
+      "assets": [],
+      "hint": "Weź pod uwagę wkład nieba i ziemi.",
+      "tags": [
+        "background-radiation",
+        "radiation-protection",
+        "environment"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_015",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Dlaczego narażenie na promieniowanie kosmiczne wzrasta na dużych wysokościach i podczas lotów liniami lotniczymi?",
+      "answer": "Atmosfera chroni przed naładowanymi energią cząstkami i neutronami wtórnymi. Mniej powietrza powyżej oznacza mniej interakcji i wyższe dawki dawek na wysokości.",
+      "assets": [
+        "cosmic_radiation.png"
+      ],
+      "hint": "Mniej osłony atmosferycznej oznacza, że ​​przybywa więcej cząstek pierwotnych.",
+      "tags": [
+        "background-radiation",
+        "cosmic-radiation",
+        "radiation-protection"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_016",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Co się dzieje w pozytonowej tomografii emisyjnej (PET), gdy pozyton spotyka się z elektronem w tkance?",
+      "answer": "Anihilują i wytwarzają dwa fotony gamma o energii 511 keV, poruszające się w niemal przeciwnych kierunkach, co skaner wykrywa przypadkowo.",
+      "assets": [
+        "pet_scanner.png"
+      ],
+      "hint": "Anihilacja daje fotony o energii 511 keV jeden po drugim.",
+      "tags": [
+        "PET",
+        "isotopes",
+        "imaging"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_017",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Dlaczego fluorodeoksyglukoza (FDG) jest powszechnie stosowana jako znacznik PET w onkologii?",
+      "answer": "Wiele nowotworów ma podwyższony metabolizm glukozy. FDG jest wychwytywany jak glukoza, ale wychwytywany po fosforylacji, koncentrując się w zmianach aktywnych metabolicznie.",
+      "assets": [],
+      "hint": "Guzy często wykazują zwiększony wychwyt glukozy.",
+      "tags": [
+        "PET",
+        "isotopes",
+        "clinical"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_018",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Dlaczego technet-99m (⁹⁹ᵐTc) jest powszechnie stosowany w obrazowaniu medycyny nuklearnej?",
+      "answer": "Emituje promień gamma o energii 140 keV odpowiedni do wykrywania, ma krótki okres półtrwania (~6 godzin) ograniczający dawkę dla pacjenta i może być dołączony do wielu leków za pośrednictwem źródła generatora.",
+      "assets": [],
+      "hint": "Weź pod uwagę okres półtrwania, energię fotonów i elastyczność etykietowania.",
+      "tags": [
+        "isotopes",
+        "imaging",
+        "dosimetry"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_019",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Czym jest pik Bragga w terapii protonowej i dlaczego jest on klinicznie użyteczny?",
+      "answer": "Szczyt Bragga to głębokość, na której protony odkładają większość swojej energii przed zatrzymaniem się. Pozwala planistom skoncentrować dawkę w guzie, oszczędzając jednocześnie tkankę znajdującą się poza nim.",
+      "assets": [
+        "proton_bragg.png"
+      ],
+      "hint": "Protony uwalniają maksymalną dawkę w pobliżu końca zasięgu.",
+      "tags": [
+        "proton-therapy",
+        "dosimetry",
+        "radiation-protection"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_020",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Czym różni się dawka pochłonięta (Gy) od dawki równoważnej (Sv)?",
+      "answer": "Gy mierzy energię zdeponowaną na masę niezależnie od rodzaju promieniowania. Sv stosuje współczynniki ważenia promieniowania (i wagę tkanki dla dawki skutecznej), aby odzwierciedlić szkody biologiczne.",
+      "assets": [],
+      "hint": "Sv obejmuje ważenie promieniowania i wrażliwości tkanek.",
+      "tags": [
+        "dosimetry",
+        "sievert",
+        "radiation-protection"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_021",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Odróżnij stochastyczne od deterministycznych skutki promieniowania jonizującego.",
+      "answer": "Efekty stochastyczne (np. rak) nie mają progu; prawdopodobieństwo rośnie wraz z dawką. Efekty deterministyczne (np. rumień skóry) pojawiają się powyżej progu, a ich nasilenie wzrasta wraz z dawką.",
+      "assets": [],
+      "hint": "Jedna klasa potrzebuje progu; drugi nie.",
+      "tags": [
+        "radiation-protection",
+        "dosimetry",
+        "clinical"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_022",
+      "category": "RA",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Dlaczego typowe zdjęcie klatki piersiowej CT zapewnia wyższą skuteczną dawkę niż pojedyncze zdjęcie rentgenowskie klatki piersiowej w odcinku tylno-przednim?",
+      "answer": "CT rejestruje setki kątów projekcji przy włączonej wiązce w całej objętości skanowania, dzięki czemu podczas jednego badania napromieniana jest większa ilość tkanki niż w przypadku jednego radiogramu projekcyjnego 2D.",
+      "assets": [],
+      "hint": "Porównaj, ile występów wiązki światła pokrywa objętość.",
+      "tags": [
+        "ct",
+        "x-ray",
+        "dosimetry"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_023",
+      "category": "RA",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Wiązka rentgenowska ma HVL równy 2.0 mm aluminium. Jaka grubość aluminium zmniejsza intensywność do jednej czwartej wartości początkowej?",
+      "answer": "4.0 mm (dwa HVL). Jeden HVL zmniejsza intensywność o połowę; dwa HVL redukują to do jednej czwartej (½ × ½ = ¼).",
+      "assets": [],
+      "hint": "Każdy HVL mnoży intensywność przeżycia przez połowę.",
+      "tags": [
+        "half-value-layer",
+        "dosimetry",
+        "attenuation"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_024",
+      "category": "RA",
+      "difficulty": 5,
+      "type": "open",
+      "question": "W jaki sposób w ochronie przed promieniowaniem zwiększona odległość, skrócony czas i ochrona personelu przy każdej niższej dawce?",
+      "answer": "Odległość zmniejsza dawkę zgodnie z prawem odwrotności kwadratów dla źródła punktowego; krótszy czas obniża zintegrowaną ekspozycję; ekranowanie tłumi wiązkę, zanim dotrze ona do pracownika.",
+      "assets": [],
+      "hint": "Przypomnijmy sobie trzy klasyczne czynniki ochrony.",
+      "tags": [
+        "radiation-protection",
+        "ALARA",
+        "shielding"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_025",
+      "category": "RA",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Pacjent otrzymuje 2 Gy podczas radioterapii i 0.002 Gy z diagnostyki CT w tym samym miesiącu. Które narażenie ma przede wszystkim na celu kontrolę choroby, a które jest głównie produktem ubocznym obrazowania?",
+      "answer": "Frakcja terapeutyczna 2 Gy jest przepisywana w celu leczenia choroby. Dawka 0.002 Gy CT to przypadkowa ekspozycja obrazowa — znacznie niższa, ale nadal zarządzana w ramach programu ALARA.",
+      "assets": [],
+      "hint": "Porównaj typową wielkość dawki terapeutycznej i diagnostycznej.",
+      "tags": [
+        "dosimetry",
+        "radiation-protection",
+        "clinical"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_001",
+      "category": "MF",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Przelicz 50 mGy na gray (Gy).",
+      "answer": "0,05 Gy. Ponieważ 1 mGy = 10⁻³ Gy, 50 mGy = 50 × 10⁻³ Gy = 0,05 Gy.",
+      "assets": [],
+      "hint": "Milli – oznacza pomnożenie przez dziesięć do minus trzy.",
+      "tags": [
+        "units",
+        "conversions",
+        "dosimetry"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_002",
+      "category": "MF",
+      "difficulty": 2,
+      "type": "open",
+      "question": "W przypadku bardzo szybkiej zmiany napięcia membrany (w skali mikrosekundowej) która właściwość zwykle dominuje jako pierwsza: pojemność błony czy opór cytoplazmatyczny?",
+      "answer": "Pojemność membrany, ponieważ ładowanie membrany dominuje w najwcześniejszej części stanu nieustalonego.",
+      "assets": [],
+      "hint": "Ładowanie pojemnościowe jest najszybsze w bardzo krótkim czasie.",
+      "tags": [
+        "membrane-physics",
+        "capacitance",
+        "cable-equation"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_003",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Zgodnie z prawem Beera–Lamberta I = I₀·e^(−μx), co stanie się z transmitowanym natężeniem, jeśli μ podwoi się, a grubość x pozostanie taka sama?",
+      "answer": "Przenoszone natężenie maleje, ponieważ wykładnik podwaja się: I staje się I₀·e^(−2μx), czyli mniej niż I₀·e^(−μx).",
+      "assets": [],
+      "hint": "Większy wykładnik oznacza większe tłumienie przy stałej grubości.",
+      "tags": [
+        "spectrophotometry",
+        "attenuation",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_004",
+      "category": "MF",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Konwertuj 25 °C na kelwiny (K).",
+      "answer": "298 K (K = °C + 273,15 ≈ 25 + 273 = 298 K).",
+      "assets": [],
+      "hint": "Dodaj przesunięcie w stopniach Celsjusza do zera bezwzględnego.",
+      "tags": [
+        "temperature",
+        "units",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_005",
+      "category": "MF",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Jaka jest jednostka ciśnienia w układzie SI i jak jest zdefiniowana?",
+      "answer": "Paskal (Pa), zdefiniowany jako jeden niuton siły na metr kwadratowy (N/m²).",
+      "assets": [],
+      "hint": "Siła na jednostkę powierzchni w podstawowych jednostkach SI.",
+      "tags": [
+        "pressure",
+        "units",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_006",
+      "category": "MF",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Czym różni się ciśnienie hydrostatyczne w naczyniu krwionośnym od ciśnienia osmotycznego w ścianie naczyń włosowatych?",
+      "answer": "Ciśnienie hydrostatyczne wypycha płyn z naczynia zgodnie z gradientem ciśnienia. Ciśnienie osmotyczne białek osocza ma tendencję do wciągania wody z powrotem do naczyń włosowatych.",
+      "assets": [],
+      "hint": "Jednym z nich jest pchanie mechaniczne; jeden to przyciąganie napędzane substancją czynną.",
+      "tags": [
+        "pressure",
+        "flow",
+        "membrane-physics"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_007",
+      "category": "MF",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Które gradienty jonów głównie wyznaczają spoczynkowy potencjał błonowy w komórkach pobudliwych?",
+      "answer": "Gradienty potasu i sodu w poprzek membrany, z dominującą przepuszczalnością potasu w stanie spoczynku, więc potencjał znajduje się w pobliżu E_K.",
+      "assets": [],
+      "hint": "Potencjał spoczynkowy jest najbliższy równowadze którego jonu?",
+      "tags": [
+        "membrane-physics",
+        "Nernst",
+        "diffusion"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_008",
+      "category": "MF",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Jakie wielkości w równaniu Nernsta określają potencjał równowagi jonu?",
+      "answer": "Ładunek jonu i stosunek jego stężeń (lub aktywności) wewnątrz i na zewnątrz komórki, w danej temperaturze.",
+      "assets": [],
+      "hint": "Logarytm stosunku stężenia wewnętrznego do zewnętrznego ma znaczenie.",
+      "tags": [
+        "Nernst",
+        "membrane-physics",
+        "units"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_009",
+      "category": "MF",
+      "difficulty": 2,
+      "type": "open",
+      "question": "W spektrofotometrii, z jaką wielkością fizyczną bezpośrednio wiąże się absorbancja A?",
+      "answer": "Absorbancja jest związana z ułamkiem światła pochłoniętego (lub przepuszczanego) przez próbkę: A = −log₁₀(T), gdzie T jest transmitancją.",
+      "assets": [],
+      "hint": "Jest to ujemny logarytm transmitancji o podstawie dziesiętnej.",
+      "tags": [
+        "spectrophotometry",
+        "lab-calculations",
+        "units"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_010",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "W prawie Beera-Lamberta A = ε·l·c określ, co reprezentuje każdy symbol.",
+      "answer": "ε to absorpcja molowa (L·mol⁻¹·cm⁻¹), l to długość drogi przez próbkę (cm), a c to stężenie molowe (mol·L⁻¹).",
+      "assets": [],
+      "hint": "Skale absorbancji ze stężeniem i długością drogi.",
+      "tags": [
+        "spectrophotometry",
+        "lab-calculations",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_011",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "W przypadku przepływu laminarnego w rurze, jak powiązane jest objętościowe natężenie przepływu Q, pole przekroju poprzecznego A i średnia prędkość v?",
+      "answer": "Q = A·v. Natężenie przepływu równa się powierzchni, przez którą przechodzi płyn, pomnożonej przez średnią prędkość osiową.",
+      "assets": [],
+      "hint": "Objętość na czas jest równa powierzchni razy prędkość.",
+      "tags": [
+        "flow",
+        "units",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_012",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Jak, zgodnie z prawem Poiseuille’a, zmniejszenie o połowę promienia rury wpływa na przepływ objętościowy, jeśli wszystkie inne czynniki pozostają stałe?",
+      "answer": "Przepływ zmniejsza się szesnastokrotnie, ponieważ Q ∝ r⁴ i (½)⁴ = 1/16.",
+      "assets": [],
+      "hint": "Promień pojawia się w czwartej potędze w prawie Poiseuille'a.",
+      "tags": [
+        "flow",
+        "viscosity",
+        "pressure"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_013",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Dlaczego lepkość krwi wpływa na ciśnienie tętnicze i obciążenie serca?",
+      "answer": "Wyższa lepkość zwiększa opór przepływu (prawo Poiseuille'a), więc serce musi wytworzyć większe ciśnienie, aby utrzymać to samo natężenie przepływu.",
+      "assets": [],
+      "hint": "Lepkość wpływa bezpośrednio na opór przepływu.",
+      "tags": [
+        "viscosity",
+        "flow",
+        "pressure"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_014",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Sformułuj w słowach pierwsze prawo dyfuzji Ficka.",
+      "answer": "Strumień dyfuzyjny jest proporcjonalny do ujemnego gradientu stężenia: cząsteczki przemieszczają się od wyższego do niższego stężenia, z szybkością określoną przez współczynnik dyfuzji.",
+      "assets": [],
+      "hint": "Strumień podąża za nachyleniem stężenia w funkcji położenia.",
+      "tags": [
+        "diffusion",
+        "membrane-physics",
+        "units"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_015",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Co w równaniu kabla opisuje stała długości λ (lambda)?",
+      "answer": "λ to odległość, na jaką stały sygnał podprogowy zanika do około 37% (1/e) swojej wartości wzdłuż przedłużonego kabla, takiego jak akson lub dendryt.",
+      "assets": [],
+      "hint": "Mierzy przestrzenny zanik rozproszenia napięcia pasywnego.",
+      "tags": [
+        "cable-equation",
+        "membrane-physics",
+        "flow"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_016",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Potrzebujesz 250 ml 0,10 mol⟧L⁻¹ soli fizjologicznej z zapasu 1,0 mol·L⁻¹. Jaką wielkość zapasów należy zmierzyć?",
+      "answer": "25 mL (C₁V₁ = C₂V₂ → V₁ = 0,10 × 250 / 1,0 = 25 mL), następnie rozcieńczyć do całkowitej objętości 250 mL.",
+      "assets": [
+        "workshop_lab.png"
+      ],
+      "hint": "Przed uzupełnieniem rozpuszczalnikiem użyj C₁V₁ = C₂V₂.",
+      "tags": [
+        "lab-calculations",
+        "conversions",
+        "lab-prep"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_017",
+      "category": "MF",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Zamień 760 mmHg na paskale, używając 1 mmHg ≈ 133 Pa.",
+      "answer": "≈ 1,01 × 10⁵ Pa (760 × 133 Pa ≈ 101 000 Pa, w pobliżu standardowego ciśnienia atmosferycznego).",
+      "assets": [],
+      "hint": "Pomnóż milimetry rtęci przez współczynnik Pa.",
+      "tags": [
+        "pressure",
+        "units",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_018",
+      "category": "MF",
+      "difficulty": 4,
+      "type": "open",
+      "question": "W przypadku błony komórkowej, jak stała czasowa membrany τ jest powiązana z rezystancją R i pojemnością C?",
+      "answer": "τ = R·C. Określa, jak szybko potencjał membrany reaguje na skokową zmianę prądu.",
+      "assets": [],
+      "hint": "Iloczyn rezystancji i pojemności daje sekundy.",
+      "tags": [
+        "membrane-physics",
+        "capacitance",
+        "cable-equation"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_019",
+      "category": "MF",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Jak podwojenie długości drogi kuwety wpływa na absorbancję w eksperymencie spektrofotometrycznym ze stałym stężeniem?",
+      "answer": "Absorbancja podwaja się, ponieważ A = ε·l·c i l jest proporcjonalne do A, gdy ε i c są stałe.",
+      "assets": [],
+      "hint": "Beer-Lambert twierdzi, że absorbancja ma liniową długość ścieżki.",
+      "tags": [
+        "spectrophotometry",
+        "lab-calculations",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_020",
+      "category": "MF",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Co liczba Reynoldsa wskazuje na przepływ krwi w naczyniu?",
+      "answer": "Porównuje siły bezwładności z siłami lepkimi. Niski Re oznacza przepływ laminarny; wysokie Re sugeruje, że mogą pojawić się turbulencje wpływające na utratę energii i naprężenia ścian naczyń.",
+      "assets": [],
+      "hint": "Jest to stosunek efektów inercyjnych do lepkich.",
+      "tags": [
+        "flow",
+        "viscosity",
+        "pressure"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_021",
+      "category": "MF",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Jeśli zewnątrzkomórkowe stężenie potasu podwoi się, podczas gdy wewnątrzkomórkowe [K⁺] pozostanie stałe, czy potencjał potasu Nernsta E_K stanie się bardziej dodatni czy bardziej ujemny?",
+      "answer": "Bardziej pozytywne (mniej negatywne). Wyższe stężenie na zewnątrz zmniejsza stosunek wnętrze/zewnętrze, depolaryzując E_K.",
+      "assets": [],
+      "hint": "Termin logarytmiczny Nernsta zależy od tego, co jest wewnątrz, a co na zewnątrz.",
+      "tags": [
+        "Nernst",
+        "membrane-physics",
+        "diffusion"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_022",
+      "category": "MF",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Krew przepływa przez tętniczkę o promieniu 0.30 mm przy 2,0 mL·s⁻¹. Jeśli promień zwęża się do 0.20 mm przy niezmienionym spadku lepkości i ciśnienia, jakie jest nowe natężenie przepływu?",
+      "answer": "≈ 0,39 ml·s⁻¹. Q ∝ r⁴, więc Q₂ = 2,0 × (0,20/0,30)⁴ ≈ 2,0 × 0,198 ≈ 0,39 mL·s⁻¹.",
+      "assets": [],
+      "hint": "Zastosuj skalowanie promienia czwartej potęgi z Poiseuille’a.",
+      "tags": [
+        "flow",
+        "viscosity",
+        "lab-calculations"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_023",
+      "category": "MF",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Dlaczego potencjał elektrotoniczny zanika wraz z odległością wzdłuż niezmielinizowanego aksonu zgodnie z równaniem kabla?",
+      "answer": "Prąd osiowy przecieka przez rezystancję membrany i ładuje pojemność membrany, przez co mniejsza ilość sygnału dociera do odległych miejsc — zanik charakteryzuje się stałą długości λ.",
+      "assets": [],
+      "hint": "Wyciek membrany i prąd drenu pojemnościowego wzdłuż kabla.",
+      "tags": [
+        "cable-equation",
+        "membrane-physics",
+        "flow"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_024",
+      "category": "MF",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Wyraź standardowe ciśnienie atmosferyczne (760 mmHg) w kilopaskalach (kPa).",
+      "answer": "≈ 101 kPa (760 mmHg × 133 Pa·mmHg⁻¹ ≈ 1,01 × 10⁵ Pa = 101 kPa).",
+      "assets": [],
+      "hint": "Zamień mmHg na Pa, a następnie podziel przez tysiąc.",
+      "tags": [
+        "pressure",
+        "units",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_025",
+      "category": "MF",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Roztwór białka ma absorbancję 0,60 w kuwecie 1.0 cm. Jeśli ε = 1,2 × 10⁴ L·mol⁻¹·cm⁻¹, jakie jest stężenie molowe?",
+      "answer": "5,0 × 10⁻⁵ mol·L⁻¹ (c = A/(ε·l) = 0,60 / (1,2 × 10⁴ × 1,0) = 5,0 × 10⁻⁵ mol·L⁻¹).",
+      "assets": [],
+      "hint": "Zmień układ A = ε·l·c, aby obliczyć c.",
+      "tags": [
+        "spectrophotometry",
+        "lab-calculations",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "wl_001",
+      "category": "WL",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Podaj prawo Ohma dla liniowego opornika.",
+      "answer": "V = I × R (napięcie równa się prądowi pomnożonemu przez opór).",
+      "assets": [],
+      "hint": "Powiązać napięcie, prąd i rezystancję.",
+      "tags": [
+        "electricity",
+        "ohm-law",
+        "impedance"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_002",
+      "category": "WL",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Gdy rośnie stężenie potasu pozakomórkowego, co dzieje się z potencjałem równowagi potasu (E_K)?",
+      "answer": "E_K staje się mniej ujemny (depolaryzuje), więc potencjał spoczynkowy błony przesuwa się w kierunku depolaryzacji.",
+      "assets": [],
+      "hint": "Pomyśl o znaku równania Nernsta.",
+      "tags": [
+        "membrane",
+        "nernst-potential",
+        "potassium"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_003",
+      "category": "WL",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Dlaczego w MRI oprócz głównego pola statycznego B₀ potrzebne są gradienty pola magnetycznego?",
+      "answer": "Gradienty uzależniają częstotliwość precesji od położenia, umożliwiając przestrzenne kodowanie sygnału podczas rekonstrukcji obrazu.",
+      "assets": [
+        "mri_scan.png"
+      ],
+      "hint": "Częstotliwość musi się różnić w zależności od pozycji.",
+      "tags": [
+        "mri",
+        "spatial-encoding",
+        "gradients"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_004",
+      "category": "WL",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Zdefiniuj długość fali okresowej.",
+      "answer": "Długość fali (λ) to odległość przestrzenna między dwoma kolejnymi punktami w tej samej fazie, np. między grzbietami.",
+      "assets": [],
+      "hint": "Zmierz odległość między wierzchołkami.",
+      "tags": [
+        "waves",
+        "wavelength",
+        "basics"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_005",
+      "category": "WL",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Jak powiązane są częstotliwość (f) i okres (T) fali?",
+      "answer": "Są to odwrotności: f = 1/T (oraz T = 1/f). Wyższa częstotliwość oznacza krótszy okres.",
+      "assets": [],
+      "hint": "Są to matematyczne odwrotności.",
+      "tags": [
+        "waves",
+        "frequency",
+        "period"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_006",
+      "category": "WL",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Czy słyszalne fale dźwiękowe w powietrzu są podłużne czy poprzeczne?",
+      "answer": "Wzdłużny. Cząstki oscylują równolegle do kierunku propagacji, tworząc kompresje i rozrzedzenia.",
+      "assets": [],
+      "hint": "Ruch cząstek jest zgodny z kierunkiem propagacji.",
+      "tags": [
+        "sound",
+        "waves",
+        "longitudinal"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_007",
+      "category": "WL",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Diagnostyczny impuls ultradźwiękowy ma częstotliwość 5 MHz w tkankach miękkich, gdzie prędkość dźwięku wynosi około 1540 m/s. Jaka jest jego długość fali?",
+      "answer": "λ = v/f ≈ 1540 m/s ÷ 5×10⁶ Hz ≈ 0.31 mm (około 0.3 mm).",
+      "assets": [],
+      "hint": "Użyj λ równa się v przez f.",
+      "tags": [
+        "ultrasound",
+        "wavelength",
+        "frequency"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_008",
+      "category": "WL",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Dlaczego kryształ piezoelektryczny może zarówno transmitować, jak i odbierać impulsy ultradźwiękowe?",
+      "answer": "Przyłożone napięcie odkształca kryształ, emitując dźwięk; powracające echa deformują je mechanicznie i generują mierzalne napięcie.",
+      "assets": [
+        "ultrasound_probe.png"
+      ],
+      "hint": "Odkształcenie mechaniczne i para napięcia.",
+      "tags": [
+        "ultrasound",
+        "piezoelectric",
+        "transducer"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_009",
+      "category": "WL",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Dlaczego pomiędzy przetwornikiem ultradźwiękowym a skórą należy stosować żel sprzęgający akustyczny?",
+      "answer": "Powietrze ma bardzo duże niedopasowanie impedancji akustycznej do tkanki; żel wypiera powietrze i poprawia sprzężenie akustyczne, dzięki czemu do organizmu dostaje się więcej ultradźwięków.",
+      "assets": [],
+      "hint": "Powietrze bardzo silnie blokuje ultradźwięki.",
+      "tags": [
+        "ultrasound",
+        "coupling-gel",
+        "impedance"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_010",
+      "category": "WL",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Natężenie akustyczne często podaje się w watach na metr kwadratowy (W/m²). Od jakich dwóch wielkości fal zależy natężenie?",
+      "answer": "Amplituda ciśnienia (lub przemieszczenie cząstek) i częstotliwość, połączone poprzez impedancję akustyczną ośrodka; wyższa amplituda przy danej częstotliwości oznacza wyższą intensywność.",
+      "assets": [],
+      "hint": "Amplituda i właściwości medium mają znaczenie.",
+      "tags": [
+        "acoustic-intensity",
+        "sound",
+        "ultrasound"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_011",
+      "category": "WL",
+      "difficulty": 4,
+      "type": "open",
+      "question": "W badaniu USG z kolorowym Dopplerem krew zbliżająca się do sondy jest często pokazywana na czerwono. Jaka fizyczna zmiana w odbitym echu jest tego przyczyną?",
+      "answer": "Częstotliwość echa jest przesunięta w górę (dodatnie przesunięcie Dopplera), ponieważ ruchome rozpraszacze skracają efektywną ścieżkę w obie strony, zwiększając odbieraną częstotliwość.",
+      "assets": [
+        "doppler_ultrasound.png"
+      ],
+      "hint": "Zmiany ruchu otrzymały częstotliwość echa.",
+      "tags": [
+        "doppler",
+        "ultrasound",
+        "frequency"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_012",
+      "category": "WL",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Dlaczego kość wydaje się jasna na obrazie ultradźwiękowym w trybie B, podczas gdy wypełnione powietrzem jelito często rzuca cień w części dystalnej?",
+      "answer": "Kość ma wysoką impedancję akustyczną i odbija większość wiązki; powietrze ma ogromne niedopasowanie impedancji do tkanki, silnie odbija i rozprasza, przez co przechodzi przez nie niewielka ilość energii.",
+      "assets": [],
+      "hint": "Duże niedopasowanie impedancji odzwierciedla energię.",
+      "tags": [
+        "ultrasound",
+        "impedance",
+        "attenuation"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_013",
+      "category": "WL",
+      "difficulty": 5,
+      "type": "open",
+      "question": "W MRI przy 1,5 T częstotliwość protonu Larmora wynosi około 64 MHz. Jeśli B₀ podwoi się do 3 T, co stanie się z częstotliwością Larmora?",
+      "answer": "Podwaja się do około 128 MHz, ponieważ częstotliwość Larmora jest proporcjonalna do B₀ (ω = γB₀).",
+      "assets": [
+        "magnet_diagram.png"
+      ],
+      "hint": "Skale częstotliwości Larmora z B₀.",
+      "tags": [
+        "mri",
+        "larmor-frequency",
+        "magnetic-field"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_014",
+      "category": "WL",
+      "difficulty": 1,
+      "type": "open",
+      "question": "W przypadku jądrowego rezonansu magnetycznego (NMR) jaka właściwość jądrowa jest wykrywana jako sygnał makroskopowy?",
+      "answer": "Namagnesowanie netto z wyrównanych spinów jądrowych (zwykle protonów ¹H) poprzedzających w zewnętrznym polu magnetycznym.",
+      "assets": [],
+      "hint": "Wyrównane spiny tworzą wykrywalne namagnesowanie.",
+      "tags": [
+        "nmr",
+        "mri",
+        "spin"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_015",
+      "category": "WL",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Dlaczego impuls RF w MRI musi być dostrojony w pobliżu częstotliwości Larmora?",
+      "answer": "Transfer energii jest efektywny tylko przy rezonansie; impulsy off-rezonansowe nie powodują spójnego przechylania spinów do płaszczyzny poprzecznej.",
+      "assets": [],
+      "hint": "Rezonans maksymalizuje absorpcję energii.",
+      "tags": [
+        "mri",
+        "resonance",
+        "rf-pulse"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_016",
+      "category": "WL",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Komórka krwi odbija echo ultradźwiękowe, oddalając się od sondy. Czy odbierana częstotliwość jest wyższa czy niższa od częstotliwości nadawanej?",
+      "answer": "Niżej. Oddalanie wydłuża ścieżkę w obie strony, powodując ujemne przesunięcie Dopplera (odbierane f < transmitowane f).",
+      "assets": [],
+      "hint": "Ruch cofający obniża odbieraną częstotliwość.",
+      "tags": [
+        "doppler",
+        "ultrasound",
+        "frequency"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_017",
+      "category": "WL",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Impedancję akustyczną Z definiuje się jako Z = ρc, gdzie ρ to gęstość, a c to prędkość dźwięku. Dlaczego duża różnica impedancji na granicy tkanki powoduje silne odbicie?",
+      "answer": "Współczynnik odbicia rośnie wraz z niedopasowaniem impedancji; gdy Z₁ i Z₂ znacznie się różnią, niewielka ilość energii przekracza granicę, a większość zostaje odbita.",
+      "assets": [],
+      "hint": "Niedopasowane Z oznacza więcej odbicia.",
+      "tags": [
+        "impedance",
+        "ultrasound",
+        "reflection"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_018",
+      "category": "WL",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Dlaczego po impulsie wzbudzenia RF w MRI wykrywalny sygnał zanika, nawet jeśli B₀ jest idealnie jednolite?",
+      "answer": "Oddziaływania spin-spin (T₂) i niejednorodności pola osłabiają magnetyzację poprzeczną; lokalne różnice częstotliwości powodują rozchodzenie się i znoszenie wektorów.",
+      "assets": [],
+      "hint": "Spiny z czasem tracą spójność fazową.",
+      "tags": [
+        "mri",
+        "nmr",
+        "t2-decay"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_019",
+      "category": "WL",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Obrazowanie harmoniczne w ultradźwiękach często transmituje z częstotliwością f i odbiera z częstotliwością 2f. Dlaczego może to poprawić jakość obrazu?",
+      "answer": "Harmoniczne powstają głównie podczas przemieszczania się fali przez tkankę, więc odbierane echa 2f pochodzą z głębiej i są mniej podatne na artefakty powierzchownego pogłosu.",
+      "assets": [],
+      "hint": "Harmoniczne powstają podczas propagacji tkanki.",
+      "tags": [
+        "ultrasound",
+        "harmonic-imaging",
+        "frequency"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_020",
+      "category": "WL",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Piszczałka organowa otwarta na obu końcach rezonuje przy długości fali λ = 2L/n dla modu n. W przypadku czynnika podstawowego (n = 1), gdzie znajdują się węzły ciśnienia?",
+      "answer": "Na obu otwartych końcach; antywęzeł znajduje się w środku. Open ends are pressure nodes because the air there is free to move.",
+      "assets": [],
+      "hint": "Otwarte końce są węzłami ciśnieniowymi.",
+      "tags": [
+        "sound",
+        "resonance",
+        "standing-waves"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "fn_001",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Fizyk wchodzi do baru z magnesem. Barman odmawia obsługi. Na czym opiera się pointa?",
+      "answer": "W zwykłej materii nie obserwuje się monopoli magnetycznych — magnesy zawsze mają razem biegun północny i południowy.",
+      "assets": [],
+      "tags": [
+        "magnetism",
+        "monopole",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_002",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Uczeń twierdzi, że potrafi wykryć pojedyncze fotony Wi-Fi 2.4 GHz za pomocą dotyku. Czy jest to prawdopodobne z biofizycznego punktu widzenia?",
+      "answer": "Nie. Energia każdego fotonu jest znacznie niższa od wahań termicznych w temperaturze ciała, więc poszczególne kwanty nie są dostrzegalne.",
+      "assets": [],
+      "tags": [
+        "photons",
+        "thermal-noise",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_003",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Dlaczego sonda ultradźwiękowa i skaner CT mogą nie być romantycznym połączeniem?",
+      "answer": "Preferuje się tkanki miękkie i żel sprzęgający; drugi jest bardziej zainteresowany wysokim tłumieniem i kontrastem kości.",
+      "assets": [],
+      "tags": [
+        "ultrasound",
+        "ct",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_004",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Student medycyny nazywa swoją złotą rybkę „Teslą” i upiera się, że podczas pływania dopasowuje się do ziemskiego pola magnetycznego. Wiarygodny?",
+      "answer": "Nie. Biologiczna magnetorecepcja u ryb obejmuje wyspecjalizowane tkanki i niewielkie natężenie pola; złota rybka w misce nie jest igłą kompasu.",
+      "assets": [],
+      "tags": [
+        "magnetism",
+        "biology",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_005",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Dlaczego potencjał błonowy oddzielił się od potencjału czynnościowego?",
+      "answer": "Stwierdzono, że w związku występuje zbyt duża depolaryzacja i niewystarczająca repolaryzacja – potrzebowali bardziej stabilnych granic spoczynku.",
+      "assets": [],
+      "hint": "Pomyśl o potencjale spoczynkowym i skoku.",
+      "tags": [
+        "membrane",
+        "action-potential",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_006",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Radiolog żartuje, że promienie rentgenowskie są po prostu światłem bardzo aspołecznym. Z jaką nieruchomością żart przesadził?",
+      "answer": "Wysoka energia fotonów i krótka długość fali pozwalają promieniom rentgenowskim przenikać do tkanek miękkich; w przeciwieństwie do światła widzialnego są pochłaniane głównie w gęstych strukturach, takich jak kości.",
+      "assets": [],
+      "tags": [
+        "x-ray",
+        "photons",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_007",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Czy mógłbyś dostroić strunę skrzypiec do częstotliwości protonów Larmora przy 1,5 T?",
+      "answer": "Nie. Częstotliwość Larmora przy 1,5 T wynosi około 64 MHz — znacznie powyżej zakresu słyszalnego i jakiejkolwiek praktycznej podstawy struny.",
+      "assets": [],
+      "tags": [
+        "mri",
+        "larmor-frequency",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_008",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Koleżanka z klasy mówi, że pomijają żel do USG, bo balsam ładniej pachnie. Jaki stwarza to problem biofizyczny?",
+      "answer": "Balsam nadal pozostawia szczeliny powietrzne i słabe sprzężenie akustyczne; bez żelu większość ultradźwięków odbija się na styku skóra-powietrze i obraz ulega pogorszeniu.",
+      "assets": [],
+      "tags": [
+        "ultrasound",
+        "coupling-gel",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_009",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Dlaczego krzyczy „rezonans!” w zestawie MRI to zły pomysł, nawet jeśli magnes się tym nie przejmuje?",
+      "answer": "Impulsy i odbiorniki RF są dostrojone do rezonansu Larmora; hałas akustyczny nie jest ze sobą powiązany, ale zasady bezpieczeństwa i niepokój pacjenta w dalszym ciągu sprawiają, że jest to zły pomysł w kontrolowanej strefie klinicznej.",
+      "assets": [],
+      "tags": [
+        "mri",
+        "resonance",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_010",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Przewód ECG i elektroda uziemiająca wchodzą do wzmacniacza różnicowego. Kto przenosi sygnał sercowy?",
+      "answer": "Aktywne odprowadzenia rejestrujące przenoszą sygnał sercowy; elektroda uziemiająca lub referencyjna stabilizuje napięcie w trybie wspólnym, dzięki czemu wzmacniacz może zmierzyć niewielką różnicę potencjałów z serca.",
+      "assets": [],
+      "tags": [
+        "ecg",
+        "differential-amplifier",
+        "easter-egg"
+      ],
+      "version": 1
+    }
+  ]
+}

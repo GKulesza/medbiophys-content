@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "locale": "en",
+  "tasks": [
+    {
+      "id": "em_001",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Write one clear question aimed at first-year medical biophysics students.",
+      "answer": "Give a concise answer in plain language. Include units where relevant.",
+      "assets": [],
+      "hint": "Optional short nudge shown in future UI versions (validated now, not rendered).",
+      "tags": ["electromedicine", "lecture-week-3"],
+      "estimatedMinutes": 4,
+      "version": 1
+    }
+  ]
+}

@@ -2,28 +2,28 @@
 
 # Najczęściej zadawane pytania
 
-Odpowiedzi na typowe pytania dotyczące kursu biofizyki medycznej na UMB.
+Odpowiedzi na typowe pytania dotyczące kursu biofizyki na UMB.
 
 ## Kiedy i gdzie odbywają się zajęcia laboratoryjne?
 
-Zajęcia laboratoryjne odbywają się w Zakładzie Biofizyki Medycznej. Termin i sala są podane w planie grupy. Przyjdź punktualnie i sprawdź tablicę ogłoszeń, jeśli sala ulegnie zmianie.
+Zajęcia laboratoryjne odbywają się w Zakładzie Biofizyki Medycznej. Harmonogram grupy wskazuje salę i godzinę każdego spotkania. Przyjdź punktualnie i sprawdź tablicę ogłoszeń, jeśli sala ulegnie zmianie.
 
 ## Co zabrać na zajęcia laboratoryjne?
 
-Weź legitymację studencką, strój odpowiedni do pracy w laboratorium oraz materiały wskazane przez prowadzącego. Przeczytaj wskazaną teorię i wykonaj zadania przygotowawcze, gdy są wymagane.
+Zabierz legitymację studencką, odpowiedni strój do pracy w laboratorium oraz materiały wymienione przez prowadzącego przed zajęciami. Przeczytaj wymaganą teorię i wykonaj obliczenia przygotowawcze, gdy są wymagane.
 
-## Jak wygląda zaliczenie kursu?
+## Jak przebiega zaliczenie przedmiotu?
 
-Zaliczenie obejmuje pracę w laboratorium, test pisemny oraz egzamin końcowy. Szczegóły punktacji i skali ocen znajdziesz w **Regulaminie zajęć** oraz **Sylabusie** w tej sekcji.
+Ocena łączy pracę laboratoryjną, test pisemny i egzamin końcowy. Szczegóły punktacji i skali ocen znajdziesz w **Regulaminie** oraz **Sylabusie** w tej sekcji.
 
-## Co zrobić, gdy opuszczę zajęcia laboratoryjne?
+## Co jeśli opuszczę zajęcia laboratoryjne?
 
 Każda nieobecność musi być usprawiedliwiona zgodnie z regulaminem uczelni. Zaległe zajęcia laboratoryjne należy odrobić w terminie uzgodnionym z prowadzącym.
 
 ## Gdzie znaleźć wzory na egzamin końcowy?
 
-W sekcji **Zasoby** dostępny jest plik PDF ze wzorami na egzamin końcowy z biofizyki. Kluczowe zależności są też w ćwiczeniowniku laboratoryjnym.
+W sekcji **Zasoby** znajduje się plik PDF ze wzorami na egzamin końcowy z biofizyki. W zeszycie ćwiczeń laboratoryjnych wymienione są również kluczowe zależności używane podczas zajęć.
 
-## Do kogo zwracać się z pytaniami?
+## Do kogo zwrócić się z pytaniami?
 
-W sprawach dotyczących kursu skontaktuj się z prowadzącym laboratorium lub Zakładem Biofizyki Medycznej. Dane kontaktowe znajdują się w sekcji **Kontakt** w aplikacji.
+W sprawach dotyczących kursu skontaktuj się z prowadzącym zajęcia laboratoryjne lub Zakładem Biofizyki Medycznej. Dane kontaktowe znajdziesz w zakładce **Kontakt** w aplikacji.

@@ -1,0 +1,2130 @@
+{
+  "schemaVersion": 1,
+  "locale": "isv",
+  "tasks": [
+    {
+      "id": "em_001",
+      "category": "EM",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Defibrilátor dodává bifázicky vyboj pomoci pádel na hrudniku. Pojmenujte dve elektrické veličiny, které kvantifikuji vyboj dodany do tkáne.",
+      "answer": "Napeti (potenciálni rozdil) a energie (jouly v pulzu). Lékari vybiraji energii; napeti na hrudniku závisi na impedanci tkáne.",
+      "assets": [],
+      "tags": [
+        "defibrillator",
+        "energy"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_002",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Vedeni ECG meri potenciálovy rozdil mezi dvema elektrodami. Proč se elektroda pro pravou nohu často použivá jako referenčni misto aktivniho záznamového svodu?",
+      "answer": "Sedi blizko telesného potenciálu a poskytuje zesilovači stabilni referenci, zlepšuje potlačeni bežného režimu, takže malé srdečni signály lze merit s menšim šumem.",
+      "assets": [],
+      "tags": [
+        "ecg",
+        "electrodes",
+        "reference"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_003",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Kardiostimulátor snimá vlny R a potlačuje své vlastni stimulačni špičky, pokud je pritomen vlastni rytmus. Jaky klinicky problém se objevi, pokud je citlivost nastavena priliš vysoko?",
+      "answer": "Nadmerné snimáni: T vlny, svalové artefakty nebo interferencija se počitaji jako R vlny, takže stimulace je inhibována nevhodne a pacient muže mit bradykardii.",
+      "assets": [],
+      "tags": [
+        "pacemaker",
+        "sensing"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_004",
+      "category": "EM",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Pulzni oxymetr se pripne na špičku prstu a hlási saturaci kyslikem. Jaké fyzikálni vlastnosti arteriálni krve srovnává na dvou vlnovych délkách?",
+      "answer": "Absorpce svetla (nebo optická hustota). Oxyhemoglobin a deoxyhemoglobin absorbuji červené a infračervené svetlo odlišne a pulzujici arteriálni složka se použivá k odhadu SpO₂.",
+      "assets": [],
+      "tags": [
+        "pulse-oximetry",
+        "optics"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_005",
+      "category": "EM",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Proč je mezi elektrodu ECG a kuži umisten vodivy gel?",
+      "answer": "Vyplňuje vzduchové mezery a snižuje kontaktni impedanci, takže se elektroda účinne pripojuje ke kuži a signál ECG neni zeslaben.",
+      "assets": [],
+      "tags": [
+        "ecg",
+        "electrodes",
+        "impedance"
+      ],
+      "estimatedMinutes": 2,
+      "version": 1
+    },
+    {
+      "id": "em_006",
+      "category": "EM",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Jaky je pri záznamu biopotenciálu hlavnim účelem zemniho nebo referenčniho spojeni pacienta?",
+      "answer": "Propojuje merici systém s potenciálem tela pacienta pro bezpečnost a sniženi hluku, což pomáhá zesilovači odmitat rušeni v bežném režimu.",
+      "assets": [],
+      "hint": "Premyšlejte o tom, co se stane, když zesilovač a pacient sedi na ruznych potenciálech.",
+      "tags": [
+        "grounding",
+        "safety",
+        "ecg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_007",
+      "category": "EM",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Která nervová vlákna jsou pri typickych intenzitách terapie TENS hlavne rekrutována: velká senzorická vlákna nebo motorická vlákna, která ridi silnou svalovou kontrakci?",
+      "answer": "Velká smyslová (aferentni) vlákna. TENS je obvykle nastaven pod motoricky práh, aby stimuloval senzorické dráhy pro modulaci bolesti.",
+      "assets": [],
+      "tags": [
+        "tens",
+        "pain"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_008",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Proč u standardniho svodu končetiny ECG ukazuje svod II u zdravych dospelych často relativne vysokou vlnu R?",
+      "answer": "Stredni elektrická osa komorové depolarizace silne vyčnivá smerem ke kladné elektrode svodu II (levá noha vzhledem k pravé paži).",
+      "assets": [],
+      "hint": "Vztahujte vektor elektrody ke smeru komorové depolarizace.",
+      "tags": [
+        "ecg",
+        "cardiac-axis"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "em_009",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Proč je u externich defibrilačnich elektrod problém špatny kontakt s pokožkou?",
+      "answer": "Vysoká kontaktni impedance plytvá dodanou energii jako teplo na kuži, riskuje popáleniny a snižuje proud procházejici srdcem, takže defibrilace muže selhat.",
+      "assets": [],
+      "tags": [
+        "defibrillator",
+        "impedance"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_010",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Jaky biofyzikálni signál povrchová EMG primárne zaznamenává?",
+      "answer": "Souhrnná extracelulárni elektrická aktivita svalovych vláken (motorickych jednotek) v blizkosti elektrod pri kontrakci.",
+      "assets": [],
+      "tags": [
+        "emg",
+        "muscle"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_011",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Krátkovlnná nebo mikrovlnná diatermie dodává do tkáne vysokofrekvenčni elektromagnetickou energii. Jaky terapeuticky účinek je zamyšlen?",
+      "answer": "Hluboké zahriváni tkáne, které zvyšuje prutok krve a muže zmirnit bolest nebo ztuhlost ve fyzikálni terapii.",
+      "assets": [],
+      "tags": [
+        "diathermy",
+        "heating"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_012",
+      "category": "EM",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Pokud je prahová hodnota snimáni kardiostimulátoru nastavena priliš nizko (nedostatečná citlivost), k jaké chybe snimáni muže dojit?",
+      "answer": "Nedostatečné snimáni: vlastni vlny R jsou vynechány, takže kardiostimulátor muže stimulovat vlastni rytmy nebo selhat pri inhibici, když by mel.",
+      "assets": [],
+      "hint": "Porovnejte to s nadmernym snimánim v em_003.",
+      "tags": [
+        "pacemaker",
+        "sensing"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_013",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Proč muže velmi maly svodovy proud skrz zavedeny srdečni katétr predstavovat vetši riziko arytmie než makrošok pres neporušenou kuži hrudniku?",
+      "answer": "Mikrošok: proud je dodáván primo do srdce nizkoimpedančni cestou, takže mikroampéry mohou vyvolat fibrilaci komor.",
+      "assets": [],
+      "hint": "Porovnejte aktuálni hustotu dosahujici myokardu v každé situaci.",
+      "tags": [
+        "microshock",
+        "safety"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "em_014",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Proč pohyb pacienta často vytvári artefakt na stope ECG?",
+      "answer": "Pohyb meni kontakt kuže-elektroda a impedanci rozhrani elektroda-gel-kuže, čimž docházi ke kolisáni napeti, které napodobuje srdečni signál.",
+      "assets": [],
+      "tags": [
+        "ecg",
+        "artefact",
+        "impedance"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_015",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Uveďte jednu klinickou vyhodu krivek bifázické defibrilace oproti staršim monofázickym vybojum.",
+      "answer": "Bifázické vyboje dosahuji defibrilace pri nižši zvolené energii, čimž se snižuje poškozeni myokardu pri zachováni účinnosti.",
+      "assets": [],
+      "tags": [
+        "defibrillator",
+        "waveform"
+      ],
+      "estimatedMinutes": 3,
+      "version": 1
+    },
+    {
+      "id": "em_016",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Behem špatné periferni perfuze nebo vazokonstrikce se hodnoty pulzni oxymetrie stávaji nespolehlivé. Jaká funkce signálu je oslabena?",
+      "answer": "Pulzujici (AC) složka procházejiciho svetla. Bez silného tvaru vlny tepenného pulzu nemuže pristroj spolehlive oddelit arteriálni absorpci od žilniho a tkáňového pozadi.",
+      "assets": [],
+      "hint": "Pulzni oxymetry spoléhaji na zmeny synchronizované s každym srdečnim tepem.",
+      "tags": [
+        "pulse-oximetry",
+        "perfusion"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_017",
+      "category": "EM",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Proč se v elektrochirurgii použivá koncentrovaná zpetná elektroda (pacientská deska) misto toho, aby proud procházel jakymkoli uzemnenym povrchem?",
+      "answer": "Snižuje proudovou hustotu v miste vystupu a omezuje zpetnou cestu, čimž snižuje riziko bludnych popálenin v neúmyslnych uzemňovacich bodech.",
+      "assets": [],
+      "tags": [
+        "diathermy",
+        "safety",
+        "grounding"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_018",
+      "category": "EM",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Proč musi mit biopotenciálni zesilovač na svych záznamovych elektrodách velmi vysokou vstupni impedanci?",
+      "answer": "Rozhrani elektroda-kuže má vysokou impedanci; nizká vstupni impedance zesilovače by vytvorila napeťovy delič a silne zeslabila maly bioelektricky signál.",
+      "assets": [],
+      "hint": "Modelujte impedanci elektrody a vstup zesilovače jako delič.",
+      "tags": [
+        "amplifier",
+        "impedance",
+        "ecg"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "em_019",
+      "category": "EM",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Jak se liši primárni terapeutická role implantabilniho kardioverteru-defibrilátoru (ICD) od standardniho kardiostimulátoru?",
+      "answer": "ICD dokáže detekovat komorové tachyarytmie a dodat vysokoenergetické vyboje pro defibrilaci nebo kardioverzi; Kardiostimulátor poskytuje primárne nizkoenergetickou stimulaci.",
+      "assets": [],
+      "tags": [
+        "icd",
+        "pacemaker",
+        "defibrillator"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_020",
+      "category": "EM",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Na nahrávkách ECG se často objevuje rušeni siťové frekvence (50/60 Hz). Jmenujte jeden spojovaci mechanismus a jeden prakticky zpusob, jak jej snižit.",
+      "answer": "Spojeni muže byt kapacitni nebo magnetické z blizkych elektrickych vedeni a zarizeni. Metody redukce zahrnuji stinené kabely, správné uzemneni, pravostranny pohon a zárezové filtrováni.",
+      "assets": [],
+      "hint": "Frekvence rušeni odpovidá stridavému elektrickému vedeni.",
+      "tags": [
+        "ecg",
+        "interference",
+        "noise"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "em_021",
+      "category": "EM",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Behem intenzivniho cvičeni muže EMG artefakt kontaminovat současne zaznamenany ECG. Proč se signály v zaznamenané stope prekryvaji?",
+      "answer": "Oba potenciály jsou zachycovány povrchovymi elektrodami a sdileji podobny frekvenčni obsah; svalové potenciály jsou mnohem vetši a mohou zaplavit srdečni signál v milivoltové škále.",
+      "assets": [],
+      "tags": [
+        "emg",
+        "ecg",
+        "artefact"
+      ],
+      "version": 1
+    },
+    {
+      "id": "em_022",
+      "category": "EM",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Jak muže vysokofrekvenčni TENS podle teorie ovládáni brány snižit vnimáni bolesti?",
+      "answer": "Aktivuje senzorická vlákna Aβ velkého prumeru, která inhibuji prenos nociceptivnich signálu v mišnim hrbetnim rohu („uzavirá bránu“).",
+      "assets": [],
+      "tags": [
+        "tens",
+        "pain",
+        "neurophysiology"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "em_023",
+      "category": "EM",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Proč je MRI obecne nebezpečny pro pacienty se staršimi elektrodami kardiostimulátoru bez MRI, i když je zarizeni naprogramováno?",
+      "answer": "Časove se menici magnetická pole mohou indukovat zahriváni a napeti v elektrode, což zpusobuje poškozeni tkáne nebo neprimerenou stimulaci/šoky; feromagnetické složky mohou byt také premisteny.",
+      "assets": [],
+      "tags": [
+        "pacemaker",
+        "mri",
+        "safety"
+      ],
+      "estimatedMinutes": 6,
+      "version": 1
+    },
+    {
+      "id": "em_024",
+      "category": "EM",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Pred aplikaci elektrod ECG je kuže často očištena alkoholem, lehce obroušena a vysušena. Vysvetlete účel každého kroku pro kvalitu mereni.",
+      "answer": "Alkohol odstraňuje oleje a pot; abraze ztenčuje stratum corneum ke sniženi impedance kuže; sušeni zajišťuje adhezivni kontakt a stabilni gelovou vazbu.",
+      "assets": [
+        "workshop_lab.png"
+      ],
+      "hint": "Vnejši mrtvá vrstva kuže je špatny vodič.",
+      "tags": [
+        "electrodes",
+        "skin-prep",
+        "lab"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "em_025",
+      "category": "EM",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Na operačnim sále spojuje ekvipotenciálni uzemneni kovové povrchy se společnym referenčnim bodem. Jaké riziko pro pacienty to snižuje?",
+      "answer": "Rozdily v zemnim potenciálu mezi zarizenimi mohou vést proud pres pacienta; lepeni povrchu na stejnou referenci zabraňuje nebezpečnym gradientum potenciálu.",
+      "assets": [],
+      "tags": [
+        "grounding",
+        "safety",
+        "microshock"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "op_001",
+      "category": "OP",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Svetlo se širi ze vzduchu (n ≈ 1,00) do rohovkové tkáne (n ≈ 1,38) pri normálnim dopadu. Ohybá se paprsek smerem k normálnimu povrchu v rohovce nebo od nej?",
+      "answer": "Smerem k normálu, protože svetlo vstupuje do opticky hustšiho prostredi (vyšši index lomu).",
+      "assets": [],
+      "tags": [
+        "refraction",
+        "eye"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_002",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Proč muže kolimovany laser tridy 3B poškodit sitnici pri vykonu, ktery by byl bezpečny pro žárovku v domácnosti?",
+      "answer": "Oko zaostruje úzky paprsek na velmi malou skvrnu sitnice, takže hustota vykonu je extrémne vysoká, i když se celkovy vykon zdá skromny.",
+      "assets": [],
+      "tags": [
+        "laser",
+        "eye",
+        "safety"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_003",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Ve fluorescenčni mikroskopii má emitované svetlo delši vlnovou délku než svetlo excitačni. Proč je to užitečné?",
+      "answer": "Filtry mohou blokovat excitačni svetlo pri prenosu fluorescence, takže slabé emitované signály lze snáze oddelit od osvetlovaciho paprsku.",
+      "assets": [],
+      "tags": [
+        "fluorescence",
+        "microscopy"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_004",
+      "category": "OP",
+      "difficulty": 1,
+      "type": "open",
+      "question": "V kterém charakteristickém bode se paralelni paprsky dopadajici na tenkou konvexni čočku spojuji?",
+      "answer": "Ohnisko (primárni ohnisko) na opačné strane objektivu.",
+      "assets": [],
+      "tags": [
+        "lenses",
+        "focal-length"
+      ],
+      "estimatedMinutes": 2,
+      "version": 1
+    },
+    {
+      "id": "op_005",
+      "category": "OP",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Kde se pri myopii (krátkozrakosti) tvori obraz vzdáleného predmetu pred použitim korekčni čočky?",
+      "answer": "Pred sitnici, protože oko zaostruje priliš silne nebo je axiálni délka priliš dlouhá.",
+      "assets": [],
+      "hint": "Pro zatlačeni obrazu zpet je predepsána konkávni (rozbihavá) čočka.",
+      "tags": [
+        "eye",
+        "refraction",
+        "myopia"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_006",
+      "category": "OP",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Predmet na dne bazénu se pri pohledu ze vzduchu jevi bliže k hladine, než ve skutečnosti je. Jaky opticky efekt to zpusobuje?",
+      "answer": "Lom na rozhrani vzduch-voda ohybá paprsky smerem k normálu, takže zdánlivá hloubka je melči než skutečná hloubka.",
+      "assets": [],
+      "tags": [
+        "refraction",
+        "snell"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_007",
+      "category": "OP",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Lidské barevné videni se opirá o tri typy čipku s ruznou spektrálni citlivosti. Jakou percepčni schopnost poskytuje toto trichromatické usporádáni?",
+      "answer": "Rozlišeni mezi vlnovymi délkami ve viditelném spektru porovnánim odezev tri trid kuželu (vnimáni barev a odstinu).",
+      "assets": [],
+      "tags": [
+        "color-vision",
+        "eye"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_008",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Podle Snellova zákona, když svetlo vstoupi do prostredi s vyššim indexem lomu, ohybá se lomeny paprsek smerem k normálu povrchu nebo od nej?",
+      "answer": "Smerem k normále, protože sinus úhlu lomu je menši než sinus úhlu dopadu.",
+      "assets": [],
+      "hint": "Vyšši n znamená nižši rychlost svetla v médiu.",
+      "tags": [
+        "snell",
+        "refraction"
+      ],
+      "estimatedMinutes": 3,
+      "version": 1
+    },
+    {
+      "id": "op_009",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Jak u jednoduché lupy použivané v blizkém bode ovlivňuje kratši ohnisková vzdálenost úhlové zvetšeni?",
+      "answer": "Kratši ohnisková vzdálenost umožňuje bližši vzdálenost objektu a vytvári vetši úhlové zvetšeni.",
+      "assets": [],
+      "tags": [
+        "magnification",
+        "lenses"
+      ],
+      "estimatedMinutes": 3,
+      "version": 1
+    },
+    {
+      "id": "op_010",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Proč v mikroskopii použiti osvetleni s kratši vlnovou délkou obecne zlepšuje rozlišeni jemnych detailu?",
+      "answer": "Mezni hodnota difrakce meri vlnovou délku; menši λ (Rayleighovo kritérium) umožňuje menši rozlišitelné oddeleni mezi bodovymi zdroji.",
+      "assets": [],
+      "hint": "Rayleighovo rozlišeni je úmerné vlnové délce delené NA.",
+      "tags": [
+        "resolution",
+        "microscopy"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_011",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Optická vlákna vedou svetlo úplnym vnitrnim odrazem. Jakou podminku musi splňovat paprsek na hranici jádra a plášte?",
+      "answer": "Svetlo se musi pohybovat v jádru s vyššim indexem a dopadnout na hranici pod úhlem dopadu vetšim, než je kriticky úhel.",
+      "assets": [],
+      "hint": "Plášť má nižši index lomu než jádro.",
+      "tags": [
+        "fiber-optics",
+        "refraction"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_012",
+      "category": "OP",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Astigmatismus zpusobuje rozmazané videni na všechny vzdálenosti. V čem se liši zaostrováni oka v ruznych meridiánech?",
+      "answer": "Sila lomu se meni s orientaci: jeden meridián je zaostren jinak než kolmy polednik, takže na sitnici se nevytvári jediná ohnisková rovina.",
+      "assets": [],
+      "tags": [
+        "eye",
+        "aberration"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_013",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Retinálni laserová fotokoagulace často využivá zelené nebo žluté vlnové délky. Proč jsou tyto vlnové délky zvoleny pred hlubokym ultrafialovym zárenim?",
+      "answer": "Jsou prenášeny očnim médiem a absorbovány retinálnim pigmentem a krvi, čimž dodávaji energii do cilové tkáne a zároveň nedocházi k poškozeni čočky a rohovky UV zárenim.",
+      "assets": [],
+      "tags": [
+        "laser",
+        "eye",
+        "therapy"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "op_014",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Jak zvetšeni numerické apertury (NA) objektivu mikroskopu ovlivňuje rozlišeni a hloubku ostrosti?",
+      "answer": "Vyšši NA zlepšuje bočni rozlišeni, ale snižuje hloubku ostrosti, takže ostre zaostreny zustane pouze tenči plátek preparátu.",
+      "assets": [],
+      "tags": [
+        "microscopy",
+        "resolution"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_015",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Chromatická aberace v jednoduché sklenené čočce zpusobuje barevné proužky v obraze. Jaká vlastnost materiálu čočky to zpusobuje?",
+      "answer": "Disperze: index lomu závisi na vlnové délce, takže ruzné barvy se lámou ruznym množstvim a nesdileji jeden ohniskovy bod.",
+      "assets": [],
+      "hint": "Modré svetlo je v korunovém skle obvykle ohnuto vice než červené.",
+      "tags": [
+        "aberration",
+        "lenses"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_016",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Co znamená zápis zrakové ostrosti 20/20 (nebo 6/6) o prostorovém rozlišeni osoby ve srovnáni s referenčnim pozorovatelem?",
+      "answer": "Na zkušebni vzdálenost (20 stop nebo 6 m) muže osoba rozlišit detaily, které referenčni normálni oko také rozlišuje na stejnou vzdálenost.",
+      "assets": [],
+      "tags": [
+        "visual-acuity",
+        "eye"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_017",
+      "category": "OP",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Po prechodu z jasného svetla do temné mistnosti trvá skotopickému (tyčovitému) videni mnoho minut, než dosáhne plné citlivosti. Proč je tato adaptace pomalá?",
+      "answer": "Rhodopsin v tyčinkách se musi po vybeleni regenerovat a neurálni zisk v dráze tyčinky se postupne zvyšuje; kužely se prizpusobi mnohem rychleji.",
+      "assets": [],
+      "tags": [
+        "eye",
+        "adaptation"
+      ],
+      "estimatedMinutes": 3,
+      "version": 1
+    },
+    {
+      "id": "op_018",
+      "category": "OP",
+      "difficulty": 4,
+      "type": "open",
+      "question": "V mikroskopii ve svetlém poli se zastavovánim aperturni clony zvyšuje hloubka ostrosti, ale muže dojit k rozmazáni jemnych detailu. Vysvetlete kompromis.",
+      "answer": "Menši clona snižuje rozlišeni omezené difrakci a propustnost svetla, takže se zaostri vice vzorku, ale jemná struktura je méne rozlišena.",
+      "assets": [],
+      "tags": [
+        "microscopy",
+        "resolution"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_019",
+      "category": "OP",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Presbyopie ztežuje čteni na blizko ve strednim veku, i když je videni na dálku korigováno. Jaká zmena v oku souvisejici s vekem to zpusobuje?",
+      "answer": "Krystalická čočka tuhne a ztráci akomodačni schopnost, takže oko nemuže zvyšit optickou silu natolik, aby zaostrilo blizko predmetu.",
+      "assets": [],
+      "hint": "Akomodace závisi na zmene tvaru čočky.",
+      "tags": [
+        "eye",
+        "accommodation"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "op_020",
+      "category": "OP",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Jaká je hlavni kontrastni vyhoda konfokálniho zobrazováni ve srovnáni s konvenčni širokoúhlou fluorescenčni mikroskopii?",
+      "answer": "Dirka potlačuje neostrou fluorescenci, takže svetlo hlavne z ohniskové roviny prispivá k obrazu, zlepšuje axiálni rozlišeni a kontrast.",
+      "assets": [],
+      "hint": "Zvažte, co se stane s fluorescenci emitovanou nad a pod ohniskovou rovinou.",
+      "tags": [
+        "microscopy",
+        "fluorescence"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "op_021",
+      "category": "OP",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Kriticky úhel pro úplny vnitrni odraz závisi na indexech lomu dvou prostredi. Napište vztah kvalitativne: pokud n₁ je jádro a n₂ je plášť s n₁ > n₂, co se stane s kritickym úhlem, když se n₂ sniži?",
+      "answer": "Kriticky úhel se zmenši (sin θ_c = n₂/n₁), takže širši rozsah paprsku uvnitr jádra podléhá úplnému vnitrnimu odrazu.",
+      "assets": [],
+      "tags": [
+        "fiber-optics",
+        "snell"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_022",
+      "category": "OP",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Laserovy produkt tridy 1 je považován za bezpečny pro sledováni uvnitr paprsku pri bežném použiti. Jaké konstrukčni prvky obvykle oduvodňuji tuto klasifikaci?",
+      "answer": "Inherentne málo pristupny vykon nebo plne uzavreny zdroj vysokého vykonu, takže behem zamyšleného provozu nemuže k uživateli zasáhnout žádny nebezpečny paprsek.",
+      "assets": [],
+      "tags": [
+        "laser",
+        "safety"
+      ],
+      "version": 1
+    },
+    {
+      "id": "op_023",
+      "category": "OP",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Podle Abbeho difrakčniho limitu nejmenši rozlišitelná vzdálenost v mikroskopu meri s λ/NA. Pokud se vlnová délka zkráti na polovinu, zatimco NA se nezmeni, jak se zmeni limit rozlišeni?",
+      "answer": "Je polovični (vylepšeno faktorem dva): menši vlnová délka umožňuje rozlišeni jemnejšich detailu pri stejné NA.",
+      "assets": [],
+      "hint": "Rozlišeni se zlepši, když se sniži minimálni rozlišitelná vzdálenost.",
+      "tags": [
+        "resolution",
+        "microscopy"
+      ],
+      "estimatedMinutes": 4,
+      "version": 1
+    },
+    {
+      "id": "op_024",
+      "category": "OP",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Dvoufotonová fluorescenčni mikroskopie využivá buzeni v blizké infračervené oblasti namisto viditelného svetla. Jmenujte dva duvody, proč to pomáhá pri zobrazováni hluboko v rozptylené tkáni.",
+      "answer": "Delši vlnové délky se rozptyluji méne a pronikaji hloubeji; excitace vyžaduje současnou absorpci dvou fotonu, takže fluorescence je lokalizována hlavne v ohniskovém objemu.",
+      "assets": [],
+      "hint": "Premyšlejte jak o penetraci tkáni, tak o tom, kde je pravdepodobnost excitace nejvyšši.",
+      "tags": [
+        "fluorescence",
+        "microscopy",
+        "imaging"
+      ],
+      "estimatedMinutes": 6,
+      "version": 1
+    },
+    {
+      "id": "op_025",
+      "category": "OP",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Frits Zernike obdržel Nobelovu cenu za mikroskopii s fázovym kontrastem, diky niž jsou viditelné nezabarvené pruhledné buňky. Jaká vlastnost svetla procházejiciho vzorkem se prevádi na detekovatelny amplitudovy kontrast?",
+      "answer": "Optické fázové zpoždeni zavedené vzorkem; fázová deska posouvá fázi nelomeného svetla, takže malé fázové rozdily se stávaji rozdily v intenzite v obrazu.",
+      "assets": [
+        "nobel_imaging.png"
+      ],
+      "tags": [
+        "microscopy",
+        "history",
+        "imaging"
+      ],
+      "estimatedMinutes": 5,
+      "version": 1
+    },
+    {
+      "id": "ra_001",
+      "category": "RA",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Definujte šedou (Gy) jako jednotku absorbované dávky.",
+      "answer": "1 šedá = 1 joul absorbované energie ionizujiciho záreni na kilogram materiálu (1 J/kg).",
+      "assets": [],
+      "hint": "Predstavte si jouly absorbované na kilogram tkáne.",
+      "tags": [
+        "dosimetry",
+        "units",
+        "absorbed-dose"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_002",
+      "category": "RA",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Proč se na diagnostickém rentgenovém snimku kost obvykle jevi jasnejši než mekká tkáň?",
+      "answer": "Kost má vyšši hustotu a efektivni atomové čislo, takže zeslabuje vice rentgenového záreni a k detektoru za ni se dostane méne záreni.",
+      "assets": [],
+      "hint": "Porovnejte, jak moc každá tkáň zastavi paprsek.",
+      "tags": [
+        "x-ray",
+        "contrast",
+        "attenuation"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_003",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Pokud se polovični hodnota vrstvy (HVL) rentgenového paprsku zvyši, proniká paprsek tkáni vice či méne efektivne?",
+      "answer": "Efektivneji. Ke sniženi intenzity paprsku je potreba silnejši absorbér, takže fotony pronikaji hloubeji.",
+      "assets": [],
+      "hint": "Vetši HVL znamená vice materiálu na polovični intenzitu.",
+      "tags": [
+        "half-value-layer",
+        "x-ray",
+        "penetration"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_004",
+      "category": "RA",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Definujte sievert (Sv) jako jednotku použivanou v radiačni ochrane.",
+      "answer": "Sievert kvantifikuje ekvivalentni nebo efektivni dávku – absorbovanou dávku (Gy) váženou typem záreni a citlivosti tkáne. Odhaduje biologické poškozeni.",
+      "assets": [],
+      "hint": "Váži absorbovanou dávku pro biologicky účinek.",
+      "tags": [
+        "sievert",
+        "dosimetry",
+        "radiation-protection"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_005",
+      "category": "RA",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Co v radiologické fyzice meri expozice?",
+      "answer": "Expozice meri rentgenovou nebo gama ionizaci ve vzduchu, historicky v roentgenech (R) nebo SI coulombech na kilogram (C/kg). Popisuje, jak moc paprsek ionizuje vzduch, nikoli energii uloženou ve tkáni.",
+      "assets": [],
+      "hint": "Zamerte se na ionizaci produkovanou paprskem ve vzduchu.",
+      "tags": [
+        "exposure",
+        "dosimetry",
+        "units"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_006",
+      "category": "RA",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Uveďte princip ALARA použivany v lékarské radiačni ochrane.",
+      "answer": "ALARA znamená udržováni pracovnich dávek a dávek pacientu na tak nizké úrovni, jak je rozumne dosažitelné, vyváženi diagnostického prinosu proti zbytečné expozici.",
+      "assets": [],
+      "hint": "Zkratka popisuje minimalizaci dávky, když je to praktické.",
+      "tags": [
+        "ALARA",
+        "radiation-protection",
+        "clinical"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_007",
+      "category": "RA",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Proč nošeni olovené zástery snižuje dávku záreni pro personál v blizkosti zdroje rentgenového záreni?",
+      "answer": "Olovo má vysoké atomové čislo a silne tlumi rentgenové záreni fotoelektrickou absorpci a rozptylem, takže k nositeli se dostane méne fotonu.",
+      "assets": [],
+      "hint": "Materiál s vysokym Z prednostne zastavuje diagnostické fotony.",
+      "tags": [
+        "radiation-protection",
+        "attenuation",
+        "shielding"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_008",
+      "category": "RA",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Proč jódované kontrastni látky zlepšuji viditelnost mekkych tkáni na rentgenovych snimcich nebo snimcich CT?",
+      "answer": "Jód má vysoké atomové čislo a silne tlumi rentgenové záreni, takže cévy a orgány obsahujici kontrast absorbuji vice fotonu a vystupuji proti okolni tkáni.",
+      "assets": [
+        "digital_xray.png"
+      ],
+      "hint": "Kontrastni látky zvyšuji lokálni útlum paprsku.",
+      "tags": [
+        "contrast",
+        "x-ray",
+        "ct"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_009",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Co v zákone exponenciálniho útlumu I = I₀·e^(−μx) predstavuje koeficient lineárniho útlumu μ?",
+      "answer": "μ je pravdepodobnost na jednotku délky dráhy, že foton interaguje s materiálem. Vetši μ znamená rychlejši slábnuti paprsku s hloubkou.",
+      "assets": [],
+      "hint": "Nastavuje, jak rychle klesá intenzita s tloušťkou.",
+      "tags": [
+        "attenuation",
+        "dosimetry",
+        "x-ray"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_010",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Rentgenovy paprsek procházi dvema tkánemi s ruznymi koeficienty lineárniho útlumu. Která tkáň vytvári vetši kontrast na prenášeném obrazu?",
+      "answer": "Tkáň s vetšim rozdilem v μ od svych sousedu, protože prenášená intenzita se pres hranici meni vice a detektor zaznamenává silnejši jasovy krok.",
+      "assets": [
+        "tissue_attenuation.png"
+      ],
+      "hint": "Kontrast roste, když sousedni oblasti zeslabuji rozdilne.",
+      "tags": [
+        "attenuation",
+        "contrast",
+        "x-ray"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_011",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Proč pri počitačové tomografii (CT) portál otáči rentgenovou trubici a detektory kolem pacienta?",
+      "answer": "Rotace shromažďuje mnoho úhlu projekce skrz telo. Počitač z techto projekci rekonstruuje prurezové mapy útlumu.",
+      "assets": [
+        "ct_scanner.png"
+      ],
+      "hint": "K vyrešeni vnitrni struktury je potreba mnoho úhlu.",
+      "tags": [
+        "ct",
+        "x-ray",
+        "imaging"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_012",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Proč je na obrázku CT Hounsfieldova stupnice definována tak, že voda je 0 HU?",
+      "answer": "Voda je vhodnym referenčnim útlumem pro mekké tkáne. Ostatni tkáne jsou uvádeny ve vztahu k vode, což zjednodušuje srovnáni a okénko.",
+      "assets": [
+        "hounsfield_ct.png"
+      ],
+      "hint": "Útlum mekkych tkáni se bliži vode.",
+      "tags": [
+        "ct",
+        "hounsfield",
+        "contrast"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_013",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Jak souvisi vrstva polovični hodnoty (HVL) s koeficientem lineárniho útlumu μ pro úzky monoenergeticky paprsek?",
+      "answer": "HVL = ln(2)/μ ≈ 0,693/μ. Po jedné tloušťce HVL intenzita klesne na polovinu puvodni hodnoty.",
+      "assets": [],
+      "hint": "Nastavte I₀/2 = I₀·e^(−μ·HVL) a vyrešte tloušťku.",
+      "tags": [
+        "half-value-layer",
+        "attenuation",
+        "dosimetry"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_014",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Vyjmenujte dva prirodni zdroje, které prispivaji k radiaci pozadi na Zemi.",
+      "answer": "Kosmické záreni z vesmiru a pozemské radionuklidy (napr. uran, thorium, radon v pude a stavebnich materiálech) jsou hlavnimi prirodnimi zdroji.",
+      "assets": [],
+      "hint": "Zvažte prispevky oblohy i zeme.",
+      "tags": [
+        "background-radiation",
+        "radiation-protection",
+        "environment"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_015",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Proč se expozice kosmického záreni zvyšuje ve vysokych nadmorskych vyškách a pri letech letadlem?",
+      "answer": "Atmosféra chráni pred energetickymi nabitymi částicemi a sekundárnimi neutrony. Méne vzduchu nahore znamená méne interakci a vyšši dávkové prikony ve vyšce.",
+      "assets": [
+        "cosmic_radiation.png"
+      ],
+      "hint": "Méne atmosférického stineni znamená, že dorazi vice primárnich částic.",
+      "tags": [
+        "background-radiation",
+        "cosmic-radiation",
+        "radiation-protection"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_016",
+      "category": "RA",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Co se v pozitronové emisni tomografii (PET) stane, když se pozitron setká s elektronem ve tkáni?",
+      "answer": "Anihiluji a produkuji dva 511 keV gama fotony pohybujici se témer opačnymi smery, které skener detekuje shodou okolnosti.",
+      "assets": [
+        "pet_scanner.png"
+      ],
+      "hint": "Anihilace poskytuje fotony back-to-back 511 keV.",
+      "tags": [
+        "PET",
+        "isotopes",
+        "imaging"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_017",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Proč je fluorodeoxyglukóza (FDG) široce použivána jako indikátor PET v onkologii?",
+      "answer": "Mnoho nádoru má zvyšeny metabolismus glukózy. FDG se vychytává jako glukóza, ale zachycuje se po fosforylaci a koncentruje se v metabolicky aktivnich lézich.",
+      "assets": [],
+      "hint": "Nádory často vykazuji zvyšené vychytáváni glukózy.",
+      "tags": [
+        "PET",
+        "isotopes",
+        "clinical"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_018",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Proč se technecium-99m (⁹⁹ᵐTc) bežne použivá v zobrazováni v nukleárni medicine?",
+      "answer": "Vyzaruje 140 keV gama záreni vhodné pro detekci, má krátky poločas rozpadu (~6 h) omezujici dávku pro pacienta a lze jej pripojit k mnoha léčivum pres zdroj generátoru.",
+      "assets": [],
+      "hint": "Zvažte poločas rozpadu, energii fotonu a flexibilitu označováni.",
+      "tags": [
+        "isotopes",
+        "imaging",
+        "dosimetry"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_019",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Co je to Bragguv vrchol v protonové terapii a proč je klinicky užitečny?",
+      "answer": "Bragguv vrchol je hloubka, kde protony ukládaji vetšinu své energie, než se zastavi. Umožňuje plánovačum soustredit dávku v nádoru a zároveň šetrit tkáň mimo.",
+      "assets": [
+        "proton_bragg.png"
+      ],
+      "hint": "Protony uvolňuji maximálni dávku blizko konce jejich dosahu.",
+      "tags": [
+        "proton-therapy",
+        "dosimetry",
+        "radiation-protection"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_020",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Jak se liši absorbovaná dávka (Gy) od ekvivalentni dávky (Sv)?",
+      "answer": "Gy meri energii uloženou na hmotnost bez ohledu na typ záreni. Sv použivá radiačni váhové faktory (a tkáňové váženi pro efektivni dávku) k vyjádreni biologického poškozeni.",
+      "assets": [],
+      "hint": "Sv zahrnuje váženi radiace a citlivosti tkáni.",
+      "tags": [
+        "dosimetry",
+        "sievert",
+        "radiation-protection"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_021",
+      "category": "RA",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Rozlište stochastické a deterministické účinky ionizujiciho záreni.",
+      "answer": "Stochastické účinky (napr. rakovina) nemaji žádny práh; pravdepodobnost stoupá s dávkou. Deterministické účinky (napr. kožni erytém) se objevuji nad prahovou hodnotou a závažnost se zvyšuje s dávkou.",
+      "assets": [],
+      "hint": "Jedna trida potrebuje práh; druhy ne.",
+      "tags": [
+        "radiation-protection",
+        "dosimetry",
+        "clinical"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_022",
+      "category": "RA",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Proč typicky hrudnik CT dodává vyšši účinnou dávku než jeden posteroanteriorni rentgen hrudniku?",
+      "answer": "CT ziskává stovky projekčnich úhlu se zapnutym paprskem v celém skenovacim objemu, takže na jedno vyšetreni je ozáreno vice tkáne než na jednom 2D projekčnim rentgenovém snimku.",
+      "assets": [],
+      "hint": "Porovnejte, kolik paprskovych projekci pokryvá objem.",
+      "tags": [
+        "ct",
+        "x-ray",
+        "dosimetry"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_023",
+      "category": "RA",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Rentgenovy paprsek má HVL 2.0 mm hliniku. Jaká tloušťka hliniku snižuje intenzitu na jednu čtvrtinu puvodni hodnoty?",
+      "answer": "4.0 mm (dva HVL). Jeden HVL sniži intenzitu na polovinu; dve HVL ji snižuji na jednu čtvrtinu (½ × ½ = ¼).",
+      "assets": [],
+      "hint": "Každá HVL násobi intenzitu prežiti na polovinu.",
+      "tags": [
+        "half-value-layer",
+        "dosimetry",
+        "attenuation"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_024",
+      "category": "RA",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Jak se v radiačni ochrane projevi zvyšeni vzdálenosti, zkráceni času a odstineni každé nižši dávky pro personál?",
+      "answer": "Vzdálenost snižuje dávku podle zákona inverzni čtverce pro bodovy zdroj; méne času snižuje integrovanou expozici; stineni zeslabuje paprsek predtim, než dosáhne pracovnika.",
+      "assets": [],
+      "hint": "Pripomeňte si tri klasické faktory ochrany.",
+      "tags": [
+        "radiation-protection",
+        "ALARA",
+        "shielding"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "ra_025",
+      "category": "RA",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Pacient obdrži 2 Gy behem radioterapie a 0.002 Gy z diagnostického CT ve stejném mesici. Která expozice je primárne určena ke kontrole nemoci a která je hlavne vedlejšim produktem zobrazováni?",
+      "answer": "Terapeutická frakce 2 Gy je predepisována k léčbe onemocneni. Dávka 0.002 Gy CT je náhodná zobrazovaci expozice – mnohem nižši, ale stále zvládnutelná v rámci ALARA.",
+      "assets": [],
+      "hint": "Porovnejte typické terapeutické versus diagnostické velikosti dávky.",
+      "tags": [
+        "dosimetry",
+        "radiation-protection",
+        "clinical"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_001",
+      "category": "MF",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Preveďte 50 mGy na šedou (Gy).",
+      "answer": "0.05 Gy. Protože 1 mGy = 10⁻³ Gy, 50 mGy = 50 × 10⁻³ Gy = 0.05 Gy.",
+      "assets": [],
+      "hint": "Mili- znamená násobit deseti až minus tri.",
+      "tags": [
+        "units",
+        "conversions",
+        "dosimetry"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_002",
+      "category": "MF",
+      "difficulty": 2,
+      "type": "open",
+      "question": "U velmi rychlé zmeny membránového napeti (mikrosekundové meritko), která vlastnost obvykle dominuje jako prvni: membránová kapacita nebo cytoplazmaticky odpor?",
+      "answer": "Kapacita membrány, protože nabijeni membrány dominuje nejranejši části prechodového jevu.",
+      "assets": [],
+      "hint": "Kapacitni nabijeni je nejrychlejši ve velmi krátkych časech.",
+      "tags": [
+        "membrane-physics",
+        "capacitance",
+        "cable-equation"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_003",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Co se podle Beer-Lambertova zákona I = I₀·e^(−μx) stane s procházejici intenzitou, když se μ zdvojnásobi, zatimco tloušťka x zustane stejná?",
+      "answer": "Prenášená intenzita klesá, protože exponent se zdvojnásobuje: I se stává I₀·e^(−2μx), což je menši než I₀·e^(−μx).",
+      "assets": [],
+      "hint": "Vetši exponent znamená vetši útlum pri pevné tloušťce.",
+      "tags": [
+        "spectrophotometry",
+        "attenuation",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_004",
+      "category": "MF",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Preveďte 25 °C na kelvin (K).",
+      "answer": "298 K (K = °C + 273,15 ≈ 25 + 273 = 298 K).",
+      "assets": [],
+      "hint": "Pridejte posun ve stupnich Celsia k referenci absolutni nuly.",
+      "tags": [
+        "temperature",
+        "units",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_005",
+      "category": "MF",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Co je jednotka tlaku SI a jak je definována?",
+      "answer": "Pascal (Pa), definovany jako jeden newton sily na metr čtverečni (N/m²).",
+      "assets": [],
+      "hint": "Sila na jednotku plochy v základnich jednotkách SI.",
+      "tags": [
+        "pressure",
+        "units",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_006",
+      "category": "MF",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Jak se v krevni céve liši hydrostaticky tlak od osmotického tlaku pres stenu kapiláry?",
+      "answer": "Hydrostaticky tlak vytlačuje tekutinu z nádoby podél tlakového gradientu. Osmoticky tlak z plazmatickych proteinu má tendenci vtahovat vodu zpet do kapilár.",
+      "assets": [],
+      "hint": "Jednim z nich je mechanicky tlak; jeden je tah rizeny rozpuštenou látkou.",
+      "tags": [
+        "pressure",
+        "flow",
+        "membrane-physics"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_007",
+      "category": "MF",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Které iontové gradienty určuji predevšim klidovy membránovy potenciál v excitabilnich buňkách?",
+      "answer": "Gradienty drasliku a sodiku pres membránu, pričemž propustnost drasliku dominuje v klidu, takže potenciál leži blizko E_K.",
+      "assets": [],
+      "hint": "Klidovy potenciál je nejbliže rovnováze kterého iontu?",
+      "tags": [
+        "membrane-physics",
+        "Nernst",
+        "diffusion"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_008",
+      "category": "MF",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Které veličiny v Nernstove rovnici určuji rovnovážny potenciál iontu?",
+      "answer": "Náboj iontu a pomer jeho koncentraci (nebo aktivit) uvnitr a vne buňky pri dané teplote.",
+      "assets": [],
+      "hint": "Logaritmus pomeru vnitrni a vnejši koncentrace je duležity.",
+      "tags": [
+        "Nernst",
+        "membrane-physics",
+        "units"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_009",
+      "category": "MF",
+      "difficulty": 2,
+      "type": "open",
+      "question": "K jaké fyzikálni veličine se ve spektrofotometrii primo vztahuje absorbance A?",
+      "answer": "Absorbance souvisi s podilem svetla absorbovaného (nebo propušteného) vzorkem: A = −log₁₀(T), kde T je propustnost.",
+      "assets": [],
+      "hint": "Je to záporny desetinny logaritmus propustnosti.",
+      "tags": [
+        "spectrophotometry",
+        "lab-calculations",
+        "units"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_010",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "V Beer-Lambertove zákone A = ε·l·c uveďte, co jednotlivé symboly predstavuji.",
+      "answer": "ε je molárni absorptivita (L·mol⁻¹·cm⁻¹), l je délka dráhy vzorkem (cm) a c je molárni koncentrace (mol·L⁻¹).",
+      "assets": [],
+      "hint": "Absorbančni stupnice s koncentraci a délkou dráhy.",
+      "tags": [
+        "spectrophotometry",
+        "lab-calculations",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_011",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Jak souvisi objemovy prutok Q, plocha prurezu A a stredni rychlost v pro laminárni proudeni v trubici?",
+      "answer": "Q = A·v. Prutok se rovná ploše, kterou tekutina procházi, vynásobené stredni axiálni rychlosti.",
+      "assets": [],
+      "hint": "Objem za čas se rovná ploše krát rychlost.",
+      "tags": [
+        "flow",
+        "units",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_012",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Jak podle Poiseuilleova zákona ovlivni sniženi polomeru trubice objemovy prutok, pokud všechny ostatni faktory zustanou konstantni?",
+      "answer": "Prutok se sniži šestnáctkrát, protože Q ∝ r⁴ a (½)⁴ = 1/16.",
+      "assets": [],
+      "hint": "Polomer se jevi čtvrté mocnine v Poiseuilleho zákonu.",
+      "tags": [
+        "flow",
+        "viscosity",
+        "pressure"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_013",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Proč viskozita krve ovlivňuje arteriálni tlak a srdečni zátež?",
+      "answer": "Vyšši viskozita zvyšuje odpor proti prutoku (Poiseuilleuv zákon), takže srdce musi vyvijet vetši tlak, aby udrželo stejnou rychlost prutoku.",
+      "assets": [],
+      "hint": "Viskozita vstupuje primo do odporu proudeni.",
+      "tags": [
+        "viscosity",
+        "flow",
+        "pressure"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_014",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Prvni státni Fickuv zákon šireni ve slovech.",
+      "answer": "Difuzni tok je úmerny negativnimu koncentračnimu gradientu: částice se pohybuji z vyšši koncentrace do nižši s rychlosti nastavenou difúznim koeficientem.",
+      "assets": [],
+      "hint": "Tok sleduje sklon koncentrace versus poloha.",
+      "tags": [
+        "diffusion",
+        "membrane-physics",
+        "units"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_015",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Co v kabelové rovnici popisuje délková konstanta λ (lambda)?",
+      "answer": "λ je vzdálenost, na kterou se stabilni podprahovy signál snižuje na približne 37 % (1/e) své hodnoty podél prodlouženého kabelu, jako je axon nebo dendrit.",
+      "assets": [],
+      "hint": "Meri prostorovy pokles šireni pasivniho napeti.",
+      "tags": [
+        "cable-equation",
+        "membrane-physics",
+        "flow"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_016",
+      "category": "MF",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Potrebujete 250 ml 0,10 mol·L⁻¹ fyziologického roztoku z 1,0 mol·L⁻¹ zásoby. Jaky objem zásob byste meli merit?",
+      "answer": "25 ml (C₁V1 = C₂V₂ → V₁ = 0,10 × 250 / 1,0 = 25 ml), poté zreďte na celkem 250 ml.",
+      "assets": [
+        "workshop_lab.png"
+      ],
+      "hint": "Pred doplnenim rozpouštedla použijte C₁V1 = C₂V₂.",
+      "tags": [
+        "lab-calculations",
+        "conversions",
+        "lab-prep"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_017",
+      "category": "MF",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Preveďte 760 mmHg na pascaly pomoci 1 mmHg ≈ 133 Pa.",
+      "answer": "≈ 1,01 × 10⁵ Pa (760 × 133 Pa ≈ 101 000 Pa, blizko standardniho atmosférického tlaku).",
+      "assets": [],
+      "hint": "Vynásobte milimetry rtuti faktorem Pa.",
+      "tags": [
+        "pressure",
+        "units",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_018",
+      "category": "MF",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Jak u bunečné membrány souvisi časová konstanta membrány τ s odporem R a kapacitou C?",
+      "answer": "τ = R·C. Nastavuje, jak rychle membránovy potenciál reaguje na skokovou zmenu proudu.",
+      "assets": [],
+      "hint": "Součin odporu a kapacity dává sekundy.",
+      "tags": [
+        "membrane-physics",
+        "capacitance",
+        "cable-equation"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_019",
+      "category": "MF",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Jak pri spektrofotometrickém eksperimentu s fixni koncentraci ovlivňuje zdvojnásobeni délky dráhy kyvety absorbanci?",
+      "answer": "Absorbance se zdvojnásobi, protože A = ε·l·c a l je úmerné A, když ε a c jsou konstantni.",
+      "assets": [],
+      "hint": "Beer-Lambert riká, že absorbance je lineárni v délce dráhy.",
+      "tags": [
+        "spectrophotometry",
+        "lab-calculations",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_020",
+      "category": "MF",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Co ukazuje Reynoldsovo čislo o prutoku krve v céve?",
+      "answer": "Porovnává setrvačné a viskózni sily. Low Re označuje laminárni proudeni; vysoké Re naznačuje, že se mohou objevit turbulence ovlivňujici ztrátu energie a napeti cévni steny.",
+      "assets": [],
+      "hint": "Je to pomer setrvačnych a viskóznich účinku.",
+      "tags": [
+        "flow",
+        "viscosity",
+        "pressure"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_021",
+      "category": "MF",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Pokud se extracelulárni koncentrace drasliku zdvojnásobi, zatimco intracelulárni [K⁺] zustane konstantni, stane se Nernstuv potenciál drasliku E_K pozitivnejši nebo negativnejši?",
+      "answer": "Vice pozitivni (méne negativni). Vyšši vnejši koncentrace snižuje vnitrni/vnejši pomer a depolarizuje E_K.",
+      "assets": [],
+      "hint": "Termin Nernst log závisi na vnitrnim pres vnejši.",
+      "tags": [
+        "Nernst",
+        "membrane-physics",
+        "diffusion"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_022",
+      "category": "MF",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Krev protéká arteriolou o polomeru 0.30 mm pri 2,0 ml·s⁻¹. Pokud se polomer zúži na 0.20 mm pri nezmenené viskozite a poklesu tlaku, jaky je novy prutok?",
+      "answer": "≈ 0,39 ml·s⁻¹. Q ∝ r⁴, takže Q₂ = 2,0 × (0,20/0,30)⁴ ≈ 2,0 × 0,198 ≈ 0,39 ml⟦³s.",
+      "assets": [],
+      "hint": "Použijte škálováni polomeru čtvrté mocniny z Poiseuille.",
+      "tags": [
+        "flow",
+        "viscosity",
+        "lab-calculations"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_023",
+      "category": "MF",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Proč se elektrotonicky potenciál rozpadá se vzdálenosti podél nemyelinizovaného axonu podle kabelové rovnice?",
+      "answer": "Axiálni proud uniká pres odpor membrány a nabiji kapacitu membrány, takže do vzdálenych mist se dostane méne signálu — útlum je charakterizován délkovou konstantou λ.",
+      "assets": [],
+      "hint": "Netesnost membrány a kapacitni odebirany proud podél kabelu.",
+      "tags": [
+        "cable-equation",
+        "membrane-physics",
+        "flow"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_024",
+      "category": "MF",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Vyjádrete standardni atmosféricky tlak (760 mmHg) v kilopascalech (kPa).",
+      "answer": "≈ 101 kPa (760 mmHg × 133 Pa·mmHg⁻¹ ≈ 1,01 × 10⁵ Pa = ⟦P7⟦).",
+      "assets": [],
+      "hint": "Preveďte mmHg na Pa a poté vydelte tisici.",
+      "tags": [
+        "pressure",
+        "units",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "mf_025",
+      "category": "MF",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Proteinovy roztok má absorbanci 0,60 v kyvete 1.0 cm. Pokud ε = 1,2 × 10⁴ L·mol⁻¹·cm⁻¹, jaká je molárni koncentrace?",
+      "answer": "5,0 × 10⁻⁵ mol·L⁻¹ (c = A/(ε·l) = 0,60 / (1,2 × 10⁴ ⟵P4⟧ 1,0 × 1,0)⟦⟧ 1,0 mol·L⁻¹).",
+      "assets": [],
+      "hint": "Preusporádejte A = ε·l·c, abyste vyrešili c.",
+      "tags": [
+        "spectrophotometry",
+        "lab-calculations",
+        "conversions"
+      ],
+      "estimatedMinutes": 10,
+      "version": 1
+    },
+    {
+      "id": "wl_001",
+      "category": "WL",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Státni Ohmuv zákon pro lineárni rezistor.",
+      "answer": "V = I × R (napeti se rovná proudu násobenému odporem).",
+      "assets": [],
+      "hint": "Porovnejte napeti, proud a odpor.",
+      "tags": [
+        "electricity",
+        "ohm-law",
+        "impedance"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_002",
+      "category": "WL",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Pokud se koncentrace extracelulárniho drasliku zvyši, co se stane s rovnovážnym potenciálem drasliku (E_K)?",
+      "answer": "E_K se stává méne negativni (depolarizuje), takže klidovy membránovy potenciál je posunut smerem k depolarizaci.",
+      "assets": [],
+      "hint": "Zamyslete se nad znakem Nernstovy rovnice.",
+      "tags": [
+        "membrane",
+        "nernst-potential",
+        "potassium"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_003",
+      "category": "WL",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Proč jsou v MRI krome hlavniho statického pole B₀ potreba gradienty magnetického pole?",
+      "answer": "Gradienty zpusobuji, že precesni frekvence závisi na poloze, což umožňuje prostorové kódováni signálu behem rekonstrukce obrazu.",
+      "assets": [
+        "mri_scan.png"
+      ],
+      "hint": "Frekvence se musi lišit podle polohy.",
+      "tags": [
+        "mri",
+        "spatial-encoding",
+        "gradients"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_004",
+      "category": "WL",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Definujte vlnovou délku periodické vlny.",
+      "answer": "Vlnová délka (λ) je prostorová vzdálenost mezi dvema po sobe jdoucimi body ve stejné fázi, jako je hreben k hrebenu.",
+      "assets": [],
+      "hint": "Zmerte vzdálenost hreben k hrebenu.",
+      "tags": [
+        "waves",
+        "wavelength",
+        "basics"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_005",
+      "category": "WL",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Jak souvisi frekvence (f) a perioda (T) vlny?",
+      "answer": "Jsou recipročni: f = 1/T (a T = 1/f). Vyšši frekvence znamená kratši dobu.",
+      "assets": [],
+      "hint": "Jsou to matematické recipročni hodnoty.",
+      "tags": [
+        "waves",
+        "frequency",
+        "period"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_006",
+      "category": "WL",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Jsou slyšitelné zvukové vlny ve vzduchu podélné nebo pričné?",
+      "answer": "Podélny. Částice kmitaji rovnobežne se smerem šireni a vytváreji komprese a ridnuti.",
+      "assets": [],
+      "hint": "Pohyb částic je rovnobežny se smerem šireni.",
+      "tags": [
+        "sound",
+        "waves",
+        "longitudinal"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_007",
+      "category": "WL",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Diagnosticky ultrazvukovy pulz má frekvenci 5 MHz v mekké tkáni, kde je rychlost zvuku asi 1540 m/s. Jaká je jeho vlnová délka?",
+      "answer": "λ = v/f ≈ 1540 m/s ÷ 5×10⁶ Hz ≈ 0.31 mm (asi 0.3 mm).",
+      "assets": [],
+      "hint": "Použijte λ se rovná v nad f.",
+      "tags": [
+        "ultrasound",
+        "wavelength",
+        "frequency"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_008",
+      "category": "WL",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Proč muže piezoelektricky krystal vysilat i prijimat ultrazvukové pulsy?",
+      "answer": "Aplikované napeti deformuje krystal tak, aby vydával zvuk; vracejici se ozveny jej mechanicky deformuji a vytváreji meritelné napeti.",
+      "assets": [
+        "ultrasound_probe.png"
+      ],
+      "hint": "Mechanické napeti a dvojice napeti.",
+      "tags": [
+        "ultrasound",
+        "piezoelectric",
+        "transducer"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_009",
+      "category": "WL",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Proč musi byt mezi ultrazvukovym meničem a kuži použit akusticky spojovaci gel?",
+      "answer": "Vzduch má velmi vysoky nesoulad akustické impedance s tkáni; gel vytesňuje vzduch a zlepšuje akustickou vazbu, takže do tela proniká vice ultrazvuku.",
+      "assets": [],
+      "hint": "Vzduch velmi silne blokuje ultrazvuk.",
+      "tags": [
+        "ultrasound",
+        "coupling-gel",
+        "impedance"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_010",
+      "category": "WL",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Akustická intenzita se často uvádi ve wattech na metr čtverečni (W/m²). Na jakych dvou vlnovych veličinách závisi intenzita?",
+      "answer": "Amplituda tlaku (nebo posunuti částic) a frekvence, kombinované prostrednictvim akustické impedance média; vyšši amplituda pri dané frekvenci znamená vyšši intenzitu.",
+      "assets": [],
+      "hint": "Duležitá je amplituda a vlastnosti média.",
+      "tags": [
+        "acoustic-intensity",
+        "sound",
+        "ultrasound"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_011",
+      "category": "WL",
+      "difficulty": 4,
+      "type": "open",
+      "question": "V barevném dopplerovském ultrazvuku je krev pohybujici se smerem k sonde často zobrazena červene. Jaká fyzická zmena v odražené ozvene to zpusobuje?",
+      "answer": "Frekvence ozveny je posunuta nahoru (pozitivni Doppleruv posun), protože pohybujici se rozptylovače zkracuji efektivni cestu zpetného signálu a zvyšuji prijimanou frekvenci.",
+      "assets": [
+        "doppler_ultrasound.png"
+      ],
+      "hint": "Pohyb meni frekvenci prijatého echa.",
+      "tags": [
+        "doppler",
+        "ultrasound",
+        "frequency"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_012",
+      "category": "WL",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Proč se kost na ultrazvukovém snimku v B-módu jevi jako svetlá, zatimco vzduchem naplnené strevo často vrhá distálni stin?",
+      "answer": "Kost má vysokou akustickou impedanci a odráži vetšinu paprsku; vzduch má obrovsky nesoulad impedance s tkáni, silne se odráži a rozptyluje, takže skrz nej procházi jen málo energie.",
+      "assets": [],
+      "hint": "Velky nesoulad impedance odráži energii.",
+      "tags": [
+        "ultrasound",
+        "impedance",
+        "attenuation"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_013",
+      "category": "WL",
+      "difficulty": 5,
+      "type": "open",
+      "question": "V MRI pri 1,5 T je protonová Larmorova frekvence približne 64 MHz. Pokud se B₀ zdvojnásobi na 3 T, co se stane s Larmorovou frekvenci?",
+      "answer": "Zdvojnásobuje se na približne 128 MHz, protože Larmorova frekvence je úmerná B₀ (ω = γB₀).",
+      "assets": [
+        "magnet_diagram.png"
+      ],
+      "hint": "Larmorova frekvenčni stupnice s B₀.",
+      "tags": [
+        "mri",
+        "larmor-frequency",
+        "magnetic-field"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_014",
+      "category": "WL",
+      "difficulty": 1,
+      "type": "open",
+      "question": "Jaká jaderná vlastnost je v nukleárni magnetické rezonanci (NMR) detekována jako makroskopicky signál?",
+      "answer": "Siťová magnetizace ze zarovnanych jadernych spinu (bežne ¹H protonu) precesujicich ve vnejšim magnetickém poli.",
+      "assets": [],
+      "hint": "Zarovnané rotace vytváreji detekovatelnou magnetizaci.",
+      "tags": [
+        "nmr",
+        "mri",
+        "spin"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_015",
+      "category": "WL",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Proč musi byt puls RF v MRI naladen blizko Larmorovy frekvence?",
+      "answer": "Prenos energie je účinny pouze pri rezonanci; mimorezonančni pulsy se nedari koherentne hrotit spiny do pričné roviny.",
+      "assets": [],
+      "hint": "Rezonance maximalizuje absorpci energie.",
+      "tags": [
+        "mri",
+        "resonance",
+        "rf-pulse"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_016",
+      "category": "WL",
+      "difficulty": 3,
+      "type": "open",
+      "question": "Krvinka odráži ultrazvukovou ozvenu, zatimco se vzdaluje od sondy. Je prijimaná frekvence vyšši nebo nižši než vysilaná frekvence?",
+      "answer": "Spodni. Pohyb pryč prodlužuje okružni cestu a vytvári negativni Doppleruv posun (prijaté f < prenesené f).",
+      "assets": [],
+      "hint": "Ustupujici pohyb snižuje prijimanou frekvenci.",
+      "tags": [
+        "doppler",
+        "ultrasound",
+        "frequency"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_017",
+      "category": "WL",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Akustická impedance Z je definována jako Z = ρc, kde ρ je hustota a c je rychlost zvuku. Proč velky rozdil impedance na hranici tkáne zpusobuje silny odraz?",
+      "answer": "Koeficient odrazu roste s nesouladem impedance; když se Z1 a Z2 velmi liši, málo energie prekroči hranici a vetšina se odrazi.",
+      "assets": [],
+      "hint": "Nesoulad Z znamená vice odrazu.",
+      "tags": [
+        "impedance",
+        "ultrasound",
+        "reflection"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_018",
+      "category": "WL",
+      "difficulty": 5,
+      "type": "open",
+      "question": "Proč po excitačnim impulsu RF v MRI klesá detekovatelny signál, i když je B₀ dokonale rovnomerny?",
+      "answer": "Spin–spin (T₂) interakce a nehomogenity pole rozfázuji pričnou magnetizaci; mistni frekvenčni rozdily zpusobuji, že se vektory rozvetvuji a ruši.",
+      "assets": [],
+      "hint": "Spiny časem ztráceji fázovou koherenci.",
+      "tags": [
+        "mri",
+        "nmr",
+        "t2-decay"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_019",
+      "category": "WL",
+      "difficulty": 2,
+      "type": "open",
+      "question": "Harmonické zobrazováni v ultrazvuku často vysilá na frekvenci f a prijimá na 2f. Proč to muže zlepšit kvalitu obrazu?",
+      "answer": "Harmonické jsou generovány hlavne, když vlna procházi tkáni, takže prijatá ozvena 2f pocházeji hloubeji a méne trpi povrchovymi artefakty dozvuku.",
+      "assets": [],
+      "hint": "Harmonické se tvori behem množeni tkáni.",
+      "tags": [
+        "ultrasound",
+        "harmonic-imaging",
+        "frequency"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "wl_020",
+      "category": "WL",
+      "difficulty": 4,
+      "type": "open",
+      "question": "Varhanni pišťala otevrená na obou koncich rezonuje na vlnové délce λ = 2L/n pro mód n. Pro základni (n = 1), kde jsou tlakové uzly?",
+      "answer": "Na obou otevrenych koncich; uprostred je antinoda. Otevrené konce jsou tlakové uzly, protože vzduch se tam muže volne pohybovat.",
+      "assets": [],
+      "hint": "Otevrené konce jsou tlakové uzly.",
+      "tags": [
+        "sound",
+        "resonance",
+        "standing-waves"
+      ],
+      "estimatedMinutes": 8,
+      "version": 1
+    },
+    {
+      "id": "fn_001",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Fyzik vejde do baru s magnetem. Barman odmitá obsluhu. Na čem je pointa založena?",
+      "answer": "Magnetické monopóly nejsou v bežné hmote pozorovány — magnety maji vždy severni a jižni póly společne.",
+      "assets": [],
+      "tags": [
+        "magnetism",
+        "monopole",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_002",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Student tvrdi, že muže dotykem detekovat jednotlivé fotony Wi-Fi 2.4 GHz. Je to biofyzikálne prijatelné?",
+      "answer": "Ne. Každá energie fotonu je hluboko pod tepelnymi fluktuacemi telesné teploty, takže jednotlivá kvanta nejsou postrehnutelná.",
+      "assets": [],
+      "tags": [
+        "photons",
+        "thermal-noise",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_003",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Proč muže byt ultrazvuková sonda a skener CT špatná romantická shoda?",
+      "answer": "Jeden preferuje mekké tkáne a spojovaci gel; druhy se vice zajimá o vysoky útlum a kostni kontrast.",
+      "assets": [],
+      "tags": [
+        "ultrasound",
+        "ct",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_004",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Student mediciny pojmenuje svého mazlička zlatou rybku „Tesla“ a trvá na tom, že se pri plaváni vyrovnává s magnetickym polem Zeme. verohodné?",
+      "answer": "Ne. Biologická magnetorecepce u ryb zahrnuje specializovanou tkáň a nepatrné sily pole; miska zlatá rybka neni strelka kompasu.",
+      "assets": [],
+      "tags": [
+        "magnetism",
+        "biology",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_005",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Proč se membránovy potenciál rozpadl s akčnim potenciálem?",
+      "answer": "Řikalo se, že vztah má priliš velkou depolarizaci a nedostatečnou repolarizaci – potrebovali stabilnejši klidové hranice.",
+      "assets": [],
+      "hint": "Myslete na klidovy potenciál versus špička.",
+      "tags": [
+        "membrane",
+        "action-potential",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_006",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Rentgenograf vtipkuje, že rentgenové záreni je jen velmi asociálni svetlo. Jakou skutečnou nemovitost ten vtip preháni?",
+      "answer": "Vysoká fotonová energie a krátká vlnová délka umožňuji rentgenovému záreni proniknout do mekké tkáne; na rozdil od viditelného svetla jsou absorbovány hlavne v hustych strukturách, jako je kost.",
+      "assets": [],
+      "tags": [
+        "x-ray",
+        "photons",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_007",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Mohl byste naladit strunu housli na Larmorovu frekvenci protonu pri 1,5 T?",
+      "answer": "Ne. Larmorova frekvence pri 1,5 T je asi 64 MHz — daleko nad slyšitelnym rozsahem a jakoukoli praktickou základni strunou.",
+      "assets": [],
+      "tags": [
+        "mri",
+        "larmor-frequency",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_008",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Spolužák riká, že vynechávaji ultrazvukovy gel, protože mléko voni lépe. Jaky biofyzikálni problém to vytvári?",
+      "answer": "Lotion stále zanechává vzduchové mezery a špatné akustické spojeni; bez gelu se vetšina ultrazvuku odráži na rozhrani kuže-vzduch a obraz degraduje.",
+      "assets": [],
+      "tags": [
+        "ultrasound",
+        "coupling-gel",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_009",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Proč kriči 'rezonance!' v apartmá MRI špatny nápad, i když to magnetu nevadi?",
+      "answer": "RF impulsy a prijimače jsou naladeny na Larmorovu rezonanci; akusticky hluk spolu nesouvisi, ale bezpečnostni pravidla a úzkost pacienta z nej v kontrolované klinické zóne stále delaji špatny nápad.",
+      "assets": [],
+      "tags": [
+        "mri",
+        "resonance",
+        "easter-egg"
+      ],
+      "version": 1
+    },
+    {
+      "id": "fn_010",
+      "category": "FN",
+      "difficulty": 0,
+      "type": "open",
+      "question": "Vedeni ECG a zemnici elektroda vedou do diferenciálniho zesilovače. Kdo nese srdečni signál?",
+      "answer": "Aktivni záznamové vodiče prenášeji srdečni signál; zemnici nebo referenčni elektroda stabilizuje napeti v bežném režimu, takže zesilovač muže merit maly potenciálovy rozdil od srdce.",
+      "assets": [],
+      "tags": [
+        "ecg",
+        "differential-amplifier",
+        "easter-egg"
+      ],
+      "version": 1
+    }
+  ]
+}

@@ -1,19 +1,19 @@
 ![Safety in the laboratory](images/regulations/Safety_in_the_laboratory.jpg)
 
-# Safety in the laboratory
+# Seguridad en el laboratorio
 
-The laboratory is a safe place to experiment if you are careful. You must assume responsibility for the safety of yourself and others. Here are some safety rules to help guide you in protecting yourself and others from injury in the lab.
+El laboratorio es un lugar seguro para experimentar si actúas con cuidado. Eres responsable de tu seguridad y de la de los demás. Estas normas te ayudan a protegerte a ti y a otros de lesiones en el laboratorio.
 
-1. You should enter the building of the Department of Medical Biophysics no earlier than 15 minutes before the start of the classes. On the premises of the Department of Medical Biophysics, protective masks or visors must be worn.
-2. After entering the building of the Department of Medical Biophysics, you should disinfect your hands.
-3. No outdoor shoes or sandals are allowed. Lab shoes or shoe covers and white lab coats are mandatory otherwise you will not be able to participate in the LAB!
-4. Coats, etc. must be left in the cloakroom. Students are not permitted to wear heavy outside coats or jackets to any laboratory.
-5. Do not perform experiments that are unauthorised. Always obtain your teacher's permission.
-6. Study your laboratory assignment before you come to the lab. If you are in doubt about any procedure ask your instructor for help.
-7. Know the location of the phone, fire extinguisher, fire blanket, first aid kit and emergency exit.
-8. Report any accident, injury or incorrect procedure to your teacher at once.
-9. Handle dangerous materials only under supervision of your teacher. If you spill acid or another corrosive substance, wash it off immediately with water.
-10. Keep combustible materials away from open flames.
-11. Never eat or drink anything in the lab.
-12. Place broken glass and solid substances in designated containers. Keep insoluble waste material out of the sink.
-13. When your laboratory work is completed, clean your work area. Return all materials and apparatus to their proper places.
+1. Puedes entrar al edificio del Departamento de Biofísica Médica como máximo 15 minutos antes del inicio de las clases. En las instalaciones del Departamento es obligatorio llevar mascarilla o pantalla facial.
+2. Tras entrar al edificio del Departamento de Biofísica Médica debes desinfectarte las manos.
+3. No se permite calzado de calle ni sandalias. Son obligatorios el calzado de laboratorio o cubrezapatos y la bata blanca; de lo contrario no podrás participar en el laboratorio.
+4. Abrigos y prendas de abrigo deben dejarse en el guardarropa. Los estudiantes no pueden llevar abrigos gruesos de exterior al laboratorio.
+5. No realices experimentos no autorizados. Pide siempre permiso al profesor.
+6. Estudia la ficha de laboratorio antes de venir. Si tienes dudas sobre algún procedimiento, pide ayuda al instructor.
+7. Conoce la ubicación del teléfono, extintor, manta ignífuga, botiquín y salida de emergencia.
+8. Informa de inmediato al profesor de cualquier accidente, lesión o procedimiento incorrecto.
+9. Manipula materiales peligrosos solo bajo supervisión del profesor. Si derramas ácido u otra sustancia corrosiva, enjuágate de inmediato con agua.
+10. Mantén los materiales combustibles alejados de llamas abiertas.
+11. Nunca comas ni bebas en el laboratorio.
+12. Deposita el vidrio roto y las sustancias sólidas en los contenedores designados. No viertas residuos insolubles al fregadero.
+13. Al terminar el trabajo de laboratorio, limpia tu zona de trabajo. Devuelve todos los materiales y aparatos a su lugar.

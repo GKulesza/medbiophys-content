@@ -1,4 +1,4 @@
-![About Us](images/about/AboutUS.jpg)
+![Pri ni](images/about/AboutUS.jpg)
 
 # Fakultato de Medicina Biofiziko
 ## Medicina Universitato en Białystok

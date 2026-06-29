@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "locale": "isv_glag",
+  "sections": [
+    {
+      "id": "optics",
+      "title": "Ⰾⰿⱂⰸⰺⰰ",
+      "exercises": [
+        {
+          "id": "optics_1_1",
+          "title": "1.1 Ⱀⰵⱄⱀⰰⰺⱂⰾⰼⰵⱂⱀ ⰸ ⰿⰾⰻⰰⱀⰸⰼⰵⱂⱀ"
+        },
+        {
+          "id": "optics_1_2",
+          "title": "1.2 Ⰻⰵⱇⰵ"
+        },
+        {
+          "id": "optics_1_4",
+          "title": "1.4 Ⱁⰿⰵⰺⱂⱀⰾⱄⰾⱂⰾⰼⰵⱂⱀⰸⰹⰰ"
+        },
+        {
+          "id": "optics_1_6",
+          "title": "1.6 Ⱃⰳⰰⱁⰰⱘⰵ ⰻⰰⱁⰵⱀⱁⰺⰾⰳⰾ ⱁⰲⱑⱂⰻⰰ"
+        }
+      ]
+    },
+    {
+      "id": "electromedicine",
+      "title": "Ⰵⰻⰵⰺⱂⱀⰾⰼⰵⰴⰸⱆⰸⰽⰰ",
+      "exercises": [
+        {
+          "id": "electromedicine_2_1",
+          "title": "2.1 Ⰾⱁⱆⰸⰻⰾⱁⰺⰾⰿ"
+        },
+        {
+          "id": "electromedicine_2_2",
+          "title": "2.2 Ⰱⰸⰾⱄⰸⰷⰸⰺⰰ ⰳⰻⰰⱁⰰ"
+        },
+        {
+          "id": "electromedicine_2_4",
+          "title": "2.4 Ⰵⰻⰵⰺⱂⱀⰾⰺⰰⱀⰴⰸⰾⰳⱀⰰⱄⰸⰹⰰ"
+        },
+        {
+          "id": "electromedicine_2_6",
+          "title": "2.6 Ⰴⰸⰽⰰⰼⰸⰺⰰ ⰺⱀⰲⰽⰾⰳⰾ ⰾⰱⱑⰳⰰ"
+        }
+      ]
+    },
+    {
+      "id": "radiation",
+      "title": "Ⱀⰰⰴⰸⰰⱆⰸⰹⰰ",
+      "exercises": [
+        {
+          "id": "radiation_3_1",
+          "title": "3.1 Ⱀⰰⰴⰸⰾⰰⰺⱂⰸⰲⰽⰾⱁⱂ ⰸ ⰴⰾⰷⰸⰼⰵⱂⱀⰸⰹⰰ"
+        },
+        {
+          "id": "radiation_3_2",
+          "title": "3.2 Ⰾⱁⰻⰰⰱⰹⰵⱘⰵ ⰳⰰⰼⰰ ⱀⰰⰴⰸⰰⱆⰸⰹⰵ"
+        },
+        {
+          "id": "radiation_3_3",
+          "title": "3.3 Ⰲⰷⰰⰸⰼⰾⰴⰵⰹⱁⱂⰲⰸⰹⰵ ⰽⰰⰵⰻⰵⰺⱂⱀⱑⰽⱑⱅ ⱇⰵⱁⱂⰸⱇ ⱁⱑⰺ ⱁ ⰼⰰⱂⰵⱀⰸⰹⰾⰹⱃ"
+        }
+      ]
+    }
+  ]
+}

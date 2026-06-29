@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "locale": "eo",
+  "sections": [
+    {
+      "id": "optics",
+      "title": "Optiko",
+      "exercises": [
+        {"id": "optics_1_1", "title": "1.1 Refraktometro kaj polarimetreo"},
+        {"id": "optics_1_2", "title": "1.2 Lensoj"},
+        {"id": "optics_1_4", "title": "1.4 Spektrofotometrio"},
+        {"id": "optics_1_6", "title": "1.6 Malaperado de lasera lumo"}
+      ]
+    },
+    {
+      "id": "electromedicine",
+      "title": "Elektromedicino",
+      "exercises": [
+        {"id": "electromedicine_2_1", "title": "2.1 Osciloskopo"},
+        {"id": "electromedicine_2_2", "title": "2.2 Voĉa biofiziko"},
+        {"id": "electromedicine_2_4", "title": "2.4 Elektrokardiografio"},
+        {"id": "electromedicine_2_6", "title": "2.6 Dinamiko de la sanga cirkulado"}
+      ]
+    },
+    {
+      "id": "radiation",
+      "title": "Radiado",
+      "exercises": [
+        {"id": "radiation_3_1", "title": "3.1 Radioaktiveco kaj dozimetrio"},
+        {"id": "radiation_3_2", "title": "3.2 Malfortiĝo de gama radiado"},
+        {"id": "radiation_3_3", "title": "3.3 Interago de ŝarĝitaj partikloj kun materio"}
+      ]
+    }
+  ]
+}

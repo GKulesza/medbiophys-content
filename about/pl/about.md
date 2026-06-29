@@ -1,4 +1,4 @@
-![About Us](images/about/AboutUS.jpg)
+![O nas](images/about/AboutUS.jpg)
 
 # Zakład Biofizyki Medycznej
 ## Uniwersytet Medyczny w Białymstoku

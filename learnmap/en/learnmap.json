@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "locale": "en",
+  "sections": [
+    {
+      "id": "optics",
+      "title": "Optics",
+      "exercises": [
+        {"id": "optics_1_1", "title": "1.1 Refractometer and Polarimeter"},
+        {"id": "optics_1_2", "title": "1.2 Lenses"},
+        {"id": "optics_1_4", "title": "1.4 Spectrophotometry"},
+        {"id": "optics_1_6", "title": "1.6 Laser Light Extinction"}
+      ]
+    },
+    {
+      "id": "electromedicine",
+      "title": "Electromedicine",
+      "exercises": [
+        {"id": "electromedicine_2_1", "title": "2.1 Oscilloscope"},
+        {"id": "electromedicine_2_2", "title": "2.2 Voice Biophysics"},
+        {"id": "electromedicine_2_4", "title": "2.4 Electrocardiography"},
+        {"id": "electromedicine_2_6", "title": "2.6 Blood Circulation Dynamics"}
+      ]
+    },
+    {
+      "id": "radiation",
+      "title": "Radiation",
+      "exercises": [
+        {"id": "radiation_3_1", "title": "3.1 Radioactivity and Dosimetry"},
+        {"id": "radiation_3_2", "title": "3.2 Gamma Radiation Attenuation"},
+        {"id": "radiation_3_3", "title": "3.3 Charged Particle Interaction with Matter"}
+      ]
+    }
+  ]
+}

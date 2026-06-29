@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "locale": "isv",
+  "sections": [
+    {
+      "id": "optics",
+      "title": "Optika",
+      "exercises": [
+        {"id": "optics_1_1", "title": "1.1 Refraktometr i polarimetr"},
+        {"id": "optics_1_2", "title": "1.2 Leče"},
+        {"id": "optics_1_4", "title": "1.4 Spektrofotometrija"},
+        {"id": "optics_1_6", "title": "1.6 Ugasanje laserskogo světla"}
+      ]
+    },
+    {
+      "id": "electromedicine",
+      "title": "Elektromedicina",
+      "exercises": [
+        {"id": "electromedicine_2_1", "title": "2.1 Osciloskop"},
+        {"id": "electromedicine_2_2", "title": "2.2 Biofizika glasa"},
+        {"id": "electromedicine_2_4", "title": "2.4 Elektrokardiografija"},
+        {"id": "electromedicine_2_6", "title": "2.6 Dinamika krvnogo oběga"}
+      ]
+    },
+    {
+      "id": "radiation",
+      "title": "Radiacija",
+      "exercises": [
+        {"id": "radiation_3_1", "title": "3.1 Radioaktivnost i dozimetrija"},
+        {"id": "radiation_3_2", "title": "3.2 Oslabjenje gama radiacije"},
+        {"id": "radiation_3_3", "title": "3.3 Vzaimodejstvije naelektrěnyh čestič sěk s materijoju"}
+      ]
+    }
+  ]
+}

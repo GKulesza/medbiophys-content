@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "locale": "isv_cyrl",
+  "sections": [
+    {
+      "id": "optics",
+      "title": "Оптика",
+      "exercises": [
+        {
+          "id": "optics_1_1",
+          "title": "1.1 Рефрактометр и полариметр"
+        },
+        {
+          "id": "optics_1_2",
+          "title": "1.2 Лече"
+        },
+        {
+          "id": "optics_1_4",
+          "title": "1.4 Спектрофотометрија"
+        },
+        {
+          "id": "optics_1_6",
+          "title": "1.6 Угасање ласерского свєтла"
+        }
+      ]
+    },
+    {
+      "id": "electromedicine",
+      "title": "Електромедицина",
+      "exercises": [
+        {
+          "id": "electromedicine_2_1",
+          "title": "2.1 Осцилоскоп"
+        },
+        {
+          "id": "electromedicine_2_2",
+          "title": "2.2 Биофизика гласа"
+        },
+        {
+          "id": "electromedicine_2_4",
+          "title": "2.4 Електрокардиографија"
+        },
+        {
+          "id": "electromedicine_2_6",
+          "title": "2.6 Динамика крвного обєга"
+        }
+      ]
+    },
+    {
+      "id": "radiation",
+      "title": "Радиација",
+      "exercises": [
+        {
+          "id": "radiation_3_1",
+          "title": "3.1 Радиоактивност и дозиметрија"
+        },
+        {
+          "id": "radiation_3_2",
+          "title": "3.2 Ослабјење гама радиације"
+        },
+        {
+          "id": "radiation_3_3",
+          "title": "3.3 Взаимодејствије наелектрєных честич сєк с материјоју"
+        }
+      ]
+    }
+  ]
+}

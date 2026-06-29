@@ -1,4 +1,4 @@
-![About Us](images/about/AboutUS.jpg)
+![Ⰾ ⰽⰰⱁ](images/about/AboutUS.jpg)
 
 # Ⰺⰰⱂⰵⰴⱀⰰ Ⰼⰵⰴⰸⱆⰸⰽⱁⰺⰵ Ⰱⰸⰾⱄⰸⰷⰸⰺⰸ
 ## Ⰼⰵⰴⰸⱆⰸⰽⱁⰺⱑ Ⱃⰽⰸⰲⰵⱀⱁⰸⱂⰵⱂ ⰲ Ⰱⰸⰰłⱑⱁⱂⰾⰺⱃ

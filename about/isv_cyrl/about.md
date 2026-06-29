@@ -1,4 +1,4 @@
-![About Us](images/about/AboutUS.jpg)
+![О нас](images/about/AboutUS.jpg)
 
 # Катедра Медицинске Биофизики
 ## Медицинскы Университет в Биаłыстоку

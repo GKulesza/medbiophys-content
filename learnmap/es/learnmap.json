@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "locale": "es",
+  "sections": [
+    {
+      "id": "optics",
+      "title": "Óptica",
+      "exercises": [
+        {"id": "optics_1_1", "title": "1.1 Refractómetro y polarímetro"},
+        {"id": "optics_1_2", "title": "1.2 Lentes"},
+        {"id": "optics_1_4", "title": "1.4 Espectrofotometría"},
+        {"id": "optics_1_6", "title": "1.6 Extinción de luz láser"}
+      ]
+    },
+    {
+      "id": "electromedicine",
+      "title": "Electromedicina",
+      "exercises": [
+        {"id": "electromedicine_2_1", "title": "2.1 Osciloscopio"},
+        {"id": "electromedicine_2_2", "title": "2.2 Biofísica de la voz"},
+        {"id": "electromedicine_2_4", "title": "2.4 Electrocardiografía"},
+        {"id": "electromedicine_2_6", "title": "2.6 Dinámica de la circulación sanguínea"}
+      ]
+    },
+    {
+      "id": "radiation",
+      "title": "Radiación",
+      "exercises": [
+        {"id": "radiation_3_1", "title": "3.1 Radioactividad y dosimetría"},
+        {"id": "radiation_3_2", "title": "3.2 Atenuación de radiación gamma"},
+        {"id": "radiation_3_3", "title": "3.3 Interacción de partículas cargadas con la materia"}
+      ]
+    }
+  ]
+}
